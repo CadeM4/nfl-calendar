@@ -1,0 +1,400 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NFL Calendar//Independent schedule subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:2026 NFL regular season and postseason. Eastern Time; automat
+ ically updated.
+NAME:Dallas Cowboys · 2026
+X-WR-CALNAME:Dallas Cowboys · 2026
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Dallas Cowboys @ New York Giants
+DTSTART:20260914T002000Z
+DTEND:20260914T033500Z
+DTSTAMP:20260927T005047Z
+UID:4ec4256bcdc1b9a223caac351ec4e1b2@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 1
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 1\n\nDallas Cowboys @ New York Giants\n\nKick
+ off: Sunday\, September 13\, 2026 at 8:20 PM EDT (America/New_York)\nEstim
+ ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo\nStre
+ aming: NFL+\, Peacock\nNFL+: local and primetime live game streams require
+  a phone or tablet\; market and device restrictions apply.\nStreaming list
+ ings are for the US\; eligible subscriptions and geographic restrictions a
+ pply.\nUS national broadcast.\n\nVenue\nMetLife Stadium\nEast Rutherford\n
+ \nSchedule source: https://www.nfl.com/games/cowboys-at-giants-2026-reg-1
+LAST-MODIFIED:20260927T005047Z
+LOCATION:MetLife Stadium\nEast Rutherford
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cowboys-at-giants-2026-reg-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington Commanders @ Dallas Cowboys
+DTSTART:20260920T202500Z
+DTEND:20260920T234000Z
+DTSTAMP:20260927T005047Z
+UID:f4bd438cb9845e0d553f43ddf535d7d5@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 2
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 2\n\nWashington Commanders @ Dallas Cowboys\n
+ \nKickoff: Sunday\, September 20\, 2026 at 4:25 PM EDT (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreamin
+ g: FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions app
+ ly.\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; 
+ local and national blackouts apply.\nNFL+: local and primetime live game s
+ treams require a phone or tablet\; market and device restrictions apply.\n
+ Regional broadcast\; local market coverage varies.\nStreaming listings are
+  for the US\; eligible subscriptions and geographic restrictions apply.\n
+ \nVenue\nAT&T Stadium\nArlington\n\nSchedule source: https://www.nfl.com/g
+ ames/commanders-at-cowboys-2026-reg-2
+LAST-MODIFIED:20260927T005047Z
+LOCATION:AT&T Stadium\nArlington
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/commanders-at-cowboys-2026-reg-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baltimore Ravens @ Dallas Cowboys
+DTSTART:20260927T202500Z
+DTEND:20260927T234000Z
+DTSTAMP:20260927T005047Z
+UID:edada6b351de5cb7ee0a8ad4a6676ec8@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 3
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 3\n\nBaltimore Ravens @ Dallas Cowboys\n\nKic
+ koff: Sunday\, September 27\, 2026 at 4:25 PM EDT (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL
+ +\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon
+  viewing\; local and national blackouts apply.\nNFL+: local and primetime 
+ live game streams require a phone or tablet\; market and device restrictio
+ ns apply.\nParamount+: this game must be carried by your local CBS station
+ .\nRegional broadcast\; local market coverage varies.\nStreaming listings 
+ are for the US\; eligible subscriptions and geographic restrictions apply.
+ \n\nVenue\nMaracana Stadium\nRio de Janeiro\, Brazil\n\nSchedule source: h
+ ttps://www.nfl.com/games/ravens-at-cowboys-2026-reg-3
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Maracana Stadium\nRio de Janeiro\, Brazil
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/ravens-at-cowboys-2026-reg-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dallas Cowboys @ Houston Texans
+DTSTART:20261004T170000Z
+DTEND:20261004T201500Z
+DTSTAMP:20260927T005047Z
+UID:9c0f7cb367a32a25583e0cb9b3e256cf@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 4
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 4\n\nDallas Cowboys @ Houston Texans\n\nKicko
+ ff: Sunday\, October 4\, 2026 at 1:00 PM EDT (America/New_York)\nEstimated
+  game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX One
+ \, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nNFL S
+ unday Ticket: eligible out-of-market Sunday afternoon viewing\; local and 
+ national blackouts apply.\nNFL+: local and primetime live game streams req
+ uire a phone or tablet\; market and device restrictions apply.\nRegional b
+ roadcast\; local market coverage varies.\nStreaming listings are for the U
+ S\; eligible subscriptions and geographic restrictions apply.\n\nVenue\nRe
+ liant Stadium\nHouston\n\nSchedule source: https://www.nfl.com/games/cowbo
+ ys-at-texans-2026-reg-4
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Reliant Stadium\nHouston
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cowboys-at-texans-2026-reg-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tampa Bay Buccaneers @ Dallas Cowboys
+DTSTART:20261009T001500Z
+DTEND:20261009T033000Z
+DTSTAMP:20260927T005047Z
+UID:f52f9175caafe5ab52168feae0fee960@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 5
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 5\n\nTampa Bay Buccaneers @ Dallas Cowboys\n
+ \nKickoff: Thursday\, October 8\, 2026 at 8:15 PM EDT (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL+\, P
+ rime Video\nNFL+: local and primetime live game streams require a phone or
+  tablet\; market and device restrictions apply.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\nUS n
+ ational broadcast.\n\nVenue\nAT&T Stadium\nArlington\n\nSchedule source: h
+ ttps://www.nfl.com/games/buccaneers-at-cowboys-2026-reg-5
+LAST-MODIFIED:20260927T005047Z
+LOCATION:AT&T Stadium\nArlington
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/buccaneers-at-cowboys-2026-reg-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dallas Cowboys @ Green Bay Packers
+DTSTART:20261019T002000Z
+DTEND:20261019T033500Z
+DTSTAMP:20260927T005047Z
+UID:10fefda2ecff2be7c98c0f4333816c82@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 6
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 6\n\nDallas Cowboys @ Green Bay Packers\n\nKi
+ ckoff: Sunday\, October 18\, 2026 at 8:20 PM EDT (America/New_York)\nEstim
+ ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo\nStre
+ aming: NFL+\, Peacock\nNFL+: local and primetime live game streams require
+  a phone or tablet\; market and device restrictions apply.\nStreaming list
+ ings are for the US\; eligible subscriptions and geographic restrictions a
+ pply.\nUS national broadcast.\n\nVenue\nLambeau Field\nGreen Bay\n\nSchedu
+ le source: https://www.nfl.com/games/cowboys-at-packers-2026-reg-6
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lambeau Field\nGreen Bay
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cowboys-at-packers-2026-reg-6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dallas Cowboys @ Philadelphia Eagles
+DTSTART:20261027T001500Z
+DTEND:20261027T033000Z
+DTSTAMP:20260927T005047Z
+UID:d64bd2ab7a2894d0bd71694c499a62e3@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 7
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 7\n\nDallas Cowboys @ Philadelphia Eagles\n\n
+ Kickoff: Monday\, October 26\, 2026 at 8:15 PM EDT (America/New_York)\nEst
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN 
+ Deportes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primet
+ ime live game streams require a phone or tablet\; market and device restri
+ ctions apply.\nStreaming listings are for the US\; eligible subscriptions 
+ and geographic restrictions apply.\nUS national broadcast.\n\nVenue\nLinco
+ ln Financial Field\nPhiladelphia\n\nSchedule source: https://www.nfl.com/g
+ ames/cowboys-at-eagles-2026-reg-7
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lincoln Financial Field\nPhiladelphia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cowboys-at-eagles-2026-reg-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arizona Cardinals @ Dallas Cowboys
+DTSTART:20261101T180000Z
+DTEND:20261101T211500Z
+DTSTAMP:20260927T005047Z
+UID:083c0faebb2b9f80fb2d39748901afee@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 8
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 8\n\nArizona Cardinals @ Dallas Cowboys\n\nKi
+ ckoff: Sunday\, November 1\, 2026 at 1:00 PM EST (America/New_York)\nEstim
+ ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadc
+ ast\; local market coverage varies.\n\nVenue\nAT&T Stadium\nArlington\n\nS
+ chedule source: https://www.nfl.com/games/cardinals-at-cowboys-2026-reg-8
+LAST-MODIFIED:20260927T005047Z
+LOCATION:AT&T Stadium\nArlington
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cardinals-at-cowboys-2026-reg-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dallas Cowboys @ Indianapolis Colts
+DTSTART:20261108T180000Z
+DTEND:20261108T211500Z
+DTSTAMP:20260927T005047Z
+UID:f45e2c43979bde983732e8651e24cd20@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 9
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 9\n\nDallas Cowboys @ Indianapolis Colts\n\nK
+ ickoff: Sunday\, November 8\, 2026 at 1:00 PM EST (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broad
+ cast\; local market coverage varies.\n\nVenue\nLucas Oil Stadium\nIndianap
+ olis\n\nSchedule source: https://www.nfl.com/games/cowboys-at-colts-2026-r
+ eg-9
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lucas Oil Stadium\nIndianapolis
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cowboys-at-colts-2026-reg-9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Francisco 49ers @ Dallas Cowboys
+DTSTART:20261115T212500Z
+DTEND:20261116T004000Z
+DTSTAMP:20260927T005047Z
+UID:2c816cce3fec91a725a2a304bf4d3eae@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 10
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 10\n\nSan Francisco 49ers @ Dallas Cowboys\n
+ \nKickoff: Sunday\, November 15\, 2026 at 4:25 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional b
+ roadcast\; local market coverage varies.\n\nVenue\nAT&T Stadium\nArlington
+ \n\nSchedule source: https://www.nfl.com/games/49ers-at-cowboys-2026-reg-1
+ 0
+LAST-MODIFIED:20260927T005047Z
+LOCATION:AT&T Stadium\nArlington
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/49ers-at-cowboys-2026-reg-10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee Titans @ Dallas Cowboys
+DTSTART:20261122T180000Z
+DTEND:20261122T211500Z
+DTSTAMP:20260927T005047Z
+UID:9cb28c02088243edefa2d48b3092e542@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 11
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 11\n\nTennessee Titans @ Dallas Cowboys\n\nKi
+ ckoff: Sunday\, November 22\, 2026 at 1:00 PM EST (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broad
+ cast\; local market coverage varies.\n\nVenue\nAT&T Stadium\nArlington\n\n
+ Schedule source: https://www.nfl.com/games/titans-at-cowboys-2026-reg-11
+LAST-MODIFIED:20260927T005047Z
+LOCATION:AT&T Stadium\nArlington
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/titans-at-cowboys-2026-reg-11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Eagles @ Dallas Cowboys
+DTSTART:20261126T213000Z
+DTEND:20261127T004500Z
+DTSTAMP:20260927T005047Z
+UID:413b5d094b34028443a59c7293680402@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 12
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 12\n\nPhiladelphia Eagles @ Dallas Cowboys\n
+ \nKickoff: Thursday\, November 26\, 2026 at 4:30 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\, FOX Dep
+ ortes\nStreaming: FOX One\, NFL+\nFOX One: local FOX coverage and market r
+ estrictions apply.\nNFL Sunday Ticket: eligible out-of-market Sunday after
+ noon viewing\; local and national blackouts apply.\nNFL+: local and primet
+ ime live game streams require a phone or tablet\; market and device restri
+ ctions apply.\nStreaming listings are for the US\; eligible subscriptions 
+ and geographic restrictions apply.\nUS national broadcast.\n\nVenue\nAT&T 
+ Stadium\nArlington\n\nSchedule source: https://www.nfl.com/games/eagles-at
+ -cowboys-2026-reg-12
+LAST-MODIFIED:20260927T005047Z
+LOCATION:AT&T Stadium\nArlington
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/eagles-at-cowboys-2026-reg-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dallas Cowboys @ Seattle Seahawks
+DTSTART:20261208T011500Z
+DTEND:20261208T043000Z
+DTSTAMP:20260927T005047Z
+UID:5f9fe6a97e9f0984b6834f3b4f24e955@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 13
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 13\n\nDallas Cowboys @ Seattle Seahawks\n\nKi
+ ckoff: Monday\, December 7\, 2026 at 8:15 PM EST (America/New_York)\nEstim
+ ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN De
+ portes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetim
+ e live game streams require a phone or tablet\; market and device restrict
+ ions apply.\nStreaming listings are for the US\; eligible subscriptions an
+ d geographic restrictions apply.\nUS national broadcast.\n\nVenue\nLumen F
+ ield\nSeattle\n\nSchedule source: https://www.nfl.com/games/cowboys-at-sea
+ hawks-2026-reg-13
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lumen Field\nSeattle
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cowboys-at-seahawks-2026-reg-13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dallas Cowboys @ Los Angeles Rams
+DTSTART:20261220T212500Z
+DTEND:20261221T004000Z
+DTSTAMP:20260927T005047Z
+UID:b5f9b2c499af7917b3ec43045600e09e@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 15
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 15\n\nDallas Cowboys @ Los Angeles Rams\n\nKi
+ ckoff: Sunday\, December 20\, 2026 at 4:25 PM EST (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broad
+ cast\; local market coverage varies.\n\nVenue\nSoFi Stadium\nInglewood\n\n
+ Schedule source: https://www.nfl.com/games/cowboys-at-rams-2026-reg-15
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cowboys-at-rams-2026-reg-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jacksonville Jaguars @ Dallas Cowboys
+DTSTART:20261228T012000Z
+DTEND:20261228T043500Z
+DTSTAMP:20260927T005047Z
+UID:3adabc7185c011fdef2ae47cebbcf712@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 16
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 16\n\nJacksonville Jaguars @ Dallas Cowboys\n
+ \nKickoff: Sunday\, December 27\, 2026 at 8:20 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo
+ \nStreaming: NFL+\, Peacock\nNFL+: local and primetime live game streams r
+ equire a phone or tablet\; market and device restrictions apply.\nStreamin
+ g listings are for the US\; eligible subscriptions and geographic restrict
+ ions apply.\nUS national broadcast.\n\nVenue\nAT&T Stadium\nArlington\n\nS
+ chedule source: https://www.nfl.com/games/jaguars-at-cowboys-2026-reg-16
+LAST-MODIFIED:20260927T005047Z
+LOCATION:AT&T Stadium\nArlington
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/jaguars-at-cowboys-2026-reg-16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Giants @ Dallas Cowboys
+DTSTART:20270103T180000Z
+DTEND:20270103T211500Z
+DTSTAMP:20260927T005047Z
+UID:a27d3cb39279da72699d7ec1f71f820d@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 17
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 17\n\nNew York Giants @ Dallas Cowboys\n\nKic
+ koff: Sunday\, January 3\, 2027 at 1:00 PM EST (America/New_York)\nEstimat
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadcas
+ t\; local market coverage varies.\n\nVenue\nAT&T Stadium\nArlington\n\nSch
+ edule source: https://www.nfl.com/games/giants-at-cowboys-2026-reg-17
+LAST-MODIFIED:20260927T005047Z
+LOCATION:AT&T Stadium\nArlington
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/giants-at-cowboys-2026-reg-17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] Dallas Cowboys @ Washington Commanders
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+DTSTAMP:20260927T005047Z
+UID:8bdb8b754f9bfeaa941b5b9f797de314@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 18
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 18\n\nDallas Cowboys @ Washington Commanders
+ \n\nDate and kickoff: TBD.\nWeek placeholder: Wednesday\, January 6\, 2027
+ . This is not a confirmed game date.\nThe event will move to its confirmed
+  date and kickoff when announced.\n\nWatch\nBroadcast information: TBD.\n
+ \nVenue\nNorthwest Stadium\nLandover\n\nSchedule source: https://www.nfl.c
+ om/games/cowboys-at-commanders-2026-reg-18
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Northwest Stadium\nLandover
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cowboys-at-commanders-2026-reg-18
+END:VEVENT
+END:VCALENDAR

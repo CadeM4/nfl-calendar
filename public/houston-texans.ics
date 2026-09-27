@@ -1,0 +1,400 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NFL Calendar//Independent schedule subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:2026 NFL regular season and postseason. Eastern Time; automat
+ ically updated.
+NAME:Houston Texans · 2026
+X-WR-CALNAME:Houston Texans · 2026
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Buffalo Bills @ Houston Texans
+DTSTART:20260913T170000Z
+DTEND:20260913T201500Z
+DTSTAMP:20260927T005047Z
+UID:ef6fbc925fca797f4e74874df77b1733@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 1
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 1\n\nBuffalo Bills @ Houston Texans\n\nKickof
+ f: Sunday\, September 13\, 2026 at 1:00 PM EDT (America/New_York)\nEstimat
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL+\,
+  Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon vi
+ ewing\; local and national blackouts apply.\nNFL+: local and primetime liv
+ e game streams require a phone or tablet\; market and device restrictions 
+ apply.\nParamount+: this game must be carried by your local CBS station.\n
+ Regional broadcast\; local market coverage varies.\nStreaming listings are
+  for the US\; eligible subscriptions and geographic restrictions apply.\n
+ \nVenue\nReliant Stadium\nHouston\n\nSchedule source: https://www.nfl.com/
+ games/bills-at-texans-2026-reg-1
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Reliant Stadium\nHouston
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bills-at-texans-2026-reg-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cincinnati Bengals @ Houston Texans
+DTSTART:20260920T170000Z
+DTEND:20260920T201500Z
+DTSTAMP:20260927T005047Z
+UID:e82994d175b2fa932277ebf14ad5e48f@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 2
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 2\n\nCincinnati Bengals @ Houston Texans\n\nK
+ ickoff: Sunday\, September 20\, 2026 at 1:00 PM EDT (America/New_York)\nEs
+ timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: N
+ FL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afterno
+ on viewing\; local and national blackouts apply.\nNFL+: local and primetim
+ e live game streams require a phone or tablet\; market and device restrict
+ ions apply.\nParamount+: this game must be carried by your local CBS stati
+ on.\nRegional broadcast\; local market coverage varies.\nStreaming listing
+ s are for the US\; eligible subscriptions and geographic restrictions appl
+ y.\n\nVenue\nReliant Stadium\nHouston\n\nSchedule source: https://www.nfl.
+ com/games/bengals-at-texans-2026-reg-2
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Reliant Stadium\nHouston
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bengals-at-texans-2026-reg-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Texans @ Indianapolis Colts
+DTSTART:20260927T170000Z
+DTEND:20260927T201500Z
+DTSTAMP:20260927T005047Z
+UID:a114f2f5258d1ef5d7de43fb7dc5ca03@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 3
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 3\n\nHouston Texans @ Indianapolis Colts\n\nK
+ ickoff: Sunday\, September 27\, 2026 at 1:00 PM EDT (America/New_York)\nEs
+ timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: N
+ FL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afterno
+ on viewing\; local and national blackouts apply.\nNFL+: local and primetim
+ e live game streams require a phone or tablet\; market and device restrict
+ ions apply.\nParamount+: this game must be carried by your local CBS stati
+ on.\nRegional broadcast\; local market coverage varies.\nStreaming listing
+ s are for the US\; eligible subscriptions and geographic restrictions appl
+ y.\n\nVenue\nLucas Oil Stadium\nIndianapolis\n\nSchedule source: https://w
+ ww.nfl.com/games/texans-at-colts-2026-reg-3
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lucas Oil Stadium\nIndianapolis
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/texans-at-colts-2026-reg-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dallas Cowboys @ Houston Texans
+DTSTART:20261004T170000Z
+DTEND:20261004T201500Z
+DTSTAMP:20260927T005047Z
+UID:9c0f7cb367a32a25583e0cb9b3e256cf@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 4
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 4\n\nDallas Cowboys @ Houston Texans\n\nKicko
+ ff: Sunday\, October 4\, 2026 at 1:00 PM EDT (America/New_York)\nEstimated
+  game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX One
+ \, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nNFL S
+ unday Ticket: eligible out-of-market Sunday afternoon viewing\; local and 
+ national blackouts apply.\nNFL+: local and primetime live game streams req
+ uire a phone or tablet\; market and device restrictions apply.\nRegional b
+ roadcast\; local market coverage varies.\nStreaming listings are for the U
+ S\; eligible subscriptions and geographic restrictions apply.\n\nVenue\nRe
+ liant Stadium\nHouston\n\nSchedule source: https://www.nfl.com/games/cowbo
+ ys-at-texans-2026-reg-4
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Reliant Stadium\nHouston
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cowboys-at-texans-2026-reg-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Texans @ Tennessee Titans
+DTSTART:20261011T170000Z
+DTEND:20261011T201500Z
+DTSTAMP:20260927T005047Z
+UID:bae3c6bec8242a67a47399ea21ec0d51@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 5
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 5\n\nHouston Texans @ Tennessee Titans\n\nKic
+ koff: Sunday\, October 11\, 2026 at 1:00 PM EDT (America/New_York)\nEstima
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadca
+ st\; local market coverage varies.\n\nVenue\nNissan Stadium\nNashville\n\n
+ Schedule source: https://www.nfl.com/games/texans-at-titans-2026-reg-5
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Nissan Stadium\nNashville
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/texans-at-titans-2026-reg-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Texans @ Jacksonville Jaguars
+DTSTART:20261018T133000Z
+DTEND:20261018T164500Z
+DTSTAMP:20260927T005047Z
+UID:cd43ec8e1817eacbd1fd035e7f22cf34@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 6
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 6\n\nHouston Texans @ Jacksonville Jaguars\n
+ \nKickoff: Sunday\, October 18\, 2026 at 9:30 AM EDT (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NFL Network\nStr
+ eaming: ESPN Unlimited\, NFL+\nNFL+: local and primetime live game streams
+  require a phone or tablet\; market and device restrictions apply.\nStream
+ ing listings are for the US\; eligible subscriptions and geographic restri
+ ctions apply.\nUS national broadcast.\n\nVenue\nWembley Stadium\nLondon\, 
+ England\n\nSchedule source: https://www.nfl.com/games/texans-at-jaguars-20
+ 26-reg-6
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Wembley Stadium\nLondon\, England
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/texans-at-jaguars-2026-reg-6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Giants @ Houston Texans
+DTSTART:20261025T170000Z
+DTEND:20261025T201500Z
+DTSTAMP:20260927T005047Z
+UID:e5db3a0abb727f41d30086fdd24b89e0@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 7
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 7\n\nNew York Giants @ Houston Texans\n\nKick
+ off: Sunday\, October 25\, 2026 at 1:00 PM EDT (America/New_York)\nEstimat
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadcas
+ t\; local market coverage varies.\n\nVenue\nReliant Stadium\nHouston\n\nSc
+ hedule source: https://www.nfl.com/games/giants-at-texans-2026-reg-7
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Reliant Stadium\nHouston
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/giants-at-texans-2026-reg-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Texans @ Los Angeles Chargers
+DTSTART:20261108T210500Z
+DTEND:20261109T002000Z
+DTSTAMP:20260927T005047Z
+UID:9d87815712cae3047564645aadd32be8@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 9
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 9\n\nHouston Texans @ Los Angeles Chargers\n
+ \nKickoff: Sunday\, November 8\, 2026 at 4:05 PM EST (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional br
+ oadcast\; local market coverage varies.\n\nVenue\nSoFi Stadium\nInglewood
+ \n\nSchedule source: https://www.nfl.com/games/texans-at-chargers-2026-reg
+ -9
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/texans-at-chargers-2026-reg-9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Texans @ Cleveland Browns
+DTSTART:20261115T180000Z
+DTEND:20261115T211500Z
+DTSTAMP:20260927T005047Z
+UID:b301aee58ac5db7cf078dccd607b511d@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 10
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 10\n\nHouston Texans @ Cleveland Browns\n\nKi
+ ckoff: Sunday\, November 15\, 2026 at 1:00 PM EST (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broad
+ cast\; local market coverage varies.\n\nVenue\nHuntington Bank Field\nClev
+ eland\n\nSchedule source: https://www.nfl.com/games/texans-at-browns-2026-
+ reg-10
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Huntington Bank Field\nCleveland
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/texans-at-browns-2026-reg-10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indianapolis Colts @ Houston Texans
+DTSTART:20261120T011500Z
+DTEND:20261120T043000Z
+DTSTAMP:20260927T005047Z
+UID:b087101ffc3e483625e80510b220258f@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 11
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 11\n\nIndianapolis Colts @ Houston Texans\n\n
+ Kickoff: Thursday\, November 19\, 2026 at 8:15 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL+\, P
+ rime Video\nNFL+: local and primetime live game streams require a phone or
+  tablet\; market and device restrictions apply.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\nUS n
+ ational broadcast.\n\nVenue\nReliant Stadium\nHouston\n\nSchedule source: 
+ https://www.nfl.com/games/colts-at-texans-2026-reg-11
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Reliant Stadium\nHouston
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/colts-at-texans-2026-reg-11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baltimore Ravens @ Houston Texans
+DTSTART:20261129T180000Z
+DTEND:20261129T211500Z
+DTSTAMP:20260927T005047Z
+UID:f374d85e2deff2713b6f88c3b82c5bbc@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 12
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 12\n\nBaltimore Ravens @ Houston Texans\n\nKi
+ ckoff: Sunday\, November 29\, 2026 at 1:00 PM EST (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broad
+ cast\; local market coverage varies.\n\nVenue\nReliant Stadium\nHouston\n
+ \nSchedule source: https://www.nfl.com/games/ravens-at-texans-2026-reg-12
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Reliant Stadium\nHouston
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/ravens-at-texans-2026-reg-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Texans @ Pittsburgh Steelers
+DTSTART:20261207T012000Z
+DTEND:20261207T043500Z
+DTSTAMP:20260927T005047Z
+UID:c567ff618be109658f1dbbd5a5ce37a0@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 13
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 13\n\nHouston Texans @ Pittsburgh Steelers\n
+ \nKickoff: Sunday\, December 6\, 2026 at 8:20 PM EST (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo\n
+ Streaming: NFL+\, Peacock\nNFL+: local and primetime live game streams req
+ uire a phone or tablet\; market and device restrictions apply.\nStreaming 
+ listings are for the US\; eligible subscriptions and geographic restrictio
+ ns apply.\nUS national broadcast.\n\nVenue\nAcrisure Stadium\nPittsburgh\n
+ \nSchedule source: https://www.nfl.com/games/texans-at-steelers-2026-reg-1
+ 3
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Acrisure Stadium\nPittsburgh
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/texans-at-steelers-2026-reg-13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Texans @ Washington Commanders
+DTSTART:20261213T180000Z
+DTEND:20261213T211500Z
+DTSTAMP:20260927T005047Z
+UID:6d46e1e18067a17775e02c5d8adf6119@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 14
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 14\n\nHouston Texans @ Washington Commanders
+ \n\nKickoff: Sunday\, December 13\, 2026 at 1:00 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nNorthwest Stadium\nLa
+ ndover\n\nSchedule source: https://www.nfl.com/games/texans-at-commanders-
+ 2026-reg-14
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Northwest Stadium\nLandover
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/texans-at-commanders-2026-reg-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jacksonville Jaguars @ Houston Texans
+DTSTART:20261220T180000Z
+DTEND:20261220T211500Z
+DTSTAMP:20260927T005047Z
+UID:edef24b214541f3d8b00fa95ce914950@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 15
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 15\n\nJacksonville Jaguars @ Houston Texans\n
+ \nKickoff: Sunday\, December 20\, 2026 at 1:00 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional b
+ roadcast\; local market coverage varies.\n\nVenue\nReliant Stadium\nHousto
+ n\n\nSchedule source: https://www.nfl.com/games/jaguars-at-texans-2026-reg
+ -15
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Reliant Stadium\nHouston
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/jaguars-at-texans-2026-reg-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Texans @ Philadelphia Eagles
+DTSTART:20261225T011500Z
+DTEND:20261225T043000Z
+DTSTAMP:20260927T005047Z
+UID:ca0f6f82bdf8c282dd67805bce571799@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 16
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 16\n\nHouston Texans @ Philadelphia Eagles\n
+ \nKickoff: Thursday\, December 24\, 2026 at 8:15 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL+\,
+  Prime Video\nNFL+: local and primetime live game streams require a phone 
+ or tablet\; market and device restrictions apply.\nStreaming listings are 
+ for the US\; eligible subscriptions and geographic restrictions apply.\nUS
+  national broadcast.\n\nVenue\nLincoln Financial Field\nPhiladelphia\n\nSc
+ hedule source: https://www.nfl.com/games/texans-at-eagles-2026-reg-16
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lincoln Financial Field\nPhiladelphia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/texans-at-eagles-2026-reg-16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Texans @ Green Bay Packers
+DTSTART:20270105T011500Z
+DTEND:20270105T043000Z
+DTSTAMP:20260927T005047Z
+UID:059c2193ebc39323148774fbddf7224b@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 17
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 17\n\nHouston Texans @ Green Bay Packers\n\nK
+ ickoff: Monday\, January 4\, 2027 at 8:15 PM EST (America/New_York)\nEstim
+ ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN De
+ portes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetim
+ e live game streams require a phone or tablet\; market and device restrict
+ ions apply.\nStreaming listings are for the US\; eligible subscriptions an
+ d geographic restrictions apply.\nUS national broadcast.\n\nVenue\nLambeau
+  Field\nGreen Bay\n\nSchedule source: https://www.nfl.com/games/texans-at-
+ packers-2026-reg-17
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lambeau Field\nGreen Bay
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/texans-at-packers-2026-reg-17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] Tennessee Titans @ Houston Texans
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+DTSTAMP:20260927T005047Z
+UID:a07c1dd198f335f2acd7eace39c63a22@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 18
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 18\n\nTennessee Titans @ Houston Texans\n\nDa
+ te and kickoff: TBD.\nWeek placeholder: Wednesday\, January 6\, 2027. This
+  is not a confirmed game date.\nThe event will move to its confirmed date 
+ and kickoff when announced.\n\nWatch\nBroadcast information: TBD.\n\nVenue
+ \nReliant Stadium\nHouston\n\nSchedule source: https://www.nfl.com/games/t
+ itans-at-texans-2026-reg-18
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Reliant Stadium\nHouston
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/titans-at-texans-2026-reg-18
+END:VEVENT
+END:VCALENDAR

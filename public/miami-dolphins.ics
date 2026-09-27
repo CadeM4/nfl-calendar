@@ -1,0 +1,386 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NFL Calendar//Independent schedule subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:2026 NFL regular season and postseason. Eastern Time; automat
+ ically updated.
+NAME:Miami Dolphins · 2026
+X-WR-CALNAME:Miami Dolphins · 2026
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Miami Dolphins @ Las Vegas Raiders
+DTSTART:20260913T202500Z
+DTEND:20260913T234000Z
+DTSTAMP:20260927T005047Z
+UID:9a3cfbfdd29f523889c3ac0e0d36deb9@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 1
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 1\n\nMiami Dolphins @ Las Vegas Raiders\n\nKi
+ ckoff: Sunday\, September 13\, 2026 at 4:25 PM EDT (America/New_York)\nEst
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FO
+ X One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\n
+ NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local
+  and national blackouts apply.\nNFL+: local and primetime live game stream
+ s require a phone or tablet\; market and device restrictions apply.\nRegio
+ nal broadcast\; local market coverage varies.\nStreaming listings are for 
+ the US\; eligible subscriptions and geographic restrictions apply.\n\nVenu
+ e\nAllegiant Stadium\nParadise\n\nSchedule source: https://www.nfl.com/gam
+ es/dolphins-at-raiders-2026-reg-1
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Allegiant Stadium\nParadise
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/dolphins-at-raiders-2026-reg-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miami Dolphins @ San Francisco 49ers
+DTSTART:20260920T202500Z
+DTEND:20260920T234000Z
+DTSTAMP:20260927T005047Z
+UID:a0547dd6cdb61fa5be1465dfa47ef04a@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 2
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 2\n\nMiami Dolphins @ San Francisco 49ers\n\n
+ Kickoff: Sunday\, September 20\, 2026 at 4:25 PM EDT (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: 
+ FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.
+ \nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; loc
+ al and national blackouts apply.\nNFL+: local and primetime live game stre
+ ams require a phone or tablet\; market and device restrictions apply.\nReg
+ ional broadcast\; local market coverage varies.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
+ nue\nLevi's® Stadium\nSanta Clara\n\nSchedule source: https://www.nfl.com
+ /games/dolphins-at-49ers-2026-reg-2
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Levi's® Stadium\nSanta Clara
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/dolphins-at-49ers-2026-reg-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City Chiefs @ Miami Dolphins
+DTSTART:20260927T170000Z
+DTEND:20260927T201500Z
+DTSTAMP:20260927T005047Z
+UID:fb369409a2f11cd02824c1c609127e86@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 3
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 3\n\nKansas City Chiefs @ Miami Dolphins\n\nK
+ ickoff: Sunday\, September 27\, 2026 at 1:00 PM EDT (America/New_York)\nEs
+ timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: N
+ FL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afterno
+ on viewing\; local and national blackouts apply.\nNFL+: local and primetim
+ e live game streams require a phone or tablet\; market and device restrict
+ ions apply.\nParamount+: this game must be carried by your local CBS stati
+ on.\nRegional broadcast\; local market coverage varies.\nStreaming listing
+ s are for the US\; eligible subscriptions and geographic restrictions appl
+ y.\n\nVenue\nHard Rock Stadium\nOpa Locka\n\nSchedule source: https://www.
+ nfl.com/games/chiefs-at-dolphins-2026-reg-3
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Hard Rock Stadium\nOpa Locka
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chiefs-at-dolphins-2026-reg-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miami Dolphins @ Minnesota Vikings
+DTSTART:20261004T200500Z
+DTEND:20261004T232000Z
+DTSTAMP:20260927T005047Z
+UID:42d38f8cefc6b9e77fc1ab423fe16f22@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 4
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 4\n\nMiami Dolphins @ Minnesota Vikings\n\nKi
+ ckoff: Sunday\, October 4\, 2026 at 4:05 PM EDT (America/New_York)\nEstima
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX O
+ ne\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nNFL
+  Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local an
+ d national blackouts apply.\nNFL+: local and primetime live game streams r
+ equire a phone or tablet\; market and device restrictions apply.\nRegional
+  broadcast\; local market coverage varies.\nStreaming listings are for the
+  US\; eligible subscriptions and geographic restrictions apply.\n\nVenue\n
+ U.S. Bank Stadium\nMinneapolis\n\nSchedule source: https://www.nfl.com/gam
+ es/dolphins-at-vikings-2026-reg-4
+LAST-MODIFIED:20260927T005047Z
+LOCATION:U.S. Bank Stadium\nMinneapolis
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/dolphins-at-vikings-2026-reg-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cincinnati Bengals @ Miami Dolphins
+DTSTART:20261011T170000Z
+DTEND:20261011T201500Z
+DTSTAMP:20260927T005047Z
+UID:5b00def38bcca13e584b64513987d2b3@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 5
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 5\n\nCincinnati Bengals @ Miami Dolphins\n\nK
+ ickoff: Sunday\, October 11\, 2026 at 1:00 PM EDT (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broad
+ cast\; local market coverage varies.\n\nVenue\nHard Rock Stadium\nOpa Lock
+ a\n\nSchedule source: https://www.nfl.com/games/bengals-at-dolphins-2026-r
+ eg-5
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Hard Rock Stadium\nOpa Locka
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bengals-at-dolphins-2026-reg-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miami Dolphins @ New York Jets
+DTSTART:20261025T170000Z
+DTEND:20261025T201500Z
+DTSTAMP:20260927T005047Z
+UID:b04815ac94bb3730aeffd19f701d8512@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 7
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 7\n\nMiami Dolphins @ New York Jets\n\nKickof
+ f: Sunday\, October 25\, 2026 at 1:00 PM EDT (America/New_York)\nEstimated
+  game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadcast
+ \; local market coverage varies.\n\nVenue\nMetLife Stadium\nEast Rutherfor
+ d\n\nSchedule source: https://www.nfl.com/games/dolphins-at-jets-2026-reg-
+ 7
+LAST-MODIFIED:20260927T005047Z
+LOCATION:MetLife Stadium\nEast Rutherford
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/dolphins-at-jets-2026-reg-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New England Patriots @ Miami Dolphins
+DTSTART:20261101T212500Z
+DTEND:20261102T004000Z
+DTSTAMP:20260927T005047Z
+UID:3223d090041cb650da2fd5e73859cf46@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 8
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 8\n\nNew England Patriots @ Miami Dolphins\n
+ \nKickoff: Sunday\, November 1\, 2026 at 4:25 PM EST (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional br
+ oadcast\; local market coverage varies.\n\nVenue\nHard Rock Stadium\nOpa L
+ ocka\n\nSchedule source: https://www.nfl.com/games/patriots-at-dolphins-20
+ 26-reg-8
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Hard Rock Stadium\nOpa Locka
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/patriots-at-dolphins-2026-reg-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Lions @ Miami Dolphins
+DTSTART:20261108T180000Z
+DTEND:20261108T211500Z
+DTSTAMP:20260927T005047Z
+UID:090f0911babf836b0b38cfa540e66e02@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 9
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 9\n\nDetroit Lions @ Miami Dolphins\n\nKickof
+ f: Sunday\, November 8\, 2026 at 1:00 PM EST (America/New_York)\nEstimated
+  game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadcast
+ \; local market coverage varies.\n\nVenue\nHard Rock Stadium\nOpa Locka\n
+ \nSchedule source: https://www.nfl.com/games/lions-at-dolphins-2026-reg-9
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Hard Rock Stadium\nOpa Locka
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/lions-at-dolphins-2026-reg-9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miami Dolphins @ Indianapolis Colts
+DTSTART:20261115T180000Z
+DTEND:20261115T211500Z
+DTSTAMP:20260927T005047Z
+UID:debc8b8ceae0841c3997029c0dd3e412@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 10
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 10\n\nMiami Dolphins @ Indianapolis Colts\n\n
+ Kickoff: Sunday\, November 15\, 2026 at 1:00 PM EST (America/New_York)\nEs
+ timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional bro
+ adcast\; local market coverage varies.\n\nVenue\nLucas Oil Stadium\nIndian
+ apolis\n\nSchedule source: https://www.nfl.com/games/dolphins-at-colts-202
+ 6-reg-10
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lucas Oil Stadium\nIndianapolis
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/dolphins-at-colts-2026-reg-10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miami Dolphins @ Buffalo Bills
+DTSTART:20261122T180000Z
+DTEND:20261122T211500Z
+DTSTAMP:20260927T005047Z
+UID:3ee2fbed324adf68eeed8037de6e67a5@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 11
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 11\n\nMiami Dolphins @ Buffalo Bills\n\nKicko
+ ff: Sunday\, November 22\, 2026 at 1:00 PM EST (America/New_York)\nEstimat
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadcas
+ t\; local market coverage varies.\n\nVenue\nHighmark Stadium\nOrchard Park
+ \n\nSchedule source: https://www.nfl.com/games/dolphins-at-bills-2026-reg-
+ 11
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Highmark Stadium\nOrchard Park
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/dolphins-at-bills-2026-reg-11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Jets @ Miami Dolphins
+DTSTART:20261129T180000Z
+DTEND:20261129T211500Z
+DTSTAMP:20260927T005047Z
+UID:115a78095509f13f3337cc15a5ed9f19@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 12
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 12\n\nNew York Jets @ Miami Dolphins\n\nKicko
+ ff: Sunday\, November 29\, 2026 at 1:00 PM EST (America/New_York)\nEstimat
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadcas
+ t\; local market coverage varies.\n\nVenue\nHard Rock Stadium\nOpa Locka\n
+ \nSchedule source: https://www.nfl.com/games/jets-at-dolphins-2026-reg-12
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Hard Rock Stadium\nOpa Locka
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/jets-at-dolphins-2026-reg-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miami Dolphins @ Denver Broncos
+DTSTART:20261206T210500Z
+DTEND:20261207T002000Z
+DTSTAMP:20260927T005047Z
+UID:0f95da104ef7de2e80cb4bede663037f@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 13
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 13\n\nMiami Dolphins @ Denver Broncos\n\nKick
+ off: Sunday\, December 6\, 2026 at 4:05 PM EST (America/New_York)\nEstimat
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadcas
+ t\; local market coverage varies.\n\nVenue\nEmpower Field at Mile High\nDe
+ nver\n\nSchedule source: https://www.nfl.com/games/dolphins-at-broncos-202
+ 6-reg-13
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Empower Field at Mile High\nDenver
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/dolphins-at-broncos-2026-reg-13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bears @ Miami Dolphins
+DTSTART:20261213T180000Z
+DTEND:20261213T211500Z
+DTSTAMP:20260927T005047Z
+UID:b6b293b29e9084b738f757250cdce825@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 14
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 14\n\nChicago Bears @ Miami Dolphins\n\nKicko
+ ff: Sunday\, December 13\, 2026 at 1:00 PM EST (America/New_York)\nEstimat
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadcas
+ t\; local market coverage varies.\n\nVenue\nHard Rock Stadium\nOpa Locka\n
+ \nSchedule source: https://www.nfl.com/games/bears-at-dolphins-2026-reg-14
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Hard Rock Stadium\nOpa Locka
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bears-at-dolphins-2026-reg-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miami Dolphins @ Green Bay Packers
+DTSTART:20261220T180000Z
+DTEND:20261220T211500Z
+DTSTAMP:20260927T005047Z
+UID:14346f47e5f820697c4667652b6fddd9@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 15
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 15\n\nMiami Dolphins @ Green Bay Packers\n\nK
+ ickoff: Sunday\, December 20\, 2026 at 1:00 PM EST (America/New_York)\nEst
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broa
+ dcast\; local market coverage varies.\n\nVenue\nLambeau Field\nGreen Bay\n
+ \nSchedule source: https://www.nfl.com/games/dolphins-at-packers-2026-reg-
+ 15
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lambeau Field\nGreen Bay
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/dolphins-at-packers-2026-reg-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Chargers @ Miami Dolphins
+DTSTART:20261227T180000Z
+DTEND:20261227T211500Z
+DTSTAMP:20260927T005047Z
+UID:bf4ab9371fe441565524ac7caef9c177@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 16
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 16\n\nLos Angeles Chargers @ Miami Dolphins\n
+ \nKickoff: Sunday\, December 27\, 2026 at 1:00 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional b
+ roadcast\; local market coverage varies.\n\nVenue\nHard Rock Stadium\nOpa 
+ Locka\n\nSchedule source: https://www.nfl.com/games/chargers-at-dolphins-2
+ 026-reg-16
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Hard Rock Stadium\nOpa Locka
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chargers-at-dolphins-2026-reg-16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buffalo Bills @ Miami Dolphins
+DTSTART:20270103T180000Z
+DTEND:20270103T211500Z
+DTSTAMP:20260927T005047Z
+UID:c8efa0113da8cd0169f95897c9701e04@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 17
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 17\n\nBuffalo Bills @ Miami Dolphins\n\nKicko
+ ff: Sunday\, January 3\, 2027 at 1:00 PM EST (America/New_York)\nEstimated
+  game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadcast
+ \; local market coverage varies.\n\nVenue\nHard Rock Stadium\nOpa Locka\n
+ \nSchedule source: https://www.nfl.com/games/bills-at-dolphins-2026-reg-17
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Hard Rock Stadium\nOpa Locka
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bills-at-dolphins-2026-reg-17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] Miami Dolphins @ New England Patriots
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+DTSTAMP:20260927T005047Z
+UID:dfbaa5802c7871f10fd9430c93b2ec9e@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 18
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 18\n\nMiami Dolphins @ New England Patriots\n
+ \nDate and kickoff: TBD.\nWeek placeholder: Wednesday\, January 6\, 2027. 
+ This is not a confirmed game date.\nThe event will move to its confirmed d
+ ate and kickoff when announced.\n\nWatch\nBroadcast information: TBD.\n\nV
+ enue\nGillette Stadium\nFoxborough\n\nSchedule source: https://www.nfl.com
+ /games/dolphins-at-patriots-2026-reg-18
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Gillette Stadium\nFoxborough
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/dolphins-at-patriots-2026-reg-18
+END:VEVENT
+END:VCALENDAR

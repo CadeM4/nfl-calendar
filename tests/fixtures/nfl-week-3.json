@@ -1,0 +1,3280 @@
+[
+  {
+    "queryKey": [
+      "useFetchExperienceWeekSelectorBySeason",
+      {
+        "includeProBowl": true,
+        "season": "2026"
+      }
+    ],
+    "state": {
+      "data": {
+        "data": [
+          {
+            "week": 0,
+            "weekLabel": "Hall Of Fame",
+            "weekType": "HOF",
+            "season": 2026,
+            "seasonType": "PRE",
+            "dateBegin": "2026-08-07T00:00:00Z"
+          },
+          {
+            "week": 1,
+            "weekLabel": "Preseason Week 1",
+            "weekType": "PRE",
+            "season": 2026,
+            "seasonType": "PRE",
+            "dateBegin": "2026-08-13T23:00:00Z",
+            "dateEnd": "2026-08-16T00:00:00Z"
+          },
+          {
+            "week": 2,
+            "weekLabel": "Preseason Week 2",
+            "weekType": "PRE",
+            "season": 2026,
+            "seasonType": "PRE",
+            "dateBegin": "2026-08-21T00:00:00Z",
+            "dateEnd": "2026-08-24T00:00:00Z"
+          },
+          {
+            "week": 3,
+            "weekLabel": "Preseason Week 3",
+            "weekType": "PRE",
+            "season": 2026,
+            "seasonType": "PRE",
+            "dateBegin": "2026-08-27T23:00:00Z",
+            "dateEnd": "2026-08-29T22:00:00Z"
+          },
+          {
+            "week": 1,
+            "weekLabel": "Week 1",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-09-10T00:20:00Z",
+            "dateEnd": "2026-09-15T00:15:00Z"
+          },
+          {
+            "week": 2,
+            "weekLabel": "Week 2",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-09-18T00:15:00Z",
+            "dateEnd": "2026-09-22T00:15:00Z"
+          },
+          {
+            "week": 3,
+            "weekLabel": "Week 3",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-09-25T00:15:00Z",
+            "dateEnd": "2026-09-29T00:15:00Z"
+          },
+          {
+            "week": 4,
+            "weekLabel": "Week 4",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-10-02T00:15:00Z",
+            "dateEnd": "2026-10-06T00:15:00Z"
+          },
+          {
+            "week": 5,
+            "weekLabel": "Week 5",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-10-09T00:15:00Z",
+            "dateEnd": "2026-10-13T00:15:00Z"
+          },
+          {
+            "week": 6,
+            "weekLabel": "Week 6",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-10-16T00:15:00Z",
+            "dateEnd": "2026-10-20T00:15:00Z"
+          },
+          {
+            "week": 7,
+            "weekLabel": "Week 7",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-10-23T00:15:00Z",
+            "dateEnd": "2026-10-27T00:15:00Z"
+          },
+          {
+            "week": 8,
+            "weekLabel": "Week 8",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-10-30T00:15:00Z",
+            "dateEnd": "2026-11-03T01:15:00Z"
+          },
+          {
+            "week": 9,
+            "weekLabel": "Week 9",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-11-06T01:15:00Z",
+            "dateEnd": "2026-11-10T01:15:00Z"
+          },
+          {
+            "week": 10,
+            "weekLabel": "Week 10",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-11-13T01:15:00Z",
+            "dateEnd": "2026-11-17T01:15:00Z"
+          },
+          {
+            "week": 11,
+            "weekLabel": "Week 11",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-11-20T01:15:00Z",
+            "dateEnd": "2026-11-24T01:15:00Z"
+          },
+          {
+            "week": 12,
+            "weekLabel": "Week 12",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-11-26T01:00:00Z",
+            "dateEnd": "2026-12-01T01:15:00Z"
+          },
+          {
+            "week": 13,
+            "weekLabel": "Week 13",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-12-04T01:15:00Z",
+            "dateEnd": "2026-12-08T01:15:00Z"
+          },
+          {
+            "week": 14,
+            "weekLabel": "Week 14",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-12-11T01:15:00Z",
+            "dateEnd": "2026-12-15T01:15:00Z"
+          },
+          {
+            "week": 15,
+            "weekLabel": "Week 15",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-12-18T01:15:00Z",
+            "dateEnd": "2026-12-22T01:15:00Z"
+          },
+          {
+            "week": 16,
+            "weekLabel": "Week 16",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-12-25T01:15:00Z",
+            "dateEnd": "2026-12-30"
+          },
+          {
+            "week": 17,
+            "weekLabel": "Week 17",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2027-01-01T01:15:00Z",
+            "dateEnd": "2027-01-06"
+          },
+          {
+            "week": 18,
+            "weekLabel": "Week 18",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2027-01-06",
+            "dateEnd": "2027-01-13"
+          }
+        ]
+      },
+      "status": "success",
+      "error": null
+    }
+  },
+  {
+    "queryKey": [
+      "useFetchFootballWeeklyGameDetails",
+      {
+        "enableMediakindForgeVod": false,
+        "enableMediakindMcpVod": false,
+        "includeDriveChart": false,
+        "includeReplays": false,
+        "includeStandings": true,
+        "includeTaggedVideos": false,
+        "season": "2026",
+        "seasonType": "REG",
+        "week": 3
+      }
+    ],
+    "state": {
+      "data": [
+        {
+          "id": "aa049c95-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10401800-ab22-323d-721a-cee4713c4c2d",
+            "fullName": "Green Bay Packers"
+          },
+          "awayTeam": {
+            "id": "10400200-f401-4e53-5175-0974e4f16cf7",
+            "fullName": "Atlanta Falcons"
+          },
+          "category": "TNF",
+          "date": "2026-09-25",
+          "time": "2026-09-25T00:15:00Z",
+          "broadcastInfo": {
+            "homeNetworkChannels": [
+              "Prime Video"
+            ],
+            "awayNetworkChannels": [
+              "Prime Video"
+            ],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [
+              {
+                "hostNetwork": "PRIME",
+                "networks": [
+                  "PRIME"
+                ],
+                "streamType": "en-pri"
+              },
+              {
+                "hostNetwork": "PRIMESPANISH",
+                "networks": [
+                  "PRIMESPANISH"
+                ],
+                "streamType": "es-alt-1"
+              },
+              {
+                "hostNetwork": "PRIMEALT1",
+                "networks": [
+                  "PRIMEALT1"
+                ],
+                "streamType": "en-alt-1"
+              }
+            ],
+            "territory": "NATIONAL",
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_WESTWOOD_ONE",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00082606-f7cb-15ed-a40a-f85cfda3ecdd",
+            "name": "Lambeau Field",
+            "city": "Green Bay",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 3,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2026092400"
+            },
+            {
+              "source": "gsis",
+              "id": "60210"
+            },
+            {
+              "source": "slug",
+              "id": "falcons-at-packers-2026-reg-3"
+            }
+          ],
+          "summary": {
+            "phase": "FINAL"
+          }
+        },
+        {
+          "id": "aa04a02f-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10400610-c40e-a673-1743-2ce2a5d5d731",
+            "fullName": "Buffalo Bills"
+          },
+          "awayTeam": {
+            "id": "10404400-3b35-073f-197e-194bb8240723",
+            "fullName": "Los Angeles Chargers"
+          },
+          "category": null,
+          "date": "2026-09-27",
+          "time": "2026-09-27T17:00:00Z",
+          "broadcastInfo": {
+            "homeNetworkChannels": [
+              "FOX"
+            ],
+            "awayNetworkChannels": [
+              "FOX"
+            ],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [
+              {
+                "hostNetwork": "FOX",
+                "networks": [
+                  "FOX"
+                ],
+                "streamType": "en-pri"
+              }
+            ],
+            "territory": "REGIONAL",
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00085780-1313-e95c-caa9-c352f75eb57e",
+            "name": "Highmark Stadium",
+            "city": "Orchard Park",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 3,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2026092700"
+            },
+            {
+              "source": "gsis",
+              "id": "60211"
+            },
+            {
+              "source": "slug",
+              "id": "chargers-at-bills-2026-reg-3"
+            }
+          ],
+          "summary": null
+        },
+        {
+          "id": "aa04a395-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10401050-5e38-b907-1be1-55b91b19c057",
+            "fullName": "Cleveland Browns"
+          },
+          "awayTeam": {
+            "id": "10400750-259b-33ac-eee3-a3852e83cd1f",
+            "fullName": "Carolina Panthers"
+          },
+          "category": null,
+          "date": "2026-09-27",
+          "time": "2026-09-27T17:00:00Z",
+          "broadcastInfo": {
+            "homeNetworkChannels": [
+              "FOX"
+            ],
+            "awayNetworkChannels": [
+              "FOX"
+            ],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [
+              {
+                "hostNetwork": "FOX",
+                "networks": [
+                  "FOX"
+                ],
+                "streamType": "en-pri"
+              }
+            ],
+            "territory": "REGIONAL",
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00081048-4259-348c-7701-2fa3c98bcd53",
+            "name": "Huntington Bank Field",
+            "city": "Cleveland",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 3,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2026092701"
+            },
+            {
+              "source": "gsis",
+              "id": "60212"
+            },
+            {
+              "source": "slug",
+              "id": "panthers-at-browns-2026-reg-3"
+            }
+          ],
+          "summary": null
+        },
+        {
+          "id": "aa04a6ca-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10401540-f97c-2d19-6fcd-fac6490a48b7",
+            "fullName": "Detroit Lions"
+          },
+          "awayTeam": {
+            "id": "10403430-1bc3-42c4-c7d8-39f38aed5f12",
+            "fullName": "New York Jets"
+          },
+          "category": null,
+          "date": "2026-09-27",
+          "time": "2026-09-27T17:00:00Z",
+          "broadcastInfo": {
+            "homeNetworkChannels": [
+              "FOX"
+            ],
+            "awayNetworkChannels": [
+              "FOX"
+            ],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [
+              {
+                "hostNetwork": "FOX",
+                "networks": [
+                  "FOX"
+                ],
+                "streamType": "en-pri"
+              }
+            ],
+            "territory": "REGIONAL",
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00082026-23fe-63b7-7d18-43cec01cfcfb",
+            "name": "Ford Field",
+            "city": "Detroit",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 3,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2026092702"
+            },
+            {
+              "source": "gsis",
+              "id": "60213"
+            },
+            {
+              "source": "slug",
+              "id": "jets-at-lions-2026-reg-3"
+            }
+          ],
+          "summary": null
+        },
+        {
+          "id": "aa04aa26-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10402200-2ea3-84c3-e627-6a6b3b39d56d",
+            "fullName": "Indianapolis Colts"
+          },
+          "awayTeam": {
+            "id": "10402120-b0bc-693d-098a-803014096eb0",
+            "fullName": "Houston Texans"
+          },
+          "category": null,
+          "date": "2026-09-27",
+          "time": "2026-09-27T17:00:00Z",
+          "broadcastInfo": {
+            "homeNetworkChannels": [
+              "CBS"
+            ],
+            "awayNetworkChannels": [
+              "CBS"
+            ],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [
+              {
+                "hostNetwork": "CBS",
+                "networks": [
+                  "CBS"
+                ],
+                "streamType": "en-pri"
+              }
+            ],
+            "territory": "REGIONAL",
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00082878-4c6e-d80a-0da7-6f8355c339c2",
+            "name": "Lucas Oil Stadium",
+            "city": "Indianapolis",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 3,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2026092703"
+            },
+            {
+              "source": "gsis",
+              "id": "60214"
+            },
+            {
+              "source": "slug",
+              "id": "texans-at-colts-2026-reg-3"
+            }
+          ],
+          "summary": null
+        },
+        {
+          "id": "aa04ad75-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10402250-89fe-7b86-ef98-9062cd354256",
+            "fullName": "Jacksonville Jaguars"
+          },
+          "awayTeam": {
+            "id": "10403200-69ab-9ea6-5af5-e240fbc08bea",
+            "fullName": "New England Patriots"
+          },
+          "category": null,
+          "date": "2026-09-27",
+          "time": "2026-09-27T17:00:00Z",
+          "broadcastInfo": {
+            "homeNetworkChannels": [
+              "CBS"
+            ],
+            "awayNetworkChannels": [
+              "CBS"
+            ],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [
+              {
+                "hostNetwork": "CBS",
+                "networks": [
+                  "CBS"
+                ],
+                "streamType": "en-pri"
+              }
+            ],
+            "territory": "REGIONAL",
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00082049-e1c5-6172-a084-094f2c34a377",
+            "name": "EverBank Stadium",
+            "city": "Jacksonville",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 3,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2026092704"
+            },
+            {
+              "source": "gsis",
+              "id": "60215"
+            },
+            {
+              "source": "slug",
+              "id": "patriots-at-jaguars-2026-reg-3"
+            }
+          ],
+          "summary": null
+        },
+        {
+          "id": "aa04b0d8-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10402700-1662-d8ad-f45c-0b0ea460d045",
+            "fullName": "Miami Dolphins"
+          },
+          "awayTeam": {
+            "id": "10402310-a47e-10ea-7442-16b633633637",
+            "fullName": "Kansas City Chiefs"
+          },
+          "category": null,
+          "date": "2026-09-27",
+          "time": "2026-09-27T17:00:00Z",
+          "broadcastInfo": {
+            "homeNetworkChannels": [
+              "CBS"
+            ],
+            "awayNetworkChannels": [
+              "CBS"
+            ],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [
+              {
+                "hostNetwork": "CBS",
+                "networks": [
+                  "CBS"
+                ],
+                "streamType": "en-pri"
+              }
+            ],
+            "territory": "REGIONAL",
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME_SAP",
+                "languages": [
+                  "es"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY_SAP",
+                "languages": [
+                  "es"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00082475-4308-d8ae-8935-f685fe5d20f2",
+            "name": "Hard Rock Stadium",
+            "city": "Opa Locka",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 3,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2026092705"
+            },
+            {
+              "source": "gsis",
+              "id": "60216"
+            },
+            {
+              "source": "slug",
+              "id": "chiefs-at-dolphins-2026-reg-3"
+            }
+          ],
+          "summary": null
+        },
+        {
+          "id": "aa04b4d9-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10403410-997c-9c75-256b-3b012f468bd0",
+            "fullName": "New York Giants"
+          },
+          "awayTeam": {
+            "id": "10402100-447f-396e-8149-0a434ffb2f23",
+            "fullName": "Tennessee Titans"
+          },
+          "category": null,
+          "date": "2026-09-27",
+          "time": "2026-09-27T17:00:00Z",
+          "broadcastInfo": {
+            "homeNetworkChannels": [
+              "CBS"
+            ],
+            "awayNetworkChannels": [
+              "CBS"
+            ],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [
+              {
+                "hostNetwork": "CBS",
+                "networks": [
+                  "CBS"
+                ],
+                "streamType": "en-pri"
+              }
+            ],
+            "territory": "REGIONAL",
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00083757-62dd-de21-f672-4d0ca5ad5a9e",
+            "name": "MetLife Stadium",
+            "city": "East Rutherford",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 3,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2026092706"
+            },
+            {
+              "source": "gsis",
+              "id": "60217"
+            },
+            {
+              "source": "slug",
+              "id": "titans-at-giants-2026-reg-3"
+            }
+          ],
+          "summary": null
+        },
+        {
+          "id": "aa29b6b0-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10403900-8251-6892-d81c-4348525c2d47",
+            "fullName": "Pittsburgh Steelers"
+          },
+          "awayTeam": {
+            "id": "10400920-57c1-7656-e77e-1af3d900483e",
+            "fullName": "Cincinnati Bengals"
+          },
+          "category": null,
+          "date": "2026-09-27",
+          "time": "2026-09-27T17:00:00Z",
+          "broadcastInfo": {
+            "homeNetworkChannels": [
+              "CBS"
+            ],
+            "awayNetworkChannels": [
+              "CBS"
+            ],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [
+              {
+                "hostNetwork": "CBS",
+                "networks": [
+                  "CBS"
+                ],
+                "streamType": "en-pri"
+              }
+            ],
+            "territory": "REGIONAL",
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00085411-4ecf-6807-abb8-f9309b0cf6b0",
+            "name": "Acrisure Stadium",
+            "city": "Pittsburgh",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 3,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2026092707"
+            },
+            {
+              "source": "gsis",
+              "id": "60218"
+            },
+            {
+              "source": "slug",
+              "id": "bengals-at-steelers-2026-reg-3"
+            }
+          ],
+          "summary": null
+        },
+        {
+          "id": "aa29c0fa-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10405110-ec3c-669e-2614-db3dc1736e95",
+            "fullName": "Washington Commanders"
+          },
+          "awayTeam": {
+            "id": "10404600-adcd-28ac-5826-b4d95ec2a228",
+            "fullName": "Seattle Seahawks"
+          },
+          "category": null,
+          "date": "2026-09-27",
+          "time": "2026-09-27T17:00:00Z",
+          "broadcastInfo": {
+            "homeNetworkChannels": [
+              "FOX"
+            ],
+            "awayNetworkChannels": [
+              "FOX"
+            ],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [
+              {
+                "hostNetwork": "FOX",
+                "networks": [
+                  "FOX"
+                ],
+                "streamType": "en-pri"
+              }
+            ],
+            "territory": "REGIONAL",
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00082389-5f81-bc7b-7280-78260ea1be2a",
+            "name": "Northwest Stadium",
+            "city": "Landover",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 3,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2026092708"
+            },
+            {
+              "source": "gsis",
+              "id": "60219"
+            },
+            {
+              "source": "slug",
+              "id": "seahawks-at-commanders-2026-reg-3"
+            }
+          ],
+          "summary": null
+        },
+        {
+          "id": "aa29c59c-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10404500-e7cb-7fce-3f10-4eeb269bd179",
+            "fullName": "San Francisco 49ers"
+          },
+          "awayTeam": {
+            "id": "10403800-517c-7b8c-65a3-c61b95d86123",
+            "fullName": "Arizona Cardinals"
+          },
+          "category": null,
+          "date": "2026-09-27",
+          "time": "2026-09-27T20:05:00Z",
+          "broadcastInfo": {
+            "homeNetworkChannels": [
+              "FOX"
+            ],
+            "awayNetworkChannels": [
+              "FOX"
+            ],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [
+              {
+                "hostNetwork": "FOX",
+                "networks": [
+                  "FOX"
+                ],
+                "streamType": "en-pri"
+              }
+            ],
+            "territory": "REGIONAL",
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00082099-57dc-7d8f-dbdb-9a693342cda6",
+            "name": "Levi's\u00ae Stadium",
+            "city": "Santa Clara",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 3,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2026092709"
+            },
+            {
+              "source": "gsis",
+              "id": "60220"
+            },
+            {
+              "source": "slug",
+              "id": "cardinals-at-49ers-2026-reg-3"
+            }
+          ],
+          "summary": null
+        },
+        {
+          "id": "aa29c929-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10404900-d59e-b449-ef75-961e09ca027e",
+            "fullName": "Tampa Bay Buccaneers"
+          },
+          "awayTeam": {
+            "id": "10403000-5851-f9d5-da45-78365a05b6b0",
+            "fullName": "Minnesota Vikings"
+          },
+          "category": null,
+          "date": "2026-09-27",
+          "time": "2026-09-27T20:05:00Z",
+          "broadcastInfo": {
+            "homeNetworkChannels": [
+              "FOX"
+            ],
+            "awayNetworkChannels": [
+              "FOX"
+            ],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [
+              {
+                "hostNetwork": "FOX",
+                "networks": [
+                  "FOX"
+                ],
+                "streamType": "en-pri"
+              }
+            ],
+            "territory": "REGIONAL",
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00083697-451e-88a5-6695-aa32961fba3a",
+            "name": "Raymond James Stadium",
+            "city": "Tampa",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 3,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2026092710"
+            },
+            {
+              "source": "gsis",
+              "id": "60221"
+            },
+            {
+              "source": "slug",
+              "id": "vikings-at-buccaneers-2026-reg-3"
+            }
+          ],
+          "summary": null
+        },
+        {
+          "id": "aa29cd02-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10401200-a308-98ca-ad5f-95df2fefea68",
+            "fullName": "Dallas Cowboys"
+          },
+          "awayTeam": {
+            "id": "10400325-48de-3d6a-be29-8f829437f4c8",
+            "fullName": "Baltimore Ravens"
+          },
+          "category": null,
+          "date": "2026-09-27",
+          "time": "2026-09-27T20:25:00Z",
+          "broadcastInfo": {
+            "homeNetworkChannels": [
+              "CBS"
+            ],
+            "awayNetworkChannels": [
+              "CBS"
+            ],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [
+              {
+                "hostNetwork": "CBS",
+                "networks": [
+                  "CBS"
+                ],
+                "streamType": "en-pri"
+              }
+            ],
+            "territory": "REGIONAL",
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME_SAP",
+                "languages": [
+                  "es"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY_SAP",
+                "languages": [
+                  "es"
+                ]
+              }
+            ]
+          },
+          "international": true,
+          "venue": {
+            "id": "00084001-eba4-5fc3-666c-fe5e7e422d26",
+            "name": "Maracana Stadium",
+            "city": "Rio de Janeiro",
+            "country": "Brazil"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 3,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2026092711"
+            },
+            {
+              "source": "gsis",
+              "id": "60222"
+            },
+            {
+              "source": "slug",
+              "id": "ravens-at-cowboys-2026-reg-3"
+            }
+          ],
+          "summary": null
+        },
+        {
+          "id": "aa29d062-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10403300-f235-cf9b-6d3a-2f182be48dd1",
+            "fullName": "New Orleans Saints"
+          },
+          "awayTeam": {
+            "id": "10402520-96bf-e9f2-4f68-8521ca896060",
+            "fullName": "Las Vegas Raiders"
+          },
+          "category": null,
+          "date": "2026-09-27",
+          "time": "2026-09-27T20:25:00Z",
+          "broadcastInfo": {
+            "homeNetworkChannels": [
+              "CBS"
+            ],
+            "awayNetworkChannels": [
+              "CBS"
+            ],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [
+              {
+                "hostNetwork": "CBS",
+                "networks": [
+                  "CBS"
+                ],
+                "streamType": "en-pri"
+              }
+            ],
+            "territory": "REGIONAL",
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME_SAP",
+                "languages": [
+                  "es"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY_SAP",
+                "languages": [
+                  "es"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00082870-94c7-53ad-b2bf-a1d334cf1512",
+            "name": "Caesars Superdome",
+            "city": "New Orleans",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 3,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2026092712"
+            },
+            {
+              "source": "gsis",
+              "id": "60223"
+            },
+            {
+              "source": "slug",
+              "id": "raiders-at-saints-2026-reg-3"
+            }
+          ],
+          "summary": null
+        },
+        {
+          "id": "aa29d387-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10401400-b89b-96e5-55d1-caa7e18de3d8",
+            "fullName": "Denver Broncos"
+          },
+          "awayTeam": {
+            "id": "10402510-8931-0d5f-9815-79bb79649a65",
+            "fullName": "Los Angeles Rams"
+          },
+          "category": "SNF",
+          "date": "2026-09-28",
+          "time": "2026-09-28T00:20:00Z",
+          "broadcastInfo": {
+            "homeNetworkChannels": [
+              "NBC",
+              "UNIVERSO"
+            ],
+            "awayNetworkChannels": [
+              "NBC",
+              "UNIVERSO"
+            ],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [
+              {
+                "hostNetwork": "NBC",
+                "networks": [
+                  "NBC"
+                ],
+                "streamType": "en-pri"
+              },
+              {
+                "hostNetwork": "UNIVERSO",
+                "networks": [
+                  "UNIVERSO"
+                ],
+                "streamType": "es-alt-1"
+              }
+            ],
+            "territory": "NATIONAL",
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_WESTWOOD_ONE",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_ENTRAVISION",
+                "languages": [
+                  "es"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME_SAP",
+                "languages": [
+                  "es"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY_SAP",
+                "languages": [
+                  "es"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00085786-61c2-c519-196f-576acb0dcd5f",
+            "name": "Empower Field at Mile High",
+            "city": "Denver",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 3,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2026092713"
+            },
+            {
+              "source": "gsis",
+              "id": "60224"
+            },
+            {
+              "source": "slug",
+              "id": "rams-at-broncos-2026-reg-3"
+            }
+          ],
+          "summary": null
+        },
+        {
+          "id": "aa29d6db-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10400810-db30-43d6-221c-620006f3ca19",
+            "fullName": "Chicago Bears"
+          },
+          "awayTeam": {
+            "id": "10403700-b939-3cbd-3d16-24d4d6742fa2",
+            "fullName": "Philadelphia Eagles"
+          },
+          "category": "MNF",
+          "date": "2026-09-29",
+          "time": "2026-09-29T00:15:00Z",
+          "broadcastInfo": {
+            "homeNetworkChannels": [
+              "ESPN",
+              "ABC",
+              "ESPN DEPORTES"
+            ],
+            "awayNetworkChannels": [
+              "ESPN",
+              "ABC",
+              "ESPN DEPORTES"
+            ],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [
+              {
+                "hostNetwork": "ESPN",
+                "networks": [
+                  "ESPN",
+                  "ABC"
+                ],
+                "streamType": "en-pri"
+              },
+              {
+                "hostNetwork": "ESPNDEPORTES",
+                "networks": [
+                  "ESPNDEPORTES"
+                ],
+                "streamType": "es-alt-1"
+              }
+            ],
+            "territory": "NATIONAL",
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_WESTWOOD_ONE",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_ENTRAVISION",
+                "languages": [
+                  "es"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME_SAP",
+                "languages": [
+                  "es"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY_SAP",
+                "languages": [
+                  "es"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00084620-af4a-a315-44ad-cdc562bfc3ad",
+            "name": "Soldier Field",
+            "city": "Chicago",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 3,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2026092800"
+            },
+            {
+              "source": "gsis",
+              "id": "60225"
+            },
+            {
+              "source": "slug",
+              "id": "eagles-at-bears-2026-reg-3"
+            }
+          ],
+          "summary": null
+        }
+      ],
+      "status": "success",
+      "error": null
+    }
+  },
+  {
+    "queryKey": [
+      "useFetchExperienceWaysToWatchGamesByWeek",
+      {
+        "season": "2026",
+        "showNflPlusItems": false,
+        "week": "3",
+        "weekType": "REG"
+      }
+    ],
+    "state": {
+      "data": {
+        "data": [
+          {
+            "id": "aa049c95-4feb-11f1-abca-2c54536568a9",
+            "date": "2026-09-25T00:15:00Z",
+            "week": 3,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": {
+              "authorizations": {
+                "nfl_plus": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "nfl_plus_premium": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "amazon_prime": [
+                  {
+                    "PRIME VIDEO - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "broadcastAiringType": "LIVE",
+              "contentType": "GAME",
+              "deliveryMethod": "LIVE",
+              "gameId": "aa049c95-4feb-11f1-abca-2c54536568a9"
+            }
+          },
+          {
+            "id": "aa04a02f-4feb-11f1-abca-2c54536568a9",
+            "date": "2026-09-27T17:00:00Z",
+            "week": 3,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": {
+              "authorizations": {
+                "nfl_plus": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "nfl_plus_premium": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "fox_one": [
+                  {
+                    "FOX_ONE - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd_synacor": [
+                  {
+                    "MVPD_SYNACOR - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd": [
+                  {
+                    "MVPD - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "sunday_ticket": [
+                  {
+                    "SUNDAY_TICKET - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "broadcastAiringType": "LIVE",
+              "contentType": "GAME",
+              "deliveryMethod": "LIVE",
+              "gameId": "aa04a02f-4feb-11f1-abca-2c54536568a9"
+            }
+          },
+          {
+            "id": "aa04a395-4feb-11f1-abca-2c54536568a9",
+            "date": "2026-09-27T17:00:00Z",
+            "week": 3,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": {
+              "authorizations": {
+                "nfl_plus": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "nfl_plus_premium": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "fox_one": [
+                  {
+                    "FOX_ONE - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd_synacor": [
+                  {
+                    "MVPD_SYNACOR - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd": [
+                  {
+                    "MVPD - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "sunday_ticket": [
+                  {
+                    "SUNDAY_TICKET - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "broadcastAiringType": "LIVE",
+              "contentType": "GAME",
+              "deliveryMethod": "LIVE",
+              "gameId": "aa04a395-4feb-11f1-abca-2c54536568a9"
+            }
+          },
+          {
+            "id": "aa04a6ca-4feb-11f1-abca-2c54536568a9",
+            "date": "2026-09-27T17:00:00Z",
+            "week": 3,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": {
+              "authorizations": {
+                "nfl_plus": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "nfl_plus_premium": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "fox_one": [
+                  {
+                    "FOX_ONE - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd_synacor": [
+                  {
+                    "MVPD_SYNACOR - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd": [
+                  {
+                    "MVPD - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "sunday_ticket": [
+                  {
+                    "SUNDAY_TICKET - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "broadcastAiringType": "LIVE",
+              "contentType": "GAME",
+              "deliveryMethod": "LIVE",
+              "gameId": "aa04a6ca-4feb-11f1-abca-2c54536568a9"
+            }
+          },
+          {
+            "id": "aa04aa26-4feb-11f1-abca-2c54536568a9",
+            "date": "2026-09-27T17:00:00Z",
+            "week": 3,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": {
+              "authorizations": {
+                "nfl_plus": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "nfl_plus_premium": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd_synacor": [
+                  {
+                    "MVPD_SYNACOR - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd": [
+                  {
+                    "MVPD - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "paramount_plus": [
+                  {
+                    "PARAMOUNT PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "sunday_ticket": [
+                  {
+                    "SUNDAY_TICKET - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "broadcastAiringType": "LIVE",
+              "contentType": "GAME",
+              "deliveryMethod": "LIVE",
+              "gameId": "aa04aa26-4feb-11f1-abca-2c54536568a9"
+            }
+          },
+          {
+            "id": "aa04ad75-4feb-11f1-abca-2c54536568a9",
+            "date": "2026-09-27T17:00:00Z",
+            "week": 3,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": {
+              "authorizations": {
+                "nfl_plus": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "nfl_plus_premium": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd_synacor": [
+                  {
+                    "MVPD_SYNACOR - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd": [
+                  {
+                    "MVPD - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "paramount_plus": [
+                  {
+                    "PARAMOUNT PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "sunday_ticket": [
+                  {
+                    "SUNDAY_TICKET - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "broadcastAiringType": "LIVE",
+              "contentType": "GAME",
+              "deliveryMethod": "LIVE",
+              "gameId": "aa04ad75-4feb-11f1-abca-2c54536568a9"
+            }
+          },
+          {
+            "id": "aa04b0d8-4feb-11f1-abca-2c54536568a9",
+            "date": "2026-09-27T17:00:00Z",
+            "week": 3,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": {
+              "authorizations": {
+                "nfl_plus": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "nfl_plus_premium": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd_synacor": [
+                  {
+                    "MVPD_SYNACOR - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd": [
+                  {
+                    "MVPD - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "paramount_plus": [
+                  {
+                    "PARAMOUNT PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "sunday_ticket": [
+                  {
+                    "SUNDAY_TICKET - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "broadcastAiringType": "LIVE",
+              "contentType": "GAME",
+              "deliveryMethod": "LIVE",
+              "gameId": "aa04b0d8-4feb-11f1-abca-2c54536568a9"
+            }
+          },
+          {
+            "id": "aa04b4d9-4feb-11f1-abca-2c54536568a9",
+            "date": "2026-09-27T17:00:00Z",
+            "week": 3,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": {
+              "authorizations": {
+                "nfl_plus": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "nfl_plus_premium": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd_synacor": [
+                  {
+                    "MVPD_SYNACOR - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd": [
+                  {
+                    "MVPD - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "paramount_plus": [
+                  {
+                    "PARAMOUNT PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "sunday_ticket": [
+                  {
+                    "SUNDAY_TICKET - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "broadcastAiringType": "LIVE",
+              "contentType": "GAME",
+              "deliveryMethod": "LIVE",
+              "gameId": "aa04b4d9-4feb-11f1-abca-2c54536568a9"
+            }
+          },
+          {
+            "id": "aa29b6b0-4feb-11f1-abca-2c54536568a9",
+            "date": "2026-09-27T17:00:00Z",
+            "week": 3,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": {
+              "authorizations": {
+                "nfl_plus": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "nfl_plus_premium": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd_synacor": [
+                  {
+                    "MVPD_SYNACOR - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd": [
+                  {
+                    "MVPD - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "paramount_plus": [
+                  {
+                    "PARAMOUNT PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "sunday_ticket": [
+                  {
+                    "SUNDAY_TICKET - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "broadcastAiringType": "LIVE",
+              "contentType": "GAME",
+              "deliveryMethod": "LIVE",
+              "gameId": "aa29b6b0-4feb-11f1-abca-2c54536568a9"
+            }
+          },
+          {
+            "id": "aa29c0fa-4feb-11f1-abca-2c54536568a9",
+            "date": "2026-09-27T17:00:00Z",
+            "week": 3,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": {
+              "authorizations": {
+                "nfl_plus": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "nfl_plus_premium": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "fox_one": [
+                  {
+                    "FOX_ONE - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd_synacor": [
+                  {
+                    "MVPD_SYNACOR - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd": [
+                  {
+                    "MVPD - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "sunday_ticket": [
+                  {
+                    "SUNDAY_TICKET - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "broadcastAiringType": "LIVE",
+              "contentType": "GAME",
+              "deliveryMethod": "LIVE",
+              "gameId": "aa29c0fa-4feb-11f1-abca-2c54536568a9"
+            }
+          },
+          {
+            "id": "aa29c59c-4feb-11f1-abca-2c54536568a9",
+            "date": "2026-09-27T20:05:00Z",
+            "week": 3,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": {
+              "authorizations": {
+                "nfl_plus": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "nfl_plus_premium": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "fox_one": [
+                  {
+                    "FOX_ONE - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd_synacor": [
+                  {
+                    "MVPD_SYNACOR - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd": [
+                  {
+                    "MVPD - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "sunday_ticket": [
+                  {
+                    "SUNDAY_TICKET - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "broadcastAiringType": "LIVE",
+              "contentType": "GAME",
+              "deliveryMethod": "LIVE",
+              "gameId": "aa29c59c-4feb-11f1-abca-2c54536568a9"
+            }
+          },
+          {
+            "id": "aa29c929-4feb-11f1-abca-2c54536568a9",
+            "date": "2026-09-27T20:05:00Z",
+            "week": 3,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": {
+              "authorizations": {
+                "nfl_plus": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "nfl_plus_premium": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "fox_one": [
+                  {
+                    "FOX_ONE - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd_synacor": [
+                  {
+                    "MVPD_SYNACOR - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd": [
+                  {
+                    "MVPD - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "sunday_ticket": [
+                  {
+                    "SUNDAY_TICKET - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "broadcastAiringType": "LIVE",
+              "contentType": "GAME",
+              "deliveryMethod": "LIVE",
+              "gameId": "aa29c929-4feb-11f1-abca-2c54536568a9"
+            }
+          },
+          {
+            "id": "aa29cd02-4feb-11f1-abca-2c54536568a9",
+            "date": "2026-09-27T20:25:00Z",
+            "week": 3,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": {
+              "authorizations": {
+                "nfl_plus": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "nfl_plus_premium": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd_synacor": [
+                  {
+                    "MVPD_SYNACOR - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd": [
+                  {
+                    "MVPD - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "paramount_plus": [
+                  {
+                    "PARAMOUNT PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "sunday_ticket": [
+                  {
+                    "SUNDAY_TICKET - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "broadcastAiringType": "LIVE",
+              "contentType": "GAME",
+              "deliveryMethod": "LIVE",
+              "gameId": "aa29cd02-4feb-11f1-abca-2c54536568a9"
+            }
+          },
+          {
+            "id": "aa29d062-4feb-11f1-abca-2c54536568a9",
+            "date": "2026-09-27T20:25:00Z",
+            "week": 3,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": {
+              "authorizations": {
+                "nfl_plus": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "nfl_plus_premium": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd_synacor": [
+                  {
+                    "MVPD_SYNACOR - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd": [
+                  {
+                    "MVPD - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "paramount_plus": [
+                  {
+                    "PARAMOUNT PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "sunday_ticket": [
+                  {
+                    "SUNDAY_TICKET - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "broadcastAiringType": "LIVE",
+              "contentType": "GAME",
+              "deliveryMethod": "LIVE",
+              "gameId": "aa29d062-4feb-11f1-abca-2c54536568a9"
+            }
+          },
+          {
+            "id": "aa29d387-4feb-11f1-abca-2c54536568a9",
+            "date": "2026-09-28T00:20:00Z",
+            "week": 3,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": {
+              "authorizations": {
+                "nfl_plus": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "nfl_plus_premium": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd_synacor": [
+                  {
+                    "MVPD_SYNACOR - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd": [
+                  {
+                    "MVPD - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "peacock": [
+                  {
+                    "PEACOCK - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "broadcastAiringType": "LIVE",
+              "contentType": "GAME",
+              "deliveryMethod": "LIVE",
+              "gameId": "aa29d387-4feb-11f1-abca-2c54536568a9"
+            }
+          },
+          {
+            "id": "aa29d6db-4feb-11f1-abca-2c54536568a9",
+            "date": "2026-09-29T00:15:00Z",
+            "week": 3,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": {
+              "authorizations": {
+                "nfl_plus": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "nfl_plus_premium": [
+                  {
+                    "NFL_PLUS - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd_synacor": [
+                  {
+                    "MVPD_SYNACOR - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "mvpd": [
+                  {
+                    "MVPD - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "espn_unlimited": [
+                  {
+                    "ESPN UNLIMITED - LIVE GAME": {
+                      "requirements": {
+                        "countryCode": [
+                          "US"
+                        ],
+                        "dmaCode": [
+                          [
+                            "{{asset.dma_codes}}"
+                          ]
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "broadcastAiringType": "LIVE",
+              "contentType": "GAME",
+              "deliveryMethod": "LIVE",
+              "gameId": "aa29d6db-4feb-11f1-abca-2c54536568a9"
+            }
+          }
+        ]
+      },
+      "status": "success",
+      "error": null
+    }
+  }
+]

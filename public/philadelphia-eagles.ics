@@ -1,0 +1,412 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NFL Calendar//Independent schedule subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:2026 NFL regular season and postseason. Eastern Time; automat
+ ically updated.
+NAME:Philadelphia Eagles · 2026
+X-WR-CALNAME:Philadelphia Eagles · 2026
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Washington Commanders @ Philadelphia Eagles
+DTSTART:20260913T202500Z
+DTEND:20260913T234000Z
+DTSTAMP:20260927T005047Z
+UID:773ac240eb831f90cae33defab60eb2f@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 1
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 1\n\nWashington Commanders @ Philadelphia Eag
+ les\n\nKickoff: Sunday\, September 13\, 2026 at 4:25 PM EDT (America/New_Y
+ ork)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStre
+ aming: FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions
+  apply.\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewin
+ g\; local and national blackouts apply.\nNFL+: local and primetime live ga
+ me streams require a phone or tablet\; market and device restrictions appl
+ y.\nRegional broadcast\; local market coverage varies.\nStreaming listings
+  are for the US\; eligible subscriptions and geographic restrictions apply
+ .\n\nVenue\nLincoln Financial Field\nPhiladelphia\n\nSchedule source: http
+ s://www.nfl.com/games/commanders-at-eagles-2026-reg-1
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lincoln Financial Field\nPhiladelphia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/commanders-at-eagles-2026-reg-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Eagles @ Tennessee Titans
+DTSTART:20260920T170000Z
+DTEND:20260920T201500Z
+DTSTAMP:20260927T005047Z
+UID:4fdae4e7d69c5d3a218175a3724057f6@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 2
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 2\n\nPhiladelphia Eagles @ Tennessee Titans\n
+ \nKickoff: Sunday\, September 20\, 2026 at 1:00 PM EDT (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreamin
+ g: FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions app
+ ly.\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; 
+ local and national blackouts apply.\nNFL+: local and primetime live game s
+ treams require a phone or tablet\; market and device restrictions apply.\n
+ Regional broadcast\; local market coverage varies.\nStreaming listings are
+  for the US\; eligible subscriptions and geographic restrictions apply.\n
+ \nVenue\nNissan Stadium\nNashville\n\nSchedule source: https://www.nfl.com
+ /games/eagles-at-titans-2026-reg-2
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Nissan Stadium\nNashville
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/eagles-at-titans-2026-reg-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Eagles @ Chicago Bears
+DTSTART:20260929T001500Z
+DTEND:20260929T033000Z
+DTSTAMP:20260927T005047Z
+UID:ad20fcf72d9d7c5bbd6830f614fcd9d6@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 3
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 3\n\nPhiladelphia Eagles @ Chicago Bears\n\nK
+ ickoff: Monday\, September 28\, 2026 at 8:15 PM EDT (America/New_York)\nEs
+ timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN
+  Deportes\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetime liv
+ e game streams require a phone or tablet\; market and device restrictions 
+ apply.\nStreaming listings are for the US\; eligible subscriptions and geo
+ graphic restrictions apply.\nUS national broadcast.\n\nVenue\nSoldier Fiel
+ d\nChicago\n\nSchedule source: https://www.nfl.com/games/eagles-at-bears-2
+ 026-reg-3
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Soldier Field\nChicago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/eagles-at-bears-2026-reg-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Rams @ Philadelphia Eagles
+DTSTART:20261004T170000Z
+DTEND:20261004T201500Z
+DTSTAMP:20260927T005047Z
+UID:23a27c66cf503eb07723c703f7b7f9eb@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 4
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 4\n\nLos Angeles Rams @ Philadelphia Eagles\n
+ \nKickoff: Sunday\, October 4\, 2026 at 1:00 PM EDT (America/New_York)\nEs
+ timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: F
+ OX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.
+ \nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; loc
+ al and national blackouts apply.\nNFL+: local and primetime live game stre
+ ams require a phone or tablet\; market and device restrictions apply.\nReg
+ ional broadcast\; local market coverage varies.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
+ nue\nLincoln Financial Field\nPhiladelphia\n\nSchedule source: https://www
+ .nfl.com/games/rams-at-eagles-2026-reg-4
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lincoln Financial Field\nPhiladelphia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/rams-at-eagles-2026-reg-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Eagles @ Jacksonville Jaguars
+DTSTART:20261011T133000Z
+DTEND:20261011T164500Z
+DTSTAMP:20260927T005047Z
+UID:ac2432812aade4a2aa55cfd6b3b90510@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 5
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 5\n\nPhiladelphia Eagles @ Jacksonville Jagua
+ rs\n\nKickoff: Sunday\, October 11\, 2026 at 9:30 AM EDT (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NFL Network
+ \nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetime live game st
+ reams require a phone or tablet\; market and device restrictions apply.\nS
+ treaming listings are for the US\; eligible subscriptions and geographic r
+ estrictions apply.\nUS national broadcast.\n\nVenue\nTottenham Hotspur Sta
+ dium\nLondon\, England\n\nSchedule source: https://www.nfl.com/games/eagle
+ s-at-jaguars-2026-reg-5
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Tottenham Hotspur Stadium\nLondon\, England
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/eagles-at-jaguars-2026-reg-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carolina Panthers @ Philadelphia Eagles
+DTSTART:20261018T170000Z
+DTEND:20261018T201500Z
+DTSTAMP:20260927T005047Z
+UID:e2165c7791af7f8ae6dfb97c466a05ba@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 6
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 6\n\nCarolina Panthers @ Philadelphia Eagles
+ \n\nKickoff: Sunday\, October 18\, 2026 at 1:00 PM EDT (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nLincoln Financial Fie
+ ld\nPhiladelphia\n\nSchedule source: https://www.nfl.com/games/panthers-at
+ -eagles-2026-reg-6
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lincoln Financial Field\nPhiladelphia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/panthers-at-eagles-2026-reg-6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dallas Cowboys @ Philadelphia Eagles
+DTSTART:20261027T001500Z
+DTEND:20261027T033000Z
+DTSTAMP:20260927T005047Z
+UID:d64bd2ab7a2894d0bd71694c499a62e3@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 7
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 7\n\nDallas Cowboys @ Philadelphia Eagles\n\n
+ Kickoff: Monday\, October 26\, 2026 at 8:15 PM EDT (America/New_York)\nEst
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN 
+ Deportes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primet
+ ime live game streams require a phone or tablet\; market and device restri
+ ctions apply.\nStreaming listings are for the US\; eligible subscriptions 
+ and geographic restrictions apply.\nUS national broadcast.\n\nVenue\nLinco
+ ln Financial Field\nPhiladelphia\n\nSchedule source: https://www.nfl.com/g
+ ames/cowboys-at-eagles-2026-reg-7
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lincoln Financial Field\nPhiladelphia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cowboys-at-eagles-2026-reg-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Eagles @ Washington Commanders
+DTSTART:20261102T012000Z
+DTEND:20261102T043500Z
+DTSTAMP:20260927T005047Z
+UID:512787588f77b1afe5d29603e2748d4b@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 8
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 8\n\nPhiladelphia Eagles @ Washington Command
+ ers\n\nKickoff: Sunday\, November 1\, 2026 at 8:20 PM EST (America/New_Yor
+ k)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Unive
+ rso\nStreaming: NFL+\, Peacock\nNFL+: local and primetime live game stream
+ s require a phone or tablet\; market and device restrictions apply.\nStrea
+ ming listings are for the US\; eligible subscriptions and geographic restr
+ ictions apply.\nUS national broadcast.\n\nVenue\nNorthwest Stadium\nLandov
+ er\n\nSchedule source: https://www.nfl.com/games/eagles-at-commanders-2026
+ -reg-8
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Northwest Stadium\nLandover
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/eagles-at-commanders-2026-reg-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Giants @ Philadelphia Eagles
+DTSTART:20261108T180000Z
+DTEND:20261108T211500Z
+DTSTAMP:20260927T005047Z
+UID:62247cbe3de77096689cf133cd94a367@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 9
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 9\n\nNew York Giants @ Philadelphia Eagles\n
+ \nKickoff: Sunday\, November 8\, 2026 at 1:00 PM EST (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional br
+ oadcast\; local market coverage varies.\n\nVenue\nLincoln Financial Field
+ \nPhiladelphia\n\nSchedule source: https://www.nfl.com/games/giants-at-eag
+ les-2026-reg-9
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lincoln Financial Field\nPhiladelphia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/giants-at-eagles-2026-reg-9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh Steelers @ Philadelphia Eagles
+DTSTART:20261122T212500Z
+DTEND:20261123T004000Z
+DTSTAMP:20260927T005047Z
+UID:71dee8ff4872ed764311c3751e96fa87@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 11
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 11\n\nPittsburgh Steelers @ Philadelphia Eagl
+ es\n\nKickoff: Sunday\, November 22\, 2026 at 4:25 PM EST (America/New_Yor
+ k)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegion
+ al broadcast\; local market coverage varies.\n\nVenue\nLincoln Financial F
+ ield\nPhiladelphia\n\nSchedule source: https://www.nfl.com/games/steelers-
+ at-eagles-2026-reg-11
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lincoln Financial Field\nPhiladelphia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/steelers-at-eagles-2026-reg-11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Eagles @ Dallas Cowboys
+DTSTART:20261126T213000Z
+DTEND:20261127T004500Z
+DTSTAMP:20260927T005047Z
+UID:413b5d094b34028443a59c7293680402@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 12
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 12\n\nPhiladelphia Eagles @ Dallas Cowboys\n
+ \nKickoff: Thursday\, November 26\, 2026 at 4:30 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\, FOX Dep
+ ortes\nStreaming: FOX One\, NFL+\nFOX One: local FOX coverage and market r
+ estrictions apply.\nNFL Sunday Ticket: eligible out-of-market Sunday after
+ noon viewing\; local and national blackouts apply.\nNFL+: local and primet
+ ime live game streams require a phone or tablet\; market and device restri
+ ctions apply.\nStreaming listings are for the US\; eligible subscriptions 
+ and geographic restrictions apply.\nUS national broadcast.\n\nVenue\nAT&T 
+ Stadium\nArlington\n\nSchedule source: https://www.nfl.com/games/eagles-at
+ -cowboys-2026-reg-12
+LAST-MODIFIED:20260927T005047Z
+LOCATION:AT&T Stadium\nArlington
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/eagles-at-cowboys-2026-reg-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Eagles @ Arizona Cardinals
+DTSTART:20261206T210500Z
+DTEND:20261207T002000Z
+DTSTAMP:20260927T005047Z
+UID:34e9f062d2582da4f42ceeb4bbd759c9@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 13
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 13\n\nPhiladelphia Eagles @ Arizona Cardinals
+ \n\nKickoff: Sunday\, December 6\, 2026 at 4:05 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nState Farm Stadium\nG
+ lendale\n\nSchedule source: https://www.nfl.com/games/eagles-at-cardinals-
+ 2026-reg-13
+LAST-MODIFIED:20260927T005047Z
+LOCATION:State Farm Stadium\nGlendale
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/eagles-at-cardinals-2026-reg-13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indianapolis Colts @ Philadelphia Eagles
+DTSTART:20261213T180000Z
+DTEND:20261213T211500Z
+DTSTAMP:20260927T005047Z
+UID:18330b36010debd4a47c17d72ceae8a7@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 14
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 14\n\nIndianapolis Colts @ Philadelphia Eagle
+ s\n\nKickoff: Sunday\, December 13\, 2026 at 1:00 PM EST (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegiona
+ l broadcast\; local market coverage varies.\n\nVenue\nLincoln Financial Fi
+ eld\nPhiladelphia\n\nSchedule source: https://www.nfl.com/games/colts-at-e
+ agles-2026-reg-14
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lincoln Financial Field\nPhiladelphia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/colts-at-eagles-2026-reg-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Seahawks @ Philadelphia Eagles
+DTSTART:20261219T220000Z
+DTEND:20261220T011500Z
+DTSTAMP:20260927T005047Z
+UID:89a9fc865c52d7c5b64214ffa4b4cdee@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 15
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 15\n\nSeattle Seahawks @ Philadelphia Eagles
+ \n\nKickoff: Saturday\, December 19\, 2026 at 5:00 PM EST (America/New_Yor
+ k)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\, FOX D
+ eportes\nStreaming: FOX One\, NFL+\nFOX One: local FOX coverage and market
+  restrictions apply.\nNFL Sunday Ticket: eligible out-of-market Sunday aft
+ ernoon viewing\; local and national blackouts apply.\nNFL+: local and prim
+ etime live game streams require a phone or tablet\; market and device rest
+ rictions apply.\nStreaming listings are for the US\; eligible subscription
+ s and geographic restrictions apply.\nUS national broadcast.\n\nVenue\nLin
+ coln Financial Field\nPhiladelphia\n\nSchedule source: https://www.nfl.com
+ /games/seahawks-at-eagles-2026-reg-15
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lincoln Financial Field\nPhiladelphia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/seahawks-at-eagles-2026-reg-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Texans @ Philadelphia Eagles
+DTSTART:20261225T011500Z
+DTEND:20261225T043000Z
+DTSTAMP:20260927T005047Z
+UID:ca0f6f82bdf8c282dd67805bce571799@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 16
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 16\n\nHouston Texans @ Philadelphia Eagles\n
+ \nKickoff: Thursday\, December 24\, 2026 at 8:15 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL+\,
+  Prime Video\nNFL+: local and primetime live game streams require a phone 
+ or tablet\; market and device restrictions apply.\nStreaming listings are 
+ for the US\; eligible subscriptions and geographic restrictions apply.\nUS
+  national broadcast.\n\nVenue\nLincoln Financial Field\nPhiladelphia\n\nSc
+ hedule source: https://www.nfl.com/games/texans-at-eagles-2026-reg-16
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lincoln Financial Field\nPhiladelphia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/texans-at-eagles-2026-reg-16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Eagles @ San Francisco 49ers
+DTSTART:20270104T012000Z
+DTEND:20270104T043500Z
+DTSTAMP:20260927T005047Z
+UID:e12c913f92fee1a63ba2c28496b2c71c@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 17
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 17\n\nPhiladelphia Eagles @ San Francisco 49e
+ rs\n\nKickoff: Sunday\, January 3\, 2027 at 8:20 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Univers
+ o\nStreaming: NFL+\, Peacock\nNFL+: local and primetime live game streams 
+ require a phone or tablet\; market and device restrictions apply.\nStreami
+ ng listings are for the US\; eligible subscriptions and geographic restric
+ tions apply.\nUS national broadcast.\n\nVenue\nLevi's® Stadium\nSanta Cla
+ ra\n\nSchedule source: https://www.nfl.com/games/eagles-at-49ers-2026-reg-
+ 17
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Levi's® Stadium\nSanta Clara
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/eagles-at-49ers-2026-reg-17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] Philadelphia Eagles @ New York Giants
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+DTSTAMP:20260927T005047Z
+UID:a9277839b3bf1a8271e60bb5d89aae16@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 18
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 18\n\nPhiladelphia Eagles @ New York Giants\n
+ \nDate and kickoff: TBD.\nWeek placeholder: Wednesday\, January 6\, 2027. 
+ This is not a confirmed game date.\nThe event will move to its confirmed d
+ ate and kickoff when announced.\n\nWatch\nBroadcast information: TBD.\n\nV
+ enue\nMetLife Stadium\nEast Rutherford\n\nSchedule source: https://www.nfl
+ .com/games/eagles-at-giants-2026-reg-18
+LAST-MODIFIED:20260927T005047Z
+LOCATION:MetLife Stadium\nEast Rutherford
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/eagles-at-giants-2026-reg-18
+END:VEVENT
+END:VCALENDAR

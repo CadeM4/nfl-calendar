@@ -1,0 +1,385 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NFL Calendar//Independent schedule subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:2026 NFL regular season and postseason. Eastern Time; automat
+ ically updated.
+NAME:Cleveland Browns · 2026
+X-WR-CALNAME:Cleveland Browns · 2026
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Cleveland Browns @ Jacksonville Jaguars
+DTSTART:20260913T170000Z
+DTEND:20260913T201500Z
+DTSTAMP:20260927T005047Z
+UID:28c15fe747bb594d168f6b605d61abf9@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 1
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 1\n\nCleveland Browns @ Jacksonville Jaguars
+ \n\nKickoff: Sunday\, September 13\, 2026 at 1:00 PM EDT (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreami
+ ng: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday af
+ ternoon viewing\; local and national blackouts apply.\nNFL+: local and pri
+ metime live game streams require a phone or tablet\; market and device res
+ trictions apply.\nParamount+: this game must be carried by your local CBS 
+ station.\nRegional broadcast\; local market coverage varies.\nStreaming li
+ stings are for the US\; eligible subscriptions and geographic restrictions
+  apply.\n\nVenue\nEverBank Stadium\nJacksonville\n\nSchedule source: https
+ ://www.nfl.com/games/browns-at-jaguars-2026-reg-1
+LAST-MODIFIED:20260927T005047Z
+LOCATION:EverBank Stadium\nJacksonville
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/browns-at-jaguars-2026-reg-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cleveland Browns @ Tampa Bay Buccaneers
+DTSTART:20260920T170000Z
+DTEND:20260920T201500Z
+DTSTAMP:20260927T005047Z
+UID:9f43baa0380145c9a252813095370015@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 2
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 2\n\nCleveland Browns @ Tampa Bay Buccaneers
+ \n\nKickoff: Sunday\, September 20\, 2026 at 1:00 PM EDT (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreami
+ ng: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday af
+ ternoon viewing\; local and national blackouts apply.\nNFL+: local and pri
+ metime live game streams require a phone or tablet\; market and device res
+ trictions apply.\nParamount+: this game must be carried by your local CBS 
+ station.\nRegional broadcast\; local market coverage varies.\nStreaming li
+ stings are for the US\; eligible subscriptions and geographic restrictions
+  apply.\n\nVenue\nRaymond James Stadium\nTampa\n\nSchedule source: https:/
+ /www.nfl.com/games/browns-at-buccaneers-2026-reg-2
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Raymond James Stadium\nTampa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/browns-at-buccaneers-2026-reg-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carolina Panthers @ Cleveland Browns
+DTSTART:20260927T170000Z
+DTEND:20260927T201500Z
+DTSTAMP:20260927T005047Z
+UID:fd04d1382db5369b37a9dd94c59c4ff6@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 3
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 3\n\nCarolina Panthers @ Cleveland Browns\n\n
+ Kickoff: Sunday\, September 27\, 2026 at 1:00 PM EDT (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: 
+ FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.
+ \nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; loc
+ al and national blackouts apply.\nNFL+: local and primetime live game stre
+ ams require a phone or tablet\; market and device restrictions apply.\nReg
+ ional broadcast\; local market coverage varies.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
+ nue\nHuntington Bank Field\nCleveland\n\nSchedule source: https://www.nfl.
+ com/games/panthers-at-browns-2026-reg-3
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Huntington Bank Field\nCleveland
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/panthers-at-browns-2026-reg-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh Steelers @ Cleveland Browns
+DTSTART:20261002T001500Z
+DTEND:20261002T033000Z
+DTSTAMP:20260927T005047Z
+UID:7e92382bbda4d97e91aa49c005eca518@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 4
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 4\n\nPittsburgh Steelers @ Cleveland Browns\n
+ \nKickoff: Thursday\, October 1\, 2026 at 8:15 PM EDT (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL+\, P
+ rime Video\nNFL+: local and primetime live game streams require a phone or
+  tablet\; market and device restrictions apply.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\nUS n
+ ational broadcast.\n\nVenue\nHuntington Bank Field\nCleveland\n\nSchedule 
+ source: https://www.nfl.com/games/steelers-at-browns-2026-reg-4
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Huntington Bank Field\nCleveland
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/steelers-at-browns-2026-reg-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cleveland Browns @ New York Jets
+DTSTART:20261011T170000Z
+DTEND:20261011T201500Z
+DTSTAMP:20260927T005047Z
+UID:73210e3d770caffecb6b8641e237e314@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 5
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 5\n\nCleveland Browns @ New York Jets\n\nKick
+ off: Sunday\, October 11\, 2026 at 1:00 PM EDT (America/New_York)\nEstimat
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadcas
+ t\; local market coverage varies.\n\nVenue\nMetLife Stadium\nEast Rutherfo
+ rd\n\nSchedule source: https://www.nfl.com/games/browns-at-jets-2026-reg-5
+LAST-MODIFIED:20260927T005047Z
+LOCATION:MetLife Stadium\nEast Rutherford
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/browns-at-jets-2026-reg-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baltimore Ravens @ Cleveland Browns
+DTSTART:20261018T170000Z
+DTEND:20261018T201500Z
+DTSTAMP:20260927T005047Z
+UID:db6aa8428ae776a91064ff74a71a52b9@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 6
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 6\n\nBaltimore Ravens @ Cleveland Browns\n\nK
+ ickoff: Sunday\, October 18\, 2026 at 1:00 PM EDT (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broad
+ cast\; local market coverage varies.\n\nVenue\nHuntington Bank Field\nClev
+ eland\n\nSchedule source: https://www.nfl.com/games/ravens-at-browns-2026-
+ reg-6
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Huntington Bank Field\nCleveland
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/ravens-at-browns-2026-reg-6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cleveland Browns @ Tennessee Titans
+DTSTART:20261025T170000Z
+DTEND:20261025T201500Z
+DTSTAMP:20260927T005047Z
+UID:50bfad7bbdd13cb95f511e355eabc45e@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 7
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 7\n\nCleveland Browns @ Tennessee Titans\n\nK
+ ickoff: Sunday\, October 25\, 2026 at 1:00 PM EDT (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broad
+ cast\; local market coverage varies.\n\nVenue\nNissan Stadium\nNashville\n
+ \nSchedule source: https://www.nfl.com/games/browns-at-titans-2026-reg-7
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Nissan Stadium\nNashville
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/browns-at-titans-2026-reg-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cleveland Browns @ Pittsburgh Steelers
+DTSTART:20261101T180000Z
+DTEND:20261101T211500Z
+DTSTAMP:20260927T005047Z
+UID:dc33f4297dcda197107639bb5cd984b6@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 8
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 8\n\nCleveland Browns @ Pittsburgh Steelers\n
+ \nKickoff: Sunday\, November 1\, 2026 at 1:00 PM EST (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional br
+ oadcast\; local market coverage varies.\n\nVenue\nAcrisure Stadium\nPittsb
+ urgh\n\nSchedule source: https://www.nfl.com/games/browns-at-steelers-2026
+ -reg-8
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Acrisure Stadium\nPittsburgh
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/browns-at-steelers-2026-reg-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cleveland Browns @ New Orleans Saints
+DTSTART:20261108T180000Z
+DTEND:20261108T211500Z
+DTSTAMP:20260927T005047Z
+UID:3fc4e1ea9943e4404159e55e6cbdaf64@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 9
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 9\n\nCleveland Browns @ New Orleans Saints\n
+ \nKickoff: Sunday\, November 8\, 2026 at 1:00 PM EST (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional br
+ oadcast\; local market coverage varies.\n\nVenue\nCaesars Superdome\nNew O
+ rleans\n\nSchedule source: https://www.nfl.com/games/browns-at-saints-2026
+ -reg-9
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Caesars Superdome\nNew Orleans
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/browns-at-saints-2026-reg-9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Texans @ Cleveland Browns
+DTSTART:20261115T180000Z
+DTEND:20261115T211500Z
+DTSTAMP:20260927T005047Z
+UID:b301aee58ac5db7cf078dccd607b511d@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 10
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 10\n\nHouston Texans @ Cleveland Browns\n\nKi
+ ckoff: Sunday\, November 15\, 2026 at 1:00 PM EST (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broad
+ cast\; local market coverage varies.\n\nVenue\nHuntington Bank Field\nClev
+ eland\n\nSchedule source: https://www.nfl.com/games/texans-at-browns-2026-
+ reg-10
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Huntington Bank Field\nCleveland
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/texans-at-browns-2026-reg-10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las Vegas Raiders @ Cleveland Browns
+DTSTART:20261129T180000Z
+DTEND:20261129T211500Z
+DTSTAMP:20260927T005047Z
+UID:51e46857ae00d31c397f78ad2d330506@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 12
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 12\n\nLas Vegas Raiders @ Cleveland Browns\n
+ \nKickoff: Sunday\, November 29\, 2026 at 1:00 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional b
+ roadcast\; local market coverage varies.\n\nVenue\nHuntington Bank Field\n
+ Cleveland\n\nSchedule source: https://www.nfl.com/games/raiders-at-browns-
+ 2026-reg-12
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Huntington Bank Field\nCleveland
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/raiders-at-browns-2026-reg-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cincinnati Bengals @ Cleveland Browns
+DTSTART:20261206T180000Z
+DTEND:20261206T211500Z
+DTSTAMP:20260927T005047Z
+UID:3e83a75f0ae6de8ae3d4fc89bcfcebe2@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 13
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 13\n\nCincinnati Bengals @ Cleveland Browns\n
+ \nKickoff: Sunday\, December 6\, 2026 at 1:00 PM EST (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional br
+ oadcast\; local market coverage varies.\n\nVenue\nHuntington Bank Field\nC
+ leveland\n\nSchedule source: https://www.nfl.com/games/bengals-at-browns-2
+ 026-reg-13
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Huntington Bank Field\nCleveland
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bengals-at-browns-2026-reg-13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlanta Falcons @ Cleveland Browns
+DTSTART:20261213T180000Z
+DTEND:20261213T211500Z
+DTSTAMP:20260927T005047Z
+UID:b8f9c2a516494b1cb7f5f4d37d354528@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 14
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 14\n\nAtlanta Falcons @ Cleveland Browns\n\nK
+ ickoff: Sunday\, December 13\, 2026 at 1:00 PM EST (America/New_York)\nEst
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broa
+ dcast\; local market coverage varies.\n\nVenue\nHuntington Bank Field\nCle
+ veland\n\nSchedule source: https://www.nfl.com/games/falcons-at-browns-202
+ 6-reg-14
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Huntington Bank Field\nCleveland
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/falcons-at-browns-2026-reg-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cleveland Browns @ New York Giants
+DTSTART:20261220T180000Z
+DTEND:20261220T211500Z
+DTSTAMP:20260927T005047Z
+UID:90aaacdb9bb41c2812be1d37c6944d93@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 15
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 15\n\nCleveland Browns @ New York Giants\n\nK
+ ickoff: Sunday\, December 20\, 2026 at 1:00 PM EST (America/New_York)\nEst
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broa
+ dcast\; local market coverage varies.\n\nVenue\nMetLife Stadium\nEast Ruth
+ erford\n\nSchedule source: https://www.nfl.com/games/browns-at-giants-2026
+ -reg-15
+LAST-MODIFIED:20260927T005047Z
+LOCATION:MetLife Stadium\nEast Rutherford
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/browns-at-giants-2026-reg-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cleveland Browns @ Baltimore Ravens
+DTSTART:20261227T180000Z
+DTEND:20261227T211500Z
+DTSTAMP:20260927T005047Z
+UID:956cc47e23da5e22707469b4bbeba373@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 16
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 16\n\nCleveland Browns @ Baltimore Ravens\n\n
+ Kickoff: Sunday\, December 27\, 2026 at 1:00 PM EST (America/New_York)\nEs
+ timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional bro
+ adcast\; local market coverage varies.\n\nVenue\nM&T Bank Stadium\nBaltimo
+ re\n\nSchedule source: https://www.nfl.com/games/browns-at-ravens-2026-reg
+ -16
+LAST-MODIFIED:20260927T005047Z
+LOCATION:M&T Bank Stadium\nBaltimore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/browns-at-ravens-2026-reg-16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indianapolis Colts @ Cleveland Browns
+DTSTART:20270103T180000Z
+DTEND:20270103T211500Z
+DTSTAMP:20260927T005047Z
+UID:9cc1f3b8936f5374495c0ebb228313a2@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 17
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 17\n\nIndianapolis Colts @ Cleveland Browns\n
+ \nKickoff: Sunday\, January 3\, 2027 at 1:00 PM EST (America/New_York)\nEs
+ timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional bro
+ adcast\; local market coverage varies.\n\nVenue\nHuntington Bank Field\nCl
+ eveland\n\nSchedule source: https://www.nfl.com/games/colts-at-browns-2026
+ -reg-17
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Huntington Bank Field\nCleveland
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/colts-at-browns-2026-reg-17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] Cleveland Browns @ Cincinnati Bengals
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+DTSTAMP:20260927T005047Z
+UID:e8c512de2c1f93a81fa1e4617d392501@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 18
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 18\n\nCleveland Browns @ Cincinnati Bengals\n
+ \nDate and kickoff: TBD.\nWeek placeholder: Wednesday\, January 6\, 2027. 
+ This is not a confirmed game date.\nThe event will move to its confirmed d
+ ate and kickoff when announced.\n\nWatch\nBroadcast information: TBD.\n\nV
+ enue\nPaycor Stadium\nCincinnati\n\nSchedule source: https://www.nfl.com/g
+ ames/browns-at-bengals-2026-reg-18
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Paycor Stadium\nCincinnati
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/browns-at-bengals-2026-reg-18
+END:VEVENT
+END:VCALENDAR

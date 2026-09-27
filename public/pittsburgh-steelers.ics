@@ -1,0 +1,401 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NFL Calendar//Independent schedule subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:2026 NFL regular season and postseason. Eastern Time; automat
+ ically updated.
+NAME:Pittsburgh Steelers · 2026
+X-WR-CALNAME:Pittsburgh Steelers · 2026
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Atlanta Falcons @ Pittsburgh Steelers
+DTSTART:20260913T170000Z
+DTEND:20260913T201500Z
+DTSTAMP:20260927T005047Z
+UID:a3857ae7aa43c78c197ebaa6b5da0cf7@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 1
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 1\n\nAtlanta Falcons @ Pittsburgh Steelers\n
+ \nKickoff: Sunday\, September 13\, 2026 at 1:00 PM EDT (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreamin
+ g: FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions app
+ ly.\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; 
+ local and national blackouts apply.\nNFL+: local and primetime live game s
+ treams require a phone or tablet\; market and device restrictions apply.\n
+ Regional broadcast\; local market coverage varies.\nStreaming listings are
+  for the US\; eligible subscriptions and geographic restrictions apply.\n
+ \nVenue\nAcrisure Stadium\nPittsburgh\n\nSchedule source: https://www.nfl.
+ com/games/falcons-at-steelers-2026-reg-1
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Acrisure Stadium\nPittsburgh
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/falcons-at-steelers-2026-reg-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh Steelers @ New England Patriots
+DTSTART:20260920T170000Z
+DTEND:20260920T201500Z
+DTSTAMP:20260927T005047Z
+UID:6d9b104bd20b6fbdf805530a99a5e652@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 2
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 2\n\nPittsburgh Steelers @ New England Patrio
+ ts\n\nKickoff: Sunday\, September 20\, 2026 at 1:00 PM EDT (America/New_Yo
+ rk)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStrea
+ ming: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday 
+ afternoon viewing\; local and national blackouts apply.\nNFL+: local and p
+ rimetime live game streams require a phone or tablet\; market and device r
+ estrictions apply.\nParamount+: this game must be carried by your local CB
+ S station.\nRegional broadcast\; local market coverage varies.\nStreaming 
+ listings are for the US\; eligible subscriptions and geographic restrictio
+ ns apply.\n\nVenue\nGillette Stadium\nFoxborough\n\nSchedule source: https
+ ://www.nfl.com/games/steelers-at-patriots-2026-reg-2
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Gillette Stadium\nFoxborough
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/steelers-at-patriots-2026-reg-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cincinnati Bengals @ Pittsburgh Steelers
+DTSTART:20260927T170000Z
+DTEND:20260927T201500Z
+DTSTAMP:20260927T005047Z
+UID:f6905e165b9e14688482a9a249072dfd@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 3
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 3\n\nCincinnati Bengals @ Pittsburgh Steelers
+ \n\nKickoff: Sunday\, September 27\, 2026 at 1:00 PM EDT (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreami
+ ng: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday af
+ ternoon viewing\; local and national blackouts apply.\nNFL+: local and pri
+ metime live game streams require a phone or tablet\; market and device res
+ trictions apply.\nParamount+: this game must be carried by your local CBS 
+ station.\nRegional broadcast\; local market coverage varies.\nStreaming li
+ stings are for the US\; eligible subscriptions and geographic restrictions
+  apply.\n\nVenue\nAcrisure Stadium\nPittsburgh\n\nSchedule source: https:/
+ /www.nfl.com/games/bengals-at-steelers-2026-reg-3
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Acrisure Stadium\nPittsburgh
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bengals-at-steelers-2026-reg-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh Steelers @ Cleveland Browns
+DTSTART:20261002T001500Z
+DTEND:20261002T033000Z
+DTSTAMP:20260927T005047Z
+UID:7e92382bbda4d97e91aa49c005eca518@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 4
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 4\n\nPittsburgh Steelers @ Cleveland Browns\n
+ \nKickoff: Thursday\, October 1\, 2026 at 8:15 PM EDT (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL+\, P
+ rime Video\nNFL+: local and primetime live game streams require a phone or
+  tablet\; market and device restrictions apply.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\nUS n
+ ational broadcast.\n\nVenue\nHuntington Bank Field\nCleveland\n\nSchedule 
+ source: https://www.nfl.com/games/steelers-at-browns-2026-reg-4
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Huntington Bank Field\nCleveland
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/steelers-at-browns-2026-reg-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indianapolis Colts @ Pittsburgh Steelers
+DTSTART:20261011T170000Z
+DTEND:20261011T201500Z
+DTSTAMP:20260927T005047Z
+UID:41e86e0f3dd9de998f1d283981a0c5c1@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 5
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 5\n\nIndianapolis Colts @ Pittsburgh Steelers
+ \n\nKickoff: Sunday\, October 11\, 2026 at 1:00 PM EDT (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nAcrisure Stadium\nPit
+ tsburgh\n\nSchedule source: https://www.nfl.com/games/colts-at-steelers-20
+ 26-reg-5
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Acrisure Stadium\nPittsburgh
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/colts-at-steelers-2026-reg-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh Steelers @ Tampa Bay Buccaneers
+DTSTART:20261018T170000Z
+DTEND:20261018T201500Z
+DTSTAMP:20260927T005047Z
+UID:1b6475df285fa56c0dd19771eacc977d@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 6
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 6\n\nPittsburgh Steelers @ Tampa Bay Buccanee
+ rs\n\nKickoff: Sunday\, October 18\, 2026 at 1:00 PM EDT (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegiona
+ l broadcast\; local market coverage varies.\n\nVenue\nRaymond James Stadiu
+ m\nTampa\n\nSchedule source: https://www.nfl.com/games/steelers-at-buccane
+ ers-2026-reg-6
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Raymond James Stadium\nTampa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/steelers-at-buccaneers-2026-reg-6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh Steelers @ New Orleans Saints
+DTSTART:20261025T133000Z
+DTEND:20261025T164500Z
+DTSTAMP:20260927T005047Z
+UID:66781b3f3ae1bbf5dc902be366eae095@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 7
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 7\n\nPittsburgh Steelers @ New Orleans Saints
+ \n\nKickoff: Sunday\, October 25\, 2026 at 9:30 AM EDT (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NFL Network\n
+ Streaming: ESPN Unlimited\, NFL+\nNFL+: local and primetime live game stre
+ ams require a phone or tablet\; market and device restrictions apply.\nStr
+ eaming listings are for the US\; eligible subscriptions and geographic res
+ trictions apply.\nUS national broadcast.\n\nVenue\nStade de France\nSaint-
+ Denis\, France\n\nSchedule source: https://www.nfl.com/games/steelers-at-s
+ aints-2026-reg-7
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Stade de France\nSaint-Denis\, France
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/steelers-at-saints-2026-reg-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cleveland Browns @ Pittsburgh Steelers
+DTSTART:20261101T180000Z
+DTEND:20261101T211500Z
+DTSTAMP:20260927T005047Z
+UID:dc33f4297dcda197107639bb5cd984b6@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 8
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 8\n\nCleveland Browns @ Pittsburgh Steelers\n
+ \nKickoff: Sunday\, November 1\, 2026 at 1:00 PM EST (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional br
+ oadcast\; local market coverage varies.\n\nVenue\nAcrisure Stadium\nPittsb
+ urgh\n\nSchedule source: https://www.nfl.com/games/browns-at-steelers-2026
+ -reg-8
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Acrisure Stadium\nPittsburgh
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/browns-at-steelers-2026-reg-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh Steelers @ Cincinnati Bengals
+DTSTART:20261116T012000Z
+DTEND:20261116T043500Z
+DTSTAMP:20260927T005047Z
+UID:29c419b09b3a7927e35de408e5ce4a35@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 10
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 10\n\nPittsburgh Steelers @ Cincinnati Bengal
+ s\n\nKickoff: Sunday\, November 15\, 2026 at 8:20 PM EST (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Univer
+ so\nStreaming: NFL+\, Peacock\nNFL+: local and primetime live game streams
+  require a phone or tablet\; market and device restrictions apply.\nStream
+ ing listings are for the US\; eligible subscriptions and geographic restri
+ ctions apply.\nUS national broadcast.\n\nVenue\nPaycor Stadium\nCincinnati
+ \n\nSchedule source: https://www.nfl.com/games/steelers-at-bengals-2026-re
+ g-10
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Paycor Stadium\nCincinnati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/steelers-at-bengals-2026-reg-10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh Steelers @ Philadelphia Eagles
+DTSTART:20261122T212500Z
+DTEND:20261123T004000Z
+DTSTAMP:20260927T005047Z
+UID:71dee8ff4872ed764311c3751e96fa87@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 11
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 11\n\nPittsburgh Steelers @ Philadelphia Eagl
+ es\n\nKickoff: Sunday\, November 22\, 2026 at 4:25 PM EST (America/New_Yor
+ k)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegion
+ al broadcast\; local market coverage varies.\n\nVenue\nLincoln Financial F
+ ield\nPhiladelphia\n\nSchedule source: https://www.nfl.com/games/steelers-
+ at-eagles-2026-reg-11
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lincoln Financial Field\nPhiladelphia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/steelers-at-eagles-2026-reg-11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Denver Broncos @ Pittsburgh Steelers
+DTSTART:20261127T200000Z
+DTEND:20261127T231500Z
+DTSTAMP:20260927T005047Z
+UID:a2d5cfd32a543624c02c3f39e1e3bcdf@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 12
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 12\n\nDenver Broncos @ Pittsburgh Steelers\n
+ \nKickoff: Friday\, November 27\, 2026 at 3:00 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL+\, P
+ rime Video\nNFL+: local and primetime live game streams require a phone or
+  tablet\; market and device restrictions apply.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\nUS n
+ ational broadcast.\n\nVenue\nAcrisure Stadium\nPittsburgh\n\nSchedule sour
+ ce: https://www.nfl.com/games/broncos-at-steelers-2026-reg-12
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Acrisure Stadium\nPittsburgh
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/broncos-at-steelers-2026-reg-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Texans @ Pittsburgh Steelers
+DTSTART:20261207T012000Z
+DTEND:20261207T043500Z
+DTSTAMP:20260927T005047Z
+UID:c567ff618be109658f1dbbd5a5ce37a0@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 13
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 13\n\nHouston Texans @ Pittsburgh Steelers\n
+ \nKickoff: Sunday\, December 6\, 2026 at 8:20 PM EST (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo\n
+ Streaming: NFL+\, Peacock\nNFL+: local and primetime live game streams req
+ uire a phone or tablet\; market and device restrictions apply.\nStreaming 
+ listings are for the US\; eligible subscriptions and geographic restrictio
+ ns apply.\nUS national broadcast.\n\nVenue\nAcrisure Stadium\nPittsburgh\n
+ \nSchedule source: https://www.nfl.com/games/texans-at-steelers-2026-reg-1
+ 3
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Acrisure Stadium\nPittsburgh
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/texans-at-steelers-2026-reg-13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh Steelers @ Jacksonville Jaguars
+DTSTART:20261215T011500Z
+DTEND:20261215T043000Z
+DTSTAMP:20260927T005047Z
+UID:b90054d76e7b3fd9d2a4d2d1a9127563@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 14
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 14\n\nPittsburgh Steelers @ Jacksonville Jagu
+ ars\n\nKickoff: Monday\, December 14\, 2026 at 8:15 PM EST (America/New_Yo
+ rk)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ESPN\, ESP
+ N Deportes\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetime li
+ ve game streams require a phone or tablet\; market and device restrictions
+  apply.\nStreaming listings are for the US\; eligible subscriptions and ge
+ ographic restrictions apply.\nUS national broadcast.\n\nVenue\nEverBank St
+ adium\nJacksonville\n\nSchedule source: https://www.nfl.com/games/steelers
+ -at-jaguars-2026-reg-14
+LAST-MODIFIED:20260927T005047Z
+LOCATION:EverBank Stadium\nJacksonville
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/steelers-at-jaguars-2026-reg-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baltimore Ravens @ Pittsburgh Steelers
+DTSTART:20261220T180000Z
+DTEND:20261220T211500Z
+DTSTAMP:20260927T005047Z
+UID:920cb50dd7edda58e946a1d83b8efa3a@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 15
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 15\n\nBaltimore Ravens @ Pittsburgh Steelers
+ \n\nKickoff: Sunday\, December 20\, 2026 at 1:00 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nAcrisure Stadium\nPit
+ tsburgh\n\nSchedule source: https://www.nfl.com/games/ravens-at-steelers-2
+ 026-reg-15
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Acrisure Stadium\nPittsburgh
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/ravens-at-steelers-2026-reg-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] Carolina Panthers @ Pittsburgh Steelers
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20260927T005047Z
+UID:110a78a3ff98473588e6672f9567fbe2@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 16
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 16\n\nCarolina Panthers @ Pittsburgh Steelers
+ \n\nDate and kickoff: TBD.\nWeek placeholder: Thursday\, December 24\, 202
+ 6. This is not a confirmed game date.\nThe event will move to its confirme
+ d date and kickoff when announced.\n\nWatch\nBroadcast information: TBD.\n
+ \nVenue\nAcrisure Stadium\nPittsburgh\n\nSchedule source: https://www.nfl.
+ com/games/panthers-at-steelers-2026-reg-16
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Acrisure Stadium\nPittsburgh
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/panthers-at-steelers-2026-reg-16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh Steelers @ Tennessee Titans
+DTSTART:20270103T180000Z
+DTEND:20270103T211500Z
+DTSTAMP:20260927T005047Z
+UID:b6452d1f373c5063ee9b6a918d164460@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 17
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 17\n\nPittsburgh Steelers @ Tennessee Titans
+ \n\nKickoff: Sunday\, January 3\, 2027 at 1:00 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional b
+ roadcast\; local market coverage varies.\n\nVenue\nNissan Stadium\nNashvil
+ le\n\nSchedule source: https://www.nfl.com/games/steelers-at-titans-2026-r
+ eg-17
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Nissan Stadium\nNashville
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/steelers-at-titans-2026-reg-17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] Pittsburgh Steelers @ Baltimore Ravens
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+DTSTAMP:20260927T005047Z
+UID:b63516229ecb40a3611dd361c8eaf588@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 18
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 18\n\nPittsburgh Steelers @ Baltimore Ravens
+ \n\nDate and kickoff: TBD.\nWeek placeholder: Wednesday\, January 6\, 2027
+ . This is not a confirmed game date.\nThe event will move to its confirmed
+  date and kickoff when announced.\n\nWatch\nBroadcast information: TBD.\n
+ \nVenue\nM&T Bank Stadium\nBaltimore\n\nSchedule source: https://www.nfl.c
+ om/games/steelers-at-ravens-2026-reg-18
+LAST-MODIFIED:20260927T005047Z
+LOCATION:M&T Bank Stadium\nBaltimore
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/steelers-at-ravens-2026-reg-18
+END:VEVENT
+END:VCALENDAR

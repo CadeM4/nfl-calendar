@@ -1,0 +1,392 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NFL Calendar//Independent schedule subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:2026 NFL regular season and postseason. Eastern Time; automat
+ ically updated.
+NAME:Arizona Cardinals · 2026
+X-WR-CALNAME:Arizona Cardinals · 2026
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Arizona Cardinals @ Los Angeles Chargers
+DTSTART:20260913T202500Z
+DTEND:20260913T234000Z
+DTSTAMP:20260927T005047Z
+UID:2bb3d095d357793efc429b091366299c@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 1
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 1\n\nArizona Cardinals @ Los Angeles Chargers
+ \n\nKickoff: Sunday\, September 13\, 2026 at 4:25 PM EDT (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreami
+ ng: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday af
+ ternoon viewing\; local and national blackouts apply.\nNFL+: local and pri
+ metime live game streams require a phone or tablet\; market and device res
+ trictions apply.\nParamount+: this game must be carried by your local CBS 
+ station.\nRegional broadcast\; local market coverage varies.\nStreaming li
+ stings are for the US\; eligible subscriptions and geographic restrictions
+  apply.\n\nVenue\nSoFi Stadium\nInglewood\n\nSchedule source: https://www.
+ nfl.com/games/cardinals-at-chargers-2026-reg-1
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cardinals-at-chargers-2026-reg-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Seahawks @ Arizona Cardinals
+DTSTART:20260920T202500Z
+DTEND:20260920T234000Z
+DTSTAMP:20260927T005047Z
+UID:e7f9bf897476288405b1559f0de76a4a@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 2
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 2\n\nSeattle Seahawks @ Arizona Cardinals\n\n
+ Kickoff: Sunday\, September 20\, 2026 at 4:25 PM EDT (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: 
+ FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.
+ \nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; loc
+ al and national blackouts apply.\nNFL+: local and primetime live game stre
+ ams require a phone or tablet\; market and device restrictions apply.\nReg
+ ional broadcast\; local market coverage varies.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
+ nue\nState Farm Stadium\nGlendale\n\nSchedule source: https://www.nfl.com/
+ games/seahawks-at-cardinals-2026-reg-2
+LAST-MODIFIED:20260927T005047Z
+LOCATION:State Farm Stadium\nGlendale
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/seahawks-at-cardinals-2026-reg-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arizona Cardinals @ San Francisco 49ers
+DTSTART:20260927T200500Z
+DTEND:20260927T232000Z
+DTSTAMP:20260927T005047Z
+UID:110488033c69dc35f518175a40e0b692@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 3
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 3\n\nArizona Cardinals @ San Francisco 49ers
+ \n\nKickoff: Sunday\, September 27\, 2026 at 4:05 PM EDT (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreami
+ ng: FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions ap
+ ply.\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\;
+  local and national blackouts apply.\nNFL+: local and primetime live game 
+ streams require a phone or tablet\; market and device restrictions apply.
+ \nRegional broadcast\; local market coverage varies.\nStreaming listings a
+ re for the US\; eligible subscriptions and geographic restrictions apply.
+ \n\nVenue\nLevi's® Stadium\nSanta Clara\n\nSchedule source: https://www.n
+ fl.com/games/cardinals-at-49ers-2026-reg-3
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Levi's® Stadium\nSanta Clara
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cardinals-at-49ers-2026-reg-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arizona Cardinals @ New York Giants
+DTSTART:20261004T170000Z
+DTEND:20261004T201500Z
+DTSTAMP:20260927T005047Z
+UID:150fa86f8d66631e018190c81a746928@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 4
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 4\n\nArizona Cardinals @ New York Giants\n\nK
+ ickoff: Sunday\, October 4\, 2026 at 1:00 PM EDT (America/New_York)\nEstim
+ ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL+
+ \, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon 
+ viewing\; local and national blackouts apply.\nNFL+: local and primetime l
+ ive game streams require a phone or tablet\; market and device restriction
+ s apply.\nParamount+: this game must be carried by your local CBS station.
+ \nRegional broadcast\; local market coverage varies.\nStreaming listings a
+ re for the US\; eligible subscriptions and geographic restrictions apply.
+ \n\nVenue\nMetLife Stadium\nEast Rutherford\n\nSchedule source: https://ww
+ w.nfl.com/games/cardinals-at-giants-2026-reg-4
+LAST-MODIFIED:20260927T005047Z
+LOCATION:MetLife Stadium\nEast Rutherford
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cardinals-at-giants-2026-reg-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Lions @ Arizona Cardinals
+DTSTART:20261011T202500Z
+DTEND:20261011T234000Z
+DTSTAMP:20260927T005047Z
+UID:62315a1b142b933b349c8b5097e80325@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 5
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 5\n\nDetroit Lions @ Arizona Cardinals\n\nKic
+ koff: Sunday\, October 11\, 2026 at 4:25 PM EDT (America/New_York)\nEstima
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX O
+ ne\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nNFL
+  Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local an
+ d national blackouts apply.\nNFL+: local and primetime live game streams r
+ equire a phone or tablet\; market and device restrictions apply.\nRegional
+  broadcast\; local market coverage varies.\nStreaming listings are for the
+  US\; eligible subscriptions and geographic restrictions apply.\n\nVenue\n
+ State Farm Stadium\nGlendale\n\nSchedule source: https://www.nfl.com/games
+ /lions-at-cardinals-2026-reg-5
+LAST-MODIFIED:20260927T005047Z
+LOCATION:State Farm Stadium\nGlendale
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/lions-at-cardinals-2026-reg-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arizona Cardinals @ Los Angeles Rams
+DTSTART:20261018T200500Z
+DTEND:20261018T232000Z
+DTSTAMP:20260927T005047Z
+UID:92800f93a6a1bff3cf4afeb7e70027d3@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 6
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 6\n\nArizona Cardinals @ Los Angeles Rams\n\n
+ Kickoff: Sunday\, October 18\, 2026 at 4:05 PM EDT (America/New_York)\nEst
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broa
+ dcast\; local market coverage varies.\n\nVenue\nSoFi Stadium\nInglewood\n
+ \nSchedule source: https://www.nfl.com/games/cardinals-at-rams-2026-reg-6
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cardinals-at-rams-2026-reg-6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Denver Broncos @ Arizona Cardinals
+DTSTART:20261025T200500Z
+DTEND:20261025T232000Z
+DTSTAMP:20260927T005047Z
+UID:268c407c9c70b7ce35c872a9ba23cff9@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 7
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 7\n\nDenver Broncos @ Arizona Cardinals\n\nKi
+ ckoff: Sunday\, October 25\, 2026 at 4:05 PM EDT (America/New_York)\nEstim
+ ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadc
+ ast\; local market coverage varies.\n\nVenue\nState Farm Stadium\nGlendale
+ \n\nSchedule source: https://www.nfl.com/games/broncos-at-cardinals-2026-r
+ eg-7
+LAST-MODIFIED:20260927T005047Z
+LOCATION:State Farm Stadium\nGlendale
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/broncos-at-cardinals-2026-reg-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arizona Cardinals @ Dallas Cowboys
+DTSTART:20261101T180000Z
+DTEND:20261101T211500Z
+DTSTAMP:20260927T005047Z
+UID:083c0faebb2b9f80fb2d39748901afee@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 8
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 8\n\nArizona Cardinals @ Dallas Cowboys\n\nKi
+ ckoff: Sunday\, November 1\, 2026 at 1:00 PM EST (America/New_York)\nEstim
+ ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadc
+ ast\; local market coverage varies.\n\nVenue\nAT&T Stadium\nArlington\n\nS
+ chedule source: https://www.nfl.com/games/cardinals-at-cowboys-2026-reg-8
+LAST-MODIFIED:20260927T005047Z
+LOCATION:AT&T Stadium\nArlington
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cardinals-at-cowboys-2026-reg-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arizona Cardinals @ Seattle Seahawks
+DTSTART:20261108T212500Z
+DTEND:20261109T004000Z
+DTSTAMP:20260927T005047Z
+UID:cc137d8d2cefbf1b8ad31e7ebf5ecd88@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 9
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 9\n\nArizona Cardinals @ Seattle Seahawks\n\n
+ Kickoff: Sunday\, November 8\, 2026 at 4:25 PM EST (America/New_York)\nEst
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broa
+ dcast\; local market coverage varies.\n\nVenue\nLumen Field\nSeattle\n\nSc
+ hedule source: https://www.nfl.com/games/cardinals-at-seahawks-2026-reg-9
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lumen Field\nSeattle
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cardinals-at-seahawks-2026-reg-9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Rams @ Arizona Cardinals
+DTSTART:20261115T210500Z
+DTEND:20261116T002000Z
+DTSTAMP:20260927T005047Z
+UID:697a6421db81590f2d8a5251c580f3aa@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 10
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 10\n\nLos Angeles Rams @ Arizona Cardinals\n
+ \nKickoff: Sunday\, November 15\, 2026 at 4:05 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional b
+ roadcast\; local market coverage varies.\n\nVenue\nState Farm Stadium\nGle
+ ndale\n\nSchedule source: https://www.nfl.com/games/rams-at-cardinals-2026
+ -reg-10
+LAST-MODIFIED:20260927T005047Z
+LOCATION:State Farm Stadium\nGlendale
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/rams-at-cardinals-2026-reg-10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arizona Cardinals @ Kansas City Chiefs
+DTSTART:20261122T180000Z
+DTEND:20261122T211500Z
+DTSTAMP:20260927T005047Z
+UID:5b5884dd360b1130dc23e01626c79b5f@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 11
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 11\n\nArizona Cardinals @ Kansas City Chiefs
+ \n\nKickoff: Sunday\, November 22\, 2026 at 1:00 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nArrowhead Stadium\nKa
+ nsas City\n\nSchedule source: https://www.nfl.com/games/cardinals-at-chief
+ s-2026-reg-11
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Arrowhead Stadium\nKansas City
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cardinals-at-chiefs-2026-reg-11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington Commanders @ Arizona Cardinals
+DTSTART:20261129T212500Z
+DTEND:20261130T004000Z
+DTSTAMP:20260927T005047Z
+UID:2b6123455c7ecbf8548792381a153a7a@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 12
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 12\n\nWashington Commanders @ Arizona Cardina
+ ls\n\nKickoff: Sunday\, November 29\, 2026 at 4:25 PM EST (America/New_Yor
+ k)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegion
+ al broadcast\; local market coverage varies.\n\nVenue\nState Farm Stadium
+ \nGlendale\n\nSchedule source: https://www.nfl.com/games/commanders-at-car
+ dinals-2026-reg-12
+LAST-MODIFIED:20260927T005047Z
+LOCATION:State Farm Stadium\nGlendale
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/commanders-at-cardinals-2026-reg-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Eagles @ Arizona Cardinals
+DTSTART:20261206T210500Z
+DTEND:20261207T002000Z
+DTSTAMP:20260927T005047Z
+UID:34e9f062d2582da4f42ceeb4bbd759c9@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 13
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 13\n\nPhiladelphia Eagles @ Arizona Cardinals
+ \n\nKickoff: Sunday\, December 6\, 2026 at 4:05 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nState Farm Stadium\nG
+ lendale\n\nSchedule source: https://www.nfl.com/games/eagles-at-cardinals-
+ 2026-reg-13
+LAST-MODIFIED:20260927T005047Z
+LOCATION:State Farm Stadium\nGlendale
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/eagles-at-cardinals-2026-reg-13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Jets @ Arizona Cardinals
+DTSTART:20261220T210500Z
+DTEND:20261221T002000Z
+DTSTAMP:20260927T005047Z
+UID:3ba6e8b244685a3ae2968998e40dbc1e@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 15
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 15\n\nNew York Jets @ Arizona Cardinals\n\nKi
+ ckoff: Sunday\, December 20\, 2026 at 4:05 PM EST (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broad
+ cast\; local market coverage varies.\n\nVenue\nState Farm Stadium\nGlendal
+ e\n\nSchedule source: https://www.nfl.com/games/jets-at-cardinals-2026-reg
+ -15
+LAST-MODIFIED:20260927T005047Z
+LOCATION:State Farm Stadium\nGlendale
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/jets-at-cardinals-2026-reg-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arizona Cardinals @ New Orleans Saints
+DTSTART:20261227T180000Z
+DTEND:20261227T211500Z
+DTSTAMP:20260927T005047Z
+UID:f367f533f2c6ffdb98f717b71dcda3ea@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 16
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 16\n\nArizona Cardinals @ New Orleans Saints
+ \n\nKickoff: Sunday\, December 27\, 2026 at 1:00 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nCaesars Superdome\nNe
+ w Orleans\n\nSchedule source: https://www.nfl.com/games/cardinals-at-saint
+ s-2026-reg-16
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Caesars Superdome\nNew Orleans
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cardinals-at-saints-2026-reg-16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las Vegas Raiders @ Arizona Cardinals
+DTSTART:20270103T210500Z
+DTEND:20270104T002000Z
+DTSTAMP:20260927T005047Z
+UID:51f85bb66bb6de035a8e8962f114b8d7@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 17
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 17\n\nLas Vegas Raiders @ Arizona Cardinals\n
+ \nKickoff: Sunday\, January 3\, 2027 at 4:05 PM EST (America/New_York)\nEs
+ timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional bro
+ adcast\; local market coverage varies.\n\nVenue\nState Farm Stadium\nGlend
+ ale\n\nSchedule source: https://www.nfl.com/games/raiders-at-cardinals-202
+ 6-reg-17
+LAST-MODIFIED:20260927T005047Z
+LOCATION:State Farm Stadium\nGlendale
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/raiders-at-cardinals-2026-reg-17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] San Francisco 49ers @ Arizona Cardinals
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+DTSTAMP:20260927T005047Z
+UID:cc7f5d6ef8daf7da41e5e26668ffb2cb@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 18
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 18\n\nSan Francisco 49ers @ Arizona Cardinals
+ \n\nDate and kickoff: TBD.\nWeek placeholder: Wednesday\, January 6\, 2027
+ . This is not a confirmed game date.\nThe event will move to its confirmed
+  date and kickoff when announced.\n\nWatch\nBroadcast information: TBD.\n
+ \nVenue\nState Farm Stadium\nGlendale\n\nSchedule source: https://www.nfl.
+ com/games/49ers-at-cardinals-2026-reg-18
+LAST-MODIFIED:20260927T005047Z
+LOCATION:State Farm Stadium\nGlendale
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/49ers-at-cardinals-2026-reg-18
+END:VEVENT
+END:VCALENDAR

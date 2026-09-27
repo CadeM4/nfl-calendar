@@ -1,0 +1,5 @@
+* text=auto eol=lf
+# RFC 5545 CRLF and folded text whitespace must remain byte-for-byte intact.
+*.ics -text whitespace=-blank-at-eol
+*.png binary
+*.svg text eol=lf

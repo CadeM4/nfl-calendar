@@ -1,0 +1,396 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NFL Calendar//Independent schedule subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:2026 NFL regular season and postseason. Eastern Time; automat
+ ically updated.
+NAME:Detroit Lions · 2026
+X-WR-CALNAME:Detroit Lions · 2026
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:New Orleans Saints @ Detroit Lions
+DTSTART:20260913T170000Z
+DTEND:20260913T201500Z
+DTSTAMP:20260927T005047Z
+UID:61177e462a4f5e555a870b53b12af95c@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 1
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 1\n\nNew Orleans Saints @ Detroit Lions\n\nKi
+ ckoff: Sunday\, September 13\, 2026 at 1:00 PM EDT (America/New_York)\nEst
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FO
+ X One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\n
+ NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local
+  and national blackouts apply.\nNFL+: local and primetime live game stream
+ s require a phone or tablet\; market and device restrictions apply.\nRegio
+ nal broadcast\; local market coverage varies.\nStreaming listings are for 
+ the US\; eligible subscriptions and geographic restrictions apply.\n\nVenu
+ e\nFord Field\nDetroit\n\nSchedule source: https://www.nfl.com/games/saint
+ s-at-lions-2026-reg-1
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Ford Field\nDetroit
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/saints-at-lions-2026-reg-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Lions @ Buffalo Bills
+DTSTART:20260918T001500Z
+DTEND:20260918T033000Z
+DTSTAMP:20260927T005047Z
+UID:6f4f99a787dd8a6f98489262419ec33c@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 2
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 2\n\nDetroit Lions @ Buffalo Bills\n\nKickoff
+ : Thursday\, September 17\, 2026 at 8:15 PM EDT (America/New_York)\nEstima
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL+\, Prime V
+ ideo\nNFL+: local and primetime live game streams require a phone or table
+ t\; market and device restrictions apply.\nStreaming listings are for the 
+ US\; eligible subscriptions and geographic restrictions apply.\nUS nationa
+ l broadcast.\n\nVenue\nHighmark Stadium\nOrchard Park\n\nSchedule source: 
+ https://www.nfl.com/games/lions-at-bills-2026-reg-2
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Highmark Stadium\nOrchard Park
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/lions-at-bills-2026-reg-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Jets @ Detroit Lions
+DTSTART:20260927T170000Z
+DTEND:20260927T201500Z
+DTSTAMP:20260927T005047Z
+UID:48b5afc0b28c7624254569e0c104fce8@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 3
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 3\n\nNew York Jets @ Detroit Lions\n\nKickoff
+ : Sunday\, September 27\, 2026 at 1:00 PM EDT (America/New_York)\nEstimate
+ d game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX One
+ \, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nNFL S
+ unday Ticket: eligible out-of-market Sunday afternoon viewing\; local and 
+ national blackouts apply.\nNFL+: local and primetime live game streams req
+ uire a phone or tablet\; market and device restrictions apply.\nRegional b
+ roadcast\; local market coverage varies.\nStreaming listings are for the U
+ S\; eligible subscriptions and geographic restrictions apply.\n\nVenue\nFo
+ rd Field\nDetroit\n\nSchedule source: https://www.nfl.com/games/jets-at-li
+ ons-2026-reg-3
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Ford Field\nDetroit
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/jets-at-lions-2026-reg-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Lions @ Carolina Panthers
+DTSTART:20261005T002000Z
+DTEND:20261005T033500Z
+DTSTAMP:20260927T005047Z
+UID:887a0e4dcccac999d43d2c69c2f897ec@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 4
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 4\n\nDetroit Lions @ Carolina Panthers\n\nKic
+ koff: Sunday\, October 4\, 2026 at 8:20 PM EDT (America/New_York)\nEstimat
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo\nStream
+ ing: NFL+\, Peacock\nNFL+: local and primetime live game streams require a
+  phone or tablet\; market and device restrictions apply.\nStreaming listin
+ gs are for the US\; eligible subscriptions and geographic restrictions app
+ ly.\nUS national broadcast.\n\nVenue\nBank of America Stadium\nCharlotte\n
+ \nSchedule source: https://www.nfl.com/games/lions-at-panthers-2026-reg-4
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Bank of America Stadium\nCharlotte
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/lions-at-panthers-2026-reg-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Lions @ Arizona Cardinals
+DTSTART:20261011T202500Z
+DTEND:20261011T234000Z
+DTSTAMP:20260927T005047Z
+UID:62315a1b142b933b349c8b5097e80325@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 5
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 5\n\nDetroit Lions @ Arizona Cardinals\n\nKic
+ koff: Sunday\, October 11\, 2026 at 4:25 PM EDT (America/New_York)\nEstima
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX O
+ ne\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nNFL
+  Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local an
+ d national blackouts apply.\nNFL+: local and primetime live game streams r
+ equire a phone or tablet\; market and device restrictions apply.\nRegional
+  broadcast\; local market coverage varies.\nStreaming listings are for the
+  US\; eligible subscriptions and geographic restrictions apply.\n\nVenue\n
+ State Farm Stadium\nGlendale\n\nSchedule source: https://www.nfl.com/games
+ /lions-at-cardinals-2026-reg-5
+LAST-MODIFIED:20260927T005047Z
+LOCATION:State Farm Stadium\nGlendale
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/lions-at-cardinals-2026-reg-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Green Bay Packers @ Detroit Lions
+DTSTART:20261025T202500Z
+DTEND:20261025T234000Z
+DTSTAMP:20260927T005047Z
+UID:5a6a4c5c6cbfc3268aefb7f012543888@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 7
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 7\n\nGreen Bay Packers @ Detroit Lions\n\nKic
+ koff: Sunday\, October 25\, 2026 at 4:25 PM EDT (America/New_York)\nEstima
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadca
+ st\; local market coverage varies.\n\nVenue\nFord Field\nDetroit\n\nSchedu
+ le source: https://www.nfl.com/games/packers-at-lions-2026-reg-7
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Ford Field\nDetroit
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/packers-at-lions-2026-reg-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota Vikings @ Detroit Lions
+DTSTART:20261101T180000Z
+DTEND:20261101T211500Z
+DTSTAMP:20260927T005047Z
+UID:d90cacd8be66882b76d5672652266e3a@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 8
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 8\n\nMinnesota Vikings @ Detroit Lions\n\nKic
+ koff: Sunday\, November 1\, 2026 at 1:00 PM EST (America/New_York)\nEstima
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadca
+ st\; local market coverage varies.\n\nVenue\nFord Field\nDetroit\n\nSchedu
+ le source: https://www.nfl.com/games/vikings-at-lions-2026-reg-8
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Ford Field\nDetroit
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/vikings-at-lions-2026-reg-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Lions @ Miami Dolphins
+DTSTART:20261108T180000Z
+DTEND:20261108T211500Z
+DTSTAMP:20260927T005047Z
+UID:090f0911babf836b0b38cfa540e66e02@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 9
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 9\n\nDetroit Lions @ Miami Dolphins\n\nKickof
+ f: Sunday\, November 8\, 2026 at 1:00 PM EST (America/New_York)\nEstimated
+  game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadcast
+ \; local market coverage varies.\n\nVenue\nHard Rock Stadium\nOpa Locka\n
+ \nSchedule source: https://www.nfl.com/games/lions-at-dolphins-2026-reg-9
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Hard Rock Stadium\nOpa Locka
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/lions-at-dolphins-2026-reg-9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New England Patriots @ Detroit Lions
+DTSTART:20261115T143000Z
+DTEND:20261115T174500Z
+DTSTAMP:20260927T005047Z
+UID:aac4378dc818d197dbd14688b8425f44@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 10
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 10\n\nNew England Patriots @ Detroit Lions\n
+ \nKickoff: Sunday\, November 15\, 2026 at 9:30 AM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\, FOX Depor
+ tes\nStreaming: FOX One\, NFL+\nFOX One: local FOX coverage and market res
+ trictions apply.\nNFL Sunday Ticket: eligible out-of-market Sunday afterno
+ on viewing\; local and national blackouts apply.\nNFL+: local and primetim
+ e live game streams require a phone or tablet\; market and device restrict
+ ions apply.\nStreaming listings are for the US\; eligible subscriptions an
+ d geographic restrictions apply.\nUS national broadcast.\n\nVenue\nFC Baye
+ rn Munich Stadium\nMunich\, Germany\n\nSchedule source: https://www.nfl.co
+ m/games/patriots-at-lions-2026-reg-10
+LAST-MODIFIED:20260927T005047Z
+LOCATION:FC Bayern Munich Stadium\nMunich\, Germany
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/patriots-at-lions-2026-reg-10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tampa Bay Buccaneers @ Detroit Lions
+DTSTART:20261122T180000Z
+DTEND:20261122T211500Z
+DTSTAMP:20260927T005047Z
+UID:bcdb530718c8173bacefb568b7436039@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 11
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 11\n\nTampa Bay Buccaneers @ Detroit Lions\n
+ \nKickoff: Sunday\, November 22\, 2026 at 1:00 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional b
+ roadcast\; local market coverage varies.\n\nVenue\nFord Field\nDetroit\n\n
+ Schedule source: https://www.nfl.com/games/buccaneers-at-lions-2026-reg-11
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Ford Field\nDetroit
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/buccaneers-at-lions-2026-reg-11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bears @ Detroit Lions
+DTSTART:20261126T180000Z
+DTEND:20261126T211500Z
+DTSTAMP:20260927T005047Z
+UID:039b7fb26a7346dc8c0933a903337cdf@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 12
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 12\n\nChicago Bears @ Detroit Lions\n\nKickof
+ f: Thursday\, November 26\, 2026 at 1:00 PM EST (America/New_York)\nEstima
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL+
+ \, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon 
+ viewing\; local and national blackouts apply.\nNFL+: local and primetime l
+ ive game streams require a phone or tablet\; market and device restriction
+ s apply.\nParamount+: this game must be carried by your local CBS station.
+ \nStreaming listings are for the US\; eligible subscriptions and geographi
+ c restrictions apply.\nUS national broadcast.\n\nVenue\nFord Field\nDetroi
+ t\n\nSchedule source: https://www.nfl.com/games/bears-at-lions-2026-reg-12
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Ford Field\nDetroit
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bears-at-lions-2026-reg-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Lions @ Atlanta Falcons
+DTSTART:20261206T180000Z
+DTEND:20261206T211500Z
+DTSTAMP:20260927T005047Z
+UID:25b167a64fb3015df0b27d39da35fbc7@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 13
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 13\n\nDetroit Lions @ Atlanta Falcons\n\nKick
+ off: Sunday\, December 6\, 2026 at 1:00 PM EST (America/New_York)\nEstimat
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadcas
+ t\; local market coverage varies.\n\nVenue\nMercedes-Benz Stadium\nAtlanta
+ \n\nSchedule source: https://www.nfl.com/games/lions-at-falcons-2026-reg-1
+ 3
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Mercedes-Benz Stadium\nAtlanta
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/lions-at-falcons-2026-reg-13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee Titans @ Detroit Lions
+DTSTART:20261213T180000Z
+DTEND:20261213T211500Z
+DTSTAMP:20260927T005047Z
+UID:9c2cee98abbf46d55f4f8dbedb61da83@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 14
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 14\n\nTennessee Titans @ Detroit Lions\n\nKic
+ koff: Sunday\, December 13\, 2026 at 1:00 PM EST (America/New_York)\nEstim
+ ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadc
+ ast\; local market coverage varies.\n\nVenue\nFord Field\nDetroit\n\nSched
+ ule source: https://www.nfl.com/games/titans-at-lions-2026-reg-14
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Ford Field\nDetroit
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/titans-at-lions-2026-reg-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Lions @ Minnesota Vikings
+DTSTART:20261221T012000Z
+DTEND:20261221T043500Z
+DTSTAMP:20260927T005047Z
+UID:5054d8db963a83698004905b514c6457@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 15
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 15\n\nDetroit Lions @ Minnesota Vikings\n\nKi
+ ckoff: Sunday\, December 20\, 2026 at 8:20 PM EST (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo\nStr
+ eaming: NFL+\, Peacock\nNFL+: local and primetime live game streams requir
+ e a phone or tablet\; market and device restrictions apply.\nStreaming lis
+ tings are for the US\; eligible subscriptions and geographic restrictions 
+ apply.\nUS national broadcast.\n\nVenue\nU.S. Bank Stadium\nMinneapolis\n
+ \nSchedule source: https://www.nfl.com/games/lions-at-vikings-2026-reg-15
+LAST-MODIFIED:20260927T005047Z
+LOCATION:U.S. Bank Stadium\nMinneapolis
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/lions-at-vikings-2026-reg-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Giants @ Detroit Lions
+DTSTART:20261229T011500Z
+DTEND:20261229T043000Z
+DTSTAMP:20260927T005047Z
+UID:bc9239ca6a575a658345469ff7f6df7c@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 16
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 16\n\nNew York Giants @ Detroit Lions\n\nKick
+ off: Monday\, December 28\, 2026 at 8:15 PM EST (America/New_York)\nEstima
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: ESPN\, ESPN Deportes
+ \nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetime live game st
+ reams require a phone or tablet\; market and device restrictions apply.\nS
+ treaming listings are for the US\; eligible subscriptions and geographic r
+ estrictions apply.\nUS national broadcast.\n\nVenue\nFord Field\nDetroit\n
+ \nSchedule source: https://www.nfl.com/games/giants-at-lions-2026-reg-16
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Ford Field\nDetroit
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/giants-at-lions-2026-reg-16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Lions @ Chicago Bears
+DTSTART:20270103T212500Z
+DTEND:20270104T004000Z
+DTSTAMP:20260927T005047Z
+UID:94b517b2de4e205320a6f0d0980f9b3c@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 17
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 17\n\nDetroit Lions @ Chicago Bears\n\nKickof
+ f: Sunday\, January 3\, 2027 at 4:25 PM EST (America/New_York)\nEstimated 
+ game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadcast\;
+  local market coverage varies.\n\nVenue\nSoldier Field\nChicago\n\nSchedul
+ e source: https://www.nfl.com/games/lions-at-bears-2026-reg-17
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Soldier Field\nChicago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/lions-at-bears-2026-reg-17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] Detroit Lions @ Green Bay Packers
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+DTSTAMP:20260927T005047Z
+UID:9e89e34434733d9cb8205ff8c64cadfc@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 18
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 18\n\nDetroit Lions @ Green Bay Packers\n\nDa
+ te and kickoff: TBD.\nWeek placeholder: Wednesday\, January 6\, 2027. This
+  is not a confirmed game date.\nThe event will move to its confirmed date 
+ and kickoff when announced.\n\nWatch\nBroadcast information: TBD.\n\nVenue
+ \nLambeau Field\nGreen Bay\n\nSchedule source: https://www.nfl.com/games/l
+ ions-at-packers-2026-reg-18
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lambeau Field\nGreen Bay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/lions-at-packers-2026-reg-18
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,388 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NFL Calendar//Independent schedule subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:2026 NFL regular season and postseason. Eastern Time; automat
+ ically updated.
+NAME:Las Vegas Raiders · 2026
+X-WR-CALNAME:Las Vegas Raiders · 2026
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Miami Dolphins @ Las Vegas Raiders
+DTSTART:20260913T202500Z
+DTEND:20260913T234000Z
+DTSTAMP:20260927T005047Z
+UID:9a3cfbfdd29f523889c3ac0e0d36deb9@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 1
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 1\n\nMiami Dolphins @ Las Vegas Raiders\n\nKi
+ ckoff: Sunday\, September 13\, 2026 at 4:25 PM EDT (America/New_York)\nEst
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FO
+ X One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\n
+ NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local
+  and national blackouts apply.\nNFL+: local and primetime live game stream
+ s require a phone or tablet\; market and device restrictions apply.\nRegio
+ nal broadcast\; local market coverage varies.\nStreaming listings are for 
+ the US\; eligible subscriptions and geographic restrictions apply.\n\nVenu
+ e\nAllegiant Stadium\nParadise\n\nSchedule source: https://www.nfl.com/gam
+ es/dolphins-at-raiders-2026-reg-1
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Allegiant Stadium\nParadise
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/dolphins-at-raiders-2026-reg-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las Vegas Raiders @ Los Angeles Chargers
+DTSTART:20260920T200500Z
+DTEND:20260920T232000Z
+DTSTAMP:20260927T005047Z
+UID:e6729c3d2840adf7aae73d2ee7b79313@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 2
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 2\n\nLas Vegas Raiders @ Los Angeles Chargers
+ \n\nKickoff: Sunday\, September 20\, 2026 at 4:05 PM EDT (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreami
+ ng: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday af
+ ternoon viewing\; local and national blackouts apply.\nNFL+: local and pri
+ metime live game streams require a phone or tablet\; market and device res
+ trictions apply.\nParamount+: this game must be carried by your local CBS 
+ station.\nRegional broadcast\; local market coverage varies.\nStreaming li
+ stings are for the US\; eligible subscriptions and geographic restrictions
+  apply.\n\nVenue\nSoFi Stadium\nInglewood\n\nSchedule source: https://www.
+ nfl.com/games/raiders-at-chargers-2026-reg-2
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/raiders-at-chargers-2026-reg-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las Vegas Raiders @ New Orleans Saints
+DTSTART:20260927T202500Z
+DTEND:20260927T234000Z
+DTSTAMP:20260927T005047Z
+UID:24280a2b55ad7b7407f0a3c00f557da6@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 3
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 3\n\nLas Vegas Raiders @ New Orleans Saints\n
+ \nKickoff: Sunday\, September 27\, 2026 at 4:25 PM EDT (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreamin
+ g: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday aft
+ ernoon viewing\; local and national blackouts apply.\nNFL+: local and prim
+ etime live game streams require a phone or tablet\; market and device rest
+ rictions apply.\nParamount+: this game must be carried by your local CBS s
+ tation.\nRegional broadcast\; local market coverage varies.\nStreaming lis
+ tings are for the US\; eligible subscriptions and geographic restrictions 
+ apply.\n\nVenue\nCaesars Superdome\nNew Orleans\n\nSchedule source: https:
+ //www.nfl.com/games/raiders-at-saints-2026-reg-3
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Caesars Superdome\nNew Orleans
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/raiders-at-saints-2026-reg-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City Chiefs @ Las Vegas Raiders
+DTSTART:20261004T202500Z
+DTEND:20261004T234000Z
+DTSTAMP:20260927T005047Z
+UID:98942c04b5120f444fdd06f13ec7a583@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 4
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 4\n\nKansas City Chiefs @ Las Vegas Raiders\n
+ \nKickoff: Sunday\, October 4\, 2026 at 4:25 PM EDT (America/New_York)\nEs
+ timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: N
+ FL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afterno
+ on viewing\; local and national blackouts apply.\nNFL+: local and primetim
+ e live game streams require a phone or tablet\; market and device restrict
+ ions apply.\nParamount+: this game must be carried by your local CBS stati
+ on.\nRegional broadcast\; local market coverage varies.\nStreaming listing
+ s are for the US\; eligible subscriptions and geographic restrictions appl
+ y.\n\nVenue\nAllegiant Stadium\nParadise\n\nSchedule source: https://www.n
+ fl.com/games/chiefs-at-raiders-2026-reg-4
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Allegiant Stadium\nParadise
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chiefs-at-raiders-2026-reg-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las Vegas Raiders @ New England Patriots
+DTSTART:20261011T170000Z
+DTEND:20261011T201500Z
+DTSTAMP:20260927T005047Z
+UID:2cfd71222d73cf50e679694a139e75f3@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 5
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 5\n\nLas Vegas Raiders @ New England Patriots
+ \n\nKickoff: Sunday\, October 11\, 2026 at 1:00 PM EDT (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nGillette Stadium\nFox
+ borough\n\nSchedule source: https://www.nfl.com/games/raiders-at-patriots-
+ 2026-reg-5
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Gillette Stadium\nFoxborough
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/raiders-at-patriots-2026-reg-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buffalo Bills @ Las Vegas Raiders
+DTSTART:20261018T202500Z
+DTEND:20261018T234000Z
+DTSTAMP:20260927T005047Z
+UID:a601008757867dd0206be22424a031f3@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 6
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 6\n\nBuffalo Bills @ Las Vegas Raiders\n\nKic
+ koff: Sunday\, October 18\, 2026 at 4:25 PM EDT (America/New_York)\nEstima
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadca
+ st\; local market coverage varies.\n\nVenue\nAllegiant Stadium\nParadise\n
+ \nSchedule source: https://www.nfl.com/games/bills-at-raiders-2026-reg-6
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Allegiant Stadium\nParadise
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bills-at-raiders-2026-reg-6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Rams @ Las Vegas Raiders
+DTSTART:20261025T202500Z
+DTEND:20261025T234000Z
+DTSTAMP:20260927T005047Z
+UID:3183ebdc4169a87a4fea6218877868c7@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 7
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 7\n\nLos Angeles Rams @ Las Vegas Raiders\n\n
+ Kickoff: Sunday\, October 25\, 2026 at 4:25 PM EDT (America/New_York)\nEst
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broa
+ dcast\; local market coverage varies.\n\nVenue\nAllegiant Stadium\nParadis
+ e\n\nSchedule source: https://www.nfl.com/games/rams-at-raiders-2026-reg-7
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Allegiant Stadium\nParadise
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/rams-at-raiders-2026-reg-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las Vegas Raiders @ New York Jets
+DTSTART:20261101T180000Z
+DTEND:20261101T211500Z
+DTSTAMP:20260927T005047Z
+UID:a8fa744c88d380b1caf9e6f0ddb4b586@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 8
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 8\n\nLas Vegas Raiders @ New York Jets\n\nKic
+ koff: Sunday\, November 1\, 2026 at 1:00 PM EST (America/New_York)\nEstima
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadca
+ st\; local market coverage varies.\n\nVenue\nMetLife Stadium\nEast Rutherf
+ ord\n\nSchedule source: https://www.nfl.com/games/raiders-at-jets-2026-reg
+ -8
+LAST-MODIFIED:20260927T005047Z
+LOCATION:MetLife Stadium\nEast Rutherford
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/raiders-at-jets-2026-reg-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las Vegas Raiders @ San Francisco 49ers
+DTSTART:20261108T210500Z
+DTEND:20261109T002000Z
+DTSTAMP:20260927T005047Z
+UID:344da42239bc90123b950c976065271a@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 9
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 9\n\nLas Vegas Raiders @ San Francisco 49ers
+ \n\nKickoff: Sunday\, November 8\, 2026 at 4:05 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nLevi's® Stadium\nSan
+ ta Clara\n\nSchedule source: https://www.nfl.com/games/raiders-at-49ers-20
+ 26-reg-9
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Levi's® Stadium\nSanta Clara
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/raiders-at-49ers-2026-reg-9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Seahawks @ Las Vegas Raiders
+DTSTART:20261115T210500Z
+DTEND:20261116T002000Z
+DTSTAMP:20260927T005047Z
+UID:26aa0eefc691526f0cb3866a0087075a@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 10
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 10\n\nSeattle Seahawks @ Las Vegas Raiders\n
+ \nKickoff: Sunday\, November 15\, 2026 at 4:05 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional b
+ roadcast\; local market coverage varies.\n\nVenue\nAllegiant Stadium\nPara
+ dise\n\nSchedule source: https://www.nfl.com/games/seahawks-at-raiders-202
+ 6-reg-10
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Allegiant Stadium\nParadise
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/seahawks-at-raiders-2026-reg-10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las Vegas Raiders @ Denver Broncos
+DTSTART:20261122T212500Z
+DTEND:20261123T004000Z
+DTSTAMP:20260927T005047Z
+UID:eed5320d9f09ba54ff6bca36b9d50809@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 11
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 11\n\nLas Vegas Raiders @ Denver Broncos\n\nK
+ ickoff: Sunday\, November 22\, 2026 at 4:25 PM EST (America/New_York)\nEst
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broa
+ dcast\; local market coverage varies.\n\nVenue\nEmpower Field at Mile High
+ \nDenver\n\nSchedule source: https://www.nfl.com/games/raiders-at-broncos-
+ 2026-reg-11
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Empower Field at Mile High\nDenver
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/raiders-at-broncos-2026-reg-11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las Vegas Raiders @ Cleveland Browns
+DTSTART:20261129T180000Z
+DTEND:20261129T211500Z
+DTSTAMP:20260927T005047Z
+UID:51e46857ae00d31c397f78ad2d330506@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 12
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 12\n\nLas Vegas Raiders @ Cleveland Browns\n
+ \nKickoff: Sunday\, November 29\, 2026 at 1:00 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional b
+ roadcast\; local market coverage varies.\n\nVenue\nHuntington Bank Field\n
+ Cleveland\n\nSchedule source: https://www.nfl.com/games/raiders-at-browns-
+ 2026-reg-12
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Huntington Bank Field\nCleveland
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/raiders-at-browns-2026-reg-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Chargers @ Las Vegas Raiders
+DTSTART:20261213T210500Z
+DTEND:20261214T002000Z
+DTSTAMP:20260927T005047Z
+UID:6fe3f6c1e27b45120f472f5b38ecf250@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 14
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 14\n\nLos Angeles Chargers @ Las Vegas Raider
+ s\n\nKickoff: Sunday\, December 13\, 2026 at 4:05 PM EST (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegiona
+ l broadcast\; local market coverage varies.\n\nVenue\nAllegiant Stadium\nP
+ aradise\n\nSchedule source: https://www.nfl.com/games/chargers-at-raiders-
+ 2026-reg-14
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Allegiant Stadium\nParadise
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chargers-at-raiders-2026-reg-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Denver Broncos @ Las Vegas Raiders
+DTSTART:20261220T212500Z
+DTEND:20261221T004000Z
+DTSTAMP:20260927T005047Z
+UID:e1da1c8f22519e41f73ae8c65062fcf1@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 15
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 15\n\nDenver Broncos @ Las Vegas Raiders\n\nK
+ ickoff: Sunday\, December 20\, 2026 at 4:25 PM EST (America/New_York)\nEst
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broa
+ dcast\; local market coverage varies.\n\nVenue\nAllegiant Stadium\nParadis
+ e\n\nSchedule source: https://www.nfl.com/games/broncos-at-raiders-2026-re
+ g-15
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Allegiant Stadium\nParadise
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/broncos-at-raiders-2026-reg-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee Titans @ Las Vegas Raiders
+DTSTART:20261227T210500Z
+DTEND:20261228T002000Z
+DTSTAMP:20260927T005047Z
+UID:ae79e3e7640bb66078b400dd99fe5dde@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 16
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 16\n\nTennessee Titans @ Las Vegas Raiders\n
+ \nKickoff: Sunday\, December 27\, 2026 at 4:05 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional b
+ roadcast\; local market coverage varies.\n\nVenue\nAllegiant Stadium\nPara
+ dise\n\nSchedule source: https://www.nfl.com/games/titans-at-raiders-2026-
+ reg-16
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Allegiant Stadium\nParadise
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/titans-at-raiders-2026-reg-16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las Vegas Raiders @ Arizona Cardinals
+DTSTART:20270103T210500Z
+DTEND:20270104T002000Z
+DTSTAMP:20260927T005047Z
+UID:51f85bb66bb6de035a8e8962f114b8d7@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 17
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 17\n\nLas Vegas Raiders @ Arizona Cardinals\n
+ \nKickoff: Sunday\, January 3\, 2027 at 4:05 PM EST (America/New_York)\nEs
+ timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional bro
+ adcast\; local market coverage varies.\n\nVenue\nState Farm Stadium\nGlend
+ ale\n\nSchedule source: https://www.nfl.com/games/raiders-at-cardinals-202
+ 6-reg-17
+LAST-MODIFIED:20260927T005047Z
+LOCATION:State Farm Stadium\nGlendale
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/raiders-at-cardinals-2026-reg-17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] Las Vegas Raiders @ Kansas City Chiefs
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+DTSTAMP:20260927T005047Z
+UID:073063cbd4d301dc488a02863d836406@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 18
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 18\n\nLas Vegas Raiders @ Kansas City Chiefs
+ \n\nDate and kickoff: TBD.\nWeek placeholder: Wednesday\, January 6\, 2027
+ . This is not a confirmed game date.\nThe event will move to its confirmed
+  date and kickoff when announced.\n\nWatch\nBroadcast information: TBD.\n
+ \nVenue\nArrowhead Stadium\nKansas City\n\nSchedule source: https://www.nf
+ l.com/games/raiders-at-chiefs-2026-reg-18
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Arrowhead Stadium\nKansas City
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/raiders-at-chiefs-2026-reg-18
+END:VEVENT
+END:VCALENDAR

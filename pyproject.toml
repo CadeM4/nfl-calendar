@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools==82.0.1"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nfl-subscription-calendar"
+version = "1.0.0"
+description = "Official-source NFL subscription calendars with safe automated refreshes"
+requires-python = ">=3.11"
+dependencies = ["icalendar==7.3.0", "tzdata==2026.4", "python-dateutil==2.9.0.post0", "six==1.17.0"]
+
+[project.scripts]
+nfl-calendar = "nfl_calendar.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

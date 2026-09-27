@@ -1,0 +1,396 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NFL Calendar//Independent schedule subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:2026 NFL regular season and postseason. Eastern Time; automat
+ ically updated.
+NAME:Tampa Bay Buccaneers · 2026
+X-WR-CALNAME:Tampa Bay Buccaneers · 2026
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Tampa Bay Buccaneers @ Cincinnati Bengals
+DTSTART:20260913T170000Z
+DTEND:20260913T201500Z
+DTSTAMP:20260927T005047Z
+UID:594705fd64134c9d07214d3abf344ea8@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 1
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 1\n\nTampa Bay Buccaneers @ Cincinnati Bengal
+ s\n\nKickoff: Sunday\, September 13\, 2026 at 1:00 PM EDT (America/New_Yor
+ k)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStream
+ ing: FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions a
+ pply.\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing
+ \; local and national blackouts apply.\nNFL+: local and primetime live gam
+ e streams require a phone or tablet\; market and device restrictions apply
+ .\nRegional broadcast\; local market coverage varies.\nStreaming listings 
+ are for the US\; eligible subscriptions and geographic restrictions apply.
+ \n\nVenue\nPaycor Stadium\nCincinnati\n\nSchedule source: https://www.nfl.
+ com/games/buccaneers-at-bengals-2026-reg-1
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Paycor Stadium\nCincinnati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/buccaneers-at-bengals-2026-reg-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cleveland Browns @ Tampa Bay Buccaneers
+DTSTART:20260920T170000Z
+DTEND:20260920T201500Z
+DTSTAMP:20260927T005047Z
+UID:9f43baa0380145c9a252813095370015@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 2
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 2\n\nCleveland Browns @ Tampa Bay Buccaneers
+ \n\nKickoff: Sunday\, September 20\, 2026 at 1:00 PM EDT (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreami
+ ng: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday af
+ ternoon viewing\; local and national blackouts apply.\nNFL+: local and pri
+ metime live game streams require a phone or tablet\; market and device res
+ trictions apply.\nParamount+: this game must be carried by your local CBS 
+ station.\nRegional broadcast\; local market coverage varies.\nStreaming li
+ stings are for the US\; eligible subscriptions and geographic restrictions
+  apply.\n\nVenue\nRaymond James Stadium\nTampa\n\nSchedule source: https:/
+ /www.nfl.com/games/browns-at-buccaneers-2026-reg-2
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Raymond James Stadium\nTampa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/browns-at-buccaneers-2026-reg-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota Vikings @ Tampa Bay Buccaneers
+DTSTART:20260927T200500Z
+DTEND:20260927T232000Z
+DTSTAMP:20260927T005047Z
+UID:bc48596ad741392739f29d05407cd2e5@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 3
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 3\n\nMinnesota Vikings @ Tampa Bay Buccaneers
+ \n\nKickoff: Sunday\, September 27\, 2026 at 4:05 PM EDT (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreami
+ ng: FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions ap
+ ply.\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\;
+  local and national blackouts apply.\nNFL+: local and primetime live game 
+ streams require a phone or tablet\; market and device restrictions apply.
+ \nRegional broadcast\; local market coverage varies.\nStreaming listings a
+ re for the US\; eligible subscriptions and geographic restrictions apply.
+ \n\nVenue\nRaymond James Stadium\nTampa\n\nSchedule source: https://www.nf
+ l.com/games/vikings-at-buccaneers-2026-reg-3
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Raymond James Stadium\nTampa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/vikings-at-buccaneers-2026-reg-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Green Bay Packers @ Tampa Bay Buccaneers
+DTSTART:20261004T170000Z
+DTEND:20261004T201500Z
+DTSTAMP:20260927T005047Z
+UID:ea9f43e65ab5d49bb99e6e8b760053be@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 4
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 4\n\nGreen Bay Packers @ Tampa Bay Buccaneers
+ \n\nKickoff: Sunday\, October 4\, 2026 at 1:00 PM EDT (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming:
+  FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply
+ .\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; lo
+ cal and national blackouts apply.\nNFL+: local and primetime live game str
+ eams require a phone or tablet\; market and device restrictions apply.\nRe
+ gional broadcast\; local market coverage varies.\nStreaming listings are f
+ or the US\; eligible subscriptions and geographic restrictions apply.\n\nV
+ enue\nRaymond James Stadium\nTampa\n\nSchedule source: https://www.nfl.com
+ /games/packers-at-buccaneers-2026-reg-4
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Raymond James Stadium\nTampa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/packers-at-buccaneers-2026-reg-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tampa Bay Buccaneers @ Dallas Cowboys
+DTSTART:20261009T001500Z
+DTEND:20261009T033000Z
+DTSTAMP:20260927T005047Z
+UID:f52f9175caafe5ab52168feae0fee960@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 5
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 5\n\nTampa Bay Buccaneers @ Dallas Cowboys\n
+ \nKickoff: Thursday\, October 8\, 2026 at 8:15 PM EDT (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL+\, P
+ rime Video\nNFL+: local and primetime live game streams require a phone or
+  tablet\; market and device restrictions apply.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\nUS n
+ ational broadcast.\n\nVenue\nAT&T Stadium\nArlington\n\nSchedule source: h
+ ttps://www.nfl.com/games/buccaneers-at-cowboys-2026-reg-5
+LAST-MODIFIED:20260927T005047Z
+LOCATION:AT&T Stadium\nArlington
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/buccaneers-at-cowboys-2026-reg-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh Steelers @ Tampa Bay Buccaneers
+DTSTART:20261018T170000Z
+DTEND:20261018T201500Z
+DTSTAMP:20260927T005047Z
+UID:1b6475df285fa56c0dd19771eacc977d@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 6
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 6\n\nPittsburgh Steelers @ Tampa Bay Buccanee
+ rs\n\nKickoff: Sunday\, October 18\, 2026 at 1:00 PM EDT (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegiona
+ l broadcast\; local market coverage varies.\n\nVenue\nRaymond James Stadiu
+ m\nTampa\n\nSchedule source: https://www.nfl.com/games/steelers-at-buccane
+ ers-2026-reg-6
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Raymond James Stadium\nTampa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/steelers-at-buccaneers-2026-reg-6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tampa Bay Buccaneers @ Carolina Panthers
+DTSTART:20261025T170000Z
+DTEND:20261025T201500Z
+DTSTAMP:20260927T005047Z
+UID:770e2e484cdcc98044620782ef7d7dd5@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 7
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 7\n\nTampa Bay Buccaneers @ Carolina Panthers
+ \n\nKickoff: Sunday\, October 25\, 2026 at 1:00 PM EDT (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nBank of America Stadi
+ um\nCharlotte\n\nSchedule source: https://www.nfl.com/games/buccaneers-at-
+ panthers-2026-reg-7
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Bank of America Stadium\nCharlotte
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/buccaneers-at-panthers-2026-reg-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlanta Falcons @ Tampa Bay Buccaneers
+DTSTART:20261101T180000Z
+DTEND:20261101T211500Z
+DTSTAMP:20260927T005047Z
+UID:fa29e52661fc632a08c68b58f683a207@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 8
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 8\n\nAtlanta Falcons @ Tampa Bay Buccaneers\n
+ \nKickoff: Sunday\, November 1\, 2026 at 1:00 PM EST (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional br
+ oadcast\; local market coverage varies.\n\nVenue\nRaymond James Stadium\nT
+ ampa\n\nSchedule source: https://www.nfl.com/games/falcons-at-buccaneers-2
+ 026-reg-8
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Raymond James Stadium\nTampa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/falcons-at-buccaneers-2026-reg-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tampa Bay Buccaneers @ Chicago Bears
+DTSTART:20261109T012000Z
+DTEND:20261109T043500Z
+DTSTAMP:20260927T005047Z
+UID:956524230c8a67d472c8242f8e57cf5a@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 9
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 9\n\nTampa Bay Buccaneers @ Chicago Bears\n\n
+ Kickoff: Sunday\, November 8\, 2026 at 8:20 PM EST (America/New_York)\nEst
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo\nSt
+ reaming: NFL+\, Peacock\nNFL+: local and primetime live game streams requi
+ re a phone or tablet\; market and device restrictions apply.\nStreaming li
+ stings are for the US\; eligible subscriptions and geographic restrictions
+  apply.\nUS national broadcast.\n\nVenue\nSoldier Field\nChicago\n\nSchedu
+ le source: https://www.nfl.com/games/buccaneers-at-bears-2026-reg-9
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Soldier Field\nChicago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/buccaneers-at-bears-2026-reg-9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tampa Bay Buccaneers @ Detroit Lions
+DTSTART:20261122T180000Z
+DTEND:20261122T211500Z
+DTSTAMP:20260927T005047Z
+UID:bcdb530718c8173bacefb568b7436039@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 11
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 11\n\nTampa Bay Buccaneers @ Detroit Lions\n
+ \nKickoff: Sunday\, November 22\, 2026 at 1:00 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional b
+ roadcast\; local market coverage varies.\n\nVenue\nFord Field\nDetroit\n\n
+ Schedule source: https://www.nfl.com/games/buccaneers-at-lions-2026-reg-11
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Ford Field\nDetroit
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/buccaneers-at-lions-2026-reg-11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carolina Panthers @ Tampa Bay Buccaneers
+DTSTART:20261201T011500Z
+DTEND:20261201T043000Z
+DTSTAMP:20260927T005047Z
+UID:2738bc9d4119f189e3be0396db801401@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 12
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 12\n\nCarolina Panthers @ Tampa Bay Buccaneer
+ s\n\nKickoff: Monday\, November 30\, 2026 at 8:15 PM EST (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ESPN\, ESPN 
+ Deportes\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetime live
+  game streams require a phone or tablet\; market and device restrictions a
+ pply.\nStreaming listings are for the US\; eligible subscriptions and geog
+ raphic restrictions apply.\nUS national broadcast.\n\nVenue\nRaymond James
+  Stadium\nTampa\n\nSchedule source: https://www.nfl.com/games/panthers-at-
+ buccaneers-2026-reg-12
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Raymond James Stadium\nTampa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/panthers-at-buccaneers-2026-reg-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Chargers @ Tampa Bay Buccaneers
+DTSTART:20261206T180000Z
+DTEND:20261206T211500Z
+DTSTAMP:20260927T005047Z
+UID:46997c0ef809dc5f867b8f66abc3ed73@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 13
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 13\n\nLos Angeles Chargers @ Tampa Bay Buccan
+ eers\n\nKickoff: Sunday\, December 6\, 2026 at 1:00 PM EST (America/New_Yo
+ rk)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegio
+ nal broadcast\; local market coverage varies.\n\nVenue\nRaymond James Stad
+ ium\nTampa\n\nSchedule source: https://www.nfl.com/games/chargers-at-bucca
+ neers-2026-reg-13
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Raymond James Stadium\nTampa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chargers-at-buccaneers-2026-reg-13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tampa Bay Buccaneers @ Baltimore Ravens
+DTSTART:20261213T180000Z
+DTEND:20261213T211500Z
+DTSTAMP:20260927T005047Z
+UID:103ebd70a20d51e5c6f981990a14923e@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 14
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 14\n\nTampa Bay Buccaneers @ Baltimore Ravens
+ \n\nKickoff: Sunday\, December 13\, 2026 at 1:00 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nM&T Bank Stadium\nBal
+ timore\n\nSchedule source: https://www.nfl.com/games/buccaneers-at-ravens-
+ 2026-reg-14
+LAST-MODIFIED:20260927T005047Z
+LOCATION:M&T Bank Stadium\nBaltimore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/buccaneers-at-ravens-2026-reg-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Orleans Saints @ Tampa Bay Buccaneers
+DTSTART:20261220T180000Z
+DTEND:20261220T211500Z
+DTSTAMP:20260927T005047Z
+UID:c8badc068b76e3d0313ff51e1c50200b@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 15
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 15\n\nNew Orleans Saints @ Tampa Bay Buccanee
+ rs\n\nKickoff: Sunday\, December 20\, 2026 at 1:00 PM EST (America/New_Yor
+ k)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegion
+ al broadcast\; local market coverage varies.\n\nVenue\nRaymond James Stadi
+ um\nTampa\n\nSchedule source: https://www.nfl.com/games/saints-at-buccanee
+ rs-2026-reg-15
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Raymond James Stadium\nTampa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/saints-at-buccaneers-2026-reg-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] Tampa Bay Buccaneers @ Atlanta Falcons
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20260927T005047Z
+UID:9c24a892af6c87f32aaee862c3c95c0d@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 16
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 16\n\nTampa Bay Buccaneers @ Atlanta Falcons
+ \n\nDate and kickoff: TBD.\nWeek placeholder: Thursday\, December 24\, 202
+ 6. This is not a confirmed game date.\nThe event will move to its confirme
+ d date and kickoff when announced.\n\nWatch\nBroadcast information: TBD.\n
+ \nVenue\nMercedes-Benz Stadium\nAtlanta\n\nSchedule source: https://www.nf
+ l.com/games/buccaneers-at-falcons-2026-reg-16
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Mercedes-Benz Stadium\nAtlanta
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/buccaneers-at-falcons-2026-reg-16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] Los Angeles Rams @ Tampa Bay Buccaneers
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20260927T005047Z
+UID:2ccf1753a24fa8db56738b6e16e0a4d4@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 17
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 17\n\nLos Angeles Rams @ Tampa Bay Buccaneers
+ \n\nDate and kickoff: TBD.\nWeek placeholder: Thursday\, December 31\, 202
+ 6. This is not a confirmed game date.\nThe event will move to its confirme
+ d date and kickoff when announced.\n\nWatch\nBroadcast information: TBD.\n
+ \nVenue\nRaymond James Stadium\nTampa\n\nSchedule source: https://www.nfl.
+ com/games/rams-at-buccaneers-2026-reg-17
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Raymond James Stadium\nTampa
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/rams-at-buccaneers-2026-reg-17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] Tampa Bay Buccaneers @ New Orleans Saints
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+DTSTAMP:20260927T005047Z
+UID:95bcab41620f20a2a2f43c9a5f05a888@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 18
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 18\n\nTampa Bay Buccaneers @ New Orleans Sain
+ ts\n\nDate and kickoff: TBD.\nWeek placeholder: Wednesday\, January 6\, 20
+ 27. This is not a confirmed game date.\nThe event will move to its confirm
+ ed date and kickoff when announced.\n\nWatch\nBroadcast information: TBD.
+ \n\nVenue\nCaesars Superdome\nNew Orleans\n\nSchedule source: https://www.
+ nfl.com/games/buccaneers-at-saints-2026-reg-18
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Caesars Superdome\nNew Orleans
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/buccaneers-at-saints-2026-reg-18
+END:VEVENT
+END:VCALENDAR

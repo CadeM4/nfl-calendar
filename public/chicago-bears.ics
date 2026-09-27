@@ -1,0 +1,406 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NFL Calendar//Independent schedule subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:2026 NFL regular season and postseason. Eastern Time; automat
+ ically updated.
+NAME:Chicago Bears · 2026
+X-WR-CALNAME:Chicago Bears · 2026
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Chicago Bears @ Carolina Panthers
+DTSTART:20260913T170000Z
+DTEND:20260913T201500Z
+DTSTAMP:20260927T005047Z
+UID:719ad7637a4e084826efc74cff8cf857@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 1
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 1\n\nChicago Bears @ Carolina Panthers\n\nKic
+ koff: Sunday\, September 13\, 2026 at 1:00 PM EDT (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX
+  One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nN
+ FL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local 
+ and national blackouts apply.\nNFL+: local and primetime live game streams
+  require a phone or tablet\; market and device restrictions apply.\nRegion
+ al broadcast\; local market coverage varies.\nStreaming listings are for t
+ he US\; eligible subscriptions and geographic restrictions apply.\n\nVenue
+ \nBank of America Stadium\nCharlotte\n\nSchedule source: https://www.nfl.c
+ om/games/bears-at-panthers-2026-reg-1
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Bank of America Stadium\nCharlotte
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bears-at-panthers-2026-reg-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota Vikings @ Chicago Bears
+DTSTART:20260920T170000Z
+DTEND:20260920T201500Z
+DTSTAMP:20260927T005047Z
+UID:25d3b51acf511e066e72b08846a28c1c@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 2
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 2\n\nMinnesota Vikings @ Chicago Bears\n\nKic
+ koff: Sunday\, September 20\, 2026 at 1:00 PM EDT (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX
+  One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nN
+ FL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local 
+ and national blackouts apply.\nNFL+: local and primetime live game streams
+  require a phone or tablet\; market and device restrictions apply.\nRegion
+ al broadcast\; local market coverage varies.\nStreaming listings are for t
+ he US\; eligible subscriptions and geographic restrictions apply.\n\nVenue
+ \nSoldier Field\nChicago\n\nSchedule source: https://www.nfl.com/games/vik
+ ings-at-bears-2026-reg-2
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Soldier Field\nChicago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/vikings-at-bears-2026-reg-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Eagles @ Chicago Bears
+DTSTART:20260929T001500Z
+DTEND:20260929T033000Z
+DTSTAMP:20260927T005047Z
+UID:ad20fcf72d9d7c5bbd6830f614fcd9d6@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 3
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 3\n\nPhiladelphia Eagles @ Chicago Bears\n\nK
+ ickoff: Monday\, September 28\, 2026 at 8:15 PM EDT (America/New_York)\nEs
+ timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN
+  Deportes\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetime liv
+ e game streams require a phone or tablet\; market and device restrictions 
+ apply.\nStreaming listings are for the US\; eligible subscriptions and geo
+ graphic restrictions apply.\nUS national broadcast.\n\nVenue\nSoldier Fiel
+ d\nChicago\n\nSchedule source: https://www.nfl.com/games/eagles-at-bears-2
+ 026-reg-3
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Soldier Field\nChicago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/eagles-at-bears-2026-reg-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Jets @ Chicago Bears
+DTSTART:20261004T170000Z
+DTEND:20261004T201500Z
+DTSTAMP:20260927T005047Z
+UID:7e21a5516b6401522c1b7729fe762740@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 4
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 4\n\nNew York Jets @ Chicago Bears\n\nKickoff
+ : Sunday\, October 4\, 2026 at 1:00 PM EDT (America/New_York)\nEstimated g
+ ame duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX One\, 
+ NFL+\nFOX One: local FOX coverage and market restrictions apply.\nNFL Sund
+ ay Ticket: eligible out-of-market Sunday afternoon viewing\; local and nat
+ ional blackouts apply.\nNFL+: local and primetime live game streams requir
+ e a phone or tablet\; market and device restrictions apply.\nRegional broa
+ dcast\; local market coverage varies.\nStreaming listings are for the US\;
+  eligible subscriptions and geographic restrictions apply.\n\nVenue\nSoldi
+ er Field\nChicago\n\nSchedule source: https://www.nfl.com/games/jets-at-be
+ ars-2026-reg-4
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Soldier Field\nChicago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/jets-at-bears-2026-reg-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bears @ Green Bay Packers
+DTSTART:20261011T202500Z
+DTEND:20261011T234000Z
+DTSTAMP:20260927T005047Z
+UID:5252a8c9e60986a01f4fb1f25f49f707@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 5
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 5\n\nChicago Bears @ Green Bay Packers\n\nKic
+ koff: Sunday\, October 11\, 2026 at 4:25 PM EDT (America/New_York)\nEstima
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX O
+ ne\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nNFL
+  Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local an
+ d national blackouts apply.\nNFL+: local and primetime live game streams r
+ equire a phone or tablet\; market and device restrictions apply.\nRegional
+  broadcast\; local market coverage varies.\nStreaming listings are for the
+  US\; eligible subscriptions and geographic restrictions apply.\n\nVenue\n
+ Lambeau Field\nGreen Bay\n\nSchedule source: https://www.nfl.com/games/bea
+ rs-at-packers-2026-reg-5
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lambeau Field\nGreen Bay
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bears-at-packers-2026-reg-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bears @ Atlanta Falcons
+DTSTART:20261018T170000Z
+DTEND:20261018T201500Z
+DTSTAMP:20260927T005047Z
+UID:2074579d4eb58bb18fb7c3c7f58a22e4@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 6
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 6\n\nChicago Bears @ Atlanta Falcons\n\nKicko
+ ff: Sunday\, October 18\, 2026 at 1:00 PM EDT (America/New_York)\nEstimate
+ d game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadcast
+ \; local market coverage varies.\n\nVenue\nMercedes-Benz Stadium\nAtlanta
+ \n\nSchedule source: https://www.nfl.com/games/bears-at-falcons-2026-reg-6
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Mercedes-Benz Stadium\nAtlanta
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bears-at-falcons-2026-reg-6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New England Patriots @ Chicago Bears
+DTSTART:20261023T001500Z
+DTEND:20261023T033000Z
+DTSTAMP:20260927T005047Z
+UID:42f73e8af3d4e2f0ce5ae03708853db3@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 7
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 7\n\nNew England Patriots @ Chicago Bears\n\n
+ Kickoff: Thursday\, October 22\, 2026 at 8:15 PM EDT (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL+\, Pr
+ ime Video\nNFL+: local and primetime live game streams require a phone or 
+ tablet\; market and device restrictions apply.\nStreaming listings are for
+  the US\; eligible subscriptions and geographic restrictions apply.\nUS na
+ tional broadcast.\n\nVenue\nSoldier Field\nChicago\n\nSchedule source: htt
+ ps://www.nfl.com/games/patriots-at-bears-2026-reg-7
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Soldier Field\nChicago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/patriots-at-bears-2026-reg-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bears @ Seattle Seahawks
+DTSTART:20261103T011500Z
+DTEND:20261103T043000Z
+DTSTAMP:20260927T005047Z
+UID:846d307974cdaac7ca860167ec5261f0@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 8
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 8\n\nChicago Bears @ Seattle Seahawks\n\nKick
+ off: Monday\, November 2\, 2026 at 8:15 PM EST (America/New_York)\nEstimat
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN Depo
+ rtes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetime 
+ live game streams require a phone or tablet\; market and device restrictio
+ ns apply.\nStreaming listings are for the US\; eligible subscriptions and 
+ geographic restrictions apply.\nUS national broadcast.\n\nVenue\nLumen Fie
+ ld\nSeattle\n\nSchedule source: https://www.nfl.com/games/bears-at-seahawk
+ s-2026-reg-8
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lumen Field\nSeattle
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bears-at-seahawks-2026-reg-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tampa Bay Buccaneers @ Chicago Bears
+DTSTART:20261109T012000Z
+DTEND:20261109T043500Z
+DTSTAMP:20260927T005047Z
+UID:956524230c8a67d472c8242f8e57cf5a@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 9
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 9\n\nTampa Bay Buccaneers @ Chicago Bears\n\n
+ Kickoff: Sunday\, November 8\, 2026 at 8:20 PM EST (America/New_York)\nEst
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo\nSt
+ reaming: NFL+\, Peacock\nNFL+: local and primetime live game streams requi
+ re a phone or tablet\; market and device restrictions apply.\nStreaming li
+ stings are for the US\; eligible subscriptions and geographic restrictions
+  apply.\nUS national broadcast.\n\nVenue\nSoldier Field\nChicago\n\nSchedu
+ le source: https://www.nfl.com/games/buccaneers-at-bears-2026-reg-9
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Soldier Field\nChicago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/buccaneers-at-bears-2026-reg-9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Orleans Saints @ Chicago Bears
+DTSTART:20261122T180000Z
+DTEND:20261122T211500Z
+DTSTAMP:20260927T005047Z
+UID:30cb458cdf160b010317b2e09473c0fb@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 11
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 11\n\nNew Orleans Saints @ Chicago Bears\n\nK
+ ickoff: Sunday\, November 22\, 2026 at 1:00 PM EST (America/New_York)\nEst
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broa
+ dcast\; local market coverage varies.\n\nVenue\nSoldier Field\nChicago\n\n
+ Schedule source: https://www.nfl.com/games/saints-at-bears-2026-reg-11
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Soldier Field\nChicago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/saints-at-bears-2026-reg-11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bears @ Detroit Lions
+DTSTART:20261126T180000Z
+DTEND:20261126T211500Z
+DTSTAMP:20260927T005047Z
+UID:039b7fb26a7346dc8c0933a903337cdf@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 12
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 12\n\nChicago Bears @ Detroit Lions\n\nKickof
+ f: Thursday\, November 26\, 2026 at 1:00 PM EST (America/New_York)\nEstima
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL+
+ \, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon 
+ viewing\; local and national blackouts apply.\nNFL+: local and primetime l
+ ive game streams require a phone or tablet\; market and device restriction
+ s apply.\nParamount+: this game must be carried by your local CBS station.
+ \nStreaming listings are for the US\; eligible subscriptions and geographi
+ c restrictions apply.\nUS national broadcast.\n\nVenue\nFord Field\nDetroi
+ t\n\nSchedule source: https://www.nfl.com/games/bears-at-lions-2026-reg-12
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Ford Field\nDetroit
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bears-at-lions-2026-reg-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jacksonville Jaguars @ Chicago Bears
+DTSTART:20261206T180000Z
+DTEND:20261206T211500Z
+DTSTAMP:20260927T005047Z
+UID:8e0ca3856776f1cee713733f09b1acfc@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 13
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 13\n\nJacksonville Jaguars @ Chicago Bears\n
+ \nKickoff: Sunday\, December 6\, 2026 at 1:00 PM EST (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional br
+ oadcast\; local market coverage varies.\n\nVenue\nSoldier Field\nChicago\n
+ \nSchedule source: https://www.nfl.com/games/jaguars-at-bears-2026-reg-13
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Soldier Field\nChicago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/jaguars-at-bears-2026-reg-13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bears @ Miami Dolphins
+DTSTART:20261213T180000Z
+DTEND:20261213T211500Z
+DTSTAMP:20260927T005047Z
+UID:b6b293b29e9084b738f757250cdce825@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 14
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 14\n\nChicago Bears @ Miami Dolphins\n\nKicko
+ ff: Sunday\, December 13\, 2026 at 1:00 PM EST (America/New_York)\nEstimat
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadcas
+ t\; local market coverage varies.\n\nVenue\nHard Rock Stadium\nOpa Locka\n
+ \nSchedule source: https://www.nfl.com/games/bears-at-dolphins-2026-reg-14
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Hard Rock Stadium\nOpa Locka
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bears-at-dolphins-2026-reg-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bears @ Buffalo Bills
+DTSTART:20261220T012000Z
+DTEND:20261220T043500Z
+DTSTAMP:20260927T005047Z
+UID:853f07071e829fd51eb34f522e9dc4d6@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 15
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 15\n\nChicago Bears @ Buffalo Bills\n\nKickof
+ f: Saturday\, December 19\, 2026 at 8:20 PM EST (America/New_York)\nEstima
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL+
+ \, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon 
+ viewing\; local and national blackouts apply.\nNFL+: local and primetime l
+ ive game streams require a phone or tablet\; market and device restriction
+ s apply.\nParamount+: this game must be carried by your local CBS station.
+ \nStreaming listings are for the US\; eligible subscriptions and geographi
+ c restrictions apply.\nUS national broadcast.\n\nVenue\nHighmark Stadium\n
+ Orchard Park\n\nSchedule source: https://www.nfl.com/games/bears-at-bills-
+ 2026-reg-15
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Highmark Stadium\nOrchard Park
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bears-at-bills-2026-reg-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Green Bay Packers @ Chicago Bears
+DTSTART:20261225T180000Z
+DTEND:20261225T211500Z
+DTSTAMP:20260927T005047Z
+UID:16144d346f6b9b58ba26cf83aff694dd@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 16
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 16\n\nGreen Bay Packers @ Chicago Bears\n\nKi
+ ckoff: Friday\, December 25\, 2026 at 1:00 PM EST (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: Netflix\, NF
+ L+\nNFL+: local and primetime live game streams require a phone or tablet
+ \; market and device restrictions apply.\nStreaming listings are for the U
+ S\; eligible subscriptions and geographic restrictions apply.\nUS national
+  broadcast.\n\nVenue\nSoldier Field\nChicago\n\nSchedule source: https://w
+ ww.nfl.com/games/packers-at-bears-2026-reg-16
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Soldier Field\nChicago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/packers-at-bears-2026-reg-16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Lions @ Chicago Bears
+DTSTART:20270103T212500Z
+DTEND:20270104T004000Z
+DTSTAMP:20260927T005047Z
+UID:94b517b2de4e205320a6f0d0980f9b3c@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 17
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 17\n\nDetroit Lions @ Chicago Bears\n\nKickof
+ f: Sunday\, January 3\, 2027 at 4:25 PM EST (America/New_York)\nEstimated 
+ game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadcast\;
+  local market coverage varies.\n\nVenue\nSoldier Field\nChicago\n\nSchedul
+ e source: https://www.nfl.com/games/lions-at-bears-2026-reg-17
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Soldier Field\nChicago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/lions-at-bears-2026-reg-17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] Chicago Bears @ Minnesota Vikings
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+DTSTAMP:20260927T005047Z
+UID:a4a24ce2cd2e03153e3502942ac29a63@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 18
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 18\n\nChicago Bears @ Minnesota Vikings\n\nDa
+ te and kickoff: TBD.\nWeek placeholder: Wednesday\, January 6\, 2027. This
+  is not a confirmed game date.\nThe event will move to its confirmed date 
+ and kickoff when announced.\n\nWatch\nBroadcast information: TBD.\n\nVenue
+ \nU.S. Bank Stadium\nMinneapolis\n\nSchedule source: https://www.nfl.com/g
+ ames/bears-at-vikings-2026-reg-18
+LAST-MODIFIED:20260927T005047Z
+LOCATION:U.S. Bank Stadium\nMinneapolis
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bears-at-vikings-2026-reg-18
+END:VEVENT
+END:VCALENDAR

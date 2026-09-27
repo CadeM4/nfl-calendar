@@ -1,0 +1,402 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NFL Calendar//Independent schedule subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:2026 NFL regular season and postseason. Eastern Time; automat
+ ically updated.
+NAME:Jacksonville Jaguars · 2026
+X-WR-CALNAME:Jacksonville Jaguars · 2026
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Cleveland Browns @ Jacksonville Jaguars
+DTSTART:20260913T170000Z
+DTEND:20260913T201500Z
+DTSTAMP:20260927T005047Z
+UID:28c15fe747bb594d168f6b605d61abf9@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 1
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 1\n\nCleveland Browns @ Jacksonville Jaguars
+ \n\nKickoff: Sunday\, September 13\, 2026 at 1:00 PM EDT (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreami
+ ng: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday af
+ ternoon viewing\; local and national blackouts apply.\nNFL+: local and pri
+ metime live game streams require a phone or tablet\; market and device res
+ trictions apply.\nParamount+: this game must be carried by your local CBS 
+ station.\nRegional broadcast\; local market coverage varies.\nStreaming li
+ stings are for the US\; eligible subscriptions and geographic restrictions
+  apply.\n\nVenue\nEverBank Stadium\nJacksonville\n\nSchedule source: https
+ ://www.nfl.com/games/browns-at-jaguars-2026-reg-1
+LAST-MODIFIED:20260927T005047Z
+LOCATION:EverBank Stadium\nJacksonville
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/browns-at-jaguars-2026-reg-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jacksonville Jaguars @ Denver Broncos
+DTSTART:20260920T200500Z
+DTEND:20260920T232000Z
+DTSTAMP:20260927T005047Z
+UID:c8e02a4b10ebd98aef6c2443a259f6f6@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 2
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 2\n\nJacksonville Jaguars @ Denver Broncos\n
+ \nKickoff: Sunday\, September 20\, 2026 at 4:05 PM EDT (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreamin
+ g: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday aft
+ ernoon viewing\; local and national blackouts apply.\nNFL+: local and prim
+ etime live game streams require a phone or tablet\; market and device rest
+ rictions apply.\nParamount+: this game must be carried by your local CBS s
+ tation.\nRegional broadcast\; local market coverage varies.\nStreaming lis
+ tings are for the US\; eligible subscriptions and geographic restrictions 
+ apply.\n\nVenue\nEmpower Field at Mile High\nDenver\n\nSchedule source: ht
+ tps://www.nfl.com/games/jaguars-at-broncos-2026-reg-2
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Empower Field at Mile High\nDenver
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/jaguars-at-broncos-2026-reg-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New England Patriots @ Jacksonville Jaguars
+DTSTART:20260927T170000Z
+DTEND:20260927T201500Z
+DTSTAMP:20260927T005047Z
+UID:2dea0fb82ccd3bb7a1bb5ae4ebd4ee07@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 3
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 3\n\nNew England Patriots @ Jacksonville Jagu
+ ars\n\nKickoff: Sunday\, September 27\, 2026 at 1:00 PM EDT (America/New_Y
+ ork)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStre
+ aming: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday
+  afternoon viewing\; local and national blackouts apply.\nNFL+: local and 
+ primetime live game streams require a phone or tablet\; market and device 
+ restrictions apply.\nParamount+: this game must be carried by your local C
+ BS station.\nRegional broadcast\; local market coverage varies.\nStreaming
+  listings are for the US\; eligible subscriptions and geographic restricti
+ ons apply.\n\nVenue\nEverBank Stadium\nJacksonville\n\nSchedule source: ht
+ tps://www.nfl.com/games/patriots-at-jaguars-2026-reg-3
+LAST-MODIFIED:20260927T005047Z
+LOCATION:EverBank Stadium\nJacksonville
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/patriots-at-jaguars-2026-reg-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jacksonville Jaguars @ Cincinnati Bengals
+DTSTART:20261004T170000Z
+DTEND:20261004T201500Z
+DTSTAMP:20260927T005047Z
+UID:4a00435fd065a3d347f11704e45f25b4@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 4
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 4\n\nJacksonville Jaguars @ Cincinnati Bengal
+ s\n\nKickoff: Sunday\, October 4\, 2026 at 1:00 PM EDT (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreamin
+ g: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday aft
+ ernoon viewing\; local and national blackouts apply.\nNFL+: local and prim
+ etime live game streams require a phone or tablet\; market and device rest
+ rictions apply.\nParamount+: this game must be carried by your local CBS s
+ tation.\nRegional broadcast\; local market coverage varies.\nStreaming lis
+ tings are for the US\; eligible subscriptions and geographic restrictions 
+ apply.\n\nVenue\nPaycor Stadium\nCincinnati\n\nSchedule source: https://ww
+ w.nfl.com/games/jaguars-at-bengals-2026-reg-4
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Paycor Stadium\nCincinnati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/jaguars-at-bengals-2026-reg-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Eagles @ Jacksonville Jaguars
+DTSTART:20261011T133000Z
+DTEND:20261011T164500Z
+DTSTAMP:20260927T005047Z
+UID:ac2432812aade4a2aa55cfd6b3b90510@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 5
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 5\n\nPhiladelphia Eagles @ Jacksonville Jagua
+ rs\n\nKickoff: Sunday\, October 11\, 2026 at 9:30 AM EDT (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NFL Network
+ \nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetime live game st
+ reams require a phone or tablet\; market and device restrictions apply.\nS
+ treaming listings are for the US\; eligible subscriptions and geographic r
+ estrictions apply.\nUS national broadcast.\n\nVenue\nTottenham Hotspur Sta
+ dium\nLondon\, England\n\nSchedule source: https://www.nfl.com/games/eagle
+ s-at-jaguars-2026-reg-5
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Tottenham Hotspur Stadium\nLondon\, England
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/eagles-at-jaguars-2026-reg-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Texans @ Jacksonville Jaguars
+DTSTART:20261018T133000Z
+DTEND:20261018T164500Z
+DTSTAMP:20260927T005047Z
+UID:cd43ec8e1817eacbd1fd035e7f22cf34@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 6
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 6\n\nHouston Texans @ Jacksonville Jaguars\n
+ \nKickoff: Sunday\, October 18\, 2026 at 9:30 AM EDT (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NFL Network\nStr
+ eaming: ESPN Unlimited\, NFL+\nNFL+: local and primetime live game streams
+  require a phone or tablet\; market and device restrictions apply.\nStream
+ ing listings are for the US\; eligible subscriptions and geographic restri
+ ctions apply.\nUS national broadcast.\n\nVenue\nWembley Stadium\nLondon\, 
+ England\n\nSchedule source: https://www.nfl.com/games/texans-at-jaguars-20
+ 26-reg-6
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Wembley Stadium\nLondon\, England
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/texans-at-jaguars-2026-reg-6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indianapolis Colts @ Jacksonville Jaguars
+DTSTART:20261101T180000Z
+DTEND:20261101T211500Z
+DTSTAMP:20260927T005047Z
+UID:08b67422ee421c73cd0bb00b200d82d7@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 8
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 8\n\nIndianapolis Colts @ Jacksonville Jaguar
+ s\n\nKickoff: Sunday\, November 1\, 2026 at 1:00 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nEverBank Stadium\nJac
+ ksonville\n\nSchedule source: https://www.nfl.com/games/colts-at-jaguars-2
+ 026-reg-8
+LAST-MODIFIED:20260927T005047Z
+LOCATION:EverBank Stadium\nJacksonville
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/colts-at-jaguars-2026-reg-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jacksonville Jaguars @ Baltimore Ravens
+DTSTART:20261106T011500Z
+DTEND:20261106T043000Z
+DTSTAMP:20260927T005047Z
+UID:810a41a6c565c0cb3697cc1d1d6c57db@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 9
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 9\n\nJacksonville Jaguars @ Baltimore Ravens
+ \n\nKickoff: Thursday\, November 5\, 2026 at 8:15 PM EST (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL+
+ \, Prime Video\nNFL+: local and primetime live game streams require a phon
+ e or tablet\; market and device restrictions apply.\nStreaming listings ar
+ e for the US\; eligible subscriptions and geographic restrictions apply.\n
+ US national broadcast.\n\nVenue\nM&T Bank Stadium\nBaltimore\n\nSchedule s
+ ource: https://www.nfl.com/games/jaguars-at-ravens-2026-reg-9
+LAST-MODIFIED:20260927T005047Z
+LOCATION:M&T Bank Stadium\nBaltimore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/jaguars-at-ravens-2026-reg-9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jacksonville Jaguars @ Tennessee Titans
+DTSTART:20261115T180000Z
+DTEND:20261115T211500Z
+DTSTAMP:20260927T005047Z
+UID:d425929a0451fccac58dc31dcac4317a@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 10
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 10\n\nJacksonville Jaguars @ Tennessee Titans
+ \n\nKickoff: Sunday\, November 15\, 2026 at 1:00 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nNissan Stadium\nNashv
+ ille\n\nSchedule source: https://www.nfl.com/games/jaguars-at-titans-2026-
+ reg-10
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Nissan Stadium\nNashville
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/jaguars-at-titans-2026-reg-10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jacksonville Jaguars @ New York Giants
+DTSTART:20261122T180000Z
+DTEND:20261122T211500Z
+DTSTAMP:20260927T005047Z
+UID:9a6c35795ff58b969ecd8d0e56b69026@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 11
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 11\n\nJacksonville Jaguars @ New York Giants
+ \n\nKickoff: Sunday\, November 22\, 2026 at 1:00 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nMetLife Stadium\nEast
+  Rutherford\n\nSchedule source: https://www.nfl.com/games/jaguars-at-giant
+ s-2026-reg-11
+LAST-MODIFIED:20260927T005047Z
+LOCATION:MetLife Stadium\nEast Rutherford
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/jaguars-at-giants-2026-reg-11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee Titans @ Jacksonville Jaguars
+DTSTART:20261129T210500Z
+DTEND:20261130T002000Z
+DTSTAMP:20260927T005047Z
+UID:c95e7c35e12ccfdfc7e3d527406ce2ce@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 12
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 12\n\nTennessee Titans @ Jacksonville Jaguars
+ \n\nKickoff: Sunday\, November 29\, 2026 at 4:05 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nEverBank Stadium\nJac
+ ksonville\n\nSchedule source: https://www.nfl.com/games/titans-at-jaguars-
+ 2026-reg-12
+LAST-MODIFIED:20260927T005047Z
+LOCATION:EverBank Stadium\nJacksonville
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/titans-at-jaguars-2026-reg-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jacksonville Jaguars @ Chicago Bears
+DTSTART:20261206T180000Z
+DTEND:20261206T211500Z
+DTSTAMP:20260927T005047Z
+UID:8e0ca3856776f1cee713733f09b1acfc@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 13
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 13\n\nJacksonville Jaguars @ Chicago Bears\n
+ \nKickoff: Sunday\, December 6\, 2026 at 1:00 PM EST (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional br
+ oadcast\; local market coverage varies.\n\nVenue\nSoldier Field\nChicago\n
+ \nSchedule source: https://www.nfl.com/games/jaguars-at-bears-2026-reg-13
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Soldier Field\nChicago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/jaguars-at-bears-2026-reg-13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh Steelers @ Jacksonville Jaguars
+DTSTART:20261215T011500Z
+DTEND:20261215T043000Z
+DTSTAMP:20260927T005047Z
+UID:b90054d76e7b3fd9d2a4d2d1a9127563@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 14
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 14\n\nPittsburgh Steelers @ Jacksonville Jagu
+ ars\n\nKickoff: Monday\, December 14\, 2026 at 8:15 PM EST (America/New_Yo
+ rk)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ESPN\, ESP
+ N Deportes\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetime li
+ ve game streams require a phone or tablet\; market and device restrictions
+  apply.\nStreaming listings are for the US\; eligible subscriptions and ge
+ ographic restrictions apply.\nUS national broadcast.\n\nVenue\nEverBank St
+ adium\nJacksonville\n\nSchedule source: https://www.nfl.com/games/steelers
+ -at-jaguars-2026-reg-14
+LAST-MODIFIED:20260927T005047Z
+LOCATION:EverBank Stadium\nJacksonville
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/steelers-at-jaguars-2026-reg-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jacksonville Jaguars @ Houston Texans
+DTSTART:20261220T180000Z
+DTEND:20261220T211500Z
+DTSTAMP:20260927T005047Z
+UID:edef24b214541f3d8b00fa95ce914950@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 15
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 15\n\nJacksonville Jaguars @ Houston Texans\n
+ \nKickoff: Sunday\, December 20\, 2026 at 1:00 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional b
+ roadcast\; local market coverage varies.\n\nVenue\nReliant Stadium\nHousto
+ n\n\nSchedule source: https://www.nfl.com/games/jaguars-at-texans-2026-reg
+ -15
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Reliant Stadium\nHouston
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/jaguars-at-texans-2026-reg-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jacksonville Jaguars @ Dallas Cowboys
+DTSTART:20261228T012000Z
+DTEND:20261228T043500Z
+DTSTAMP:20260927T005047Z
+UID:3adabc7185c011fdef2ae47cebbcf712@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 16
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 16\n\nJacksonville Jaguars @ Dallas Cowboys\n
+ \nKickoff: Sunday\, December 27\, 2026 at 8:20 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo
+ \nStreaming: NFL+\, Peacock\nNFL+: local and primetime live game streams r
+ equire a phone or tablet\; market and device restrictions apply.\nStreamin
+ g listings are for the US\; eligible subscriptions and geographic restrict
+ ions apply.\nUS national broadcast.\n\nVenue\nAT&T Stadium\nArlington\n\nS
+ chedule source: https://www.nfl.com/games/jaguars-at-cowboys-2026-reg-16
+LAST-MODIFIED:20260927T005047Z
+LOCATION:AT&T Stadium\nArlington
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/jaguars-at-cowboys-2026-reg-16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] Washington Commanders @ Jacksonville Jaguars
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20260927T005047Z
+UID:25980ee227c89701d43f3e306280861d@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 17
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 17\n\nWashington Commanders @ Jacksonville Ja
+ guars\n\nDate and kickoff: TBD.\nWeek placeholder: Thursday\, December 31
+ \, 2026. This is not a confirmed game date.\nThe event will move to its co
+ nfirmed date and kickoff when announced.\n\nWatch\nBroadcast information: 
+ TBD.\n\nVenue\nEverBank Stadium\nJacksonville\n\nSchedule source: https://
+ www.nfl.com/games/commanders-at-jaguars-2026-reg-17
+LAST-MODIFIED:20260927T005047Z
+LOCATION:EverBank Stadium\nJacksonville
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/commanders-at-jaguars-2026-reg-17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] Jacksonville Jaguars @ Indianapolis Colts
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+DTSTAMP:20260927T005047Z
+UID:be49777baad1add871d304b6616d0f86@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 18
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 18\n\nJacksonville Jaguars @ Indianapolis Col
+ ts\n\nDate and kickoff: TBD.\nWeek placeholder: Wednesday\, January 6\, 20
+ 27. This is not a confirmed game date.\nThe event will move to its confirm
+ ed date and kickoff when announced.\n\nWatch\nBroadcast information: TBD.
+ \n\nVenue\nLucas Oil Stadium\nIndianapolis\n\nSchedule source: https://www
+ .nfl.com/games/jaguars-at-colts-2026-reg-18
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lucas Oil Stadium\nIndianapolis
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/jaguars-at-colts-2026-reg-18
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,405 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NFL Calendar//Independent schedule subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:2026 NFL regular season and postseason. Eastern Time; automat
+ ically updated.
+NAME:Seattle Seahawks · 2026
+X-WR-CALNAME:Seattle Seahawks · 2026
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:New England Patriots @ Seattle Seahawks
+DTSTART:20260910T002000Z
+DTEND:20260910T033500Z
+DTSTAMP:20260927T005047Z
+UID:038f7d8e7d4b67021f94c4abf5ea8e85@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 1
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 1\n\nNew England Patriots @ Seattle Seahawks
+ \n\nKickoff: Wednesday\, September 9\, 2026 at 8:20 PM EDT (America/New_Yo
+ rk)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Tele
+ mundo\, Universo\nStreaming: NFL+\, Peacock\nNFL+: local and primetime liv
+ e game streams require a phone or tablet\; market and device restrictions 
+ apply.\nStreaming listings are for the US\; eligible subscriptions and geo
+ graphic restrictions apply.\nUS national broadcast.\n\nVenue\nLumen Field
+ \nSeattle\n\nSchedule source: https://www.nfl.com/games/patriots-at-seahaw
+ ks-2026-reg-1
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lumen Field\nSeattle
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/patriots-at-seahawks-2026-reg-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Seahawks @ Arizona Cardinals
+DTSTART:20260920T202500Z
+DTEND:20260920T234000Z
+DTSTAMP:20260927T005047Z
+UID:e7f9bf897476288405b1559f0de76a4a@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 2
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 2\n\nSeattle Seahawks @ Arizona Cardinals\n\n
+ Kickoff: Sunday\, September 20\, 2026 at 4:25 PM EDT (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: 
+ FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.
+ \nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; loc
+ al and national blackouts apply.\nNFL+: local and primetime live game stre
+ ams require a phone or tablet\; market and device restrictions apply.\nReg
+ ional broadcast\; local market coverage varies.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
+ nue\nState Farm Stadium\nGlendale\n\nSchedule source: https://www.nfl.com/
+ games/seahawks-at-cardinals-2026-reg-2
+LAST-MODIFIED:20260927T005047Z
+LOCATION:State Farm Stadium\nGlendale
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/seahawks-at-cardinals-2026-reg-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Seahawks @ Washington Commanders
+DTSTART:20260927T170000Z
+DTEND:20260927T201500Z
+DTSTAMP:20260927T005047Z
+UID:1948c0a74d450ef7df43a3fbe8934a5a@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 3
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 3\n\nSeattle Seahawks @ Washington Commanders
+ \n\nKickoff: Sunday\, September 27\, 2026 at 1:00 PM EDT (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreami
+ ng: FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions ap
+ ply.\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\;
+  local and national blackouts apply.\nNFL+: local and primetime live game 
+ streams require a phone or tablet\; market and device restrictions apply.
+ \nRegional broadcast\; local market coverage varies.\nStreaming listings a
+ re for the US\; eligible subscriptions and geographic restrictions apply.
+ \n\nVenue\nNorthwest Stadium\nLandover\n\nSchedule source: https://www.nfl
+ .com/games/seahawks-at-commanders-2026-reg-3
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Northwest Stadium\nLandover
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/seahawks-at-commanders-2026-reg-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Chargers @ Seattle Seahawks
+DTSTART:20261004T202500Z
+DTEND:20261004T234000Z
+DTSTAMP:20260927T005047Z
+UID:1bfb6906d82b320b78692a1592830e03@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 4
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 4\n\nLos Angeles Chargers @ Seattle Seahawks
+ \n\nKickoff: Sunday\, October 4\, 2026 at 4:25 PM EDT (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming:
+  NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday after
+ noon viewing\; local and national blackouts apply.\nNFL+: local and primet
+ ime live game streams require a phone or tablet\; market and device restri
+ ctions apply.\nParamount+: this game must be carried by your local CBS sta
+ tion.\nRegional broadcast\; local market coverage varies.\nStreaming listi
+ ngs are for the US\; eligible subscriptions and geographic restrictions ap
+ ply.\n\nVenue\nLumen Field\nSeattle\n\nSchedule source: https://www.nfl.co
+ m/games/chargers-at-seahawks-2026-reg-4
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lumen Field\nSeattle
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chargers-at-seahawks-2026-reg-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Francisco 49ers @ Seattle Seahawks
+DTSTART:20261011T202500Z
+DTEND:20261011T234000Z
+DTSTAMP:20260927T005047Z
+UID:296c77af257032eca868f9c51f2251bf@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 5
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 5\n\nSan Francisco 49ers @ Seattle Seahawks\n
+ \nKickoff: Sunday\, October 11\, 2026 at 4:25 PM EDT (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional br
+ oadcast\; local market coverage varies.\n\nVenue\nLumen Field\nSeattle\n\n
+ Schedule source: https://www.nfl.com/games/49ers-at-seahawks-2026-reg-5
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lumen Field\nSeattle
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/49ers-at-seahawks-2026-reg-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Seahawks @ Denver Broncos
+DTSTART:20261016T001500Z
+DTEND:20261016T033000Z
+DTSTAMP:20260927T005047Z
+UID:62f846b611d23812cfe4069bfa69e529@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 6
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 6\n\nSeattle Seahawks @ Denver Broncos\n\nKic
+ koff: Thursday\, October 15\, 2026 at 8:15 PM EDT (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL+\, Prime
+  Video\nNFL+: local and primetime live game streams require a phone or tab
+ let\; market and device restrictions apply.\nStreaming listings are for th
+ e US\; eligible subscriptions and geographic restrictions apply.\nUS natio
+ nal broadcast.\n\nVenue\nEmpower Field at Mile High\nDenver\n\nSchedule so
+ urce: https://www.nfl.com/games/seahawks-at-broncos-2026-reg-6
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Empower Field at Mile High\nDenver
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/seahawks-at-broncos-2026-reg-6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City Chiefs @ Seattle Seahawks
+DTSTART:20261026T002000Z
+DTEND:20261026T033500Z
+DTSTAMP:20260927T005047Z
+UID:4d73474b78eeae32292fd9dc9c54088e@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 7
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 7\n\nKansas City Chiefs @ Seattle Seahawks\n
+ \nKickoff: Sunday\, October 25\, 2026 at 8:20 PM EDT (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo\n
+ Streaming: NFL+\, Peacock\nNFL+: local and primetime live game streams req
+ uire a phone or tablet\; market and device restrictions apply.\nStreaming 
+ listings are for the US\; eligible subscriptions and geographic restrictio
+ ns apply.\nUS national broadcast.\n\nVenue\nLumen Field\nSeattle\n\nSchedu
+ le source: https://www.nfl.com/games/chiefs-at-seahawks-2026-reg-7
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lumen Field\nSeattle
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chiefs-at-seahawks-2026-reg-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bears @ Seattle Seahawks
+DTSTART:20261103T011500Z
+DTEND:20261103T043000Z
+DTSTAMP:20260927T005047Z
+UID:846d307974cdaac7ca860167ec5261f0@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 8
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 8\n\nChicago Bears @ Seattle Seahawks\n\nKick
+ off: Monday\, November 2\, 2026 at 8:15 PM EST (America/New_York)\nEstimat
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN Depo
+ rtes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetime 
+ live game streams require a phone or tablet\; market and device restrictio
+ ns apply.\nStreaming listings are for the US\; eligible subscriptions and 
+ geographic restrictions apply.\nUS national broadcast.\n\nVenue\nLumen Fie
+ ld\nSeattle\n\nSchedule source: https://www.nfl.com/games/bears-at-seahawk
+ s-2026-reg-8
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lumen Field\nSeattle
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bears-at-seahawks-2026-reg-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arizona Cardinals @ Seattle Seahawks
+DTSTART:20261108T212500Z
+DTEND:20261109T004000Z
+DTSTAMP:20260927T005047Z
+UID:cc137d8d2cefbf1b8ad31e7ebf5ecd88@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 9
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 9\n\nArizona Cardinals @ Seattle Seahawks\n\n
+ Kickoff: Sunday\, November 8\, 2026 at 4:25 PM EST (America/New_York)\nEst
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broa
+ dcast\; local market coverage varies.\n\nVenue\nLumen Field\nSeattle\n\nSc
+ hedule source: https://www.nfl.com/games/cardinals-at-seahawks-2026-reg-9
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lumen Field\nSeattle
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cardinals-at-seahawks-2026-reg-9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Seahawks @ Las Vegas Raiders
+DTSTART:20261115T210500Z
+DTEND:20261116T002000Z
+DTSTAMP:20260927T005047Z
+UID:26aa0eefc691526f0cb3866a0087075a@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 10
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 10\n\nSeattle Seahawks @ Las Vegas Raiders\n
+ \nKickoff: Sunday\, November 15\, 2026 at 4:05 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional b
+ roadcast\; local market coverage varies.\n\nVenue\nAllegiant Stadium\nPara
+ dise\n\nSchedule source: https://www.nfl.com/games/seahawks-at-raiders-202
+ 6-reg-10
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Allegiant Stadium\nParadise
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/seahawks-at-raiders-2026-reg-10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Seahawks @ San Francisco 49ers
+DTSTART:20261129T212500Z
+DTEND:20261130T004000Z
+DTSTAMP:20260927T005047Z
+UID:e8f60938b1f588a6811717daca5543c0@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 12
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 12\n\nSeattle Seahawks @ San Francisco 49ers
+ \n\nKickoff: Sunday\, November 29\, 2026 at 4:25 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nLevi's® Stadium\nSan
+ ta Clara\n\nSchedule source: https://www.nfl.com/games/seahawks-at-49ers-2
+ 026-reg-12
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Levi's® Stadium\nSanta Clara
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/seahawks-at-49ers-2026-reg-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dallas Cowboys @ Seattle Seahawks
+DTSTART:20261208T011500Z
+DTEND:20261208T043000Z
+DTSTAMP:20260927T005047Z
+UID:5f9fe6a97e9f0984b6834f3b4f24e955@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 13
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 13\n\nDallas Cowboys @ Seattle Seahawks\n\nKi
+ ckoff: Monday\, December 7\, 2026 at 8:15 PM EST (America/New_York)\nEstim
+ ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN De
+ portes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetim
+ e live game streams require a phone or tablet\; market and device restrict
+ ions apply.\nStreaming listings are for the US\; eligible subscriptions an
+ d geographic restrictions apply.\nUS national broadcast.\n\nVenue\nLumen F
+ ield\nSeattle\n\nSchedule source: https://www.nfl.com/games/cowboys-at-sea
+ hawks-2026-reg-13
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lumen Field\nSeattle
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cowboys-at-seahawks-2026-reg-13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Giants @ Seattle Seahawks
+DTSTART:20261213T212500Z
+DTEND:20261214T004000Z
+DTSTAMP:20260927T005047Z
+UID:47ae21a647fce3798b59d20587e3b5af@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 14
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 14\n\nNew York Giants @ Seattle Seahawks\n\nK
+ ickoff: Sunday\, December 13\, 2026 at 4:25 PM EST (America/New_York)\nEst
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broa
+ dcast\; local market coverage varies.\n\nVenue\nLumen Field\nSeattle\n\nSc
+ hedule source: https://www.nfl.com/games/giants-at-seahawks-2026-reg-14
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lumen Field\nSeattle
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/giants-at-seahawks-2026-reg-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Seahawks @ Philadelphia Eagles
+DTSTART:20261219T220000Z
+DTEND:20261220T011500Z
+DTSTAMP:20260927T005047Z
+UID:89a9fc865c52d7c5b64214ffa4b4cdee@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 15
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 15\n\nSeattle Seahawks @ Philadelphia Eagles
+ \n\nKickoff: Saturday\, December 19\, 2026 at 5:00 PM EST (America/New_Yor
+ k)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\, FOX D
+ eportes\nStreaming: FOX One\, NFL+\nFOX One: local FOX coverage and market
+  restrictions apply.\nNFL Sunday Ticket: eligible out-of-market Sunday aft
+ ernoon viewing\; local and national blackouts apply.\nNFL+: local and prim
+ etime live game streams require a phone or tablet\; market and device rest
+ rictions apply.\nStreaming listings are for the US\; eligible subscription
+ s and geographic restrictions apply.\nUS national broadcast.\n\nVenue\nLin
+ coln Financial Field\nPhiladelphia\n\nSchedule source: https://www.nfl.com
+ /games/seahawks-at-eagles-2026-reg-15
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lincoln Financial Field\nPhiladelphia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/seahawks-at-eagles-2026-reg-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Rams @ Seattle Seahawks
+DTSTART:20261226T011500Z
+DTEND:20261226T043000Z
+DTSTAMP:20260927T005047Z
+UID:25ed6e2c91b4b240cca8b02767d4ac44@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 16
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 16\n\nLos Angeles Rams @ Seattle Seahawks\n\n
+ Kickoff: Friday\, December 25\, 2026 at 8:15 PM EST (America/New_York)\nEs
+ timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\, FOX Deporte
+ s\nStreaming: FOX One\, NFL+\nFOX One: local FOX coverage and market restr
+ ictions apply.\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon
+  viewing\; local and national blackouts apply.\nNFL+: local and primetime 
+ live game streams require a phone or tablet\; market and device restrictio
+ ns apply.\nStreaming listings are for the US\; eligible subscriptions and 
+ geographic restrictions apply.\nUS national broadcast.\n\nVenue\nLumen Fie
+ ld\nSeattle\n\nSchedule source: https://www.nfl.com/games/rams-at-seahawks
+ -2026-reg-16
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lumen Field\nSeattle
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/rams-at-seahawks-2026-reg-16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Seahawks @ Carolina Panthers
+DTSTART:20270103T180000Z
+DTEND:20270103T211500Z
+DTSTAMP:20260927T005047Z
+UID:5fb69148fd2a91f733e65cb40977b8a2@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 17
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 17\n\nSeattle Seahawks @ Carolina Panthers\n
+ \nKickoff: Sunday\, January 3\, 2027 at 1:00 PM EST (America/New_York)\nEs
+ timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional bro
+ adcast\; local market coverage varies.\n\nVenue\nBank of America Stadium\n
+ Charlotte\n\nSchedule source: https://www.nfl.com/games/seahawks-at-panthe
+ rs-2026-reg-17
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Bank of America Stadium\nCharlotte
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/seahawks-at-panthers-2026-reg-17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] Seattle Seahawks @ Los Angeles Rams
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+DTSTAMP:20260927T005047Z
+UID:737c11c1ced3a83e66493fc168538fa0@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 18
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 18\n\nSeattle Seahawks @ Los Angeles Rams\n\n
+ Date and kickoff: TBD.\nWeek placeholder: Wednesday\, January 6\, 2027. Th
+ is is not a confirmed game date.\nThe event will move to its confirmed dat
+ e and kickoff when announced.\n\nWatch\nBroadcast information: TBD.\n\nVen
+ ue\nSoFi Stadium\nInglewood\n\nSchedule source: https://www.nfl.com/games/
+ seahawks-at-rams-2026-reg-18
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/seahawks-at-rams-2026-reg-18
+END:VEVENT
+END:VCALENDAR

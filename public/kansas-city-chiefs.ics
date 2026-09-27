@@ -1,0 +1,394 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NFL Calendar//Independent schedule subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:2026 NFL regular season and postseason. Eastern Time; automat
+ ically updated.
+NAME:Kansas City Chiefs · 2026
+X-WR-CALNAME:Kansas City Chiefs · 2026
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Denver Broncos @ Kansas City Chiefs
+DTSTART:20260915T001500Z
+DTEND:20260915T033000Z
+DTSTAMP:20260927T005047Z
+UID:f44551fe35b34112336e09681dd6ad40@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 1
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 1\n\nDenver Broncos @ Kansas City Chiefs\n\nK
+ ickoff: Monday\, September 14\, 2026 at 8:15 PM EDT (America/New_York)\nEs
+ timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN
+  Deportes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and prime
+ time live game streams require a phone or tablet\; market and device restr
+ ictions apply.\nStreaming listings are for the US\; eligible subscriptions
+  and geographic restrictions apply.\nUS national broadcast.\n\nVenue\nArro
+ whead Stadium\nKansas City\n\nSchedule source: https://www.nfl.com/games/b
+ roncos-at-chiefs-2026-reg-1
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Arrowhead Stadium\nKansas City
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/broncos-at-chiefs-2026-reg-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indianapolis Colts @ Kansas City Chiefs
+DTSTART:20260921T002000Z
+DTEND:20260921T033500Z
+DTSTAMP:20260927T005047Z
+UID:918ecba4cb9c881ea5a3f88f7003d9c3@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 2
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 2\n\nIndianapolis Colts @ Kansas City Chiefs
+ \n\nKickoff: Sunday\, September 20\, 2026 at 8:20 PM EDT (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Univer
+ so\nStreaming: NFL+\, Peacock\nNFL+: local and primetime live game streams
+  require a phone or tablet\; market and device restrictions apply.\nStream
+ ing listings are for the US\; eligible subscriptions and geographic restri
+ ctions apply.\nUS national broadcast.\n\nVenue\nArrowhead Stadium\nKansas 
+ City\n\nSchedule source: https://www.nfl.com/games/colts-at-chiefs-2026-re
+ g-2
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Arrowhead Stadium\nKansas City
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/colts-at-chiefs-2026-reg-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City Chiefs @ Miami Dolphins
+DTSTART:20260927T170000Z
+DTEND:20260927T201500Z
+DTSTAMP:20260927T005047Z
+UID:fb369409a2f11cd02824c1c609127e86@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 3
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 3\n\nKansas City Chiefs @ Miami Dolphins\n\nK
+ ickoff: Sunday\, September 27\, 2026 at 1:00 PM EDT (America/New_York)\nEs
+ timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: N
+ FL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afterno
+ on viewing\; local and national blackouts apply.\nNFL+: local and primetim
+ e live game streams require a phone or tablet\; market and device restrict
+ ions apply.\nParamount+: this game must be carried by your local CBS stati
+ on.\nRegional broadcast\; local market coverage varies.\nStreaming listing
+ s are for the US\; eligible subscriptions and geographic restrictions appl
+ y.\n\nVenue\nHard Rock Stadium\nOpa Locka\n\nSchedule source: https://www.
+ nfl.com/games/chiefs-at-dolphins-2026-reg-3
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Hard Rock Stadium\nOpa Locka
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chiefs-at-dolphins-2026-reg-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City Chiefs @ Las Vegas Raiders
+DTSTART:20261004T202500Z
+DTEND:20261004T234000Z
+DTSTAMP:20260927T005047Z
+UID:98942c04b5120f444fdd06f13ec7a583@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 4
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 4\n\nKansas City Chiefs @ Las Vegas Raiders\n
+ \nKickoff: Sunday\, October 4\, 2026 at 4:25 PM EDT (America/New_York)\nEs
+ timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: N
+ FL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afterno
+ on viewing\; local and national blackouts apply.\nNFL+: local and primetim
+ e live game streams require a phone or tablet\; market and device restrict
+ ions apply.\nParamount+: this game must be carried by your local CBS stati
+ on.\nRegional broadcast\; local market coverage varies.\nStreaming listing
+ s are for the US\; eligible subscriptions and geographic restrictions appl
+ y.\n\nVenue\nAllegiant Stadium\nParadise\n\nSchedule source: https://www.n
+ fl.com/games/chiefs-at-raiders-2026-reg-4
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Allegiant Stadium\nParadise
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chiefs-at-raiders-2026-reg-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Chargers @ Kansas City Chiefs
+DTSTART:20261018T202500Z
+DTEND:20261018T234000Z
+DTSTAMP:20260927T005047Z
+UID:81aa60b66e4b3e5df380e94d41117f10@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 6
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 6\n\nLos Angeles Chargers @ Kansas City Chief
+ s\n\nKickoff: Sunday\, October 18\, 2026 at 4:25 PM EDT (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nArrowhead Stadium\nKa
+ nsas City\n\nSchedule source: https://www.nfl.com/games/chargers-at-chiefs
+ -2026-reg-6
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Arrowhead Stadium\nKansas City
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chargers-at-chiefs-2026-reg-6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City Chiefs @ Seattle Seahawks
+DTSTART:20261026T002000Z
+DTEND:20261026T033500Z
+DTSTAMP:20260927T005047Z
+UID:4d73474b78eeae32292fd9dc9c54088e@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 7
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 7\n\nKansas City Chiefs @ Seattle Seahawks\n
+ \nKickoff: Sunday\, October 25\, 2026 at 8:20 PM EDT (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo\n
+ Streaming: NFL+\, Peacock\nNFL+: local and primetime live game streams req
+ uire a phone or tablet\; market and device restrictions apply.\nStreaming 
+ listings are for the US\; eligible subscriptions and geographic restrictio
+ ns apply.\nUS national broadcast.\n\nVenue\nLumen Field\nSeattle\n\nSchedu
+ le source: https://www.nfl.com/games/chiefs-at-seahawks-2026-reg-7
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lumen Field\nSeattle
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chiefs-at-seahawks-2026-reg-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City Chiefs @ Denver Broncos
+DTSTART:20261101T212500Z
+DTEND:20261102T004000Z
+DTSTAMP:20260927T005047Z
+UID:7c949fe0464e44c4ba573441a921f8ad@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 8
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 8\n\nKansas City Chiefs @ Denver Broncos\n\nK
+ ickoff: Sunday\, November 1\, 2026 at 4:25 PM EST (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broad
+ cast\; local market coverage varies.\n\nVenue\nEmpower Field at Mile High
+ \nDenver\n\nSchedule source: https://www.nfl.com/games/chiefs-at-broncos-2
+ 026-reg-8
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Empower Field at Mile High\nDenver
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chiefs-at-broncos-2026-reg-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Jets @ Kansas City Chiefs
+DTSTART:20261108T180000Z
+DTEND:20261108T211500Z
+DTSTAMP:20260927T005047Z
+UID:4cb3e8e3883c104c4ccdf47b397bda12@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 9
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 9\n\nNew York Jets @ Kansas City Chiefs\n\nKi
+ ckoff: Sunday\, November 8\, 2026 at 1:00 PM EST (America/New_York)\nEstim
+ ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadc
+ ast\; local market coverage varies.\n\nVenue\nArrowhead Stadium\nKansas Ci
+ ty\n\nSchedule source: https://www.nfl.com/games/jets-at-chiefs-2026-reg-9
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Arrowhead Stadium\nKansas City
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/jets-at-chiefs-2026-reg-9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City Chiefs @ Atlanta Falcons
+DTSTART:20261115T180000Z
+DTEND:20261115T211500Z
+DTSTAMP:20260927T005047Z
+UID:c331b992cfdb6f0f18a20b00123bec3a@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 10
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 10\n\nKansas City Chiefs @ Atlanta Falcons\n
+ \nKickoff: Sunday\, November 15\, 2026 at 1:00 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional b
+ roadcast\; local market coverage varies.\n\nVenue\nMercedes-Benz Stadium\n
+ Atlanta\n\nSchedule source: https://www.nfl.com/games/chiefs-at-falcons-20
+ 26-reg-10
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Mercedes-Benz Stadium\nAtlanta
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chiefs-at-falcons-2026-reg-10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arizona Cardinals @ Kansas City Chiefs
+DTSTART:20261122T180000Z
+DTEND:20261122T211500Z
+DTSTAMP:20260927T005047Z
+UID:5b5884dd360b1130dc23e01626c79b5f@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 11
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 11\n\nArizona Cardinals @ Kansas City Chiefs
+ \n\nKickoff: Sunday\, November 22\, 2026 at 1:00 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nArrowhead Stadium\nKa
+ nsas City\n\nSchedule source: https://www.nfl.com/games/cardinals-at-chief
+ s-2026-reg-11
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Arrowhead Stadium\nKansas City
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cardinals-at-chiefs-2026-reg-11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City Chiefs @ Buffalo Bills
+DTSTART:20261127T012000Z
+DTEND:20261127T043500Z
+DTSTAMP:20260927T005047Z
+UID:61fecb5bdf8cc25b84e4013914b4b46b@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 12
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 12\n\nKansas City Chiefs @ Buffalo Bills\n\nK
+ ickoff: Thursday\, November 26\, 2026 at 8:20 PM EST (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo\n
+ Streaming: NFL+\, Peacock\nNFL+: local and primetime live game streams req
+ uire a phone or tablet\; market and device restrictions apply.\nStreaming 
+ listings are for the US\; eligible subscriptions and geographic restrictio
+ ns apply.\nUS national broadcast.\n\nVenue\nHighmark Stadium\nOrchard Park
+ \n\nSchedule source: https://www.nfl.com/games/chiefs-at-bills-2026-reg-12
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Highmark Stadium\nOrchard Park
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chiefs-at-bills-2026-reg-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City Chiefs @ Los Angeles Rams
+DTSTART:20261204T011500Z
+DTEND:20261204T043000Z
+DTSTAMP:20260927T005047Z
+UID:dca78298adc22f1734a1666becd5ed11@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 13
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 13\n\nKansas City Chiefs @ Los Angeles Rams\n
+ \nKickoff: Thursday\, December 3\, 2026 at 8:15 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL+\,
+  Prime Video\nNFL+: local and primetime live game streams require a phone 
+ or tablet\; market and device restrictions apply.\nStreaming listings are 
+ for the US\; eligible subscriptions and geographic restrictions apply.\nUS
+  national broadcast.\n\nVenue\nSoFi Stadium\nInglewood\n\nSchedule source:
+  https://www.nfl.com/games/chiefs-at-rams-2026-reg-13
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chiefs-at-rams-2026-reg-13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City Chiefs @ Cincinnati Bengals
+DTSTART:20261213T212500Z
+DTEND:20261214T004000Z
+DTSTAMP:20260927T005047Z
+UID:bc07ddd15fe1d3c6b9e01f6899c937c5@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 14
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 14\n\nKansas City Chiefs @ Cincinnati Bengals
+ \n\nKickoff: Sunday\, December 13\, 2026 at 4:25 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nPaycor Stadium\nCinci
+ nnati\n\nSchedule source: https://www.nfl.com/games/chiefs-at-bengals-2026
+ -reg-14
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Paycor Stadium\nCincinnati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chiefs-at-bengals-2026-reg-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New England Patriots @ Kansas City Chiefs
+DTSTART:20261222T011500Z
+DTEND:20261222T043000Z
+DTSTAMP:20260927T005047Z
+UID:8fd4c7824096c9b9cfe6d3f5ef8a483f@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 15
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 15\n\nNew England Patriots @ Kansas City Chie
+ fs\n\nKickoff: Monday\, December 21\, 2026 at 8:15 PM EST (America/New_Yor
+ k)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN
+ \, ESPN Deportes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local an
+ d primetime live game streams require a phone or tablet\; market and devic
+ e restrictions apply.\nStreaming listings are for the US\; eligible subscr
+ iptions and geographic restrictions apply.\nUS national broadcast.\n\nVenu
+ e\nArrowhead Stadium\nKansas City\n\nSchedule source: https://www.nfl.com/
+ games/patriots-at-chiefs-2026-reg-15
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Arrowhead Stadium\nKansas City
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/patriots-at-chiefs-2026-reg-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Francisco 49ers @ Kansas City Chiefs
+DTSTART:20261227T212500Z
+DTEND:20261228T004000Z
+DTSTAMP:20260927T005047Z
+UID:91ed3471db2577551c28802d5e4d5a51@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 16
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 16\n\nSan Francisco 49ers @ Kansas City Chief
+ s\n\nKickoff: Sunday\, December 27\, 2026 at 4:25 PM EST (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegiona
+ l broadcast\; local market coverage varies.\n\nVenue\nArrowhead Stadium\nK
+ ansas City\n\nSchedule source: https://www.nfl.com/games/49ers-at-chiefs-2
+ 026-reg-16
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Arrowhead Stadium\nKansas City
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/49ers-at-chiefs-2026-reg-16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] Kansas City Chiefs @ Los Angeles Chargers
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20260927T005047Z
+UID:303d136ca3481969340b5a683ae76a5d@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 17
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 17\n\nKansas City Chiefs @ Los Angeles Charge
+ rs\n\nDate and kickoff: TBD.\nWeek placeholder: Thursday\, December 31\, 2
+ 026. This is not a confirmed game date.\nThe event will move to its confir
+ med date and kickoff when announced.\n\nWatch\nBroadcast information: TBD.
+ \n\nVenue\nSoFi Stadium\nInglewood\n\nSchedule source: https://www.nfl.com
+ /games/chiefs-at-chargers-2026-reg-17
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chiefs-at-chargers-2026-reg-17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] Las Vegas Raiders @ Kansas City Chiefs
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+DTSTAMP:20260927T005047Z
+UID:073063cbd4d301dc488a02863d836406@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 18
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 18\n\nLas Vegas Raiders @ Kansas City Chiefs
+ \n\nDate and kickoff: TBD.\nWeek placeholder: Wednesday\, January 6\, 2027
+ . This is not a confirmed game date.\nThe event will move to its confirmed
+  date and kickoff when announced.\n\nWatch\nBroadcast information: TBD.\n
+ \nVenue\nArrowhead Stadium\nKansas City\n\nSchedule source: https://www.nf
+ l.com/games/raiders-at-chiefs-2026-reg-18
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Arrowhead Stadium\nKansas City
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/raiders-at-chiefs-2026-reg-18
+END:VEVENT
+END:VCALENDAR

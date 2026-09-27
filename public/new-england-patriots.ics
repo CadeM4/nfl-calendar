@@ -1,0 +1,403 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NFL Calendar//Independent schedule subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:2026 NFL regular season and postseason. Eastern Time; automat
+ ically updated.
+NAME:New England Patriots · 2026
+X-WR-CALNAME:New England Patriots · 2026
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:New England Patriots @ Seattle Seahawks
+DTSTART:20260910T002000Z
+DTEND:20260910T033500Z
+DTSTAMP:20260927T005047Z
+UID:038f7d8e7d4b67021f94c4abf5ea8e85@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 1
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 1\n\nNew England Patriots @ Seattle Seahawks
+ \n\nKickoff: Wednesday\, September 9\, 2026 at 8:20 PM EDT (America/New_Yo
+ rk)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Tele
+ mundo\, Universo\nStreaming: NFL+\, Peacock\nNFL+: local and primetime liv
+ e game streams require a phone or tablet\; market and device restrictions 
+ apply.\nStreaming listings are for the US\; eligible subscriptions and geo
+ graphic restrictions apply.\nUS national broadcast.\n\nVenue\nLumen Field
+ \nSeattle\n\nSchedule source: https://www.nfl.com/games/patriots-at-seahaw
+ ks-2026-reg-1
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lumen Field\nSeattle
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/patriots-at-seahawks-2026-reg-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh Steelers @ New England Patriots
+DTSTART:20260920T170000Z
+DTEND:20260920T201500Z
+DTSTAMP:20260927T005047Z
+UID:6d9b104bd20b6fbdf805530a99a5e652@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 2
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 2\n\nPittsburgh Steelers @ New England Patrio
+ ts\n\nKickoff: Sunday\, September 20\, 2026 at 1:00 PM EDT (America/New_Yo
+ rk)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStrea
+ ming: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday 
+ afternoon viewing\; local and national blackouts apply.\nNFL+: local and p
+ rimetime live game streams require a phone or tablet\; market and device r
+ estrictions apply.\nParamount+: this game must be carried by your local CB
+ S station.\nRegional broadcast\; local market coverage varies.\nStreaming 
+ listings are for the US\; eligible subscriptions and geographic restrictio
+ ns apply.\n\nVenue\nGillette Stadium\nFoxborough\n\nSchedule source: https
+ ://www.nfl.com/games/steelers-at-patriots-2026-reg-2
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Gillette Stadium\nFoxborough
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/steelers-at-patriots-2026-reg-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New England Patriots @ Jacksonville Jaguars
+DTSTART:20260927T170000Z
+DTEND:20260927T201500Z
+DTSTAMP:20260927T005047Z
+UID:2dea0fb82ccd3bb7a1bb5ae4ebd4ee07@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 3
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 3\n\nNew England Patriots @ Jacksonville Jagu
+ ars\n\nKickoff: Sunday\, September 27\, 2026 at 1:00 PM EDT (America/New_Y
+ ork)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStre
+ aming: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday
+  afternoon viewing\; local and national blackouts apply.\nNFL+: local and 
+ primetime live game streams require a phone or tablet\; market and device 
+ restrictions apply.\nParamount+: this game must be carried by your local C
+ BS station.\nRegional broadcast\; local market coverage varies.\nStreaming
+  listings are for the US\; eligible subscriptions and geographic restricti
+ ons apply.\n\nVenue\nEverBank Stadium\nJacksonville\n\nSchedule source: ht
+ tps://www.nfl.com/games/patriots-at-jaguars-2026-reg-3
+LAST-MODIFIED:20260927T005047Z
+LOCATION:EverBank Stadium\nJacksonville
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/patriots-at-jaguars-2026-reg-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New England Patriots @ Buffalo Bills
+DTSTART:20261004T170000Z
+DTEND:20261004T201500Z
+DTSTAMP:20260927T005047Z
+UID:5c35e699a99e5c7c723c2909dd1184d3@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 4
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 4\n\nNew England Patriots @ Buffalo Bills\n\n
+ Kickoff: Sunday\, October 4\, 2026 at 1:00 PM EDT (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL
+ +\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon
+  viewing\; local and national blackouts apply.\nNFL+: local and primetime 
+ live game streams require a phone or tablet\; market and device restrictio
+ ns apply.\nParamount+: this game must be carried by your local CBS station
+ .\nRegional broadcast\; local market coverage varies.\nStreaming listings 
+ are for the US\; eligible subscriptions and geographic restrictions apply.
+ \n\nVenue\nHighmark Stadium\nOrchard Park\n\nSchedule source: https://www.
+ nfl.com/games/patriots-at-bills-2026-reg-4
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Highmark Stadium\nOrchard Park
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/patriots-at-bills-2026-reg-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las Vegas Raiders @ New England Patriots
+DTSTART:20261011T170000Z
+DTEND:20261011T201500Z
+DTSTAMP:20260927T005047Z
+UID:2cfd71222d73cf50e679694a139e75f3@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 5
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 5\n\nLas Vegas Raiders @ New England Patriots
+ \n\nKickoff: Sunday\, October 11\, 2026 at 1:00 PM EDT (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nGillette Stadium\nFox
+ borough\n\nSchedule source: https://www.nfl.com/games/raiders-at-patriots-
+ 2026-reg-5
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Gillette Stadium\nFoxborough
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/raiders-at-patriots-2026-reg-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Jets @ New England Patriots
+DTSTART:20261018T170000Z
+DTEND:20261018T201500Z
+DTSTAMP:20260927T005047Z
+UID:08d23408ec64fbeca4f8373366b76e9d@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 6
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 6\n\nNew York Jets @ New England Patriots\n\n
+ Kickoff: Sunday\, October 18\, 2026 at 1:00 PM EDT (America/New_York)\nEst
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broa
+ dcast\; local market coverage varies.\n\nVenue\nGillette Stadium\nFoxborou
+ gh\n\nSchedule source: https://www.nfl.com/games/jets-at-patriots-2026-reg
+ -6
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Gillette Stadium\nFoxborough
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/jets-at-patriots-2026-reg-6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New England Patriots @ Chicago Bears
+DTSTART:20261023T001500Z
+DTEND:20261023T033000Z
+DTSTAMP:20260927T005047Z
+UID:42f73e8af3d4e2f0ce5ae03708853db3@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 7
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 7\n\nNew England Patriots @ Chicago Bears\n\n
+ Kickoff: Thursday\, October 22\, 2026 at 8:15 PM EDT (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL+\, Pr
+ ime Video\nNFL+: local and primetime live game streams require a phone or 
+ tablet\; market and device restrictions apply.\nStreaming listings are for
+  the US\; eligible subscriptions and geographic restrictions apply.\nUS na
+ tional broadcast.\n\nVenue\nSoldier Field\nChicago\n\nSchedule source: htt
+ ps://www.nfl.com/games/patriots-at-bears-2026-reg-7
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Soldier Field\nChicago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/patriots-at-bears-2026-reg-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New England Patriots @ Miami Dolphins
+DTSTART:20261101T212500Z
+DTEND:20261102T004000Z
+DTSTAMP:20260927T005047Z
+UID:3223d090041cb650da2fd5e73859cf46@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 8
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 8\n\nNew England Patriots @ Miami Dolphins\n
+ \nKickoff: Sunday\, November 1\, 2026 at 4:25 PM EST (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional br
+ oadcast\; local market coverage varies.\n\nVenue\nHard Rock Stadium\nOpa L
+ ocka\n\nSchedule source: https://www.nfl.com/games/patriots-at-dolphins-20
+ 26-reg-8
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Hard Rock Stadium\nOpa Locka
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/patriots-at-dolphins-2026-reg-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Green Bay Packers @ New England Patriots
+DTSTART:20261108T212500Z
+DTEND:20261109T004000Z
+DTSTAMP:20260927T005047Z
+UID:4b2690136560be304bef1bbc5cf5cd22@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 9
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 9\n\nGreen Bay Packers @ New England Patriots
+ \n\nKickoff: Sunday\, November 8\, 2026 at 4:25 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nGillette Stadium\nFox
+ borough\n\nSchedule source: https://www.nfl.com/games/packers-at-patriots-
+ 2026-reg-9
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Gillette Stadium\nFoxborough
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/packers-at-patriots-2026-reg-9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New England Patriots @ Detroit Lions
+DTSTART:20261115T143000Z
+DTEND:20261115T174500Z
+DTSTAMP:20260927T005047Z
+UID:aac4378dc818d197dbd14688b8425f44@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 10
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 10\n\nNew England Patriots @ Detroit Lions\n
+ \nKickoff: Sunday\, November 15\, 2026 at 9:30 AM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\, FOX Depor
+ tes\nStreaming: FOX One\, NFL+\nFOX One: local FOX coverage and market res
+ trictions apply.\nNFL Sunday Ticket: eligible out-of-market Sunday afterno
+ on viewing\; local and national blackouts apply.\nNFL+: local and primetim
+ e live game streams require a phone or tablet\; market and device restrict
+ ions apply.\nStreaming listings are for the US\; eligible subscriptions an
+ d geographic restrictions apply.\nUS national broadcast.\n\nVenue\nFC Baye
+ rn Munich Stadium\nMunich\, Germany\n\nSchedule source: https://www.nfl.co
+ m/games/patriots-at-lions-2026-reg-10
+LAST-MODIFIED:20260927T005047Z
+LOCATION:FC Bayern Munich Stadium\nMunich\, Germany
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/patriots-at-lions-2026-reg-10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New England Patriots @ Los Angeles Chargers
+DTSTART:20261130T012000Z
+DTEND:20261130T043500Z
+DTSTAMP:20260927T005047Z
+UID:d96c34c5c9db60c7f01afe702123f418@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 12
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 12\n\nNew England Patriots @ Los Angeles Char
+ gers\n\nKickoff: Sunday\, November 29\, 2026 at 8:20 PM EST (America/New_Y
+ ork)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Uni
+ verso\nStreaming: NFL+\, Peacock\nNFL+: local and primetime live game stre
+ ams require a phone or tablet\; market and device restrictions apply.\nStr
+ eaming listings are for the US\; eligible subscriptions and geographic res
+ trictions apply.\nUS national broadcast.\n\nVenue\nSoFi Stadium\nInglewood
+ \n\nSchedule source: https://www.nfl.com/games/patriots-at-chargers-2026-r
+ eg-12
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/patriots-at-chargers-2026-reg-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buffalo Bills @ New England Patriots
+DTSTART:20261206T212500Z
+DTEND:20261207T004000Z
+DTSTAMP:20260927T005047Z
+UID:193174cf3af3a1d2bf2d904d08fe1297@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 13
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 13\n\nBuffalo Bills @ New England Patriots\n
+ \nKickoff: Sunday\, December 6\, 2026 at 4:25 PM EST (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional br
+ oadcast\; local market coverage varies.\n\nVenue\nGillette Stadium\nFoxbor
+ ough\n\nSchedule source: https://www.nfl.com/games/bills-at-patriots-2026-
+ reg-13
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Gillette Stadium\nFoxborough
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bills-at-patriots-2026-reg-13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota Vikings @ New England Patriots
+DTSTART:20261211T011500Z
+DTEND:20261211T043000Z
+DTSTAMP:20260927T005047Z
+UID:22dd07ac7d1ec57e640f942d81ce6185@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 14
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 14\n\nMinnesota Vikings @ New England Patriot
+ s\n\nKickoff: Thursday\, December 10\, 2026 at 8:15 PM EST (America/New_Yo
+ rk)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL
+ +\, Prime Video\nNFL+: local and primetime live game streams require a pho
+ ne or tablet\; market and device restrictions apply.\nStreaming listings a
+ re for the US\; eligible subscriptions and geographic restrictions apply.
+ \nUS national broadcast.\n\nVenue\nGillette Stadium\nFoxborough\n\nSchedul
+ e source: https://www.nfl.com/games/vikings-at-patriots-2026-reg-14
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Gillette Stadium\nFoxborough
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/vikings-at-patriots-2026-reg-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New England Patriots @ Kansas City Chiefs
+DTSTART:20261222T011500Z
+DTEND:20261222T043000Z
+DTSTAMP:20260927T005047Z
+UID:8fd4c7824096c9b9cfe6d3f5ef8a483f@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 15
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 15\n\nNew England Patriots @ Kansas City Chie
+ fs\n\nKickoff: Monday\, December 21\, 2026 at 8:15 PM EST (America/New_Yor
+ k)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN
+ \, ESPN Deportes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local an
+ d primetime live game streams require a phone or tablet\; market and devic
+ e restrictions apply.\nStreaming listings are for the US\; eligible subscr
+ iptions and geographic restrictions apply.\nUS national broadcast.\n\nVenu
+ e\nArrowhead Stadium\nKansas City\n\nSchedule source: https://www.nfl.com/
+ games/patriots-at-chiefs-2026-reg-15
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Arrowhead Stadium\nKansas City
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/patriots-at-chiefs-2026-reg-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New England Patriots @ New York Jets
+DTSTART:20261227T180000Z
+DTEND:20261227T211500Z
+DTSTAMP:20260927T005047Z
+UID:83c6243855c5f5208d3d43134030a6c4@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 16
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 16\n\nNew England Patriots @ New York Jets\n
+ \nKickoff: Sunday\, December 27\, 2026 at 1:00 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional b
+ roadcast\; local market coverage varies.\n\nVenue\nMetLife Stadium\nEast R
+ utherford\n\nSchedule source: https://www.nfl.com/games/patriots-at-jets-2
+ 026-reg-16
+LAST-MODIFIED:20260927T005047Z
+LOCATION:MetLife Stadium\nEast Rutherford
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/patriots-at-jets-2026-reg-16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] Denver Broncos @ New England Patriots
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20260927T005047Z
+UID:05c20917a71925077b9bff6b4754a60c@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 17
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 17\n\nDenver Broncos @ New England Patriots\n
+ \nDate and kickoff: TBD.\nWeek placeholder: Thursday\, December 31\, 2026.
+  This is not a confirmed game date.\nThe event will move to its confirmed 
+ date and kickoff when announced.\n\nWatch\nBroadcast information: TBD.\n\n
+ Venue\nGillette Stadium\nFoxborough\n\nSchedule source: https://www.nfl.co
+ m/games/broncos-at-patriots-2026-reg-17
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Gillette Stadium\nFoxborough
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/broncos-at-patriots-2026-reg-17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] Miami Dolphins @ New England Patriots
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+DTSTAMP:20260927T005047Z
+UID:dfbaa5802c7871f10fd9430c93b2ec9e@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 18
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 18\n\nMiami Dolphins @ New England Patriots\n
+ \nDate and kickoff: TBD.\nWeek placeholder: Wednesday\, January 6\, 2027. 
+ This is not a confirmed game date.\nThe event will move to its confirmed d
+ ate and kickoff when announced.\n\nWatch\nBroadcast information: TBD.\n\nV
+ enue\nGillette Stadium\nFoxborough\n\nSchedule source: https://www.nfl.com
+ /games/dolphins-at-patriots-2026-reg-18
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Gillette Stadium\nFoxborough
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/dolphins-at-patriots-2026-reg-18
+END:VEVENT
+END:VCALENDAR

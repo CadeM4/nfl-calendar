@@ -1,0 +1,392 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NFL Calendar//Independent schedule subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:2026 NFL regular season and postseason. Eastern Time; automat
+ ically updated.
+NAME:Los Angeles Rams · 2026
+X-WR-CALNAME:Los Angeles Rams · 2026
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:San Francisco 49ers @ Los Angeles Rams
+DTSTART:20260911T003500Z
+DTEND:20260911T035000Z
+DTSTAMP:20260927T005047Z
+UID:c88d89051123a9b1c61ff31c75dc1540@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 1
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 1\n\nSan Francisco 49ers @ Los Angeles Rams\n
+ \nKickoff: Thursday\, September 10\, 2026 at 8:35 PM EDT (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: Netfl
+ ix\, NFL+\nNFL+: local and primetime live game streams require a phone or 
+ tablet\; market and device restrictions apply.\nStreaming listings are for
+  the US\; eligible subscriptions and geographic restrictions apply.\nUS na
+ tional broadcast.\n\nVenue\nMelbourne Cricket Ground\nEast Melbourne\, Aus
+ tralia\n\nSchedule source: https://www.nfl.com/games/49ers-at-rams-2026-re
+ g-1
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Melbourne Cricket Ground\nEast Melbourne\, Australia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/49ers-at-rams-2026-reg-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Giants @ Los Angeles Rams
+DTSTART:20260922T001500Z
+DTEND:20260922T033000Z
+DTSTAMP:20260927T005047Z
+UID:f0fa902fd532c97986e9c8470d8afdff@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 2
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 2\n\nNew York Giants @ Los Angeles Rams\n\nKi
+ ckoff: Monday\, September 21\, 2026 at 8:15 PM EDT (America/New_York)\nEst
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN 
+ Deportes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primet
+ ime live game streams require a phone or tablet\; market and device restri
+ ctions apply.\nStreaming listings are for the US\; eligible subscriptions 
+ and geographic restrictions apply.\nUS national broadcast.\n\nVenue\nSoFi 
+ Stadium\nInglewood\n\nSchedule source: https://www.nfl.com/games/giants-at
+ -rams-2026-reg-2
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/giants-at-rams-2026-reg-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Rams @ Denver Broncos
+DTSTART:20260928T002000Z
+DTEND:20260928T033500Z
+DTSTAMP:20260927T005047Z
+UID:1b558938ff0d7aa6ad78a9315c75792e@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 3
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 3\n\nLos Angeles Rams @ Denver Broncos\n\nKic
+ koff: Sunday\, September 27\, 2026 at 8:20 PM EDT (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo\nStr
+ eaming: NFL+\, Peacock\nNFL+: local and primetime live game streams requir
+ e a phone or tablet\; market and device restrictions apply.\nStreaming lis
+ tings are for the US\; eligible subscriptions and geographic restrictions 
+ apply.\nUS national broadcast.\n\nVenue\nEmpower Field at Mile High\nDenve
+ r\n\nSchedule source: https://www.nfl.com/games/rams-at-broncos-2026-reg-3
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Empower Field at Mile High\nDenver
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/rams-at-broncos-2026-reg-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Rams @ Philadelphia Eagles
+DTSTART:20261004T170000Z
+DTEND:20261004T201500Z
+DTSTAMP:20260927T005047Z
+UID:23a27c66cf503eb07723c703f7b7f9eb@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 4
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 4\n\nLos Angeles Rams @ Philadelphia Eagles\n
+ \nKickoff: Sunday\, October 4\, 2026 at 1:00 PM EDT (America/New_York)\nEs
+ timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: F
+ OX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.
+ \nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; loc
+ al and national blackouts apply.\nNFL+: local and primetime live game stre
+ ams require a phone or tablet\; market and device restrictions apply.\nReg
+ ional broadcast\; local market coverage varies.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
+ nue\nLincoln Financial Field\nPhiladelphia\n\nSchedule source: https://www
+ .nfl.com/games/rams-at-eagles-2026-reg-4
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lincoln Financial Field\nPhiladelphia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/rams-at-eagles-2026-reg-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buffalo Bills @ Los Angeles Rams
+DTSTART:20261013T001500Z
+DTEND:20261013T033000Z
+DTSTAMP:20260927T005047Z
+UID:085fb105aac6d3fe2503c753ab7a3a50@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 5
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 5\n\nBuffalo Bills @ Los Angeles Rams\n\nKick
+ off: Monday\, October 12\, 2026 at 8:15 PM EDT (America/New_York)\nEstimat
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN Depo
+ rtes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetime 
+ live game streams require a phone or tablet\; market and device restrictio
+ ns apply.\nStreaming listings are for the US\; eligible subscriptions and 
+ geographic restrictions apply.\nUS national broadcast.\n\nVenue\nSoFi Stad
+ ium\nInglewood\n\nSchedule source: https://www.nfl.com/games/bills-at-rams
+ -2026-reg-5
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bills-at-rams-2026-reg-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arizona Cardinals @ Los Angeles Rams
+DTSTART:20261018T200500Z
+DTEND:20261018T232000Z
+DTSTAMP:20260927T005047Z
+UID:92800f93a6a1bff3cf4afeb7e70027d3@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 6
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 6\n\nArizona Cardinals @ Los Angeles Rams\n\n
+ Kickoff: Sunday\, October 18\, 2026 at 4:05 PM EDT (America/New_York)\nEst
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broa
+ dcast\; local market coverage varies.\n\nVenue\nSoFi Stadium\nInglewood\n
+ \nSchedule source: https://www.nfl.com/games/cardinals-at-rams-2026-reg-6
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cardinals-at-rams-2026-reg-6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Rams @ Las Vegas Raiders
+DTSTART:20261025T202500Z
+DTEND:20261025T234000Z
+DTSTAMP:20260927T005047Z
+UID:3183ebdc4169a87a4fea6218877868c7@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 7
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 7\n\nLos Angeles Rams @ Las Vegas Raiders\n\n
+ Kickoff: Sunday\, October 25\, 2026 at 4:25 PM EDT (America/New_York)\nEst
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broa
+ dcast\; local market coverage varies.\n\nVenue\nAllegiant Stadium\nParadis
+ e\n\nSchedule source: https://www.nfl.com/games/rams-at-raiders-2026-reg-7
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Allegiant Stadium\nParadise
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/rams-at-raiders-2026-reg-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Chargers @ Los Angeles Rams
+DTSTART:20261101T210500Z
+DTEND:20261102T002000Z
+DTSTAMP:20260927T005047Z
+UID:6f7d14b46750060996d7c604a99d2006@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 8
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 8\n\nLos Angeles Chargers @ Los Angeles Rams
+ \n\nKickoff: Sunday\, November 1\, 2026 at 4:05 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nSoFi Stadium\nInglewo
+ od\n\nSchedule source: https://www.nfl.com/games/chargers-at-rams-2026-reg
+ -8
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chargers-at-rams-2026-reg-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Rams @ Washington Commanders
+DTSTART:20261108T180000Z
+DTEND:20261108T211500Z
+DTSTAMP:20260927T005047Z
+UID:16fbe6ea8475f194fe66640762c11667@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 9
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 9\n\nLos Angeles Rams @ Washington Commanders
+ \n\nKickoff: Sunday\, November 8\, 2026 at 1:00 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nNorthwest Stadium\nLa
+ ndover\n\nSchedule source: https://www.nfl.com/games/rams-at-commanders-20
+ 26-reg-9
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Northwest Stadium\nLandover
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/rams-at-commanders-2026-reg-9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Rams @ Arizona Cardinals
+DTSTART:20261115T210500Z
+DTEND:20261116T002000Z
+DTSTAMP:20260927T005047Z
+UID:697a6421db81590f2d8a5251c580f3aa@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 10
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 10\n\nLos Angeles Rams @ Arizona Cardinals\n
+ \nKickoff: Sunday\, November 15\, 2026 at 4:05 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional b
+ roadcast\; local market coverage varies.\n\nVenue\nState Farm Stadium\nGle
+ ndale\n\nSchedule source: https://www.nfl.com/games/rams-at-cardinals-2026
+ -reg-10
+LAST-MODIFIED:20260927T005047Z
+LOCATION:State Farm Stadium\nGlendale
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/rams-at-cardinals-2026-reg-10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Green Bay Packers @ Los Angeles Rams
+DTSTART:20261126T010000Z
+DTEND:20261126T041500Z
+DTSTAMP:20260927T005047Z
+UID:48f115c28ad4462117f0e839d24e15d5@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 12
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 12\n\nGreen Bay Packers @ Los Angeles Rams\n
+ \nKickoff: Wednesday\, November 25\, 2026 at 8:00 PM EST (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: Netfl
+ ix\, NFL+\nNFL+: local and primetime live game streams require a phone or 
+ tablet\; market and device restrictions apply.\nStreaming listings are for
+  the US\; eligible subscriptions and geographic restrictions apply.\nUS na
+ tional broadcast.\n\nVenue\nSoFi Stadium\nInglewood\n\nSchedule source: ht
+ tps://www.nfl.com/games/packers-at-rams-2026-reg-12
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/packers-at-rams-2026-reg-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City Chiefs @ Los Angeles Rams
+DTSTART:20261204T011500Z
+DTEND:20261204T043000Z
+DTSTAMP:20260927T005047Z
+UID:dca78298adc22f1734a1666becd5ed11@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 13
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 13\n\nKansas City Chiefs @ Los Angeles Rams\n
+ \nKickoff: Thursday\, December 3\, 2026 at 8:15 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL+\,
+  Prime Video\nNFL+: local and primetime live game streams require a phone 
+ or tablet\; market and device restrictions apply.\nStreaming listings are 
+ for the US\; eligible subscriptions and geographic restrictions apply.\nUS
+  national broadcast.\n\nVenue\nSoFi Stadium\nInglewood\n\nSchedule source:
+  https://www.nfl.com/games/chiefs-at-rams-2026-reg-13
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chiefs-at-rams-2026-reg-13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Rams @ San Francisco 49ers
+DTSTART:20261213T212500Z
+DTEND:20261214T004000Z
+DTSTAMP:20260927T005047Z
+UID:f93d1db696e892d793b6cff921e761f9@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 14
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 14\n\nLos Angeles Rams @ San Francisco 49ers
+ \n\nKickoff: Sunday\, December 13\, 2026 at 4:25 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nLevi's® Stadium\nSan
+ ta Clara\n\nSchedule source: https://www.nfl.com/games/rams-at-49ers-2026-
+ reg-14
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Levi's® Stadium\nSanta Clara
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/rams-at-49ers-2026-reg-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dallas Cowboys @ Los Angeles Rams
+DTSTART:20261220T212500Z
+DTEND:20261221T004000Z
+DTSTAMP:20260927T005047Z
+UID:b5f9b2c499af7917b3ec43045600e09e@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 15
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 15\n\nDallas Cowboys @ Los Angeles Rams\n\nKi
+ ckoff: Sunday\, December 20\, 2026 at 4:25 PM EST (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broad
+ cast\; local market coverage varies.\n\nVenue\nSoFi Stadium\nInglewood\n\n
+ Schedule source: https://www.nfl.com/games/cowboys-at-rams-2026-reg-15
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cowboys-at-rams-2026-reg-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Rams @ Seattle Seahawks
+DTSTART:20261226T011500Z
+DTEND:20261226T043000Z
+DTSTAMP:20260927T005047Z
+UID:25ed6e2c91b4b240cca8b02767d4ac44@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 16
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 16\n\nLos Angeles Rams @ Seattle Seahawks\n\n
+ Kickoff: Friday\, December 25\, 2026 at 8:15 PM EST (America/New_York)\nEs
+ timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\, FOX Deporte
+ s\nStreaming: FOX One\, NFL+\nFOX One: local FOX coverage and market restr
+ ictions apply.\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon
+  viewing\; local and national blackouts apply.\nNFL+: local and primetime 
+ live game streams require a phone or tablet\; market and device restrictio
+ ns apply.\nStreaming listings are for the US\; eligible subscriptions and 
+ geographic restrictions apply.\nUS national broadcast.\n\nVenue\nLumen Fie
+ ld\nSeattle\n\nSchedule source: https://www.nfl.com/games/rams-at-seahawks
+ -2026-reg-16
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lumen Field\nSeattle
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/rams-at-seahawks-2026-reg-16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] Los Angeles Rams @ Tampa Bay Buccaneers
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20260927T005047Z
+UID:2ccf1753a24fa8db56738b6e16e0a4d4@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 17
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 17\n\nLos Angeles Rams @ Tampa Bay Buccaneers
+ \n\nDate and kickoff: TBD.\nWeek placeholder: Thursday\, December 31\, 202
+ 6. This is not a confirmed game date.\nThe event will move to its confirme
+ d date and kickoff when announced.\n\nWatch\nBroadcast information: TBD.\n
+ \nVenue\nRaymond James Stadium\nTampa\n\nSchedule source: https://www.nfl.
+ com/games/rams-at-buccaneers-2026-reg-17
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Raymond James Stadium\nTampa
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/rams-at-buccaneers-2026-reg-17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] Seattle Seahawks @ Los Angeles Rams
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+DTSTAMP:20260927T005047Z
+UID:737c11c1ced3a83e66493fc168538fa0@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 18
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 18\n\nSeattle Seahawks @ Los Angeles Rams\n\n
+ Date and kickoff: TBD.\nWeek placeholder: Wednesday\, January 6\, 2027. Th
+ is is not a confirmed game date.\nThe event will move to its confirmed dat
+ e and kickoff when announced.\n\nWatch\nBroadcast information: TBD.\n\nVen
+ ue\nSoFi Stadium\nInglewood\n\nSchedule source: https://www.nfl.com/games/
+ seahawks-at-rams-2026-reg-18
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/seahawks-at-rams-2026-reg-18
+END:VEVENT
+END:VCALENDAR

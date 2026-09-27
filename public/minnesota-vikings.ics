@@ -1,0 +1,399 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NFL Calendar//Independent schedule subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:2026 NFL regular season and postseason. Eastern Time; automat
+ ically updated.
+NAME:Minnesota Vikings · 2026
+X-WR-CALNAME:Minnesota Vikings · 2026
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Green Bay Packers @ Minnesota Vikings
+DTSTART:20260913T202500Z
+DTEND:20260913T234000Z
+DTSTAMP:20260927T005047Z
+UID:fe77617ddfc3f449d7feefba3f3136e2@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 1
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 1\n\nGreen Bay Packers @ Minnesota Vikings\n
+ \nKickoff: Sunday\, September 13\, 2026 at 4:25 PM EDT (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreamin
+ g: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday aft
+ ernoon viewing\; local and national blackouts apply.\nNFL+: local and prim
+ etime live game streams require a phone or tablet\; market and device rest
+ rictions apply.\nParamount+: this game must be carried by your local CBS s
+ tation.\nRegional broadcast\; local market coverage varies.\nStreaming lis
+ tings are for the US\; eligible subscriptions and geographic restrictions 
+ apply.\n\nVenue\nU.S. Bank Stadium\nMinneapolis\n\nSchedule source: https:
+ //www.nfl.com/games/packers-at-vikings-2026-reg-1
+LAST-MODIFIED:20260927T005047Z
+LOCATION:U.S. Bank Stadium\nMinneapolis
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/packers-at-vikings-2026-reg-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota Vikings @ Chicago Bears
+DTSTART:20260920T170000Z
+DTEND:20260920T201500Z
+DTSTAMP:20260927T005047Z
+UID:25d3b51acf511e066e72b08846a28c1c@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 2
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 2\n\nMinnesota Vikings @ Chicago Bears\n\nKic
+ koff: Sunday\, September 20\, 2026 at 1:00 PM EDT (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX
+  One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nN
+ FL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local 
+ and national blackouts apply.\nNFL+: local and primetime live game streams
+  require a phone or tablet\; market and device restrictions apply.\nRegion
+ al broadcast\; local market coverage varies.\nStreaming listings are for t
+ he US\; eligible subscriptions and geographic restrictions apply.\n\nVenue
+ \nSoldier Field\nChicago\n\nSchedule source: https://www.nfl.com/games/vik
+ ings-at-bears-2026-reg-2
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Soldier Field\nChicago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/vikings-at-bears-2026-reg-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota Vikings @ Tampa Bay Buccaneers
+DTSTART:20260927T200500Z
+DTEND:20260927T232000Z
+DTSTAMP:20260927T005047Z
+UID:bc48596ad741392739f29d05407cd2e5@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 3
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 3\n\nMinnesota Vikings @ Tampa Bay Buccaneers
+ \n\nKickoff: Sunday\, September 27\, 2026 at 4:05 PM EDT (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreami
+ ng: FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions ap
+ ply.\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\;
+  local and national blackouts apply.\nNFL+: local and primetime live game 
+ streams require a phone or tablet\; market and device restrictions apply.
+ \nRegional broadcast\; local market coverage varies.\nStreaming listings a
+ re for the US\; eligible subscriptions and geographic restrictions apply.
+ \n\nVenue\nRaymond James Stadium\nTampa\n\nSchedule source: https://www.nf
+ l.com/games/vikings-at-buccaneers-2026-reg-3
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Raymond James Stadium\nTampa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/vikings-at-buccaneers-2026-reg-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miami Dolphins @ Minnesota Vikings
+DTSTART:20261004T200500Z
+DTEND:20261004T232000Z
+DTSTAMP:20260927T005047Z
+UID:42d38f8cefc6b9e77fc1ab423fe16f22@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 4
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 4\n\nMiami Dolphins @ Minnesota Vikings\n\nKi
+ ckoff: Sunday\, October 4\, 2026 at 4:05 PM EDT (America/New_York)\nEstima
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX O
+ ne\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nNFL
+  Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local an
+ d national blackouts apply.\nNFL+: local and primetime live game streams r
+ equire a phone or tablet\; market and device restrictions apply.\nRegional
+  broadcast\; local market coverage varies.\nStreaming listings are for the
+  US\; eligible subscriptions and geographic restrictions apply.\n\nVenue\n
+ U.S. Bank Stadium\nMinneapolis\n\nSchedule source: https://www.nfl.com/gam
+ es/dolphins-at-vikings-2026-reg-4
+LAST-MODIFIED:20260927T005047Z
+LOCATION:U.S. Bank Stadium\nMinneapolis
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/dolphins-at-vikings-2026-reg-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota Vikings @ New Orleans Saints
+DTSTART:20261011T170000Z
+DTEND:20261011T201500Z
+DTSTAMP:20260927T005047Z
+UID:2cfc35aa2d2c2bd8909108c9de456114@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 5
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 5\n\nMinnesota Vikings @ New Orleans Saints\n
+ \nKickoff: Sunday\, October 11\, 2026 at 1:00 PM EDT (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional br
+ oadcast\; local market coverage varies.\n\nVenue\nCaesars Superdome\nNew O
+ rleans\n\nSchedule source: https://www.nfl.com/games/vikings-at-saints-202
+ 6-reg-5
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Caesars Superdome\nNew Orleans
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/vikings-at-saints-2026-reg-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indianapolis Colts @ Minnesota Vikings
+DTSTART:20261025T170000Z
+DTEND:20261025T201500Z
+DTSTAMP:20260927T005047Z
+UID:53839ba02c255d1c68bc363808f3c35d@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 7
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 7\n\nIndianapolis Colts @ Minnesota Vikings\n
+ \nKickoff: Sunday\, October 25\, 2026 at 1:00 PM EDT (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional br
+ oadcast\; local market coverage varies.\n\nVenue\nU.S. Bank Stadium\nMinne
+ apolis\n\nSchedule source: https://www.nfl.com/games/colts-at-vikings-2026
+ -reg-7
+LAST-MODIFIED:20260927T005047Z
+LOCATION:U.S. Bank Stadium\nMinneapolis
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/colts-at-vikings-2026-reg-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota Vikings @ Detroit Lions
+DTSTART:20261101T180000Z
+DTEND:20261101T211500Z
+DTSTAMP:20260927T005047Z
+UID:d90cacd8be66882b76d5672652266e3a@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 8
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 8\n\nMinnesota Vikings @ Detroit Lions\n\nKic
+ koff: Sunday\, November 1\, 2026 at 1:00 PM EST (America/New_York)\nEstima
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadca
+ st\; local market coverage varies.\n\nVenue\nFord Field\nDetroit\n\nSchedu
+ le source: https://www.nfl.com/games/vikings-at-lions-2026-reg-8
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Ford Field\nDetroit
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/vikings-at-lions-2026-reg-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buffalo Bills @ Minnesota Vikings
+DTSTART:20261110T011500Z
+DTEND:20261110T043000Z
+DTSTAMP:20260927T005047Z
+UID:9cf4e0e585fd37245244cb29bee75f21@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 9
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 9\n\nBuffalo Bills @ Minnesota Vikings\n\nKic
+ koff: Monday\, November 9\, 2026 at 8:15 PM EST (America/New_York)\nEstima
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN Dep
+ ortes\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetime live ga
+ me streams require a phone or tablet\; market and device restrictions appl
+ y.\nStreaming listings are for the US\; eligible subscriptions and geograp
+ hic restrictions apply.\nUS national broadcast.\n\nVenue\nU.S. Bank Stadiu
+ m\nMinneapolis\n\nSchedule source: https://www.nfl.com/games/bills-at-viki
+ ngs-2026-reg-9
+LAST-MODIFIED:20260927T005047Z
+LOCATION:U.S. Bank Stadium\nMinneapolis
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bills-at-vikings-2026-reg-9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota Vikings @ Green Bay Packers
+DTSTART:20261115T180000Z
+DTEND:20261115T211500Z
+DTSTAMP:20260927T005047Z
+UID:c941914af678f6327d509c8e9a9c64f0@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 10
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 10\n\nMinnesota Vikings @ Green Bay Packers\n
+ \nKickoff: Sunday\, November 15\, 2026 at 1:00 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional b
+ roadcast\; local market coverage varies.\n\nVenue\nLambeau Field\nGreen Ba
+ y\n\nSchedule source: https://www.nfl.com/games/vikings-at-packers-2026-re
+ g-10
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lambeau Field\nGreen Bay
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/vikings-at-packers-2026-reg-10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota Vikings @ San Francisco 49ers
+DTSTART:20261123T012000Z
+DTEND:20261123T043500Z
+DTSTAMP:20260927T005047Z
+UID:30df9b2a53315255da745b2210a5110e@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 11
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 11\n\nMinnesota Vikings @ San Francisco 49ers
+ \n\nKickoff: Sunday\, November 22\, 2026 at 8:20 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Univers
+ o\nStreaming: NFL+\, Peacock\nNFL+: local and primetime live game streams 
+ require a phone or tablet\; market and device restrictions apply.\nStreami
+ ng listings are for the US\; eligible subscriptions and geographic restric
+ tions apply.\nUS national broadcast.\n\nVenue\nEstadio Banorte\nMexico Cit
+ y\, Mexico\n\nSchedule source: https://www.nfl.com/games/vikings-at-49ers-
+ 2026-reg-11
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Estadio Banorte\nMexico City\, Mexico
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/vikings-at-49ers-2026-reg-11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlanta Falcons @ Minnesota Vikings
+DTSTART:20261129T180000Z
+DTEND:20261129T211500Z
+DTSTAMP:20260927T005047Z
+UID:7a73d90f4e1dbaf0094f6b7b1e731c8e@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 12
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 12\n\nAtlanta Falcons @ Minnesota Vikings\n\n
+ Kickoff: Sunday\, November 29\, 2026 at 1:00 PM EST (America/New_York)\nEs
+ timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional bro
+ adcast\; local market coverage varies.\n\nVenue\nU.S. Bank Stadium\nMinnea
+ polis\n\nSchedule source: https://www.nfl.com/games/falcons-at-vikings-202
+ 6-reg-12
+LAST-MODIFIED:20260927T005047Z
+LOCATION:U.S. Bank Stadium\nMinneapolis
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/falcons-at-vikings-2026-reg-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carolina Panthers @ Minnesota Vikings
+DTSTART:20261206T212500Z
+DTEND:20261207T004000Z
+DTSTAMP:20260927T005047Z
+UID:e0e68ac26a79319362ed288713fff19f@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 13
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 13\n\nCarolina Panthers @ Minnesota Vikings\n
+ \nKickoff: Sunday\, December 6\, 2026 at 4:25 PM EST (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional br
+ oadcast\; local market coverage varies.\n\nVenue\nU.S. Bank Stadium\nMinne
+ apolis\n\nSchedule source: https://www.nfl.com/games/panthers-at-vikings-2
+ 026-reg-13
+LAST-MODIFIED:20260927T005047Z
+LOCATION:U.S. Bank Stadium\nMinneapolis
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/panthers-at-vikings-2026-reg-13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota Vikings @ New England Patriots
+DTSTART:20261211T011500Z
+DTEND:20261211T043000Z
+DTSTAMP:20260927T005047Z
+UID:22dd07ac7d1ec57e640f942d81ce6185@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 14
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 14\n\nMinnesota Vikings @ New England Patriot
+ s\n\nKickoff: Thursday\, December 10\, 2026 at 8:15 PM EST (America/New_Yo
+ rk)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL
+ +\, Prime Video\nNFL+: local and primetime live game streams require a pho
+ ne or tablet\; market and device restrictions apply.\nStreaming listings a
+ re for the US\; eligible subscriptions and geographic restrictions apply.
+ \nUS national broadcast.\n\nVenue\nGillette Stadium\nFoxborough\n\nSchedul
+ e source: https://www.nfl.com/games/vikings-at-patriots-2026-reg-14
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Gillette Stadium\nFoxborough
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/vikings-at-patriots-2026-reg-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Lions @ Minnesota Vikings
+DTSTART:20261221T012000Z
+DTEND:20261221T043500Z
+DTSTAMP:20260927T005047Z
+UID:5054d8db963a83698004905b514c6457@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 15
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 15\n\nDetroit Lions @ Minnesota Vikings\n\nKi
+ ckoff: Sunday\, December 20\, 2026 at 8:20 PM EST (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo\nStr
+ eaming: NFL+\, Peacock\nNFL+: local and primetime live game streams requir
+ e a phone or tablet\; market and device restrictions apply.\nStreaming lis
+ tings are for the US\; eligible subscriptions and geographic restrictions 
+ apply.\nUS national broadcast.\n\nVenue\nU.S. Bank Stadium\nMinneapolis\n
+ \nSchedule source: https://www.nfl.com/games/lions-at-vikings-2026-reg-15
+LAST-MODIFIED:20260927T005047Z
+LOCATION:U.S. Bank Stadium\nMinneapolis
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/lions-at-vikings-2026-reg-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] Washington Commanders @ Minnesota Vikings
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20260927T005047Z
+UID:369173e879c206917442818849fc167c@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 16
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 16\n\nWashington Commanders @ Minnesota Vikin
+ gs\n\nDate and kickoff: TBD.\nWeek placeholder: Thursday\, December 24\, 2
+ 026. This is not a confirmed game date.\nThe event will move to its confir
+ med date and kickoff when announced.\n\nWatch\nBroadcast information: TBD.
+ \n\nVenue\nU.S. Bank Stadium\nMinneapolis\n\nSchedule source: https://www.
+ nfl.com/games/commanders-at-vikings-2026-reg-16
+LAST-MODIFIED:20260927T005047Z
+LOCATION:U.S. Bank Stadium\nMinneapolis
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/commanders-at-vikings-2026-reg-16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota Vikings @ New York Jets
+DTSTART:20270103T180000Z
+DTEND:20270103T211500Z
+DTSTAMP:20260927T005047Z
+UID:bf2cd0d0da71929f738beacc303ca48d@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 17
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 17\n\nMinnesota Vikings @ New York Jets\n\nKi
+ ckoff: Sunday\, January 3\, 2027 at 1:00 PM EST (America/New_York)\nEstima
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadca
+ st\; local market coverage varies.\n\nVenue\nMetLife Stadium\nEast Rutherf
+ ord\n\nSchedule source: https://www.nfl.com/games/vikings-at-jets-2026-reg
+ -17
+LAST-MODIFIED:20260927T005047Z
+LOCATION:MetLife Stadium\nEast Rutherford
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/vikings-at-jets-2026-reg-17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] Chicago Bears @ Minnesota Vikings
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+DTSTAMP:20260927T005047Z
+UID:a4a24ce2cd2e03153e3502942ac29a63@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 18
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 18\n\nChicago Bears @ Minnesota Vikings\n\nDa
+ te and kickoff: TBD.\nWeek placeholder: Wednesday\, January 6\, 2027. This
+  is not a confirmed game date.\nThe event will move to its confirmed date 
+ and kickoff when announced.\n\nWatch\nBroadcast information: TBD.\n\nVenue
+ \nU.S. Bank Stadium\nMinneapolis\n\nSchedule source: https://www.nfl.com/g
+ ames/bears-at-vikings-2026-reg-18
+LAST-MODIFIED:20260927T005047Z
+LOCATION:U.S. Bank Stadium\nMinneapolis
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bears-at-vikings-2026-reg-18
+END:VEVENT
+END:VCALENDAR

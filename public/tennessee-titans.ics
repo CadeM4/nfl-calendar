@@ -1,0 +1,386 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NFL Calendar//Independent schedule subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:2026 NFL regular season and postseason. Eastern Time; automat
+ ically updated.
+NAME:Tennessee Titans · 2026
+X-WR-CALNAME:Tennessee Titans · 2026
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:New York Jets @ Tennessee Titans
+DTSTART:20260913T170000Z
+DTEND:20260913T201500Z
+DTSTAMP:20260927T005047Z
+UID:e0e793261b468f13d9c58fb47d4e0f0c@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 1
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 1\n\nNew York Jets @ Tennessee Titans\n\nKick
+ off: Sunday\, September 13\, 2026 at 1:00 PM EDT (America/New_York)\nEstim
+ ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL+
+ \, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon 
+ viewing\; local and national blackouts apply.\nNFL+: local and primetime l
+ ive game streams require a phone or tablet\; market and device restriction
+ s apply.\nParamount+: this game must be carried by your local CBS station.
+ \nRegional broadcast\; local market coverage varies.\nStreaming listings a
+ re for the US\; eligible subscriptions and geographic restrictions apply.
+ \n\nVenue\nNissan Stadium\nNashville\n\nSchedule source: https://www.nfl.c
+ om/games/jets-at-titans-2026-reg-1
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Nissan Stadium\nNashville
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/jets-at-titans-2026-reg-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Eagles @ Tennessee Titans
+DTSTART:20260920T170000Z
+DTEND:20260920T201500Z
+DTSTAMP:20260927T005047Z
+UID:4fdae4e7d69c5d3a218175a3724057f6@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 2
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 2\n\nPhiladelphia Eagles @ Tennessee Titans\n
+ \nKickoff: Sunday\, September 20\, 2026 at 1:00 PM EDT (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreamin
+ g: FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions app
+ ly.\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; 
+ local and national blackouts apply.\nNFL+: local and primetime live game s
+ treams require a phone or tablet\; market and device restrictions apply.\n
+ Regional broadcast\; local market coverage varies.\nStreaming listings are
+  for the US\; eligible subscriptions and geographic restrictions apply.\n
+ \nVenue\nNissan Stadium\nNashville\n\nSchedule source: https://www.nfl.com
+ /games/eagles-at-titans-2026-reg-2
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Nissan Stadium\nNashville
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/eagles-at-titans-2026-reg-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee Titans @ New York Giants
+DTSTART:20260927T170000Z
+DTEND:20260927T201500Z
+DTSTAMP:20260927T005047Z
+UID:1eee2de734dc7277f7d26491b394a38d@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 3
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 3\n\nTennessee Titans @ New York Giants\n\nKi
+ ckoff: Sunday\, September 27\, 2026 at 1:00 PM EDT (America/New_York)\nEst
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NF
+ L+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoo
+ n viewing\; local and national blackouts apply.\nNFL+: local and primetime
+  live game streams require a phone or tablet\; market and device restricti
+ ons apply.\nParamount+: this game must be carried by your local CBS statio
+ n.\nRegional broadcast\; local market coverage varies.\nStreaming listings
+  are for the US\; eligible subscriptions and geographic restrictions apply
+ .\n\nVenue\nMetLife Stadium\nEast Rutherford\n\nSchedule source: https://w
+ ww.nfl.com/games/titans-at-giants-2026-reg-3
+LAST-MODIFIED:20260927T005047Z
+LOCATION:MetLife Stadium\nEast Rutherford
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/titans-at-giants-2026-reg-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee Titans @ Baltimore Ravens
+DTSTART:20261004T170000Z
+DTEND:20261004T201500Z
+DTSTAMP:20260927T005047Z
+UID:868a3cd7ffbd1a4d20190d0f2c670dee@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 4
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 4\n\nTennessee Titans @ Baltimore Ravens\n\nK
+ ickoff: Sunday\, October 4\, 2026 at 1:00 PM EDT (America/New_York)\nEstim
+ ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL+
+ \, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon 
+ viewing\; local and national blackouts apply.\nNFL+: local and primetime l
+ ive game streams require a phone or tablet\; market and device restriction
+ s apply.\nParamount+: this game must be carried by your local CBS station.
+ \nRegional broadcast\; local market coverage varies.\nStreaming listings a
+ re for the US\; eligible subscriptions and geographic restrictions apply.
+ \n\nVenue\nM&T Bank Stadium\nBaltimore\n\nSchedule source: https://www.nfl
+ .com/games/titans-at-ravens-2026-reg-4
+LAST-MODIFIED:20260927T005047Z
+LOCATION:M&T Bank Stadium\nBaltimore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/titans-at-ravens-2026-reg-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Texans @ Tennessee Titans
+DTSTART:20261011T170000Z
+DTEND:20261011T201500Z
+DTSTAMP:20260927T005047Z
+UID:bae3c6bec8242a67a47399ea21ec0d51@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 5
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 5\n\nHouston Texans @ Tennessee Titans\n\nKic
+ koff: Sunday\, October 11\, 2026 at 1:00 PM EDT (America/New_York)\nEstima
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadca
+ st\; local market coverage varies.\n\nVenue\nNissan Stadium\nNashville\n\n
+ Schedule source: https://www.nfl.com/games/texans-at-titans-2026-reg-5
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Nissan Stadium\nNashville
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/texans-at-titans-2026-reg-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee Titans @ Indianapolis Colts
+DTSTART:20261018T170000Z
+DTEND:20261018T201500Z
+DTSTAMP:20260927T005047Z
+UID:dc71437ad869f000adcca807a9ce1728@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 6
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 6\n\nTennessee Titans @ Indianapolis Colts\n
+ \nKickoff: Sunday\, October 18\, 2026 at 1:00 PM EDT (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional br
+ oadcast\; local market coverage varies.\n\nVenue\nLucas Oil Stadium\nIndia
+ napolis\n\nSchedule source: https://www.nfl.com/games/titans-at-colts-2026
+ -reg-6
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lucas Oil Stadium\nIndianapolis
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/titans-at-colts-2026-reg-6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cleveland Browns @ Tennessee Titans
+DTSTART:20261025T170000Z
+DTEND:20261025T201500Z
+DTSTAMP:20260927T005047Z
+UID:50bfad7bbdd13cb95f511e355eabc45e@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 7
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 7\n\nCleveland Browns @ Tennessee Titans\n\nK
+ ickoff: Sunday\, October 25\, 2026 at 1:00 PM EDT (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broad
+ cast\; local market coverage varies.\n\nVenue\nNissan Stadium\nNashville\n
+ \nSchedule source: https://www.nfl.com/games/browns-at-titans-2026-reg-7
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Nissan Stadium\nNashville
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/browns-at-titans-2026-reg-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee Titans @ Cincinnati Bengals
+DTSTART:20261101T180000Z
+DTEND:20261101T211500Z
+DTSTAMP:20260927T005047Z
+UID:b517aae795c201ee314caf16a01e9a93@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 8
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 8\n\nTennessee Titans @ Cincinnati Bengals\n
+ \nKickoff: Sunday\, November 1\, 2026 at 1:00 PM EST (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional br
+ oadcast\; local market coverage varies.\n\nVenue\nPaycor Stadium\nCincinna
+ ti\n\nSchedule source: https://www.nfl.com/games/titans-at-bengals-2026-re
+ g-8
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Paycor Stadium\nCincinnati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/titans-at-bengals-2026-reg-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jacksonville Jaguars @ Tennessee Titans
+DTSTART:20261115T180000Z
+DTEND:20261115T211500Z
+DTSTAMP:20260927T005047Z
+UID:d425929a0451fccac58dc31dcac4317a@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 10
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 10\n\nJacksonville Jaguars @ Tennessee Titans
+ \n\nKickoff: Sunday\, November 15\, 2026 at 1:00 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nNissan Stadium\nNashv
+ ille\n\nSchedule source: https://www.nfl.com/games/jaguars-at-titans-2026-
+ reg-10
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Nissan Stadium\nNashville
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/jaguars-at-titans-2026-reg-10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee Titans @ Dallas Cowboys
+DTSTART:20261122T180000Z
+DTEND:20261122T211500Z
+DTSTAMP:20260927T005047Z
+UID:9cb28c02088243edefa2d48b3092e542@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 11
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 11\n\nTennessee Titans @ Dallas Cowboys\n\nKi
+ ckoff: Sunday\, November 22\, 2026 at 1:00 PM EST (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broad
+ cast\; local market coverage varies.\n\nVenue\nAT&T Stadium\nArlington\n\n
+ Schedule source: https://www.nfl.com/games/titans-at-cowboys-2026-reg-11
+LAST-MODIFIED:20260927T005047Z
+LOCATION:AT&T Stadium\nArlington
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/titans-at-cowboys-2026-reg-11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee Titans @ Jacksonville Jaguars
+DTSTART:20261129T210500Z
+DTEND:20261130T002000Z
+DTSTAMP:20260927T005047Z
+UID:c95e7c35e12ccfdfc7e3d527406ce2ce@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 12
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 12\n\nTennessee Titans @ Jacksonville Jaguars
+ \n\nKickoff: Sunday\, November 29\, 2026 at 4:05 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nEverBank Stadium\nJac
+ ksonville\n\nSchedule source: https://www.nfl.com/games/titans-at-jaguars-
+ 2026-reg-12
+LAST-MODIFIED:20260927T005047Z
+LOCATION:EverBank Stadium\nJacksonville
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/titans-at-jaguars-2026-reg-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington Commanders @ Tennessee Titans
+DTSTART:20261206T180000Z
+DTEND:20261206T211500Z
+DTSTAMP:20260927T005047Z
+UID:e1c044bb7f9a93d028ee04c8eac16d81@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 13
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 13\n\nWashington Commanders @ Tennessee Titan
+ s\n\nKickoff: Sunday\, December 6\, 2026 at 1:00 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nNissan Stadium\nNashv
+ ille\n\nSchedule source: https://www.nfl.com/games/commanders-at-titans-20
+ 26-reg-13
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Nissan Stadium\nNashville
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/commanders-at-titans-2026-reg-13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee Titans @ Detroit Lions
+DTSTART:20261213T180000Z
+DTEND:20261213T211500Z
+DTSTAMP:20260927T005047Z
+UID:9c2cee98abbf46d55f4f8dbedb61da83@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 14
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 14\n\nTennessee Titans @ Detroit Lions\n\nKic
+ koff: Sunday\, December 13\, 2026 at 1:00 PM EST (America/New_York)\nEstim
+ ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadc
+ ast\; local market coverage varies.\n\nVenue\nFord Field\nDetroit\n\nSched
+ ule source: https://www.nfl.com/games/titans-at-lions-2026-reg-14
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Ford Field\nDetroit
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/titans-at-lions-2026-reg-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indianapolis Colts @ Tennessee Titans
+DTSTART:20261220T180000Z
+DTEND:20261220T211500Z
+DTSTAMP:20260927T005047Z
+UID:711b0c96106023a7deef509fcb95a04b@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 15
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 15\n\nIndianapolis Colts @ Tennessee Titans\n
+ \nKickoff: Sunday\, December 20\, 2026 at 1:00 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional b
+ roadcast\; local market coverage varies.\n\nVenue\nNissan Stadium\nNashvil
+ le\n\nSchedule source: https://www.nfl.com/games/colts-at-titans-2026-reg-
+ 15
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Nissan Stadium\nNashville
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/colts-at-titans-2026-reg-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee Titans @ Las Vegas Raiders
+DTSTART:20261227T210500Z
+DTEND:20261228T002000Z
+DTSTAMP:20260927T005047Z
+UID:ae79e3e7640bb66078b400dd99fe5dde@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 16
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 16\n\nTennessee Titans @ Las Vegas Raiders\n
+ \nKickoff: Sunday\, December 27\, 2026 at 4:05 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional b
+ roadcast\; local market coverage varies.\n\nVenue\nAllegiant Stadium\nPara
+ dise\n\nSchedule source: https://www.nfl.com/games/titans-at-raiders-2026-
+ reg-16
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Allegiant Stadium\nParadise
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/titans-at-raiders-2026-reg-16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh Steelers @ Tennessee Titans
+DTSTART:20270103T180000Z
+DTEND:20270103T211500Z
+DTSTAMP:20260927T005047Z
+UID:b6452d1f373c5063ee9b6a918d164460@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 17
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 17\n\nPittsburgh Steelers @ Tennessee Titans
+ \n\nKickoff: Sunday\, January 3\, 2027 at 1:00 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional b
+ roadcast\; local market coverage varies.\n\nVenue\nNissan Stadium\nNashvil
+ le\n\nSchedule source: https://www.nfl.com/games/steelers-at-titans-2026-r
+ eg-17
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Nissan Stadium\nNashville
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/steelers-at-titans-2026-reg-17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] Tennessee Titans @ Houston Texans
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+DTSTAMP:20260927T005047Z
+UID:a07c1dd198f335f2acd7eace39c63a22@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 18
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 18\n\nTennessee Titans @ Houston Texans\n\nDa
+ te and kickoff: TBD.\nWeek placeholder: Wednesday\, January 6\, 2027. This
+  is not a confirmed game date.\nThe event will move to its confirmed date 
+ and kickoff when announced.\n\nWatch\nBroadcast information: TBD.\n\nVenue
+ \nReliant Stadium\nHouston\n\nSchedule source: https://www.nfl.com/games/t
+ itans-at-texans-2026-reg-18
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Reliant Stadium\nHouston
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/titans-at-texans-2026-reg-18
+END:VEVENT
+END:VCALENDAR

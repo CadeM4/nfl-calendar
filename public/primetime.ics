@@ -1,0 +1,1309 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NFL Calendar//Independent schedule subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:2026 NFL regular season and postseason. Eastern Time; automat
+ ically updated.
+NAME:NFL Evening Games · 2026
+X-WR-CALNAME:NFL Evening Games · 2026
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:New England Patriots @ Seattle Seahawks
+DTSTART:20260910T002000Z
+DTEND:20260910T033500Z
+DTSTAMP:20260927T005047Z
+UID:038f7d8e7d4b67021f94c4abf5ea8e85@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 1
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 1\n\nNew England Patriots @ Seattle Seahawks
+ \n\nKickoff: Wednesday\, September 9\, 2026 at 8:20 PM EDT (America/New_Yo
+ rk)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Tele
+ mundo\, Universo\nStreaming: NFL+\, Peacock\nNFL+: local and primetime liv
+ e game streams require a phone or tablet\; market and device restrictions 
+ apply.\nStreaming listings are for the US\; eligible subscriptions and geo
+ graphic restrictions apply.\nUS national broadcast.\n\nVenue\nLumen Field
+ \nSeattle\n\nSchedule source: https://www.nfl.com/games/patriots-at-seahaw
+ ks-2026-reg-1
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lumen Field\nSeattle
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/patriots-at-seahawks-2026-reg-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Francisco 49ers @ Los Angeles Rams
+DTSTART:20260911T003500Z
+DTEND:20260911T035000Z
+DTSTAMP:20260927T005047Z
+UID:c88d89051123a9b1c61ff31c75dc1540@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 1
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 1\n\nSan Francisco 49ers @ Los Angeles Rams\n
+ \nKickoff: Thursday\, September 10\, 2026 at 8:35 PM EDT (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: Netfl
+ ix\, NFL+\nNFL+: local and primetime live game streams require a phone or 
+ tablet\; market and device restrictions apply.\nStreaming listings are for
+  the US\; eligible subscriptions and geographic restrictions apply.\nUS na
+ tional broadcast.\n\nVenue\nMelbourne Cricket Ground\nEast Melbourne\, Aus
+ tralia\n\nSchedule source: https://www.nfl.com/games/49ers-at-rams-2026-re
+ g-1
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Melbourne Cricket Ground\nEast Melbourne\, Australia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/49ers-at-rams-2026-reg-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dallas Cowboys @ New York Giants
+DTSTART:20260914T002000Z
+DTEND:20260914T033500Z
+DTSTAMP:20260927T005047Z
+UID:4ec4256bcdc1b9a223caac351ec4e1b2@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 1
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 1\n\nDallas Cowboys @ New York Giants\n\nKick
+ off: Sunday\, September 13\, 2026 at 8:20 PM EDT (America/New_York)\nEstim
+ ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo\nStre
+ aming: NFL+\, Peacock\nNFL+: local and primetime live game streams require
+  a phone or tablet\; market and device restrictions apply.\nStreaming list
+ ings are for the US\; eligible subscriptions and geographic restrictions a
+ pply.\nUS national broadcast.\n\nVenue\nMetLife Stadium\nEast Rutherford\n
+ \nSchedule source: https://www.nfl.com/games/cowboys-at-giants-2026-reg-1
+LAST-MODIFIED:20260927T005047Z
+LOCATION:MetLife Stadium\nEast Rutherford
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cowboys-at-giants-2026-reg-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Denver Broncos @ Kansas City Chiefs
+DTSTART:20260915T001500Z
+DTEND:20260915T033000Z
+DTSTAMP:20260927T005047Z
+UID:f44551fe35b34112336e09681dd6ad40@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 1
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 1\n\nDenver Broncos @ Kansas City Chiefs\n\nK
+ ickoff: Monday\, September 14\, 2026 at 8:15 PM EDT (America/New_York)\nEs
+ timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN
+  Deportes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and prime
+ time live game streams require a phone or tablet\; market and device restr
+ ictions apply.\nStreaming listings are for the US\; eligible subscriptions
+  and geographic restrictions apply.\nUS national broadcast.\n\nVenue\nArro
+ whead Stadium\nKansas City\n\nSchedule source: https://www.nfl.com/games/b
+ roncos-at-chiefs-2026-reg-1
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Arrowhead Stadium\nKansas City
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/broncos-at-chiefs-2026-reg-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Lions @ Buffalo Bills
+DTSTART:20260918T001500Z
+DTEND:20260918T033000Z
+DTSTAMP:20260927T005047Z
+UID:6f4f99a787dd8a6f98489262419ec33c@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 2
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 2\n\nDetroit Lions @ Buffalo Bills\n\nKickoff
+ : Thursday\, September 17\, 2026 at 8:15 PM EDT (America/New_York)\nEstima
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL+\, Prime V
+ ideo\nNFL+: local and primetime live game streams require a phone or table
+ t\; market and device restrictions apply.\nStreaming listings are for the 
+ US\; eligible subscriptions and geographic restrictions apply.\nUS nationa
+ l broadcast.\n\nVenue\nHighmark Stadium\nOrchard Park\n\nSchedule source: 
+ https://www.nfl.com/games/lions-at-bills-2026-reg-2
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Highmark Stadium\nOrchard Park
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/lions-at-bills-2026-reg-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indianapolis Colts @ Kansas City Chiefs
+DTSTART:20260921T002000Z
+DTEND:20260921T033500Z
+DTSTAMP:20260927T005047Z
+UID:918ecba4cb9c881ea5a3f88f7003d9c3@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 2
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 2\n\nIndianapolis Colts @ Kansas City Chiefs
+ \n\nKickoff: Sunday\, September 20\, 2026 at 8:20 PM EDT (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Univer
+ so\nStreaming: NFL+\, Peacock\nNFL+: local and primetime live game streams
+  require a phone or tablet\; market and device restrictions apply.\nStream
+ ing listings are for the US\; eligible subscriptions and geographic restri
+ ctions apply.\nUS national broadcast.\n\nVenue\nArrowhead Stadium\nKansas 
+ City\n\nSchedule source: https://www.nfl.com/games/colts-at-chiefs-2026-re
+ g-2
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Arrowhead Stadium\nKansas City
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/colts-at-chiefs-2026-reg-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Giants @ Los Angeles Rams
+DTSTART:20260922T001500Z
+DTEND:20260922T033000Z
+DTSTAMP:20260927T005047Z
+UID:f0fa902fd532c97986e9c8470d8afdff@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 2
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 2\n\nNew York Giants @ Los Angeles Rams\n\nKi
+ ckoff: Monday\, September 21\, 2026 at 8:15 PM EDT (America/New_York)\nEst
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN 
+ Deportes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primet
+ ime live game streams require a phone or tablet\; market and device restri
+ ctions apply.\nStreaming listings are for the US\; eligible subscriptions 
+ and geographic restrictions apply.\nUS national broadcast.\n\nVenue\nSoFi 
+ Stadium\nInglewood\n\nSchedule source: https://www.nfl.com/games/giants-at
+ -rams-2026-reg-2
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/giants-at-rams-2026-reg-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlanta Falcons @ Green Bay Packers
+DTSTART:20260925T001500Z
+DTEND:20260925T033000Z
+DTSTAMP:20260927T005047Z
+UID:88607c7cdd9a18a2560d166a2e967b90@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 3
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 3\n\nAtlanta Falcons @ Green Bay Packers\n\nK
+ ickoff: Thursday\, September 24\, 2026 at 8:15 PM EDT (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL+\, P
+ rime Video\nNFL+: local and primetime live game streams require a phone or
+  tablet\; market and device restrictions apply.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\nUS n
+ ational broadcast.\n\nVenue\nLambeau Field\nGreen Bay\n\nSchedule source: 
+ https://www.nfl.com/games/falcons-at-packers-2026-reg-3
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lambeau Field\nGreen Bay
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/falcons-at-packers-2026-reg-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Rams @ Denver Broncos
+DTSTART:20260928T002000Z
+DTEND:20260928T033500Z
+DTSTAMP:20260927T005047Z
+UID:1b558938ff0d7aa6ad78a9315c75792e@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 3
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 3\n\nLos Angeles Rams @ Denver Broncos\n\nKic
+ koff: Sunday\, September 27\, 2026 at 8:20 PM EDT (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo\nStr
+ eaming: NFL+\, Peacock\nNFL+: local and primetime live game streams requir
+ e a phone or tablet\; market and device restrictions apply.\nStreaming lis
+ tings are for the US\; eligible subscriptions and geographic restrictions 
+ apply.\nUS national broadcast.\n\nVenue\nEmpower Field at Mile High\nDenve
+ r\n\nSchedule source: https://www.nfl.com/games/rams-at-broncos-2026-reg-3
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Empower Field at Mile High\nDenver
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/rams-at-broncos-2026-reg-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Eagles @ Chicago Bears
+DTSTART:20260929T001500Z
+DTEND:20260929T033000Z
+DTSTAMP:20260927T005047Z
+UID:ad20fcf72d9d7c5bbd6830f614fcd9d6@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 3
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 3\n\nPhiladelphia Eagles @ Chicago Bears\n\nK
+ ickoff: Monday\, September 28\, 2026 at 8:15 PM EDT (America/New_York)\nEs
+ timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN
+  Deportes\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetime liv
+ e game streams require a phone or tablet\; market and device restrictions 
+ apply.\nStreaming listings are for the US\; eligible subscriptions and geo
+ graphic restrictions apply.\nUS national broadcast.\n\nVenue\nSoldier Fiel
+ d\nChicago\n\nSchedule source: https://www.nfl.com/games/eagles-at-bears-2
+ 026-reg-3
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Soldier Field\nChicago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/eagles-at-bears-2026-reg-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh Steelers @ Cleveland Browns
+DTSTART:20261002T001500Z
+DTEND:20261002T033000Z
+DTSTAMP:20260927T005047Z
+UID:7e92382bbda4d97e91aa49c005eca518@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 4
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 4\n\nPittsburgh Steelers @ Cleveland Browns\n
+ \nKickoff: Thursday\, October 1\, 2026 at 8:15 PM EDT (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL+\, P
+ rime Video\nNFL+: local and primetime live game streams require a phone or
+  tablet\; market and device restrictions apply.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\nUS n
+ ational broadcast.\n\nVenue\nHuntington Bank Field\nCleveland\n\nSchedule 
+ source: https://www.nfl.com/games/steelers-at-browns-2026-reg-4
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Huntington Bank Field\nCleveland
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/steelers-at-browns-2026-reg-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Lions @ Carolina Panthers
+DTSTART:20261005T002000Z
+DTEND:20261005T033500Z
+DTSTAMP:20260927T005047Z
+UID:887a0e4dcccac999d43d2c69c2f897ec@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 4
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 4\n\nDetroit Lions @ Carolina Panthers\n\nKic
+ koff: Sunday\, October 4\, 2026 at 8:20 PM EDT (America/New_York)\nEstimat
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo\nStream
+ ing: NFL+\, Peacock\nNFL+: local and primetime live game streams require a
+  phone or tablet\; market and device restrictions apply.\nStreaming listin
+ gs are for the US\; eligible subscriptions and geographic restrictions app
+ ly.\nUS national broadcast.\n\nVenue\nBank of America Stadium\nCharlotte\n
+ \nSchedule source: https://www.nfl.com/games/lions-at-panthers-2026-reg-4
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Bank of America Stadium\nCharlotte
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/lions-at-panthers-2026-reg-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlanta Falcons @ New Orleans Saints
+DTSTART:20261006T001500Z
+DTEND:20261006T033000Z
+DTSTAMP:20260927T005047Z
+UID:ff2be73d88d50979e04317a142c942ff@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 4
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 4\n\nAtlanta Falcons @ New Orleans Saints\n\n
+ Kickoff: Monday\, October 5\, 2026 at 8:15 PM EDT (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN D
+ eportes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primeti
+ me live game streams require a phone or tablet\; market and device restric
+ tions apply.\nStreaming listings are for the US\; eligible subscriptions a
+ nd geographic restrictions apply.\nUS national broadcast.\n\nVenue\nCaesar
+ s Superdome\nNew Orleans\n\nSchedule source: https://www.nfl.com/games/fal
+ cons-at-saints-2026-reg-4
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Caesars Superdome\nNew Orleans
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/falcons-at-saints-2026-reg-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tampa Bay Buccaneers @ Dallas Cowboys
+DTSTART:20261009T001500Z
+DTEND:20261009T033000Z
+DTSTAMP:20260927T005047Z
+UID:f52f9175caafe5ab52168feae0fee960@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 5
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 5\n\nTampa Bay Buccaneers @ Dallas Cowboys\n
+ \nKickoff: Thursday\, October 8\, 2026 at 8:15 PM EDT (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL+\, P
+ rime Video\nNFL+: local and primetime live game streams require a phone or
+  tablet\; market and device restrictions apply.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\nUS n
+ ational broadcast.\n\nVenue\nAT&T Stadium\nArlington\n\nSchedule source: h
+ ttps://www.nfl.com/games/buccaneers-at-cowboys-2026-reg-5
+LAST-MODIFIED:20260927T005047Z
+LOCATION:AT&T Stadium\nArlington
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/buccaneers-at-cowboys-2026-reg-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baltimore Ravens @ Atlanta Falcons
+DTSTART:20261012T002000Z
+DTEND:20261012T033500Z
+DTSTAMP:20260927T005047Z
+UID:9b184e01689fec97d72372114a2429a8@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 5
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 5\n\nBaltimore Ravens @ Atlanta Falcons\n\nKi
+ ckoff: Sunday\, October 11\, 2026 at 8:20 PM EDT (America/New_York)\nEstim
+ ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo\nStre
+ aming: NFL+\, Peacock\nNFL+: local and primetime live game streams require
+  a phone or tablet\; market and device restrictions apply.\nStreaming list
+ ings are for the US\; eligible subscriptions and geographic restrictions a
+ pply.\nUS national broadcast.\n\nVenue\nMercedes-Benz Stadium\nAtlanta\n\n
+ Schedule source: https://www.nfl.com/games/ravens-at-falcons-2026-reg-5
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Mercedes-Benz Stadium\nAtlanta
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/ravens-at-falcons-2026-reg-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buffalo Bills @ Los Angeles Rams
+DTSTART:20261013T001500Z
+DTEND:20261013T033000Z
+DTSTAMP:20260927T005047Z
+UID:085fb105aac6d3fe2503c753ab7a3a50@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 5
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 5\n\nBuffalo Bills @ Los Angeles Rams\n\nKick
+ off: Monday\, October 12\, 2026 at 8:15 PM EDT (America/New_York)\nEstimat
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN Depo
+ rtes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetime 
+ live game streams require a phone or tablet\; market and device restrictio
+ ns apply.\nStreaming listings are for the US\; eligible subscriptions and 
+ geographic restrictions apply.\nUS national broadcast.\n\nVenue\nSoFi Stad
+ ium\nInglewood\n\nSchedule source: https://www.nfl.com/games/bills-at-rams
+ -2026-reg-5
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bills-at-rams-2026-reg-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Seahawks @ Denver Broncos
+DTSTART:20261016T001500Z
+DTEND:20261016T033000Z
+DTSTAMP:20260927T005047Z
+UID:62f846b611d23812cfe4069bfa69e529@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 6
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 6\n\nSeattle Seahawks @ Denver Broncos\n\nKic
+ koff: Thursday\, October 15\, 2026 at 8:15 PM EDT (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL+\, Prime
+  Video\nNFL+: local and primetime live game streams require a phone or tab
+ let\; market and device restrictions apply.\nStreaming listings are for th
+ e US\; eligible subscriptions and geographic restrictions apply.\nUS natio
+ nal broadcast.\n\nVenue\nEmpower Field at Mile High\nDenver\n\nSchedule so
+ urce: https://www.nfl.com/games/seahawks-at-broncos-2026-reg-6
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Empower Field at Mile High\nDenver
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/seahawks-at-broncos-2026-reg-6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dallas Cowboys @ Green Bay Packers
+DTSTART:20261019T002000Z
+DTEND:20261019T033500Z
+DTSTAMP:20260927T005047Z
+UID:10fefda2ecff2be7c98c0f4333816c82@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 6
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 6\n\nDallas Cowboys @ Green Bay Packers\n\nKi
+ ckoff: Sunday\, October 18\, 2026 at 8:20 PM EDT (America/New_York)\nEstim
+ ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo\nStre
+ aming: NFL+\, Peacock\nNFL+: local and primetime live game streams require
+  a phone or tablet\; market and device restrictions apply.\nStreaming list
+ ings are for the US\; eligible subscriptions and geographic restrictions a
+ pply.\nUS national broadcast.\n\nVenue\nLambeau Field\nGreen Bay\n\nSchedu
+ le source: https://www.nfl.com/games/cowboys-at-packers-2026-reg-6
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lambeau Field\nGreen Bay
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cowboys-at-packers-2026-reg-6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington Commanders @ San Francisco 49ers
+DTSTART:20261020T001500Z
+DTEND:20261020T033000Z
+DTSTAMP:20260927T005047Z
+UID:9c807829b5278b1e878acc5561668453@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 6
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 6\n\nWashington Commanders @ San Francisco 49
+ ers\n\nKickoff: Monday\, October 19\, 2026 at 8:15 PM EDT (America/New_Yor
+ k)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN
+ \, ESPN Deportes\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primet
+ ime live game streams require a phone or tablet\; market and device restri
+ ctions apply.\nStreaming listings are for the US\; eligible subscriptions 
+ and geographic restrictions apply.\nUS national broadcast.\n\nVenue\nLevi'
+ s® Stadium\nSanta Clara\n\nSchedule source: https://www.nfl.com/games/com
+ manders-at-49ers-2026-reg-6
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Levi's® Stadium\nSanta Clara
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/commanders-at-49ers-2026-reg-6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New England Patriots @ Chicago Bears
+DTSTART:20261023T001500Z
+DTEND:20261023T033000Z
+DTSTAMP:20260927T005047Z
+UID:42f73e8af3d4e2f0ce5ae03708853db3@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 7
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 7\n\nNew England Patriots @ Chicago Bears\n\n
+ Kickoff: Thursday\, October 22\, 2026 at 8:15 PM EDT (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL+\, Pr
+ ime Video\nNFL+: local and primetime live game streams require a phone or 
+ tablet\; market and device restrictions apply.\nStreaming listings are for
+  the US\; eligible subscriptions and geographic restrictions apply.\nUS na
+ tional broadcast.\n\nVenue\nSoldier Field\nChicago\n\nSchedule source: htt
+ ps://www.nfl.com/games/patriots-at-bears-2026-reg-7
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Soldier Field\nChicago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/patriots-at-bears-2026-reg-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City Chiefs @ Seattle Seahawks
+DTSTART:20261026T002000Z
+DTEND:20261026T033500Z
+DTSTAMP:20260927T005047Z
+UID:4d73474b78eeae32292fd9dc9c54088e@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 7
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 7\n\nKansas City Chiefs @ Seattle Seahawks\n
+ \nKickoff: Sunday\, October 25\, 2026 at 8:20 PM EDT (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo\n
+ Streaming: NFL+\, Peacock\nNFL+: local and primetime live game streams req
+ uire a phone or tablet\; market and device restrictions apply.\nStreaming 
+ listings are for the US\; eligible subscriptions and geographic restrictio
+ ns apply.\nUS national broadcast.\n\nVenue\nLumen Field\nSeattle\n\nSchedu
+ le source: https://www.nfl.com/games/chiefs-at-seahawks-2026-reg-7
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lumen Field\nSeattle
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chiefs-at-seahawks-2026-reg-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dallas Cowboys @ Philadelphia Eagles
+DTSTART:20261027T001500Z
+DTEND:20261027T033000Z
+DTSTAMP:20260927T005047Z
+UID:d64bd2ab7a2894d0bd71694c499a62e3@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 7
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 7\n\nDallas Cowboys @ Philadelphia Eagles\n\n
+ Kickoff: Monday\, October 26\, 2026 at 8:15 PM EDT (America/New_York)\nEst
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN 
+ Deportes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primet
+ ime live game streams require a phone or tablet\; market and device restri
+ ctions apply.\nStreaming listings are for the US\; eligible subscriptions 
+ and geographic restrictions apply.\nUS national broadcast.\n\nVenue\nLinco
+ ln Financial Field\nPhiladelphia\n\nSchedule source: https://www.nfl.com/g
+ ames/cowboys-at-eagles-2026-reg-7
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lincoln Financial Field\nPhiladelphia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cowboys-at-eagles-2026-reg-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carolina Panthers @ Green Bay Packers
+DTSTART:20261030T001500Z
+DTEND:20261030T033000Z
+DTSTAMP:20260927T005047Z
+UID:95daa16d38793d863ee02e14abd6fc6c@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 8
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 8\n\nCarolina Panthers @ Green Bay Packers\n
+ \nKickoff: Thursday\, October 29\, 2026 at 8:15 PM EDT (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL+\,
+  Prime Video\nNFL+: local and primetime live game streams require a phone 
+ or tablet\; market and device restrictions apply.\nStreaming listings are 
+ for the US\; eligible subscriptions and geographic restrictions apply.\nUS
+  national broadcast.\n\nVenue\nLambeau Field\nGreen Bay\n\nSchedule source
+ : https://www.nfl.com/games/panthers-at-packers-2026-reg-8
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lambeau Field\nGreen Bay
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/panthers-at-packers-2026-reg-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Eagles @ Washington Commanders
+DTSTART:20261102T012000Z
+DTEND:20261102T043500Z
+DTSTAMP:20260927T005047Z
+UID:512787588f77b1afe5d29603e2748d4b@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 8
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 8\n\nPhiladelphia Eagles @ Washington Command
+ ers\n\nKickoff: Sunday\, November 1\, 2026 at 8:20 PM EST (America/New_Yor
+ k)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Unive
+ rso\nStreaming: NFL+\, Peacock\nNFL+: local and primetime live game stream
+ s require a phone or tablet\; market and device restrictions apply.\nStrea
+ ming listings are for the US\; eligible subscriptions and geographic restr
+ ictions apply.\nUS national broadcast.\n\nVenue\nNorthwest Stadium\nLandov
+ er\n\nSchedule source: https://www.nfl.com/games/eagles-at-commanders-2026
+ -reg-8
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Northwest Stadium\nLandover
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/eagles-at-commanders-2026-reg-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bears @ Seattle Seahawks
+DTSTART:20261103T011500Z
+DTEND:20261103T043000Z
+DTSTAMP:20260927T005047Z
+UID:846d307974cdaac7ca860167ec5261f0@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 8
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 8\n\nChicago Bears @ Seattle Seahawks\n\nKick
+ off: Monday\, November 2\, 2026 at 8:15 PM EST (America/New_York)\nEstimat
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN Depo
+ rtes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetime 
+ live game streams require a phone or tablet\; market and device restrictio
+ ns apply.\nStreaming listings are for the US\; eligible subscriptions and 
+ geographic restrictions apply.\nUS national broadcast.\n\nVenue\nLumen Fie
+ ld\nSeattle\n\nSchedule source: https://www.nfl.com/games/bears-at-seahawk
+ s-2026-reg-8
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lumen Field\nSeattle
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bears-at-seahawks-2026-reg-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jacksonville Jaguars @ Baltimore Ravens
+DTSTART:20261106T011500Z
+DTEND:20261106T043000Z
+DTSTAMP:20260927T005047Z
+UID:810a41a6c565c0cb3697cc1d1d6c57db@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 9
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 9\n\nJacksonville Jaguars @ Baltimore Ravens
+ \n\nKickoff: Thursday\, November 5\, 2026 at 8:15 PM EST (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL+
+ \, Prime Video\nNFL+: local and primetime live game streams require a phon
+ e or tablet\; market and device restrictions apply.\nStreaming listings ar
+ e for the US\; eligible subscriptions and geographic restrictions apply.\n
+ US national broadcast.\n\nVenue\nM&T Bank Stadium\nBaltimore\n\nSchedule s
+ ource: https://www.nfl.com/games/jaguars-at-ravens-2026-reg-9
+LAST-MODIFIED:20260927T005047Z
+LOCATION:M&T Bank Stadium\nBaltimore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/jaguars-at-ravens-2026-reg-9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tampa Bay Buccaneers @ Chicago Bears
+DTSTART:20261109T012000Z
+DTEND:20261109T043500Z
+DTSTAMP:20260927T005047Z
+UID:956524230c8a67d472c8242f8e57cf5a@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 9
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 9\n\nTampa Bay Buccaneers @ Chicago Bears\n\n
+ Kickoff: Sunday\, November 8\, 2026 at 8:20 PM EST (America/New_York)\nEst
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo\nSt
+ reaming: NFL+\, Peacock\nNFL+: local and primetime live game streams requi
+ re a phone or tablet\; market and device restrictions apply.\nStreaming li
+ stings are for the US\; eligible subscriptions and geographic restrictions
+  apply.\nUS national broadcast.\n\nVenue\nSoldier Field\nChicago\n\nSchedu
+ le source: https://www.nfl.com/games/buccaneers-at-bears-2026-reg-9
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Soldier Field\nChicago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/buccaneers-at-bears-2026-reg-9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buffalo Bills @ Minnesota Vikings
+DTSTART:20261110T011500Z
+DTEND:20261110T043000Z
+DTSTAMP:20260927T005047Z
+UID:9cf4e0e585fd37245244cb29bee75f21@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 9
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 9\n\nBuffalo Bills @ Minnesota Vikings\n\nKic
+ koff: Monday\, November 9\, 2026 at 8:15 PM EST (America/New_York)\nEstima
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN Dep
+ ortes\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetime live ga
+ me streams require a phone or tablet\; market and device restrictions appl
+ y.\nStreaming listings are for the US\; eligible subscriptions and geograp
+ hic restrictions apply.\nUS national broadcast.\n\nVenue\nU.S. Bank Stadiu
+ m\nMinneapolis\n\nSchedule source: https://www.nfl.com/games/bills-at-viki
+ ngs-2026-reg-9
+LAST-MODIFIED:20260927T005047Z
+LOCATION:U.S. Bank Stadium\nMinneapolis
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bills-at-vikings-2026-reg-9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington Commanders @ New York Giants
+DTSTART:20261113T011500Z
+DTEND:20261113T043000Z
+DTSTAMP:20260927T005047Z
+UID:9f0384106c4017c9bd5e87c4406322f1@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 10
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 10\n\nWashington Commanders @ New York Giants
+ \n\nKickoff: Thursday\, November 12\, 2026 at 8:15 PM EST (America/New_Yor
+ k)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL+
+ \, Prime Video\nNFL+: local and primetime live game streams require a phon
+ e or tablet\; market and device restrictions apply.\nStreaming listings ar
+ e for the US\; eligible subscriptions and geographic restrictions apply.\n
+ US national broadcast.\n\nVenue\nMetLife Stadium\nEast Rutherford\n\nSched
+ ule source: https://www.nfl.com/games/commanders-at-giants-2026-reg-10
+LAST-MODIFIED:20260927T005047Z
+LOCATION:MetLife Stadium\nEast Rutherford
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/commanders-at-giants-2026-reg-10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh Steelers @ Cincinnati Bengals
+DTSTART:20261116T012000Z
+DTEND:20261116T043500Z
+DTSTAMP:20260927T005047Z
+UID:29c419b09b3a7927e35de408e5ce4a35@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 10
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 10\n\nPittsburgh Steelers @ Cincinnati Bengal
+ s\n\nKickoff: Sunday\, November 15\, 2026 at 8:20 PM EST (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Univer
+ so\nStreaming: NFL+\, Peacock\nNFL+: local and primetime live game streams
+  require a phone or tablet\; market and device restrictions apply.\nStream
+ ing listings are for the US\; eligible subscriptions and geographic restri
+ ctions apply.\nUS national broadcast.\n\nVenue\nPaycor Stadium\nCincinnati
+ \n\nSchedule source: https://www.nfl.com/games/steelers-at-bengals-2026-re
+ g-10
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Paycor Stadium\nCincinnati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/steelers-at-bengals-2026-reg-10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Chargers @ Baltimore Ravens
+DTSTART:20261117T011500Z
+DTEND:20261117T043000Z
+DTSTAMP:20260927T005047Z
+UID:0e15a31ac0fa08aa8972aef39d0ecc02@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 10
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 10\n\nLos Angeles Chargers @ Baltimore Ravens
+ \n\nKickoff: Monday\, November 16\, 2026 at 8:15 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, 
+ ESPN Deportes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and p
+ rimetime live game streams require a phone or tablet\; market and device r
+ estrictions apply.\nStreaming listings are for the US\; eligible subscript
+ ions and geographic restrictions apply.\nUS national broadcast.\n\nVenue\n
+ M&T Bank Stadium\nBaltimore\n\nSchedule source: https://www.nfl.com/games/
+ chargers-at-ravens-2026-reg-10
+LAST-MODIFIED:20260927T005047Z
+LOCATION:M&T Bank Stadium\nBaltimore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chargers-at-ravens-2026-reg-10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indianapolis Colts @ Houston Texans
+DTSTART:20261120T011500Z
+DTEND:20261120T043000Z
+DTSTAMP:20260927T005047Z
+UID:b087101ffc3e483625e80510b220258f@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 11
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 11\n\nIndianapolis Colts @ Houston Texans\n\n
+ Kickoff: Thursday\, November 19\, 2026 at 8:15 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL+\, P
+ rime Video\nNFL+: local and primetime live game streams require a phone or
+  tablet\; market and device restrictions apply.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\nUS n
+ ational broadcast.\n\nVenue\nReliant Stadium\nHouston\n\nSchedule source: 
+ https://www.nfl.com/games/colts-at-texans-2026-reg-11
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Reliant Stadium\nHouston
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/colts-at-texans-2026-reg-11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota Vikings @ San Francisco 49ers
+DTSTART:20261123T012000Z
+DTEND:20261123T043500Z
+DTSTAMP:20260927T005047Z
+UID:30df9b2a53315255da745b2210a5110e@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 11
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 11\n\nMinnesota Vikings @ San Francisco 49ers
+ \n\nKickoff: Sunday\, November 22\, 2026 at 8:20 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Univers
+ o\nStreaming: NFL+\, Peacock\nNFL+: local and primetime live game streams 
+ require a phone or tablet\; market and device restrictions apply.\nStreami
+ ng listings are for the US\; eligible subscriptions and geographic restric
+ tions apply.\nUS national broadcast.\n\nVenue\nEstadio Banorte\nMexico Cit
+ y\, Mexico\n\nSchedule source: https://www.nfl.com/games/vikings-at-49ers-
+ 2026-reg-11
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Estadio Banorte\nMexico City\, Mexico
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/vikings-at-49ers-2026-reg-11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cincinnati Bengals @ Washington Commanders
+DTSTART:20261124T011500Z
+DTEND:20261124T043000Z
+DTSTAMP:20260927T005047Z
+UID:6c4acb101b8efea94e5b39beb011a64f@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 11
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 11\n\nCincinnati Bengals @ Washington Command
+ ers\n\nKickoff: Monday\, November 23\, 2026 at 8:15 PM EST (America/New_Yo
+ rk)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN
+ \, ESPN Deportes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local an
+ d primetime live game streams require a phone or tablet\; market and devic
+ e restrictions apply.\nStreaming listings are for the US\; eligible subscr
+ iptions and geographic restrictions apply.\nUS national broadcast.\n\nVenu
+ e\nNorthwest Stadium\nLandover\n\nSchedule source: https://www.nfl.com/gam
+ es/bengals-at-commanders-2026-reg-11
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Northwest Stadium\nLandover
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bengals-at-commanders-2026-reg-11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Green Bay Packers @ Los Angeles Rams
+DTSTART:20261126T010000Z
+DTEND:20261126T041500Z
+DTSTAMP:20260927T005047Z
+UID:48f115c28ad4462117f0e839d24e15d5@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 12
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 12\n\nGreen Bay Packers @ Los Angeles Rams\n
+ \nKickoff: Wednesday\, November 25\, 2026 at 8:00 PM EST (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: Netfl
+ ix\, NFL+\nNFL+: local and primetime live game streams require a phone or 
+ tablet\; market and device restrictions apply.\nStreaming listings are for
+  the US\; eligible subscriptions and geographic restrictions apply.\nUS na
+ tional broadcast.\n\nVenue\nSoFi Stadium\nInglewood\n\nSchedule source: ht
+ tps://www.nfl.com/games/packers-at-rams-2026-reg-12
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/packers-at-rams-2026-reg-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City Chiefs @ Buffalo Bills
+DTSTART:20261127T012000Z
+DTEND:20261127T043500Z
+DTSTAMP:20260927T005047Z
+UID:61fecb5bdf8cc25b84e4013914b4b46b@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 12
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 12\n\nKansas City Chiefs @ Buffalo Bills\n\nK
+ ickoff: Thursday\, November 26\, 2026 at 8:20 PM EST (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo\n
+ Streaming: NFL+\, Peacock\nNFL+: local and primetime live game streams req
+ uire a phone or tablet\; market and device restrictions apply.\nStreaming 
+ listings are for the US\; eligible subscriptions and geographic restrictio
+ ns apply.\nUS national broadcast.\n\nVenue\nHighmark Stadium\nOrchard Park
+ \n\nSchedule source: https://www.nfl.com/games/chiefs-at-bills-2026-reg-12
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Highmark Stadium\nOrchard Park
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chiefs-at-bills-2026-reg-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New England Patriots @ Los Angeles Chargers
+DTSTART:20261130T012000Z
+DTEND:20261130T043500Z
+DTSTAMP:20260927T005047Z
+UID:d96c34c5c9db60c7f01afe702123f418@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 12
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 12\n\nNew England Patriots @ Los Angeles Char
+ gers\n\nKickoff: Sunday\, November 29\, 2026 at 8:20 PM EST (America/New_Y
+ ork)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Uni
+ verso\nStreaming: NFL+\, Peacock\nNFL+: local and primetime live game stre
+ ams require a phone or tablet\; market and device restrictions apply.\nStr
+ eaming listings are for the US\; eligible subscriptions and geographic res
+ trictions apply.\nUS national broadcast.\n\nVenue\nSoFi Stadium\nInglewood
+ \n\nSchedule source: https://www.nfl.com/games/patriots-at-chargers-2026-r
+ eg-12
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/patriots-at-chargers-2026-reg-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carolina Panthers @ Tampa Bay Buccaneers
+DTSTART:20261201T011500Z
+DTEND:20261201T043000Z
+DTSTAMP:20260927T005047Z
+UID:2738bc9d4119f189e3be0396db801401@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 12
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 12\n\nCarolina Panthers @ Tampa Bay Buccaneer
+ s\n\nKickoff: Monday\, November 30\, 2026 at 8:15 PM EST (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ESPN\, ESPN 
+ Deportes\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetime live
+  game streams require a phone or tablet\; market and device restrictions a
+ pply.\nStreaming listings are for the US\; eligible subscriptions and geog
+ raphic restrictions apply.\nUS national broadcast.\n\nVenue\nRaymond James
+  Stadium\nTampa\n\nSchedule source: https://www.nfl.com/games/panthers-at-
+ buccaneers-2026-reg-12
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Raymond James Stadium\nTampa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/panthers-at-buccaneers-2026-reg-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City Chiefs @ Los Angeles Rams
+DTSTART:20261204T011500Z
+DTEND:20261204T043000Z
+DTSTAMP:20260927T005047Z
+UID:dca78298adc22f1734a1666becd5ed11@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 13
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 13\n\nKansas City Chiefs @ Los Angeles Rams\n
+ \nKickoff: Thursday\, December 3\, 2026 at 8:15 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL+\,
+  Prime Video\nNFL+: local and primetime live game streams require a phone 
+ or tablet\; market and device restrictions apply.\nStreaming listings are 
+ for the US\; eligible subscriptions and geographic restrictions apply.\nUS
+  national broadcast.\n\nVenue\nSoFi Stadium\nInglewood\n\nSchedule source:
+  https://www.nfl.com/games/chiefs-at-rams-2026-reg-13
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chiefs-at-rams-2026-reg-13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Texans @ Pittsburgh Steelers
+DTSTART:20261207T012000Z
+DTEND:20261207T043500Z
+DTSTAMP:20260927T005047Z
+UID:c567ff618be109658f1dbbd5a5ce37a0@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 13
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 13\n\nHouston Texans @ Pittsburgh Steelers\n
+ \nKickoff: Sunday\, December 6\, 2026 at 8:20 PM EST (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo\n
+ Streaming: NFL+\, Peacock\nNFL+: local and primetime live game streams req
+ uire a phone or tablet\; market and device restrictions apply.\nStreaming 
+ listings are for the US\; eligible subscriptions and geographic restrictio
+ ns apply.\nUS national broadcast.\n\nVenue\nAcrisure Stadium\nPittsburgh\n
+ \nSchedule source: https://www.nfl.com/games/texans-at-steelers-2026-reg-1
+ 3
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Acrisure Stadium\nPittsburgh
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/texans-at-steelers-2026-reg-13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dallas Cowboys @ Seattle Seahawks
+DTSTART:20261208T011500Z
+DTEND:20261208T043000Z
+DTSTAMP:20260927T005047Z
+UID:5f9fe6a97e9f0984b6834f3b4f24e955@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 13
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 13\n\nDallas Cowboys @ Seattle Seahawks\n\nKi
+ ckoff: Monday\, December 7\, 2026 at 8:15 PM EST (America/New_York)\nEstim
+ ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN De
+ portes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetim
+ e live game streams require a phone or tablet\; market and device restrict
+ ions apply.\nStreaming listings are for the US\; eligible subscriptions an
+ d geographic restrictions apply.\nUS national broadcast.\n\nVenue\nLumen F
+ ield\nSeattle\n\nSchedule source: https://www.nfl.com/games/cowboys-at-sea
+ hawks-2026-reg-13
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lumen Field\nSeattle
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cowboys-at-seahawks-2026-reg-13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota Vikings @ New England Patriots
+DTSTART:20261211T011500Z
+DTEND:20261211T043000Z
+DTSTAMP:20260927T005047Z
+UID:22dd07ac7d1ec57e640f942d81ce6185@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 14
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 14\n\nMinnesota Vikings @ New England Patriot
+ s\n\nKickoff: Thursday\, December 10\, 2026 at 8:15 PM EST (America/New_Yo
+ rk)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL
+ +\, Prime Video\nNFL+: local and primetime live game streams require a pho
+ ne or tablet\; market and device restrictions apply.\nStreaming listings a
+ re for the US\; eligible subscriptions and geographic restrictions apply.
+ \nUS national broadcast.\n\nVenue\nGillette Stadium\nFoxborough\n\nSchedul
+ e source: https://www.nfl.com/games/vikings-at-patriots-2026-reg-14
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Gillette Stadium\nFoxborough
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/vikings-at-patriots-2026-reg-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buffalo Bills @ Green Bay Packers
+DTSTART:20261214T012000Z
+DTEND:20261214T043500Z
+DTSTAMP:20260927T005047Z
+UID:4d1c419287047fe120aec1800524e0f4@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 14
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 14\n\nBuffalo Bills @ Green Bay Packers\n\nKi
+ ckoff: Sunday\, December 13\, 2026 at 8:20 PM EST (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo\nStr
+ eaming: NFL+\, Peacock\nNFL+: local and primetime live game streams requir
+ e a phone or tablet\; market and device restrictions apply.\nStreaming lis
+ tings are for the US\; eligible subscriptions and geographic restrictions 
+ apply.\nUS national broadcast.\n\nVenue\nLambeau Field\nGreen Bay\n\nSched
+ ule source: https://www.nfl.com/games/bills-at-packers-2026-reg-14
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lambeau Field\nGreen Bay
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bills-at-packers-2026-reg-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh Steelers @ Jacksonville Jaguars
+DTSTART:20261215T011500Z
+DTEND:20261215T043000Z
+DTSTAMP:20260927T005047Z
+UID:b90054d76e7b3fd9d2a4d2d1a9127563@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 14
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 14\n\nPittsburgh Steelers @ Jacksonville Jagu
+ ars\n\nKickoff: Monday\, December 14\, 2026 at 8:15 PM EST (America/New_Yo
+ rk)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ESPN\, ESP
+ N Deportes\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetime li
+ ve game streams require a phone or tablet\; market and device restrictions
+  apply.\nStreaming listings are for the US\; eligible subscriptions and ge
+ ographic restrictions apply.\nUS national broadcast.\n\nVenue\nEverBank St
+ adium\nJacksonville\n\nSchedule source: https://www.nfl.com/games/steelers
+ -at-jaguars-2026-reg-14
+LAST-MODIFIED:20260927T005047Z
+LOCATION:EverBank Stadium\nJacksonville
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/steelers-at-jaguars-2026-reg-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Francisco 49ers @ Los Angeles Chargers
+DTSTART:20261218T011500Z
+DTEND:20261218T043000Z
+DTSTAMP:20260927T005047Z
+UID:8cb6d8d6a4f392100624e5c0d5327c04@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 15
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 15\n\nSan Francisco 49ers @ Los Angeles Charg
+ ers\n\nKickoff: Thursday\, December 17\, 2026 at 8:15 PM EST (America/New_
+ York)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: N
+ FL+\, Prime Video\nNFL+: local and primetime live game streams require a p
+ hone or tablet\; market and device restrictions apply.\nStreaming listings
+  are for the US\; eligible subscriptions and geographic restrictions apply
+ .\nUS national broadcast.\n\nVenue\nSoFi Stadium\nInglewood\n\nSchedule so
+ urce: https://www.nfl.com/games/49ers-at-chargers-2026-reg-15
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/49ers-at-chargers-2026-reg-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bears @ Buffalo Bills
+DTSTART:20261220T012000Z
+DTEND:20261220T043500Z
+DTSTAMP:20260927T005047Z
+UID:853f07071e829fd51eb34f522e9dc4d6@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 15
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 15\n\nChicago Bears @ Buffalo Bills\n\nKickof
+ f: Saturday\, December 19\, 2026 at 8:20 PM EST (America/New_York)\nEstima
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL+
+ \, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon 
+ viewing\; local and national blackouts apply.\nNFL+: local and primetime l
+ ive game streams require a phone or tablet\; market and device restriction
+ s apply.\nParamount+: this game must be carried by your local CBS station.
+ \nStreaming listings are for the US\; eligible subscriptions and geographi
+ c restrictions apply.\nUS national broadcast.\n\nVenue\nHighmark Stadium\n
+ Orchard Park\n\nSchedule source: https://www.nfl.com/games/bears-at-bills-
+ 2026-reg-15
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Highmark Stadium\nOrchard Park
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bears-at-bills-2026-reg-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Lions @ Minnesota Vikings
+DTSTART:20261221T012000Z
+DTEND:20261221T043500Z
+DTSTAMP:20260927T005047Z
+UID:5054d8db963a83698004905b514c6457@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 15
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 15\n\nDetroit Lions @ Minnesota Vikings\n\nKi
+ ckoff: Sunday\, December 20\, 2026 at 8:20 PM EST (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo\nStr
+ eaming: NFL+\, Peacock\nNFL+: local and primetime live game streams requir
+ e a phone or tablet\; market and device restrictions apply.\nStreaming lis
+ tings are for the US\; eligible subscriptions and geographic restrictions 
+ apply.\nUS national broadcast.\n\nVenue\nU.S. Bank Stadium\nMinneapolis\n
+ \nSchedule source: https://www.nfl.com/games/lions-at-vikings-2026-reg-15
+LAST-MODIFIED:20260927T005047Z
+LOCATION:U.S. Bank Stadium\nMinneapolis
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/lions-at-vikings-2026-reg-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New England Patriots @ Kansas City Chiefs
+DTSTART:20261222T011500Z
+DTEND:20261222T043000Z
+DTSTAMP:20260927T005047Z
+UID:8fd4c7824096c9b9cfe6d3f5ef8a483f@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 15
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 15\n\nNew England Patriots @ Kansas City Chie
+ fs\n\nKickoff: Monday\, December 21\, 2026 at 8:15 PM EST (America/New_Yor
+ k)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN
+ \, ESPN Deportes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local an
+ d primetime live game streams require a phone or tablet\; market and devic
+ e restrictions apply.\nStreaming listings are for the US\; eligible subscr
+ iptions and geographic restrictions apply.\nUS national broadcast.\n\nVenu
+ e\nArrowhead Stadium\nKansas City\n\nSchedule source: https://www.nfl.com/
+ games/patriots-at-chiefs-2026-reg-15
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Arrowhead Stadium\nKansas City
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/patriots-at-chiefs-2026-reg-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Texans @ Philadelphia Eagles
+DTSTART:20261225T011500Z
+DTEND:20261225T043000Z
+DTSTAMP:20260927T005047Z
+UID:ca0f6f82bdf8c282dd67805bce571799@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 16
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 16\n\nHouston Texans @ Philadelphia Eagles\n
+ \nKickoff: Thursday\, December 24\, 2026 at 8:15 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL+\,
+  Prime Video\nNFL+: local and primetime live game streams require a phone 
+ or tablet\; market and device restrictions apply.\nStreaming listings are 
+ for the US\; eligible subscriptions and geographic restrictions apply.\nUS
+  national broadcast.\n\nVenue\nLincoln Financial Field\nPhiladelphia\n\nSc
+ hedule source: https://www.nfl.com/games/texans-at-eagles-2026-reg-16
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lincoln Financial Field\nPhiladelphia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/texans-at-eagles-2026-reg-16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Rams @ Seattle Seahawks
+DTSTART:20261226T011500Z
+DTEND:20261226T043000Z
+DTSTAMP:20260927T005047Z
+UID:25ed6e2c91b4b240cca8b02767d4ac44@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 16
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 16\n\nLos Angeles Rams @ Seattle Seahawks\n\n
+ Kickoff: Friday\, December 25\, 2026 at 8:15 PM EST (America/New_York)\nEs
+ timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\, FOX Deporte
+ s\nStreaming: FOX One\, NFL+\nFOX One: local FOX coverage and market restr
+ ictions apply.\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon
+  viewing\; local and national blackouts apply.\nNFL+: local and primetime 
+ live game streams require a phone or tablet\; market and device restrictio
+ ns apply.\nStreaming listings are for the US\; eligible subscriptions and 
+ geographic restrictions apply.\nUS national broadcast.\n\nVenue\nLumen Fie
+ ld\nSeattle\n\nSchedule source: https://www.nfl.com/games/rams-at-seahawks
+ -2026-reg-16
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lumen Field\nSeattle
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/rams-at-seahawks-2026-reg-16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jacksonville Jaguars @ Dallas Cowboys
+DTSTART:20261228T012000Z
+DTEND:20261228T043500Z
+DTSTAMP:20260927T005047Z
+UID:3adabc7185c011fdef2ae47cebbcf712@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 16
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 16\n\nJacksonville Jaguars @ Dallas Cowboys\n
+ \nKickoff: Sunday\, December 27\, 2026 at 8:20 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo
+ \nStreaming: NFL+\, Peacock\nNFL+: local and primetime live game streams r
+ equire a phone or tablet\; market and device restrictions apply.\nStreamin
+ g listings are for the US\; eligible subscriptions and geographic restrict
+ ions apply.\nUS national broadcast.\n\nVenue\nAT&T Stadium\nArlington\n\nS
+ chedule source: https://www.nfl.com/games/jaguars-at-cowboys-2026-reg-16
+LAST-MODIFIED:20260927T005047Z
+LOCATION:AT&T Stadium\nArlington
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/jaguars-at-cowboys-2026-reg-16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Giants @ Detroit Lions
+DTSTART:20261229T011500Z
+DTEND:20261229T043000Z
+DTSTAMP:20260927T005047Z
+UID:bc9239ca6a575a658345469ff7f6df7c@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 16
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 16\n\nNew York Giants @ Detroit Lions\n\nKick
+ off: Monday\, December 28\, 2026 at 8:15 PM EST (America/New_York)\nEstima
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: ESPN\, ESPN Deportes
+ \nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetime live game st
+ reams require a phone or tablet\; market and device restrictions apply.\nS
+ treaming listings are for the US\; eligible subscriptions and geographic r
+ estrictions apply.\nUS national broadcast.\n\nVenue\nFord Field\nDetroit\n
+ \nSchedule source: https://www.nfl.com/games/giants-at-lions-2026-reg-16
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Ford Field\nDetroit
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/giants-at-lions-2026-reg-16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baltimore Ravens @ Cincinnati Bengals
+DTSTART:20270101T011500Z
+DTEND:20270101T043000Z
+DTSTAMP:20260927T005047Z
+UID:225176ee091f2a1c459d8d52a0308448@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 17
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 17\n\nBaltimore Ravens @ Cincinnati Bengals\n
+ \nKickoff: Thursday\, December 31\, 2026 at 8:15 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL+\,
+  Prime Video\nNFL+: local and primetime live game streams require a phone 
+ or tablet\; market and device restrictions apply.\nStreaming listings are 
+ for the US\; eligible subscriptions and geographic restrictions apply.\nUS
+  national broadcast.\n\nVenue\nPaycor Stadium\nCincinnati\n\nSchedule sour
+ ce: https://www.nfl.com/games/ravens-at-bengals-2026-reg-17
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Paycor Stadium\nCincinnati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/ravens-at-bengals-2026-reg-17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Eagles @ San Francisco 49ers
+DTSTART:20270104T012000Z
+DTEND:20270104T043500Z
+DTSTAMP:20260927T005047Z
+UID:e12c913f92fee1a63ba2c28496b2c71c@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 17
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 17\n\nPhiladelphia Eagles @ San Francisco 49e
+ rs\n\nKickoff: Sunday\, January 3\, 2027 at 8:20 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Univers
+ o\nStreaming: NFL+\, Peacock\nNFL+: local and primetime live game streams 
+ require a phone or tablet\; market and device restrictions apply.\nStreami
+ ng listings are for the US\; eligible subscriptions and geographic restric
+ tions apply.\nUS national broadcast.\n\nVenue\nLevi's® Stadium\nSanta Cla
+ ra\n\nSchedule source: https://www.nfl.com/games/eagles-at-49ers-2026-reg-
+ 17
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Levi's® Stadium\nSanta Clara
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/eagles-at-49ers-2026-reg-17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Texans @ Green Bay Packers
+DTSTART:20270105T011500Z
+DTEND:20270105T043000Z
+DTSTAMP:20260927T005047Z
+UID:059c2193ebc39323148774fbddf7224b@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 17
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 17\n\nHouston Texans @ Green Bay Packers\n\nK
+ ickoff: Monday\, January 4\, 2027 at 8:15 PM EST (America/New_York)\nEstim
+ ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN De
+ portes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetim
+ e live game streams require a phone or tablet\; market and device restrict
+ ions apply.\nStreaming listings are for the US\; eligible subscriptions an
+ d geographic restrictions apply.\nUS national broadcast.\n\nVenue\nLambeau
+  Field\nGreen Bay\n\nSchedule source: https://www.nfl.com/games/texans-at-
+ packers-2026-reg-17
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lambeau Field\nGreen Bay
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/texans-at-packers-2026-reg-17
+END:VEVENT
+END:VCALENDAR

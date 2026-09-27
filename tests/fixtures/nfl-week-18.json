@@ -1,0 +1,1453 @@
+[
+  {
+    "queryKey": [
+      "useFetchExperienceWeekSelectorBySeason",
+      {
+        "includeProBowl": true,
+        "season": "2026"
+      }
+    ],
+    "state": {
+      "data": {
+        "data": [
+          {
+            "week": 0,
+            "weekLabel": "Hall Of Fame",
+            "weekType": "HOF",
+            "season": 2026,
+            "seasonType": "PRE",
+            "dateBegin": "2026-08-07T00:00:00Z"
+          },
+          {
+            "week": 1,
+            "weekLabel": "Preseason Week 1",
+            "weekType": "PRE",
+            "season": 2026,
+            "seasonType": "PRE",
+            "dateBegin": "2026-08-13T23:00:00Z",
+            "dateEnd": "2026-08-16T00:00:00Z"
+          },
+          {
+            "week": 2,
+            "weekLabel": "Preseason Week 2",
+            "weekType": "PRE",
+            "season": 2026,
+            "seasonType": "PRE",
+            "dateBegin": "2026-08-21T00:00:00Z",
+            "dateEnd": "2026-08-24T00:00:00Z"
+          },
+          {
+            "week": 3,
+            "weekLabel": "Preseason Week 3",
+            "weekType": "PRE",
+            "season": 2026,
+            "seasonType": "PRE",
+            "dateBegin": "2026-08-27T23:00:00Z",
+            "dateEnd": "2026-08-29T22:00:00Z"
+          },
+          {
+            "week": 1,
+            "weekLabel": "Week 1",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-09-10T00:20:00Z",
+            "dateEnd": "2026-09-15T00:15:00Z"
+          },
+          {
+            "week": 2,
+            "weekLabel": "Week 2",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-09-18T00:15:00Z",
+            "dateEnd": "2026-09-22T00:15:00Z"
+          },
+          {
+            "week": 3,
+            "weekLabel": "Week 3",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-09-25T00:15:00Z",
+            "dateEnd": "2026-09-29T00:15:00Z"
+          },
+          {
+            "week": 4,
+            "weekLabel": "Week 4",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-10-02T00:15:00Z",
+            "dateEnd": "2026-10-06T00:15:00Z"
+          },
+          {
+            "week": 5,
+            "weekLabel": "Week 5",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-10-09T00:15:00Z",
+            "dateEnd": "2026-10-13T00:15:00Z"
+          },
+          {
+            "week": 6,
+            "weekLabel": "Week 6",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-10-16T00:15:00Z",
+            "dateEnd": "2026-10-20T00:15:00Z"
+          },
+          {
+            "week": 7,
+            "weekLabel": "Week 7",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-10-23T00:15:00Z",
+            "dateEnd": "2026-10-27T00:15:00Z"
+          },
+          {
+            "week": 8,
+            "weekLabel": "Week 8",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-10-30T00:15:00Z",
+            "dateEnd": "2026-11-03T01:15:00Z"
+          },
+          {
+            "week": 9,
+            "weekLabel": "Week 9",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-11-06T01:15:00Z",
+            "dateEnd": "2026-11-10T01:15:00Z"
+          },
+          {
+            "week": 10,
+            "weekLabel": "Week 10",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-11-13T01:15:00Z",
+            "dateEnd": "2026-11-17T01:15:00Z"
+          },
+          {
+            "week": 11,
+            "weekLabel": "Week 11",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-11-20T01:15:00Z",
+            "dateEnd": "2026-11-24T01:15:00Z"
+          },
+          {
+            "week": 12,
+            "weekLabel": "Week 12",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-11-26T01:00:00Z",
+            "dateEnd": "2026-12-01T01:15:00Z"
+          },
+          {
+            "week": 13,
+            "weekLabel": "Week 13",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-12-04T01:15:00Z",
+            "dateEnd": "2026-12-08T01:15:00Z"
+          },
+          {
+            "week": 14,
+            "weekLabel": "Week 14",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-12-11T01:15:00Z",
+            "dateEnd": "2026-12-15T01:15:00Z"
+          },
+          {
+            "week": 15,
+            "weekLabel": "Week 15",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-12-18T01:15:00Z",
+            "dateEnd": "2026-12-22T01:15:00Z"
+          },
+          {
+            "week": 16,
+            "weekLabel": "Week 16",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2026-12-25T01:15:00Z",
+            "dateEnd": "2026-12-30"
+          },
+          {
+            "week": 17,
+            "weekLabel": "Week 17",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2027-01-01T01:15:00Z",
+            "dateEnd": "2027-01-06"
+          },
+          {
+            "week": 18,
+            "weekLabel": "Week 18",
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "dateBegin": "2027-01-06",
+            "dateEnd": "2027-01-13"
+          }
+        ]
+      },
+      "status": "success",
+      "error": null
+    }
+  },
+  {
+    "queryKey": [
+      "useFetchFootballWeeklyGameDetails",
+      {
+        "enableMediakindForgeVod": false,
+        "enableMediakindMcpVod": false,
+        "includeDriveChart": false,
+        "includeReplays": false,
+        "includeStandings": true,
+        "includeTaggedVideos": false,
+        "season": "2026",
+        "seasonType": "REG",
+        "week": 18
+      }
+    ],
+    "state": {
+      "data": [
+        {
+          "id": "ace0b1ad-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10403800-517c-7b8c-65a3-c61b95d86123",
+            "fullName": "Arizona Cardinals"
+          },
+          "awayTeam": {
+            "id": "10404500-e7cb-7fce-3f10-4eeb269bd179",
+            "fullName": "San Francisco 49ers"
+          },
+          "category": null,
+          "date": null,
+          "time": null,
+          "broadcastInfo": {
+            "homeNetworkChannels": [],
+            "awayNetworkChannels": [],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [],
+            "territory": null,
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00081907-ad83-307e-8d26-209df8e6df50",
+            "name": "State Farm Stadium",
+            "city": "Glendale",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 18,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2027011000"
+            },
+            {
+              "source": "gsis",
+              "id": "60434"
+            },
+            {
+              "source": "slug",
+              "id": "49ers-at-cardinals-2026-reg-18"
+            }
+          ],
+          "summary": null
+        },
+        {
+          "id": "ace0b48a-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10400325-48de-3d6a-be29-8f829437f4c8",
+            "fullName": "Baltimore Ravens"
+          },
+          "awayTeam": {
+            "id": "10403900-8251-6892-d81c-4348525c2d47",
+            "fullName": "Pittsburgh Steelers"
+          },
+          "category": null,
+          "date": null,
+          "time": null,
+          "broadcastInfo": {
+            "homeNetworkChannels": [],
+            "awayNetworkChannels": [],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [],
+            "territory": null,
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME_SAP",
+                "languages": [
+                  "es"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY_SAP",
+                "languages": [
+                  "es"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00083695-126e-1517-91fe-aab634a526ea",
+            "name": "M&T Bank Stadium",
+            "city": "Baltimore",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 18,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2027011001"
+            },
+            {
+              "source": "gsis",
+              "id": "60435"
+            },
+            {
+              "source": "slug",
+              "id": "steelers-at-ravens-2026-reg-18"
+            }
+          ],
+          "summary": null
+        },
+        {
+          "id": "ace0b74f-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10400610-c40e-a673-1743-2ce2a5d5d731",
+            "fullName": "Buffalo Bills"
+          },
+          "awayTeam": {
+            "id": "10403430-1bc3-42c4-c7d8-39f38aed5f12",
+            "fullName": "New York Jets"
+          },
+          "category": null,
+          "date": null,
+          "time": null,
+          "broadcastInfo": {
+            "homeNetworkChannels": [],
+            "awayNetworkChannels": [],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [],
+            "territory": null,
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00085780-1313-e95c-caa9-c352f75eb57e",
+            "name": "Highmark Stadium",
+            "city": "Orchard Park",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 18,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2027011002"
+            },
+            {
+              "source": "gsis",
+              "id": "60436"
+            },
+            {
+              "source": "slug",
+              "id": "jets-at-bills-2026-reg-18"
+            }
+          ],
+          "summary": null
+        },
+        {
+          "id": "ace0ba82-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10400750-259b-33ac-eee3-a3852e83cd1f",
+            "fullName": "Carolina Panthers"
+          },
+          "awayTeam": {
+            "id": "10400200-f401-4e53-5175-0974e4f16cf7",
+            "fullName": "Atlanta Falcons"
+          },
+          "category": null,
+          "date": null,
+          "time": null,
+          "broadcastInfo": {
+            "homeNetworkChannels": [],
+            "awayNetworkChannels": [],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [],
+            "territory": null,
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00081769-78fe-4172-a6d6-395cf0141069",
+            "name": "Bank of America Stadium",
+            "city": "Charlotte",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 18,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2027011003"
+            },
+            {
+              "source": "gsis",
+              "id": "60437"
+            },
+            {
+              "source": "slug",
+              "id": "falcons-at-panthers-2026-reg-18"
+            }
+          ],
+          "summary": null
+        },
+        {
+          "id": "acff782d-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10400920-57c1-7656-e77e-1af3d900483e",
+            "fullName": "Cincinnati Bengals"
+          },
+          "awayTeam": {
+            "id": "10401050-5e38-b907-1be1-55b91b19c057",
+            "fullName": "Cleveland Browns"
+          },
+          "category": null,
+          "date": null,
+          "time": null,
+          "broadcastInfo": {
+            "homeNetworkChannels": [],
+            "awayNetworkChannels": [],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [],
+            "territory": null,
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00083530-fc9f-2795-83d8-308b54d591fe",
+            "name": "Paycor Stadium",
+            "city": "Cincinnati",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 18,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2027011004"
+            },
+            {
+              "source": "gsis",
+              "id": "60438"
+            },
+            {
+              "source": "slug",
+              "id": "browns-at-bengals-2026-reg-18"
+            }
+          ],
+          "summary": null
+        },
+        {
+          "id": "acff8054-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10401400-b89b-96e5-55d1-caa7e18de3d8",
+            "fullName": "Denver Broncos"
+          },
+          "awayTeam": {
+            "id": "10404400-3b35-073f-197e-194bb8240723",
+            "fullName": "Los Angeles Chargers"
+          },
+          "category": null,
+          "date": null,
+          "time": null,
+          "broadcastInfo": {
+            "homeNetworkChannels": [],
+            "awayNetworkChannels": [],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [],
+            "territory": null,
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00085786-61c2-c519-196f-576acb0dcd5f",
+            "name": "Empower Field at Mile High",
+            "city": "Denver",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 18,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2027011005"
+            },
+            {
+              "source": "gsis",
+              "id": "60439"
+            },
+            {
+              "source": "slug",
+              "id": "chargers-at-broncos-2026-reg-18"
+            }
+          ],
+          "summary": null
+        },
+        {
+          "id": "acff837c-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10401800-ab22-323d-721a-cee4713c4c2d",
+            "fullName": "Green Bay Packers"
+          },
+          "awayTeam": {
+            "id": "10401540-f97c-2d19-6fcd-fac6490a48b7",
+            "fullName": "Detroit Lions"
+          },
+          "category": null,
+          "date": null,
+          "time": null,
+          "broadcastInfo": {
+            "homeNetworkChannels": [],
+            "awayNetworkChannels": [],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [],
+            "territory": null,
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00082606-f7cb-15ed-a40a-f85cfda3ecdd",
+            "name": "Lambeau Field",
+            "city": "Green Bay",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 18,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2027011006"
+            },
+            {
+              "source": "gsis",
+              "id": "60440"
+            },
+            {
+              "source": "slug",
+              "id": "lions-at-packers-2026-reg-18"
+            }
+          ],
+          "summary": null
+        },
+        {
+          "id": "acff8654-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10402120-b0bc-693d-098a-803014096eb0",
+            "fullName": "Houston Texans"
+          },
+          "awayTeam": {
+            "id": "10402100-447f-396e-8149-0a434ffb2f23",
+            "fullName": "Tennessee Titans"
+          },
+          "category": null,
+          "date": null,
+          "time": null,
+          "broadcastInfo": {
+            "homeNetworkChannels": [],
+            "awayNetworkChannels": [],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [],
+            "territory": null,
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00083698-a263-8c18-f063-4dc45196bfef",
+            "name": "Reliant Stadium",
+            "city": "Houston",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 18,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2027011007"
+            },
+            {
+              "source": "gsis",
+              "id": "60441"
+            },
+            {
+              "source": "slug",
+              "id": "titans-at-texans-2026-reg-18"
+            }
+          ],
+          "summary": null
+        },
+        {
+          "id": "acff8914-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10402200-2ea3-84c3-e627-6a6b3b39d56d",
+            "fullName": "Indianapolis Colts"
+          },
+          "awayTeam": {
+            "id": "10402250-89fe-7b86-ef98-9062cd354256",
+            "fullName": "Jacksonville Jaguars"
+          },
+          "category": null,
+          "date": null,
+          "time": null,
+          "broadcastInfo": {
+            "homeNetworkChannels": [],
+            "awayNetworkChannels": [],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [],
+            "territory": null,
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00082878-4c6e-d80a-0da7-6f8355c339c2",
+            "name": "Lucas Oil Stadium",
+            "city": "Indianapolis",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 18,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2027011008"
+            },
+            {
+              "source": "gsis",
+              "id": "60442"
+            },
+            {
+              "source": "slug",
+              "id": "jaguars-at-colts-2026-reg-18"
+            }
+          ],
+          "summary": null
+        },
+        {
+          "id": "acff8bba-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10402310-a47e-10ea-7442-16b633633637",
+            "fullName": "Kansas City Chiefs"
+          },
+          "awayTeam": {
+            "id": "10402520-96bf-e9f2-4f68-8521ca896060",
+            "fullName": "Las Vegas Raiders"
+          },
+          "category": null,
+          "date": null,
+          "time": null,
+          "broadcastInfo": {
+            "homeNetworkChannels": [],
+            "awayNetworkChannels": [],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [],
+            "territory": null,
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME_SAP",
+                "languages": [
+                  "es"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY_SAP",
+                "languages": [
+                  "es"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00081552-5c92-a7d0-fa55-fc0bb887fb88",
+            "name": "Arrowhead Stadium",
+            "city": "Kansas City",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 18,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2027011009"
+            },
+            {
+              "source": "gsis",
+              "id": "60443"
+            },
+            {
+              "source": "slug",
+              "id": "raiders-at-chiefs-2026-reg-18"
+            }
+          ],
+          "summary": null
+        },
+        {
+          "id": "acff8e70-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10402510-8931-0d5f-9815-79bb79649a65",
+            "fullName": "Los Angeles Rams"
+          },
+          "awayTeam": {
+            "id": "10404600-adcd-28ac-5826-b4d95ec2a228",
+            "fullName": "Seattle Seahawks"
+          },
+          "category": null,
+          "date": null,
+          "time": null,
+          "broadcastInfo": {
+            "homeNetworkChannels": [],
+            "awayNetworkChannels": [],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [],
+            "territory": null,
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00083005-73cf-76e4-0b7c-b1a83f72b2c5",
+            "name": "SoFi Stadium",
+            "city": "Inglewood",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 18,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2027011010"
+            },
+            {
+              "source": "gsis",
+              "id": "60444"
+            },
+            {
+              "source": "slug",
+              "id": "seahawks-at-rams-2026-reg-18"
+            }
+          ],
+          "summary": null
+        },
+        {
+          "id": "acff9123-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10403000-5851-f9d5-da45-78365a05b6b0",
+            "fullName": "Minnesota Vikings"
+          },
+          "awayTeam": {
+            "id": "10400810-db30-43d6-221c-620006f3ca19",
+            "fullName": "Chicago Bears"
+          },
+          "category": null,
+          "date": null,
+          "time": null,
+          "broadcastInfo": {
+            "homeNetworkChannels": [],
+            "awayNetworkChannels": [],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [],
+            "territory": null,
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME_SAP",
+                "languages": [
+                  "es"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY_SAP",
+                "languages": [
+                  "es"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00081652-d8a8-d698-5b3f-31487c6624f7",
+            "name": "U.S. Bank Stadium",
+            "city": "Minneapolis",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 18,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2027011011"
+            },
+            {
+              "source": "gsis",
+              "id": "60445"
+            },
+            {
+              "source": "slug",
+              "id": "bears-at-vikings-2026-reg-18"
+            }
+          ],
+          "summary": null
+        },
+        {
+          "id": "acff93c4-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10403200-69ab-9ea6-5af5-e240fbc08bea",
+            "fullName": "New England Patriots"
+          },
+          "awayTeam": {
+            "id": "10402700-1662-d8ad-f45c-0b0ea460d045",
+            "fullName": "Miami Dolphins"
+          },
+          "category": null,
+          "date": null,
+          "time": null,
+          "broadcastInfo": {
+            "homeNetworkChannels": [],
+            "awayNetworkChannels": [],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [],
+            "territory": null,
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00081065-961a-76b2-de6a-b6da2602a129",
+            "name": "Gillette Stadium",
+            "city": "Foxborough",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 18,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2027011012"
+            },
+            {
+              "source": "gsis",
+              "id": "60446"
+            },
+            {
+              "source": "slug",
+              "id": "dolphins-at-patriots-2026-reg-18"
+            }
+          ],
+          "summary": null
+        },
+        {
+          "id": "acff9659-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10403300-f235-cf9b-6d3a-2f182be48dd1",
+            "fullName": "New Orleans Saints"
+          },
+          "awayTeam": {
+            "id": "10404900-d59e-b449-ef75-961e09ca027e",
+            "fullName": "Tampa Bay Buccaneers"
+          },
+          "category": null,
+          "date": null,
+          "time": null,
+          "broadcastInfo": {
+            "homeNetworkChannels": [],
+            "awayNetworkChannels": [],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [],
+            "territory": null,
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00082870-94c7-53ad-b2bf-a1d334cf1512",
+            "name": "Caesars Superdome",
+            "city": "New Orleans",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 18,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2027011013"
+            },
+            {
+              "source": "gsis",
+              "id": "60447"
+            },
+            {
+              "source": "slug",
+              "id": "buccaneers-at-saints-2026-reg-18"
+            }
+          ],
+          "summary": null
+        },
+        {
+          "id": "ad1f1cde-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10403410-997c-9c75-256b-3b012f468bd0",
+            "fullName": "New York Giants"
+          },
+          "awayTeam": {
+            "id": "10403700-b939-3cbd-3d16-24d4d6742fa2",
+            "fullName": "Philadelphia Eagles"
+          },
+          "category": null,
+          "date": null,
+          "time": null,
+          "broadcastInfo": {
+            "homeNetworkChannels": [],
+            "awayNetworkChannels": [],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [],
+            "territory": null,
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME_SAP",
+                "languages": [
+                  "es"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY_SAP",
+                "languages": [
+                  "es"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00083757-62dd-de21-f672-4d0ca5ad5a9e",
+            "name": "MetLife Stadium",
+            "city": "East Rutherford",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 18,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2027011014"
+            },
+            {
+              "source": "gsis",
+              "id": "60448"
+            },
+            {
+              "source": "slug",
+              "id": "eagles-at-giants-2026-reg-18"
+            }
+          ],
+          "summary": null
+        },
+        {
+          "id": "ad1f2595-4feb-11f1-abca-2c54536568a9",
+          "homeTeam": {
+            "id": "10405110-ec3c-669e-2614-db3dc1736e95",
+            "fullName": "Washington Commanders"
+          },
+          "awayTeam": {
+            "id": "10401200-a308-98ca-ad5f-95df2fefea68",
+            "fullName": "Dallas Cowboys"
+          },
+          "category": null,
+          "date": null,
+          "time": null,
+          "broadcastInfo": {
+            "homeNetworkChannels": [],
+            "awayNetworkChannels": [],
+            "internationalWatchOptions": [],
+            "streamingNetworks": [],
+            "territory": null,
+            "audioNetworks": [
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY",
+                "languages": [
+                  "en"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_HOME_SAP",
+                "languages": [
+                  "es"
+                ]
+              },
+              {
+                "audience": "AUDIO_NETWORK_AUDIENCE_AWAY_SAP",
+                "languages": [
+                  "es"
+                ]
+              }
+            ]
+          },
+          "international": false,
+          "venue": {
+            "id": "00082389-5f81-bc7b-7280-78260ea1be2a",
+            "name": "Northwest Stadium",
+            "city": "Landover",
+            "country": "USA"
+          },
+          "season": 2026,
+          "seasonType": "REG",
+          "status": "SCHEDULED",
+          "week": 18,
+          "weekType": "REG",
+          "externalIds": [
+            {
+              "source": "elias",
+              "id": "2027011015"
+            },
+            {
+              "source": "gsis",
+              "id": "60449"
+            },
+            {
+              "source": "slug",
+              "id": "cowboys-at-commanders-2026-reg-18"
+            }
+          ],
+          "summary": null
+        }
+      ],
+      "status": "success",
+      "error": null
+    }
+  },
+  {
+    "queryKey": [
+      "useFetchExperienceWaysToWatchGamesByWeek",
+      {
+        "season": "2026",
+        "showNflPlusItems": false,
+        "week": "18",
+        "weekType": "REG"
+      }
+    ],
+    "state": {
+      "data": {
+        "data": [
+          {
+            "id": "ace0b1ad-4feb-11f1-abca-2c54536568a9",
+            "date": null,
+            "week": 18,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": null
+          },
+          {
+            "id": "ace0b48a-4feb-11f1-abca-2c54536568a9",
+            "date": null,
+            "week": 18,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": null
+          },
+          {
+            "id": "ace0b74f-4feb-11f1-abca-2c54536568a9",
+            "date": null,
+            "week": 18,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": null
+          },
+          {
+            "id": "ace0ba82-4feb-11f1-abca-2c54536568a9",
+            "date": null,
+            "week": 18,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": null
+          },
+          {
+            "id": "acff782d-4feb-11f1-abca-2c54536568a9",
+            "date": null,
+            "week": 18,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": null
+          },
+          {
+            "id": "acff8054-4feb-11f1-abca-2c54536568a9",
+            "date": null,
+            "week": 18,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": null
+          },
+          {
+            "id": "acff837c-4feb-11f1-abca-2c54536568a9",
+            "date": null,
+            "week": 18,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": null
+          },
+          {
+            "id": "acff8654-4feb-11f1-abca-2c54536568a9",
+            "date": null,
+            "week": 18,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": null
+          },
+          {
+            "id": "acff8914-4feb-11f1-abca-2c54536568a9",
+            "date": null,
+            "week": 18,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": null
+          },
+          {
+            "id": "acff8bba-4feb-11f1-abca-2c54536568a9",
+            "date": null,
+            "week": 18,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": null
+          },
+          {
+            "id": "acff8e70-4feb-11f1-abca-2c54536568a9",
+            "date": null,
+            "week": 18,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": null
+          },
+          {
+            "id": "acff9123-4feb-11f1-abca-2c54536568a9",
+            "date": null,
+            "week": 18,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": null
+          },
+          {
+            "id": "acff93c4-4feb-11f1-abca-2c54536568a9",
+            "date": null,
+            "week": 18,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": null
+          },
+          {
+            "id": "acff9659-4feb-11f1-abca-2c54536568a9",
+            "date": null,
+            "week": 18,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": null
+          },
+          {
+            "id": "ad1f1cde-4feb-11f1-abca-2c54536568a9",
+            "date": null,
+            "week": 18,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": null
+          },
+          {
+            "id": "ad1f2595-4feb-11f1-abca-2c54536568a9",
+            "date": null,
+            "week": 18,
+            "weekType": "REG",
+            "season": 2026,
+            "seasonType": "REG",
+            "coverageMap": null
+          }
+        ]
+      },
+      "status": "success",
+      "error": null
+    }
+  }
+]

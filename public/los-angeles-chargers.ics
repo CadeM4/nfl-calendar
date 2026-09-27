@@ -1,0 +1,398 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NFL Calendar//Independent schedule subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:2026 NFL regular season and postseason. Eastern Time; automat
+ ically updated.
+NAME:Los Angeles Chargers · 2026
+X-WR-CALNAME:Los Angeles Chargers · 2026
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Arizona Cardinals @ Los Angeles Chargers
+DTSTART:20260913T202500Z
+DTEND:20260913T234000Z
+DTSTAMP:20260927T005047Z
+UID:2bb3d095d357793efc429b091366299c@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 1
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 1\n\nArizona Cardinals @ Los Angeles Chargers
+ \n\nKickoff: Sunday\, September 13\, 2026 at 4:25 PM EDT (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreami
+ ng: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday af
+ ternoon viewing\; local and national blackouts apply.\nNFL+: local and pri
+ metime live game streams require a phone or tablet\; market and device res
+ trictions apply.\nParamount+: this game must be carried by your local CBS 
+ station.\nRegional broadcast\; local market coverage varies.\nStreaming li
+ stings are for the US\; eligible subscriptions and geographic restrictions
+  apply.\n\nVenue\nSoFi Stadium\nInglewood\n\nSchedule source: https://www.
+ nfl.com/games/cardinals-at-chargers-2026-reg-1
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cardinals-at-chargers-2026-reg-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las Vegas Raiders @ Los Angeles Chargers
+DTSTART:20260920T200500Z
+DTEND:20260920T232000Z
+DTSTAMP:20260927T005047Z
+UID:e6729c3d2840adf7aae73d2ee7b79313@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 2
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 2\n\nLas Vegas Raiders @ Los Angeles Chargers
+ \n\nKickoff: Sunday\, September 20\, 2026 at 4:05 PM EDT (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreami
+ ng: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday af
+ ternoon viewing\; local and national blackouts apply.\nNFL+: local and pri
+ metime live game streams require a phone or tablet\; market and device res
+ trictions apply.\nParamount+: this game must be carried by your local CBS 
+ station.\nRegional broadcast\; local market coverage varies.\nStreaming li
+ stings are for the US\; eligible subscriptions and geographic restrictions
+  apply.\n\nVenue\nSoFi Stadium\nInglewood\n\nSchedule source: https://www.
+ nfl.com/games/raiders-at-chargers-2026-reg-2
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/raiders-at-chargers-2026-reg-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Chargers @ Buffalo Bills
+DTSTART:20260927T170000Z
+DTEND:20260927T201500Z
+DTSTAMP:20260927T005047Z
+UID:8b8af7273cdf8726a7f8043172481323@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 3
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 3\n\nLos Angeles Chargers @ Buffalo Bills\n\n
+ Kickoff: Sunday\, September 27\, 2026 at 1:00 PM EDT (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: 
+ FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.
+ \nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; loc
+ al and national blackouts apply.\nNFL+: local and primetime live game stre
+ ams require a phone or tablet\; market and device restrictions apply.\nReg
+ ional broadcast\; local market coverage varies.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
+ nue\nHighmark Stadium\nOrchard Park\n\nSchedule source: https://www.nfl.co
+ m/games/chargers-at-bills-2026-reg-3
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Highmark Stadium\nOrchard Park
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chargers-at-bills-2026-reg-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Chargers @ Seattle Seahawks
+DTSTART:20261004T202500Z
+DTEND:20261004T234000Z
+DTSTAMP:20260927T005047Z
+UID:1bfb6906d82b320b78692a1592830e03@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 4
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 4\n\nLos Angeles Chargers @ Seattle Seahawks
+ \n\nKickoff: Sunday\, October 4\, 2026 at 4:25 PM EDT (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming:
+  NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday after
+ noon viewing\; local and national blackouts apply.\nNFL+: local and primet
+ ime live game streams require a phone or tablet\; market and device restri
+ ctions apply.\nParamount+: this game must be carried by your local CBS sta
+ tion.\nRegional broadcast\; local market coverage varies.\nStreaming listi
+ ngs are for the US\; eligible subscriptions and geographic restrictions ap
+ ply.\n\nVenue\nLumen Field\nSeattle\n\nSchedule source: https://www.nfl.co
+ m/games/chargers-at-seahawks-2026-reg-4
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lumen Field\nSeattle
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chargers-at-seahawks-2026-reg-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Denver Broncos @ Los Angeles Chargers
+DTSTART:20261011T200500Z
+DTEND:20261011T232000Z
+DTSTAMP:20260927T005047Z
+UID:2b8f2084c2d71dfc3f4cca846bf74ae0@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 5
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 5\n\nDenver Broncos @ Los Angeles Chargers\n
+ \nKickoff: Sunday\, October 11\, 2026 at 4:05 PM EDT (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional br
+ oadcast\; local market coverage varies.\n\nVenue\nSoFi Stadium\nInglewood
+ \n\nSchedule source: https://www.nfl.com/games/broncos-at-chargers-2026-re
+ g-5
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/broncos-at-chargers-2026-reg-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Chargers @ Kansas City Chiefs
+DTSTART:20261018T202500Z
+DTEND:20261018T234000Z
+DTSTAMP:20260927T005047Z
+UID:81aa60b66e4b3e5df380e94d41117f10@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 6
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 6\n\nLos Angeles Chargers @ Kansas City Chief
+ s\n\nKickoff: Sunday\, October 18\, 2026 at 4:25 PM EDT (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nArrowhead Stadium\nKa
+ nsas City\n\nSchedule source: https://www.nfl.com/games/chargers-at-chiefs
+ -2026-reg-6
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Arrowhead Stadium\nKansas City
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chargers-at-chiefs-2026-reg-6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Chargers @ Los Angeles Rams
+DTSTART:20261101T210500Z
+DTEND:20261102T002000Z
+DTSTAMP:20260927T005047Z
+UID:6f7d14b46750060996d7c604a99d2006@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 8
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 8\n\nLos Angeles Chargers @ Los Angeles Rams
+ \n\nKickoff: Sunday\, November 1\, 2026 at 4:05 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nSoFi Stadium\nInglewo
+ od\n\nSchedule source: https://www.nfl.com/games/chargers-at-rams-2026-reg
+ -8
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chargers-at-rams-2026-reg-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Texans @ Los Angeles Chargers
+DTSTART:20261108T210500Z
+DTEND:20261109T002000Z
+DTSTAMP:20260927T005047Z
+UID:9d87815712cae3047564645aadd32be8@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 9
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 9\n\nHouston Texans @ Los Angeles Chargers\n
+ \nKickoff: Sunday\, November 8\, 2026 at 4:05 PM EST (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional br
+ oadcast\; local market coverage varies.\n\nVenue\nSoFi Stadium\nInglewood
+ \n\nSchedule source: https://www.nfl.com/games/texans-at-chargers-2026-reg
+ -9
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/texans-at-chargers-2026-reg-9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Chargers @ Baltimore Ravens
+DTSTART:20261117T011500Z
+DTEND:20261117T043000Z
+DTSTAMP:20260927T005047Z
+UID:0e15a31ac0fa08aa8972aef39d0ecc02@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 10
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 10\n\nLos Angeles Chargers @ Baltimore Ravens
+ \n\nKickoff: Monday\, November 16\, 2026 at 8:15 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, 
+ ESPN Deportes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and p
+ rimetime live game streams require a phone or tablet\; market and device r
+ estrictions apply.\nStreaming listings are for the US\; eligible subscript
+ ions and geographic restrictions apply.\nUS national broadcast.\n\nVenue\n
+ M&T Bank Stadium\nBaltimore\n\nSchedule source: https://www.nfl.com/games/
+ chargers-at-ravens-2026-reg-10
+LAST-MODIFIED:20260927T005047Z
+LOCATION:M&T Bank Stadium\nBaltimore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chargers-at-ravens-2026-reg-10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Jets @ Los Angeles Chargers
+DTSTART:20261122T210500Z
+DTEND:20261123T002000Z
+DTSTAMP:20260927T005047Z
+UID:a8a1ab4fc4de1331ff00ef837f7dedb8@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 11
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 11\n\nNew York Jets @ Los Angeles Chargers\n
+ \nKickoff: Sunday\, November 22\, 2026 at 4:05 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional b
+ roadcast\; local market coverage varies.\n\nVenue\nSoFi Stadium\nInglewood
+ \n\nSchedule source: https://www.nfl.com/games/jets-at-chargers-2026-reg-1
+ 1
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/jets-at-chargers-2026-reg-11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New England Patriots @ Los Angeles Chargers
+DTSTART:20261130T012000Z
+DTEND:20261130T043500Z
+DTSTAMP:20260927T005047Z
+UID:d96c34c5c9db60c7f01afe702123f418@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 12
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 12\n\nNew England Patriots @ Los Angeles Char
+ gers\n\nKickoff: Sunday\, November 29\, 2026 at 8:20 PM EST (America/New_Y
+ ork)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Uni
+ verso\nStreaming: NFL+\, Peacock\nNFL+: local and primetime live game stre
+ ams require a phone or tablet\; market and device restrictions apply.\nStr
+ eaming listings are for the US\; eligible subscriptions and geographic res
+ trictions apply.\nUS national broadcast.\n\nVenue\nSoFi Stadium\nInglewood
+ \n\nSchedule source: https://www.nfl.com/games/patriots-at-chargers-2026-r
+ eg-12
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/patriots-at-chargers-2026-reg-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Chargers @ Tampa Bay Buccaneers
+DTSTART:20261206T180000Z
+DTEND:20261206T211500Z
+DTSTAMP:20260927T005047Z
+UID:46997c0ef809dc5f867b8f66abc3ed73@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 13
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 13\n\nLos Angeles Chargers @ Tampa Bay Buccan
+ eers\n\nKickoff: Sunday\, December 6\, 2026 at 1:00 PM EST (America/New_Yo
+ rk)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegio
+ nal broadcast\; local market coverage varies.\n\nVenue\nRaymond James Stad
+ ium\nTampa\n\nSchedule source: https://www.nfl.com/games/chargers-at-bucca
+ neers-2026-reg-13
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Raymond James Stadium\nTampa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chargers-at-buccaneers-2026-reg-13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Chargers @ Las Vegas Raiders
+DTSTART:20261213T210500Z
+DTEND:20261214T002000Z
+DTSTAMP:20260927T005047Z
+UID:6fe3f6c1e27b45120f472f5b38ecf250@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 14
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 14\n\nLos Angeles Chargers @ Las Vegas Raider
+ s\n\nKickoff: Sunday\, December 13\, 2026 at 4:05 PM EST (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegiona
+ l broadcast\; local market coverage varies.\n\nVenue\nAllegiant Stadium\nP
+ aradise\n\nSchedule source: https://www.nfl.com/games/chargers-at-raiders-
+ 2026-reg-14
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Allegiant Stadium\nParadise
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chargers-at-raiders-2026-reg-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Francisco 49ers @ Los Angeles Chargers
+DTSTART:20261218T011500Z
+DTEND:20261218T043000Z
+DTSTAMP:20260927T005047Z
+UID:8cb6d8d6a4f392100624e5c0d5327c04@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 15
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 15\n\nSan Francisco 49ers @ Los Angeles Charg
+ ers\n\nKickoff: Thursday\, December 17\, 2026 at 8:15 PM EST (America/New_
+ York)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: N
+ FL+\, Prime Video\nNFL+: local and primetime live game streams require a p
+ hone or tablet\; market and device restrictions apply.\nStreaming listings
+  are for the US\; eligible subscriptions and geographic restrictions apply
+ .\nUS national broadcast.\n\nVenue\nSoFi Stadium\nInglewood\n\nSchedule so
+ urce: https://www.nfl.com/games/49ers-at-chargers-2026-reg-15
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/49ers-at-chargers-2026-reg-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Chargers @ Miami Dolphins
+DTSTART:20261227T180000Z
+DTEND:20261227T211500Z
+DTSTAMP:20260927T005047Z
+UID:bf4ab9371fe441565524ac7caef9c177@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 16
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 16\n\nLos Angeles Chargers @ Miami Dolphins\n
+ \nKickoff: Sunday\, December 27\, 2026 at 1:00 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional b
+ roadcast\; local market coverage varies.\n\nVenue\nHard Rock Stadium\nOpa 
+ Locka\n\nSchedule source: https://www.nfl.com/games/chargers-at-dolphins-2
+ 026-reg-16
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Hard Rock Stadium\nOpa Locka
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chargers-at-dolphins-2026-reg-16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] Kansas City Chiefs @ Los Angeles Chargers
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20260927T005047Z
+UID:303d136ca3481969340b5a683ae76a5d@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 17
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 17\n\nKansas City Chiefs @ Los Angeles Charge
+ rs\n\nDate and kickoff: TBD.\nWeek placeholder: Thursday\, December 31\, 2
+ 026. This is not a confirmed game date.\nThe event will move to its confir
+ med date and kickoff when announced.\n\nWatch\nBroadcast information: TBD.
+ \n\nVenue\nSoFi Stadium\nInglewood\n\nSchedule source: https://www.nfl.com
+ /games/chiefs-at-chargers-2026-reg-17
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chiefs-at-chargers-2026-reg-17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] Los Angeles Chargers @ Denver Broncos
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+DTSTAMP:20260927T005047Z
+UID:729bd11e74e124b2b7fbc0485ad9833e@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 18
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 18\n\nLos Angeles Chargers @ Denver Broncos\n
+ \nDate and kickoff: TBD.\nWeek placeholder: Wednesday\, January 6\, 2027. 
+ This is not a confirmed game date.\nThe event will move to its confirmed d
+ ate and kickoff when announced.\n\nWatch\nBroadcast information: TBD.\n\nV
+ enue\nEmpower Field at Mile High\nDenver\n\nSchedule source: https://www.n
+ fl.com/games/chargers-at-broncos-2026-reg-18
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Empower Field at Mile High\nDenver
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chargers-at-broncos-2026-reg-18
+END:VEVENT
+END:VCALENDAR

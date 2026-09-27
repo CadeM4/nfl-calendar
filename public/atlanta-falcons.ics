@@ -1,0 +1,388 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NFL Calendar//Independent schedule subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:2026 NFL regular season and postseason. Eastern Time; automat
+ ically updated.
+NAME:Atlanta Falcons · 2026
+X-WR-CALNAME:Atlanta Falcons · 2026
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Atlanta Falcons @ Pittsburgh Steelers
+DTSTART:20260913T170000Z
+DTEND:20260913T201500Z
+DTSTAMP:20260927T005047Z
+UID:a3857ae7aa43c78c197ebaa6b5da0cf7@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 1
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 1\n\nAtlanta Falcons @ Pittsburgh Steelers\n
+ \nKickoff: Sunday\, September 13\, 2026 at 1:00 PM EDT (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreamin
+ g: FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions app
+ ly.\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; 
+ local and national blackouts apply.\nNFL+: local and primetime live game s
+ treams require a phone or tablet\; market and device restrictions apply.\n
+ Regional broadcast\; local market coverage varies.\nStreaming listings are
+  for the US\; eligible subscriptions and geographic restrictions apply.\n
+ \nVenue\nAcrisure Stadium\nPittsburgh\n\nSchedule source: https://www.nfl.
+ com/games/falcons-at-steelers-2026-reg-1
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Acrisure Stadium\nPittsburgh
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/falcons-at-steelers-2026-reg-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carolina Panthers @ Atlanta Falcons
+DTSTART:20260920T170000Z
+DTEND:20260920T201500Z
+DTSTAMP:20260927T005047Z
+UID:fc8188a673c985169bc0d18197131385@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 2
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 2\n\nCarolina Panthers @ Atlanta Falcons\n\nK
+ ickoff: Sunday\, September 20\, 2026 at 1:00 PM EDT (America/New_York)\nEs
+ timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: F
+ OX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.
+ \nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; loc
+ al and national blackouts apply.\nNFL+: local and primetime live game stre
+ ams require a phone or tablet\; market and device restrictions apply.\nReg
+ ional broadcast\; local market coverage varies.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
+ nue\nMercedes-Benz Stadium\nAtlanta\n\nSchedule source: https://www.nfl.co
+ m/games/panthers-at-falcons-2026-reg-2
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Mercedes-Benz Stadium\nAtlanta
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/panthers-at-falcons-2026-reg-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlanta Falcons @ Green Bay Packers
+DTSTART:20260925T001500Z
+DTEND:20260925T033000Z
+DTSTAMP:20260927T005047Z
+UID:88607c7cdd9a18a2560d166a2e967b90@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 3
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 3\n\nAtlanta Falcons @ Green Bay Packers\n\nK
+ ickoff: Thursday\, September 24\, 2026 at 8:15 PM EDT (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: NFL+\, P
+ rime Video\nNFL+: local and primetime live game streams require a phone or
+  tablet\; market and device restrictions apply.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\nUS n
+ ational broadcast.\n\nVenue\nLambeau Field\nGreen Bay\n\nSchedule source: 
+ https://www.nfl.com/games/falcons-at-packers-2026-reg-3
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lambeau Field\nGreen Bay
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/falcons-at-packers-2026-reg-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlanta Falcons @ New Orleans Saints
+DTSTART:20261006T001500Z
+DTEND:20261006T033000Z
+DTSTAMP:20260927T005047Z
+UID:ff2be73d88d50979e04317a142c942ff@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 4
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 4\n\nAtlanta Falcons @ New Orleans Saints\n\n
+ Kickoff: Monday\, October 5\, 2026 at 8:15 PM EDT (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN D
+ eportes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primeti
+ me live game streams require a phone or tablet\; market and device restric
+ tions apply.\nStreaming listings are for the US\; eligible subscriptions a
+ nd geographic restrictions apply.\nUS national broadcast.\n\nVenue\nCaesar
+ s Superdome\nNew Orleans\n\nSchedule source: https://www.nfl.com/games/fal
+ cons-at-saints-2026-reg-4
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Caesars Superdome\nNew Orleans
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/falcons-at-saints-2026-reg-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baltimore Ravens @ Atlanta Falcons
+DTSTART:20261012T002000Z
+DTEND:20261012T033500Z
+DTSTAMP:20260927T005047Z
+UID:9b184e01689fec97d72372114a2429a8@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 5
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 5\n\nBaltimore Ravens @ Atlanta Falcons\n\nKi
+ ckoff: Sunday\, October 11\, 2026 at 8:20 PM EDT (America/New_York)\nEstim
+ ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo\nStre
+ aming: NFL+\, Peacock\nNFL+: local and primetime live game streams require
+  a phone or tablet\; market and device restrictions apply.\nStreaming list
+ ings are for the US\; eligible subscriptions and geographic restrictions a
+ pply.\nUS national broadcast.\n\nVenue\nMercedes-Benz Stadium\nAtlanta\n\n
+ Schedule source: https://www.nfl.com/games/ravens-at-falcons-2026-reg-5
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Mercedes-Benz Stadium\nAtlanta
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/ravens-at-falcons-2026-reg-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bears @ Atlanta Falcons
+DTSTART:20261018T170000Z
+DTEND:20261018T201500Z
+DTSTAMP:20260927T005047Z
+UID:2074579d4eb58bb18fb7c3c7f58a22e4@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 6
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 6\n\nChicago Bears @ Atlanta Falcons\n\nKicko
+ ff: Sunday\, October 18\, 2026 at 1:00 PM EDT (America/New_York)\nEstimate
+ d game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadcast
+ \; local market coverage varies.\n\nVenue\nMercedes-Benz Stadium\nAtlanta
+ \n\nSchedule source: https://www.nfl.com/games/bears-at-falcons-2026-reg-6
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Mercedes-Benz Stadium\nAtlanta
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bears-at-falcons-2026-reg-6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Francisco 49ers @ Atlanta Falcons
+DTSTART:20261025T170000Z
+DTEND:20261025T201500Z
+DTSTAMP:20260927T005047Z
+UID:eb8b8ba72fa4354b972102191362347c@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 7
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 7\n\nSan Francisco 49ers @ Atlanta Falcons\n
+ \nKickoff: Sunday\, October 25\, 2026 at 1:00 PM EDT (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional br
+ oadcast\; local market coverage varies.\n\nVenue\nMercedes-Benz Stadium\nA
+ tlanta\n\nSchedule source: https://www.nfl.com/games/49ers-at-falcons-2026
+ -reg-7
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Mercedes-Benz Stadium\nAtlanta
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/49ers-at-falcons-2026-reg-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlanta Falcons @ Tampa Bay Buccaneers
+DTSTART:20261101T180000Z
+DTEND:20261101T211500Z
+DTSTAMP:20260927T005047Z
+UID:fa29e52661fc632a08c68b58f683a207@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 8
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 8\n\nAtlanta Falcons @ Tampa Bay Buccaneers\n
+ \nKickoff: Sunday\, November 1\, 2026 at 1:00 PM EST (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional br
+ oadcast\; local market coverage varies.\n\nVenue\nRaymond James Stadium\nT
+ ampa\n\nSchedule source: https://www.nfl.com/games/falcons-at-buccaneers-2
+ 026-reg-8
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Raymond James Stadium\nTampa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/falcons-at-buccaneers-2026-reg-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cincinnati Bengals @ Atlanta Falcons
+DTSTART:20261108T143000Z
+DTEND:20261108T174500Z
+DTSTAMP:20260927T005047Z
+UID:7d5b9a2ef063efd39e7793456390d86a@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 9
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 9\n\nCincinnati Bengals @ Atlanta Falcons\n\n
+ Kickoff: Sunday\, November 8\, 2026 at 9:30 AM EST (America/New_York)\nEst
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NFL Network\nStrea
+ ming: ESPN Unlimited\, NFL+\nNFL+: local and primetime live game streams r
+ equire a phone or tablet\; market and device restrictions apply.\nStreamin
+ g listings are for the US\; eligible subscriptions and geographic restrict
+ ions apply.\nUS national broadcast.\n\nVenue\nBernabeu\nMadrid\, Spain\n\n
+ Schedule source: https://www.nfl.com/games/bengals-at-falcons-2026-reg-9
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Bernabeu\nMadrid\, Spain
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bengals-at-falcons-2026-reg-9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas City Chiefs @ Atlanta Falcons
+DTSTART:20261115T180000Z
+DTEND:20261115T211500Z
+DTSTAMP:20260927T005047Z
+UID:c331b992cfdb6f0f18a20b00123bec3a@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 10
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 10\n\nKansas City Chiefs @ Atlanta Falcons\n
+ \nKickoff: Sunday\, November 15\, 2026 at 1:00 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional b
+ roadcast\; local market coverage varies.\n\nVenue\nMercedes-Benz Stadium\n
+ Atlanta\n\nSchedule source: https://www.nfl.com/games/chiefs-at-falcons-20
+ 26-reg-10
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Mercedes-Benz Stadium\nAtlanta
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chiefs-at-falcons-2026-reg-10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlanta Falcons @ Minnesota Vikings
+DTSTART:20261129T180000Z
+DTEND:20261129T211500Z
+DTSTAMP:20260927T005047Z
+UID:7a73d90f4e1dbaf0094f6b7b1e731c8e@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 12
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 12\n\nAtlanta Falcons @ Minnesota Vikings\n\n
+ Kickoff: Sunday\, November 29\, 2026 at 1:00 PM EST (America/New_York)\nEs
+ timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional bro
+ adcast\; local market coverage varies.\n\nVenue\nU.S. Bank Stadium\nMinnea
+ polis\n\nSchedule source: https://www.nfl.com/games/falcons-at-vikings-202
+ 6-reg-12
+LAST-MODIFIED:20260927T005047Z
+LOCATION:U.S. Bank Stadium\nMinneapolis
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/falcons-at-vikings-2026-reg-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Lions @ Atlanta Falcons
+DTSTART:20261206T180000Z
+DTEND:20261206T211500Z
+DTSTAMP:20260927T005047Z
+UID:25b167a64fb3015df0b27d39da35fbc7@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 13
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 13\n\nDetroit Lions @ Atlanta Falcons\n\nKick
+ off: Sunday\, December 6\, 2026 at 1:00 PM EST (America/New_York)\nEstimat
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadcas
+ t\; local market coverage varies.\n\nVenue\nMercedes-Benz Stadium\nAtlanta
+ \n\nSchedule source: https://www.nfl.com/games/lions-at-falcons-2026-reg-1
+ 3
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Mercedes-Benz Stadium\nAtlanta
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/lions-at-falcons-2026-reg-13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlanta Falcons @ Cleveland Browns
+DTSTART:20261213T180000Z
+DTEND:20261213T211500Z
+DTSTAMP:20260927T005047Z
+UID:b8f9c2a516494b1cb7f5f4d37d354528@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 14
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 14\n\nAtlanta Falcons @ Cleveland Browns\n\nK
+ ickoff: Sunday\, December 13\, 2026 at 1:00 PM EST (America/New_York)\nEst
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broa
+ dcast\; local market coverage varies.\n\nVenue\nHuntington Bank Field\nCle
+ veland\n\nSchedule source: https://www.nfl.com/games/falcons-at-browns-202
+ 6-reg-14
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Huntington Bank Field\nCleveland
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/falcons-at-browns-2026-reg-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlanta Falcons @ Washington Commanders
+DTSTART:20261220T180000Z
+DTEND:20261220T211500Z
+DTSTAMP:20260927T005047Z
+UID:359c83afce229b0b8107529db810bc14@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 15
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 15\n\nAtlanta Falcons @ Washington Commanders
+ \n\nKickoff: Sunday\, December 20\, 2026 at 1:00 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nNorthwest Stadium\nLa
+ ndover\n\nSchedule source: https://www.nfl.com/games/falcons-at-commanders
+ -2026-reg-15
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Northwest Stadium\nLandover
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/falcons-at-commanders-2026-reg-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] Tampa Bay Buccaneers @ Atlanta Falcons
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20260927T005047Z
+UID:9c24a892af6c87f32aaee862c3c95c0d@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 16
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 16\n\nTampa Bay Buccaneers @ Atlanta Falcons
+ \n\nDate and kickoff: TBD.\nWeek placeholder: Thursday\, December 24\, 202
+ 6. This is not a confirmed game date.\nThe event will move to its confirme
+ d date and kickoff when announced.\n\nWatch\nBroadcast information: TBD.\n
+ \nVenue\nMercedes-Benz Stadium\nAtlanta\n\nSchedule source: https://www.nf
+ l.com/games/buccaneers-at-falcons-2026-reg-16
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Mercedes-Benz Stadium\nAtlanta
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/buccaneers-at-falcons-2026-reg-16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Orleans Saints @ Atlanta Falcons
+DTSTART:20270103T180000Z
+DTEND:20270103T211500Z
+DTSTAMP:20260927T005047Z
+UID:5d2ca54c6902ed3b6479d9f53ada37e2@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 17
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 17\n\nNew Orleans Saints @ Atlanta Falcons\n
+ \nKickoff: Sunday\, January 3\, 2027 at 1:00 PM EST (America/New_York)\nEs
+ timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional bro
+ adcast\; local market coverage varies.\n\nVenue\nMercedes-Benz Stadium\nAt
+ lanta\n\nSchedule source: https://www.nfl.com/games/saints-at-falcons-2026
+ -reg-17
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Mercedes-Benz Stadium\nAtlanta
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/saints-at-falcons-2026-reg-17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] Atlanta Falcons @ Carolina Panthers
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+DTSTAMP:20260927T005047Z
+UID:c77773c6be5b963a019c35e58de08f23@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 18
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 18\n\nAtlanta Falcons @ Carolina Panthers\n\n
+ Date and kickoff: TBD.\nWeek placeholder: Wednesday\, January 6\, 2027. Th
+ is is not a confirmed game date.\nThe event will move to its confirmed dat
+ e and kickoff when announced.\n\nWatch\nBroadcast information: TBD.\n\nVen
+ ue\nBank of America Stadium\nCharlotte\n\nSchedule source: https://www.nfl
+ .com/games/falcons-at-panthers-2026-reg-18
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Bank of America Stadium\nCharlotte
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/falcons-at-panthers-2026-reg-18
+END:VEVENT
+END:VCALENDAR

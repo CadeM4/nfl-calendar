@@ -1,0 +1,40 @@
+# Subscription URLs
+
+Use these as subscription URLs, not one-time imports.
+
+[All NFL games](https://cadem4.github.io/nfl-calendar/nfl-2026.ics) · [Apple Calendar](webcal://cadem4.github.io/nfl-calendar/nfl-2026.ics) · [Evening games](https://cadem4.github.io/nfl-calendar/primetime.ics)
+
+Team | HTTPS subscription URL
+--- | ---
+Arizona Cardinals | [arizona-cardinals.ics](https://cadem4.github.io/nfl-calendar/arizona-cardinals.ics)
+Atlanta Falcons | [atlanta-falcons.ics](https://cadem4.github.io/nfl-calendar/atlanta-falcons.ics)
+Baltimore Ravens | [baltimore-ravens.ics](https://cadem4.github.io/nfl-calendar/baltimore-ravens.ics)
+Buffalo Bills | [buffalo-bills.ics](https://cadem4.github.io/nfl-calendar/buffalo-bills.ics)
+Carolina Panthers | [carolina-panthers.ics](https://cadem4.github.io/nfl-calendar/carolina-panthers.ics)
+Chicago Bears | [chicago-bears.ics](https://cadem4.github.io/nfl-calendar/chicago-bears.ics)
+Cincinnati Bengals | [cincinnati-bengals.ics](https://cadem4.github.io/nfl-calendar/cincinnati-bengals.ics)
+Cleveland Browns | [cleveland-browns.ics](https://cadem4.github.io/nfl-calendar/cleveland-browns.ics)
+Dallas Cowboys | [dallas-cowboys.ics](https://cadem4.github.io/nfl-calendar/dallas-cowboys.ics)
+Denver Broncos | [denver-broncos.ics](https://cadem4.github.io/nfl-calendar/denver-broncos.ics)
+Detroit Lions | [detroit-lions.ics](https://cadem4.github.io/nfl-calendar/detroit-lions.ics)
+Green Bay Packers | [green-bay-packers.ics](https://cadem4.github.io/nfl-calendar/green-bay-packers.ics)
+Houston Texans | [houston-texans.ics](https://cadem4.github.io/nfl-calendar/houston-texans.ics)
+Indianapolis Colts | [indianapolis-colts.ics](https://cadem4.github.io/nfl-calendar/indianapolis-colts.ics)
+Jacksonville Jaguars | [jacksonville-jaguars.ics](https://cadem4.github.io/nfl-calendar/jacksonville-jaguars.ics)
+Kansas City Chiefs | [kansas-city-chiefs.ics](https://cadem4.github.io/nfl-calendar/kansas-city-chiefs.ics)
+Las Vegas Raiders | [las-vegas-raiders.ics](https://cadem4.github.io/nfl-calendar/las-vegas-raiders.ics)
+Los Angeles Chargers | [los-angeles-chargers.ics](https://cadem4.github.io/nfl-calendar/los-angeles-chargers.ics)
+Los Angeles Rams | [los-angeles-rams.ics](https://cadem4.github.io/nfl-calendar/los-angeles-rams.ics)
+Miami Dolphins | [miami-dolphins.ics](https://cadem4.github.io/nfl-calendar/miami-dolphins.ics)
+Minnesota Vikings | [minnesota-vikings.ics](https://cadem4.github.io/nfl-calendar/minnesota-vikings.ics)
+New England Patriots | [new-england-patriots.ics](https://cadem4.github.io/nfl-calendar/new-england-patriots.ics)
+New Orleans Saints | [new-orleans-saints.ics](https://cadem4.github.io/nfl-calendar/new-orleans-saints.ics)
+New York Giants | [new-york-giants.ics](https://cadem4.github.io/nfl-calendar/new-york-giants.ics)
+New York Jets | [new-york-jets.ics](https://cadem4.github.io/nfl-calendar/new-york-jets.ics)
+Philadelphia Eagles | [philadelphia-eagles.ics](https://cadem4.github.io/nfl-calendar/philadelphia-eagles.ics)
+Pittsburgh Steelers | [pittsburgh-steelers.ics](https://cadem4.github.io/nfl-calendar/pittsburgh-steelers.ics)
+San Francisco 49ers | [san-francisco-49ers.ics](https://cadem4.github.io/nfl-calendar/san-francisco-49ers.ics)
+Seattle Seahawks | [seattle-seahawks.ics](https://cadem4.github.io/nfl-calendar/seattle-seahawks.ics)
+Tampa Bay Buccaneers | [tampa-bay-buccaneers.ics](https://cadem4.github.io/nfl-calendar/tampa-bay-buccaneers.ics)
+Tennessee Titans | [tennessee-titans.ics](https://cadem4.github.io/nfl-calendar/tennessee-titans.ics)
+Washington Commanders | [washington-commanders.ics](https://cadem4.github.io/nfl-calendar/washington-commanders.ics)

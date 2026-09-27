@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#142721">
+  <meta name="description" content="One subscription for the NFL season. Updated kickoff times, game locations, and source-reported broadcast information, straight to your calendar.">
+  <title>NFL Calendar · Every game. One calendar.</title>
+  <link rel="icon" type="image/svg+xml" href="./icon.svg">
+  <link rel="stylesheet" href="./style.css">
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="shell">
+    <header class="site-header">
+      <a class="brand" href="./" aria-label="NFL Calendar home"><span class="brand-icon" aria-hidden="true">↗</span><span>NFL<span class="brand-light"> / CALENDAR</span></span></a>
+      <nav aria-label="Main navigation"><a href="#teams">Team calendars</a><a href="#how-it-works">How to subscribe <span aria-hidden="true">↗</span></a></nav>
+    </header>
+    <main id="main">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="eyebrow"><span class="small-line" aria-hidden="true"></span> <span data-season-label>2026 — 2027</span> NFL SEASON</p>
+          <h1 id="hero-title">Every game.<br>One <span class="serif">calendar.</span></h1>
+          <p class="hero-description">From opening kickoff to the final whistle. The whole NFL season, with schedule changes delivered to your calendar.</p>
+          <div class="hero-actions">
+            <a class="button button-primary" id="master-subscribe" aria-disabled="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><rect x="4" y="5" width="16" height="16" rx="3"/><path d="M8 3v5m8-5v5M4 11h16m-8 3v4m-2-2h4"/></svg>Subscribe to all NFL games<span aria-hidden="true">↗</span></a>
+            <button class="button button-copy" id="master-copy" type="button" disabled>Copy feed URL <span aria-hidden="true">⧉</span></button>
+          </div>
+          <p class="hero-note">Free. No account needed. Works with Apple Calendar, Google Calendar &amp; Outlook.</p>
+        </div>
+        <div class="season-card" aria-label="Season overview">
+          <div class="field-lines" aria-hidden="true"><span>10</span><span>20</span><span>30</span><span>40</span><span>50</span></div>
+          <div class="season-card-top"><span>YOUR SEASON PASS</span><span class="card-mark" aria-hidden="true">↗</span></div>
+          <div class="season-card-title">The game plan.<br><em>Already on your calendar.</em></div>
+          <div class="season-card-bottom"><span>REGULAR SEASON + PLAYOFFS</span><strong data-short-season>26 / 27</strong></div>
+        </div>
+      </section>
+
+      <section class="status-strip" aria-label="Published calendar status">
+        <div class="stat"><strong id="regular-count">—</strong><span>regular-season games</span></div>
+        <div class="stat"><strong id="team-count">—</strong><span>teams, one subscription</span></div>
+        <div class="stat"><strong id="postseason-count">—</strong><span>playoff games published</span></div>
+        <div class="freshness" id="freshness"><span class="status-dot" aria-hidden="true"></span><div><strong id="freshness-title">Checking the feed</strong><span id="last-published">Loading publication details…</span></div></div>
+      </section>
+      <p class="data-message" id="data-message" role="status" hidden></p>
+
+      <section class="next-section" aria-labelledby="next-title">
+        <div class="section-heading"><div><p class="eyebrow">ON THE HORIZON</p><h2 id="next-title">Next on the schedule</h2></div><p class="section-note">All times Eastern.<br><span>EDT / EST handled automatically.</span></p></div>
+        <div class="fixtures" id="fixtures"><p class="empty-state">Loading upcoming games…</p></div>
+        <div class="schedule-footnote"><p>Kickoffs can move. Your subscribed calendar follows the published updates.</p><p id="tbd-note">Unconfirmed dates, times, and broadcasts are marked TBD.</p></div>
+      </section>
+
+      <section class="team-section" id="teams" aria-labelledby="teams-title">
+        <div class="section-heading"><div><p class="eyebrow">MAKE IT YOURS</p><h2 id="teams-title">Your team. Your calendar.</h2></div><p class="section-note">Follow one team, the whole league,<br>or the games under the lights.</p></div>
+        <div class="team-tools">
+          <div class="conference-tabs" role="group" aria-label="Filter by conference"><button class="filter-button active" type="button" data-conference="all" aria-pressed="true">All teams</button><button class="filter-button" type="button" data-conference="AFC" aria-pressed="false">AFC</button><button class="filter-button" type="button" data-conference="NFC" aria-pressed="false">NFC</button></div>
+          <label class="search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4.5 4.5"/></svg><span class="sr-only">Search teams</span><input id="team-search" type="search" placeholder="Find your team" autocomplete="off"></label>
+        </div>
+        <p class="sr-only" id="team-results" aria-live="polite"></p>
+        <div class="team-grid" id="team-grid"><p class="empty-state">Team feeds will appear when the published schedule is available.</p></div>
+        <div class="primetime-card"><div class="primetime-symbol" aria-hidden="true">✦</div><div><p class="eyebrow">UNDER THE LIGHTS</p><h3>Just the prime-time games.</h3><p>Evening kickoffs from 7 PM Eastern. A smaller feed for the night shift.</p></div><a id="primetime-subscribe" class="button button-outline" aria-disabled="true">Subscribe to prime time <span aria-hidden="true">↗</span></a></div>
+      </section>
+
+      <section class="how-section" id="how-it-works" aria-labelledby="how-title">
+        <div class="how-intro"><p class="eyebrow">SET IT. FOLLOW IT.</p><h2 id="how-title">Ready by<br><span class="serif">kickoff.</span></h2><p>A subscription stays connected to the feed. When the schedule changes, your calendar can pick up the update.</p><p class="subtle">Refresh timing is controlled by your calendar app. Changes may take time to appear.</p></div>
+        <div class="steps"><div class="step"><span class="step-number">01</span><div><h3>Open this page on your iPhone</h3><p>Tap <strong>Subscribe to all NFL games</strong>, or choose your favorite team. The link opens your calendar app.</p></div></div><div class="step"><span class="step-number">02</span><div><h3>Confirm the subscription</h3><p>Review the calendar details and choose Subscribe or Add. Keep the subscription to receive future updates.</p></div></div><div class="step"><span class="step-number">03</span><div><h3>Let the season come to you</h3><p>Games include confirmed kickoff times, venue details, and broadcast information reported by the source.</p></div></div></div>
+      </section>
+
+      <section class="faq" aria-label="Calendar help">
+        <details><summary>Prefer to paste the subscription URL?</summary><div><p>Use <strong>Copy feed URL</strong> above. On iPhone, open Calendar → Calendars → Add Calendar → Add Subscription Calendar. Paste the HTTPS URL, then choose Find → Done (or Subscribe on earlier iOS versions). In Google Calendar on the web, use Other calendars → + → From URL. In Outlook, choose Add calendar → Subscribe from web.</p><p>Choose a calendar subscription when adding the URL. Importing a downloaded file creates a one-time copy and will not receive schedule updates.</p><label class="feed-url-label" for="feed-url">All-NFL subscription URL</label><input class="feed-url" id="feed-url" type="url" readonly value="" placeholder="Available after the feed is published"></div></details>
+        <details><summary>What happens with flex scheduling and TBD games?</summary><div><p>Published changes update the same game in your subscribed calendar. A confirmed date with an unknown kickoff appears as a tentative all-day event. If the date is also unconfirmed, a clearly labeled week placeholder is used until the source publishes a date.</p><p>Playoff games are included as the source makes them available. The feed does not guess playoff matchups.</p></div></details>
+        <details><summary>How accurate is the viewing information?</summary><div><p>TV and streaming details are included only when reported for that game by the schedule source. A listed broadcaster does not guarantee availability in every market or subscription. Local restrictions and provider rights still apply.</p><p>Check the broadcaster before game day. An unknown broadcaster is labeled TBD.</p></div></details>
+        <details><summary>How does this stay up to date?</summary><div><p>The project checks for schedule updates automatically. Each successful refresh is validated before the calendar is published. If the source fails or the schedule fails validation, the last valid feed stays in place.</p><p>The timestamp on this page shows when the published schedule was retrieved. A delayed feed is flagged here so you can judge its freshness.</p></div></details>
+      </section>
+    </main>
+    <footer class="site-footer"><div><a class="brand" href="./"><span class="brand-icon" aria-hidden="true">↗</span><span>NFL<span class="brand-light"> / CALENDAR</span></span></a><p>An independent fan project. Not affiliated with or endorsed by the NFL or its teams.</p></div><div class="footer-source"><span>Published data source</span><a id="source-link" href="https://www.nfl.com/schedules/" target="_blank" rel="noopener noreferrer">NFL schedule <span aria-hidden="true">↗</span></a><a class="changes-link" href="./changes.md">Publication changes <span aria-hidden="true">↗</span></a></div></footer>
+  </div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <noscript><p class="noscript">JavaScript is needed to show live feed links and publication status. The master calendar is available at <a href="./nfl-2026.ics">nfl-2026.ics</a> after publication.</p></noscript>
+</body>
+</html>

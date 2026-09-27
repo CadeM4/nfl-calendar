@@ -1,0 +1,398 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NFL Calendar//Independent schedule subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:2026 NFL regular season and postseason. Eastern Time; automat
+ ically updated.
+NAME:San Francisco 49ers · 2026
+X-WR-CALNAME:San Francisco 49ers · 2026
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:San Francisco 49ers @ Los Angeles Rams
+DTSTART:20260911T003500Z
+DTEND:20260911T035000Z
+DTSTAMP:20260927T005047Z
+UID:c88d89051123a9b1c61ff31c75dc1540@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 1
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 1\n\nSan Francisco 49ers @ Los Angeles Rams\n
+ \nKickoff: Thursday\, September 10\, 2026 at 8:35 PM EDT (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: Netfl
+ ix\, NFL+\nNFL+: local and primetime live game streams require a phone or 
+ tablet\; market and device restrictions apply.\nStreaming listings are for
+  the US\; eligible subscriptions and geographic restrictions apply.\nUS na
+ tional broadcast.\n\nVenue\nMelbourne Cricket Ground\nEast Melbourne\, Aus
+ tralia\n\nSchedule source: https://www.nfl.com/games/49ers-at-rams-2026-re
+ g-1
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Melbourne Cricket Ground\nEast Melbourne\, Australia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/49ers-at-rams-2026-reg-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miami Dolphins @ San Francisco 49ers
+DTSTART:20260920T202500Z
+DTEND:20260920T234000Z
+DTSTAMP:20260927T005047Z
+UID:a0547dd6cdb61fa5be1465dfa47ef04a@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 2
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 2\n\nMiami Dolphins @ San Francisco 49ers\n\n
+ Kickoff: Sunday\, September 20\, 2026 at 4:25 PM EDT (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: 
+ FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.
+ \nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; loc
+ al and national blackouts apply.\nNFL+: local and primetime live game stre
+ ams require a phone or tablet\; market and device restrictions apply.\nReg
+ ional broadcast\; local market coverage varies.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
+ nue\nLevi's® Stadium\nSanta Clara\n\nSchedule source: https://www.nfl.com
+ /games/dolphins-at-49ers-2026-reg-2
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Levi's® Stadium\nSanta Clara
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/dolphins-at-49ers-2026-reg-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arizona Cardinals @ San Francisco 49ers
+DTSTART:20260927T200500Z
+DTEND:20260927T232000Z
+DTSTAMP:20260927T005047Z
+UID:110488033c69dc35f518175a40e0b692@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 3
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 3\n\nArizona Cardinals @ San Francisco 49ers
+ \n\nKickoff: Sunday\, September 27\, 2026 at 4:05 PM EDT (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreami
+ ng: FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions ap
+ ply.\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\;
+  local and national blackouts apply.\nNFL+: local and primetime live game 
+ streams require a phone or tablet\; market and device restrictions apply.
+ \nRegional broadcast\; local market coverage varies.\nStreaming listings a
+ re for the US\; eligible subscriptions and geographic restrictions apply.
+ \n\nVenue\nLevi's® Stadium\nSanta Clara\n\nSchedule source: https://www.n
+ fl.com/games/cardinals-at-49ers-2026-reg-3
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Levi's® Stadium\nSanta Clara
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/cardinals-at-49ers-2026-reg-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Denver Broncos @ San Francisco 49ers
+DTSTART:20261004T202500Z
+DTEND:20261004T234000Z
+DTSTAMP:20260927T005047Z
+UID:5f13fa2984c9925eee201565d7d03132@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 4
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 4\n\nDenver Broncos @ San Francisco 49ers\n\n
+ Kickoff: Sunday\, October 4\, 2026 at 4:25 PM EDT (America/New_York)\nEsti
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL
+ +\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon
+  viewing\; local and national blackouts apply.\nNFL+: local and primetime 
+ live game streams require a phone or tablet\; market and device restrictio
+ ns apply.\nParamount+: this game must be carried by your local CBS station
+ .\nRegional broadcast\; local market coverage varies.\nStreaming listings 
+ are for the US\; eligible subscriptions and geographic restrictions apply.
+ \n\nVenue\nLevi's® Stadium\nSanta Clara\n\nSchedule source: https://www.n
+ fl.com/games/broncos-at-49ers-2026-reg-4
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Levi's® Stadium\nSanta Clara
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/broncos-at-49ers-2026-reg-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Francisco 49ers @ Seattle Seahawks
+DTSTART:20261011T202500Z
+DTEND:20261011T234000Z
+DTSTAMP:20260927T005047Z
+UID:296c77af257032eca868f9c51f2251bf@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 5
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 5\n\nSan Francisco 49ers @ Seattle Seahawks\n
+ \nKickoff: Sunday\, October 11\, 2026 at 4:25 PM EDT (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional br
+ oadcast\; local market coverage varies.\n\nVenue\nLumen Field\nSeattle\n\n
+ Schedule source: https://www.nfl.com/games/49ers-at-seahawks-2026-reg-5
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Lumen Field\nSeattle
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/49ers-at-seahawks-2026-reg-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington Commanders @ San Francisco 49ers
+DTSTART:20261020T001500Z
+DTEND:20261020T033000Z
+DTSTAMP:20260927T005047Z
+UID:9c807829b5278b1e878acc5561668453@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 6
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 6\n\nWashington Commanders @ San Francisco 49
+ ers\n\nKickoff: Monday\, October 19\, 2026 at 8:15 PM EDT (America/New_Yor
+ k)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN
+ \, ESPN Deportes\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primet
+ ime live game streams require a phone or tablet\; market and device restri
+ ctions apply.\nStreaming listings are for the US\; eligible subscriptions 
+ and geographic restrictions apply.\nUS national broadcast.\n\nVenue\nLevi'
+ s® Stadium\nSanta Clara\n\nSchedule source: https://www.nfl.com/games/com
+ manders-at-49ers-2026-reg-6
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Levi's® Stadium\nSanta Clara
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/commanders-at-49ers-2026-reg-6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Francisco 49ers @ Atlanta Falcons
+DTSTART:20261025T170000Z
+DTEND:20261025T201500Z
+DTSTAMP:20260927T005047Z
+UID:eb8b8ba72fa4354b972102191362347c@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 7
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 7\n\nSan Francisco 49ers @ Atlanta Falcons\n
+ \nKickoff: Sunday\, October 25\, 2026 at 1:00 PM EDT (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional br
+ oadcast\; local market coverage varies.\n\nVenue\nMercedes-Benz Stadium\nA
+ tlanta\n\nSchedule source: https://www.nfl.com/games/49ers-at-falcons-2026
+ -reg-7
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Mercedes-Benz Stadium\nAtlanta
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/49ers-at-falcons-2026-reg-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las Vegas Raiders @ San Francisco 49ers
+DTSTART:20261108T210500Z
+DTEND:20261109T002000Z
+DTSTAMP:20260927T005047Z
+UID:344da42239bc90123b950c976065271a@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 9
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 9\n\nLas Vegas Raiders @ San Francisco 49ers
+ \n\nKickoff: Sunday\, November 8\, 2026 at 4:05 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nLevi's® Stadium\nSan
+ ta Clara\n\nSchedule source: https://www.nfl.com/games/raiders-at-49ers-20
+ 26-reg-9
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Levi's® Stadium\nSanta Clara
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/raiders-at-49ers-2026-reg-9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Francisco 49ers @ Dallas Cowboys
+DTSTART:20261115T212500Z
+DTEND:20261116T004000Z
+DTSTAMP:20260927T005047Z
+UID:2c816cce3fec91a725a2a304bf4d3eae@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 10
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 10\n\nSan Francisco 49ers @ Dallas Cowboys\n
+ \nKickoff: Sunday\, November 15\, 2026 at 4:25 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional b
+ roadcast\; local market coverage varies.\n\nVenue\nAT&T Stadium\nArlington
+ \n\nSchedule source: https://www.nfl.com/games/49ers-at-cowboys-2026-reg-1
+ 0
+LAST-MODIFIED:20260927T005047Z
+LOCATION:AT&T Stadium\nArlington
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/49ers-at-cowboys-2026-reg-10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota Vikings @ San Francisco 49ers
+DTSTART:20261123T012000Z
+DTEND:20261123T043500Z
+DTSTAMP:20260927T005047Z
+UID:30df9b2a53315255da745b2210a5110e@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 11
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 11\n\nMinnesota Vikings @ San Francisco 49ers
+ \n\nKickoff: Sunday\, November 22\, 2026 at 8:20 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Univers
+ o\nStreaming: NFL+\, Peacock\nNFL+: local and primetime live game streams 
+ require a phone or tablet\; market and device restrictions apply.\nStreami
+ ng listings are for the US\; eligible subscriptions and geographic restric
+ tions apply.\nUS national broadcast.\n\nVenue\nEstadio Banorte\nMexico Cit
+ y\, Mexico\n\nSchedule source: https://www.nfl.com/games/vikings-at-49ers-
+ 2026-reg-11
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Estadio Banorte\nMexico City\, Mexico
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/vikings-at-49ers-2026-reg-11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seattle Seahawks @ San Francisco 49ers
+DTSTART:20261129T212500Z
+DTEND:20261130T004000Z
+DTSTAMP:20260927T005047Z
+UID:e8f60938b1f588a6811717daca5543c0@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 12
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 12\n\nSeattle Seahawks @ San Francisco 49ers
+ \n\nKickoff: Sunday\, November 29\, 2026 at 4:25 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nLevi's® Stadium\nSan
+ ta Clara\n\nSchedule source: https://www.nfl.com/games/seahawks-at-49ers-2
+ 026-reg-12
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Levi's® Stadium\nSanta Clara
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/seahawks-at-49ers-2026-reg-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Francisco 49ers @ New York Giants
+DTSTART:20261206T180000Z
+DTEND:20261206T211500Z
+DTSTAMP:20260927T005047Z
+UID:dc5f12f5230d8bd287869712e861669a@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 13
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 13\n\nSan Francisco 49ers @ New York Giants\n
+ \nKickoff: Sunday\, December 6\, 2026 at 1:00 PM EST (America/New_York)\nE
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional br
+ oadcast\; local market coverage varies.\n\nVenue\nMetLife Stadium\nEast Ru
+ therford\n\nSchedule source: https://www.nfl.com/games/49ers-at-giants-202
+ 6-reg-13
+LAST-MODIFIED:20260927T005047Z
+LOCATION:MetLife Stadium\nEast Rutherford
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/49ers-at-giants-2026-reg-13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Rams @ San Francisco 49ers
+DTSTART:20261213T212500Z
+DTEND:20261214T004000Z
+DTSTAMP:20260927T005047Z
+UID:f93d1db696e892d793b6cff921e761f9@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 14
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 14\n\nLos Angeles Rams @ San Francisco 49ers
+ \n\nKickoff: Sunday\, December 13\, 2026 at 4:25 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nLevi's® Stadium\nSan
+ ta Clara\n\nSchedule source: https://www.nfl.com/games/rams-at-49ers-2026-
+ reg-14
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Levi's® Stadium\nSanta Clara
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/rams-at-49ers-2026-reg-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Francisco 49ers @ Los Angeles Chargers
+DTSTART:20261218T011500Z
+DTEND:20261218T043000Z
+DTSTAMP:20260927T005047Z
+UID:8cb6d8d6a4f392100624e5c0d5327c04@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 15
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 15\n\nSan Francisco 49ers @ Los Angeles Charg
+ ers\n\nKickoff: Thursday\, December 17\, 2026 at 8:15 PM EST (America/New_
+ York)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nStreaming: N
+ FL+\, Prime Video\nNFL+: local and primetime live game streams require a p
+ hone or tablet\; market and device restrictions apply.\nStreaming listings
+  are for the US\; eligible subscriptions and geographic restrictions apply
+ .\nUS national broadcast.\n\nVenue\nSoFi Stadium\nInglewood\n\nSchedule so
+ urce: https://www.nfl.com/games/49ers-at-chargers-2026-reg-15
+LAST-MODIFIED:20260927T005047Z
+LOCATION:SoFi Stadium\nInglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/49ers-at-chargers-2026-reg-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Francisco 49ers @ Kansas City Chiefs
+DTSTART:20261227T212500Z
+DTEND:20261228T004000Z
+DTSTAMP:20260927T005047Z
+UID:91ed3471db2577551c28802d5e4d5a51@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 16
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 16\n\nSan Francisco 49ers @ Kansas City Chief
+ s\n\nKickoff: Sunday\, December 27\, 2026 at 4:25 PM EST (America/New_York
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegiona
+ l broadcast\; local market coverage varies.\n\nVenue\nArrowhead Stadium\nK
+ ansas City\n\nSchedule source: https://www.nfl.com/games/49ers-at-chiefs-2
+ 026-reg-16
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Arrowhead Stadium\nKansas City
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/49ers-at-chiefs-2026-reg-16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia Eagles @ San Francisco 49ers
+DTSTART:20270104T012000Z
+DTEND:20270104T043500Z
+DTSTAMP:20260927T005047Z
+UID:e12c913f92fee1a63ba2c28496b2c71c@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 17
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 17\n\nPhiladelphia Eagles @ San Francisco 49e
+ rs\n\nKickoff: Sunday\, January 3\, 2027 at 8:20 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Univers
+ o\nStreaming: NFL+\, Peacock\nNFL+: local and primetime live game streams 
+ require a phone or tablet\; market and device restrictions apply.\nStreami
+ ng listings are for the US\; eligible subscriptions and geographic restric
+ tions apply.\nUS national broadcast.\n\nVenue\nLevi's® Stadium\nSanta Cla
+ ra\n\nSchedule source: https://www.nfl.com/games/eagles-at-49ers-2026-reg-
+ 17
+LAST-MODIFIED:20260927T005047Z
+LOCATION:Levi's® Stadium\nSanta Clara
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/eagles-at-49ers-2026-reg-17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Date & time TBD] San Francisco 49ers @ Arizona Cardinals
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+DTSTAMP:20260927T005047Z
+UID:cc7f5d6ef8daf7da41e5e26668ffb2cb@nfl-calendar.local
+SEQUENCE:0
+CATEGORIES:NFL,Football,Week 18
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 18\n\nSan Francisco 49ers @ Arizona Cardinals
+ \n\nDate and kickoff: TBD.\nWeek placeholder: Wednesday\, January 6\, 2027
+ . This is not a confirmed game date.\nThe event will move to its confirmed
+  date and kickoff when announced.\n\nWatch\nBroadcast information: TBD.\n
+ \nVenue\nState Farm Stadium\nGlendale\n\nSchedule source: https://www.nfl.
+ com/games/49ers-at-cardinals-2026-reg-18
+LAST-MODIFIED:20260927T005047Z
+LOCATION:State Farm Stadium\nGlendale
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/49ers-at-cardinals-2026-reg-18
+END:VEVENT
+END:VCALENDAR

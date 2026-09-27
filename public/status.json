@@ -1,0 +1,522 @@
+{
+  "season": 2026,
+  "fetched_at": "2026-09-27T00:57:00Z",
+  "source": {
+    "name": "NFL.com official schedule and game-specific viewing data",
+    "url": "https://www.nfl.com/schedules/2026/by-week/week-1"
+  },
+  "counts": {
+    "regular": 272,
+    "postseason": 0,
+    "total": 272,
+    "teams": 32
+  },
+  "tbd": {
+    "time": 24,
+    "date": 24,
+    "broadcast": 24,
+    "games": [
+      {
+        "id": "2026-REG-CAR-PIT",
+        "away": "CAR",
+        "home": "PIT",
+        "week": 16,
+        "season_type": "REG",
+        "time_tbd": true,
+        "date_tbd": true,
+        "broadcast_tbd": true
+      },
+      {
+        "id": "2026-REG-CIN-IND",
+        "away": "CIN",
+        "home": "IND",
+        "week": 16,
+        "season_type": "REG",
+        "time_tbd": true,
+        "date_tbd": true,
+        "broadcast_tbd": true
+      },
+      {
+        "id": "2026-REG-TB-ATL",
+        "away": "TB",
+        "home": "ATL",
+        "week": 16,
+        "season_type": "REG",
+        "time_tbd": true,
+        "date_tbd": true,
+        "broadcast_tbd": true
+      },
+      {
+        "id": "2026-REG-WAS-MIN",
+        "away": "WAS",
+        "home": "MIN",
+        "week": 16,
+        "season_type": "REG",
+        "time_tbd": true,
+        "date_tbd": true,
+        "broadcast_tbd": true
+      },
+      {
+        "id": "2026-REG-DEN-NE",
+        "away": "DEN",
+        "home": "NE",
+        "week": 17,
+        "season_type": "REG",
+        "time_tbd": true,
+        "date_tbd": true,
+        "broadcast_tbd": true
+      },
+      {
+        "id": "2026-REG-KC-LAC",
+        "away": "KC",
+        "home": "LAC",
+        "week": 17,
+        "season_type": "REG",
+        "time_tbd": true,
+        "date_tbd": true,
+        "broadcast_tbd": true
+      },
+      {
+        "id": "2026-REG-LAR-TB",
+        "away": "LAR",
+        "home": "TB",
+        "week": 17,
+        "season_type": "REG",
+        "time_tbd": true,
+        "date_tbd": true,
+        "broadcast_tbd": true
+      },
+      {
+        "id": "2026-REG-WAS-JAX",
+        "away": "WAS",
+        "home": "JAX",
+        "week": 17,
+        "season_type": "REG",
+        "time_tbd": true,
+        "date_tbd": true,
+        "broadcast_tbd": true
+      },
+      {
+        "id": "2026-REG-ATL-CAR",
+        "away": "ATL",
+        "home": "CAR",
+        "week": 18,
+        "season_type": "REG",
+        "time_tbd": true,
+        "date_tbd": true,
+        "broadcast_tbd": true
+      },
+      {
+        "id": "2026-REG-CHI-MIN",
+        "away": "CHI",
+        "home": "MIN",
+        "week": 18,
+        "season_type": "REG",
+        "time_tbd": true,
+        "date_tbd": true,
+        "broadcast_tbd": true
+      },
+      {
+        "id": "2026-REG-CLE-CIN",
+        "away": "CLE",
+        "home": "CIN",
+        "week": 18,
+        "season_type": "REG",
+        "time_tbd": true,
+        "date_tbd": true,
+        "broadcast_tbd": true
+      },
+      {
+        "id": "2026-REG-DAL-WAS",
+        "away": "DAL",
+        "home": "WAS",
+        "week": 18,
+        "season_type": "REG",
+        "time_tbd": true,
+        "date_tbd": true,
+        "broadcast_tbd": true
+      },
+      {
+        "id": "2026-REG-DET-GB",
+        "away": "DET",
+        "home": "GB",
+        "week": 18,
+        "season_type": "REG",
+        "time_tbd": true,
+        "date_tbd": true,
+        "broadcast_tbd": true
+      },
+      {
+        "id": "2026-REG-JAX-IND",
+        "away": "JAX",
+        "home": "IND",
+        "week": 18,
+        "season_type": "REG",
+        "time_tbd": true,
+        "date_tbd": true,
+        "broadcast_tbd": true
+      },
+      {
+        "id": "2026-REG-LAC-DEN",
+        "away": "LAC",
+        "home": "DEN",
+        "week": 18,
+        "season_type": "REG",
+        "time_tbd": true,
+        "date_tbd": true,
+        "broadcast_tbd": true
+      },
+      {
+        "id": "2026-REG-LV-KC",
+        "away": "LV",
+        "home": "KC",
+        "week": 18,
+        "season_type": "REG",
+        "time_tbd": true,
+        "date_tbd": true,
+        "broadcast_tbd": true
+      },
+      {
+        "id": "2026-REG-MIA-NE",
+        "away": "MIA",
+        "home": "NE",
+        "week": 18,
+        "season_type": "REG",
+        "time_tbd": true,
+        "date_tbd": true,
+        "broadcast_tbd": true
+      },
+      {
+        "id": "2026-REG-NYJ-BUF",
+        "away": "NYJ",
+        "home": "BUF",
+        "week": 18,
+        "season_type": "REG",
+        "time_tbd": true,
+        "date_tbd": true,
+        "broadcast_tbd": true
+      },
+      {
+        "id": "2026-REG-PHI-NYG",
+        "away": "PHI",
+        "home": "NYG",
+        "week": 18,
+        "season_type": "REG",
+        "time_tbd": true,
+        "date_tbd": true,
+        "broadcast_tbd": true
+      },
+      {
+        "id": "2026-REG-PIT-BAL",
+        "away": "PIT",
+        "home": "BAL",
+        "week": 18,
+        "season_type": "REG",
+        "time_tbd": true,
+        "date_tbd": true,
+        "broadcast_tbd": true
+      },
+      {
+        "id": "2026-REG-SEA-LAR",
+        "away": "SEA",
+        "home": "LAR",
+        "week": 18,
+        "season_type": "REG",
+        "time_tbd": true,
+        "date_tbd": true,
+        "broadcast_tbd": true
+      },
+      {
+        "id": "2026-REG-SF-ARI",
+        "away": "SF",
+        "home": "ARI",
+        "week": 18,
+        "season_type": "REG",
+        "time_tbd": true,
+        "date_tbd": true,
+        "broadcast_tbd": true
+      },
+      {
+        "id": "2026-REG-TB-NO",
+        "away": "TB",
+        "home": "NO",
+        "week": 18,
+        "season_type": "REG",
+        "time_tbd": true,
+        "date_tbd": true,
+        "broadcast_tbd": true
+      },
+      {
+        "id": "2026-REG-TEN-HOU",
+        "away": "TEN",
+        "home": "HOU",
+        "week": 18,
+        "season_type": "REG",
+        "time_tbd": true,
+        "date_tbd": true,
+        "broadcast_tbd": true
+      }
+    ]
+  },
+  "teams": [
+    {
+      "id": "ARI",
+      "name": "Arizona Cardinals",
+      "slug": "arizona-cardinals",
+      "conference": "NFC",
+      "division": "West",
+      "count": 17
+    },
+    {
+      "id": "ATL",
+      "name": "Atlanta Falcons",
+      "slug": "atlanta-falcons",
+      "conference": "NFC",
+      "division": "South",
+      "count": 17
+    },
+    {
+      "id": "BAL",
+      "name": "Baltimore Ravens",
+      "slug": "baltimore-ravens",
+      "conference": "AFC",
+      "division": "North",
+      "count": 17
+    },
+    {
+      "id": "BUF",
+      "name": "Buffalo Bills",
+      "slug": "buffalo-bills",
+      "conference": "AFC",
+      "division": "East",
+      "count": 17
+    },
+    {
+      "id": "CAR",
+      "name": "Carolina Panthers",
+      "slug": "carolina-panthers",
+      "conference": "NFC",
+      "division": "South",
+      "count": 17
+    },
+    {
+      "id": "CHI",
+      "name": "Chicago Bears",
+      "slug": "chicago-bears",
+      "conference": "NFC",
+      "division": "North",
+      "count": 17
+    },
+    {
+      "id": "CIN",
+      "name": "Cincinnati Bengals",
+      "slug": "cincinnati-bengals",
+      "conference": "AFC",
+      "division": "North",
+      "count": 17
+    },
+    {
+      "id": "CLE",
+      "name": "Cleveland Browns",
+      "slug": "cleveland-browns",
+      "conference": "AFC",
+      "division": "North",
+      "count": 17
+    },
+    {
+      "id": "DAL",
+      "name": "Dallas Cowboys",
+      "slug": "dallas-cowboys",
+      "conference": "NFC",
+      "division": "East",
+      "count": 17
+    },
+    {
+      "id": "DEN",
+      "name": "Denver Broncos",
+      "slug": "denver-broncos",
+      "conference": "AFC",
+      "division": "West",
+      "count": 17
+    },
+    {
+      "id": "DET",
+      "name": "Detroit Lions",
+      "slug": "detroit-lions",
+      "conference": "NFC",
+      "division": "North",
+      "count": 17
+    },
+    {
+      "id": "GB",
+      "name": "Green Bay Packers",
+      "slug": "green-bay-packers",
+      "conference": "NFC",
+      "division": "North",
+      "count": 17
+    },
+    {
+      "id": "HOU",
+      "name": "Houston Texans",
+      "slug": "houston-texans",
+      "conference": "AFC",
+      "division": "South",
+      "count": 17
+    },
+    {
+      "id": "IND",
+      "name": "Indianapolis Colts",
+      "slug": "indianapolis-colts",
+      "conference": "AFC",
+      "division": "South",
+      "count": 17
+    },
+    {
+      "id": "JAX",
+      "name": "Jacksonville Jaguars",
+      "slug": "jacksonville-jaguars",
+      "conference": "AFC",
+      "division": "South",
+      "count": 17
+    },
+    {
+      "id": "KC",
+      "name": "Kansas City Chiefs",
+      "slug": "kansas-city-chiefs",
+      "conference": "AFC",
+      "division": "West",
+      "count": 17
+    },
+    {
+      "id": "LV",
+      "name": "Las Vegas Raiders",
+      "slug": "las-vegas-raiders",
+      "conference": "AFC",
+      "division": "West",
+      "count": 17
+    },
+    {
+      "id": "LAC",
+      "name": "Los Angeles Chargers",
+      "slug": "los-angeles-chargers",
+      "conference": "AFC",
+      "division": "West",
+      "count": 17
+    },
+    {
+      "id": "LAR",
+      "name": "Los Angeles Rams",
+      "slug": "los-angeles-rams",
+      "conference": "NFC",
+      "division": "West",
+      "count": 17
+    },
+    {
+      "id": "MIA",
+      "name": "Miami Dolphins",
+      "slug": "miami-dolphins",
+      "conference": "AFC",
+      "division": "East",
+      "count": 17
+    },
+    {
+      "id": "MIN",
+      "name": "Minnesota Vikings",
+      "slug": "minnesota-vikings",
+      "conference": "NFC",
+      "division": "North",
+      "count": 17
+    },
+    {
+      "id": "NE",
+      "name": "New England Patriots",
+      "slug": "new-england-patriots",
+      "conference": "AFC",
+      "division": "East",
+      "count": 17
+    },
+    {
+      "id": "NO",
+      "name": "New Orleans Saints",
+      "slug": "new-orleans-saints",
+      "conference": "NFC",
+      "division": "South",
+      "count": 17
+    },
+    {
+      "id": "NYG",
+      "name": "New York Giants",
+      "slug": "new-york-giants",
+      "conference": "NFC",
+      "division": "East",
+      "count": 17
+    },
+    {
+      "id": "NYJ",
+      "name": "New York Jets",
+      "slug": "new-york-jets",
+      "conference": "AFC",
+      "division": "East",
+      "count": 17
+    },
+    {
+      "id": "PHI",
+      "name": "Philadelphia Eagles",
+      "slug": "philadelphia-eagles",
+      "conference": "NFC",
+      "division": "East",
+      "count": 17
+    },
+    {
+      "id": "PIT",
+      "name": "Pittsburgh Steelers",
+      "slug": "pittsburgh-steelers",
+      "conference": "AFC",
+      "division": "North",
+      "count": 17
+    },
+    {
+      "id": "SF",
+      "name": "San Francisco 49ers",
+      "slug": "san-francisco-49ers",
+      "conference": "NFC",
+      "division": "West",
+      "count": 17
+    },
+    {
+      "id": "SEA",
+      "name": "Seattle Seahawks",
+      "slug": "seattle-seahawks",
+      "conference": "NFC",
+      "division": "West",
+      "count": 17
+    },
+    {
+      "id": "TB",
+      "name": "Tampa Bay Buccaneers",
+      "slug": "tampa-bay-buccaneers",
+      "conference": "NFC",
+      "division": "South",
+      "count": 17
+    },
+    {
+      "id": "TEN",
+      "name": "Tennessee Titans",
+      "slug": "tennessee-titans",
+      "conference": "AFC",
+      "division": "South",
+      "count": 17
+    },
+    {
+      "id": "WAS",
+      "name": "Washington Commanders",
+      "slug": "washington-commanders",
+      "conference": "NFC",
+      "division": "East",
+      "count": 17
+    }
+  ],
+  "primetime_count": 55,
+  "change_count": 0,
+  "refresh_hours": 6
+}
