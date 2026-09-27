@@ -63,9 +63,9 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Chargers @ Buffalo Bills
 DTSTART:20260927T170000Z
 DTEND:20260927T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260927T183127Z
 UID:8b8af7273cdf8726a7f8043172481323@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 3
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 3\n\nLos Angeles Chargers @ Buffalo Bills\n\n
@@ -79,7 +79,7 @@ DESCRIPTION:NFL 2026 · Week 3\n\nLos Angeles Chargers @ Buffalo Bills\n\n
  r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
  nue\nHighmark Stadium\nOrchard Park\n\nSchedule source: https://www.nfl.co
  m/games/chargers-at-bills-2026-reg-3
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20260927T183127Z
 LOCATION:Highmark Stadium\nOrchard Park
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

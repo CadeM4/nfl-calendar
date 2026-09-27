@@ -853,9 +853,9 @@ BEGIN:VEVENT
 SUMMARY:Carolina Panthers @ Cleveland Browns
 DTSTART:20260927T170000Z
 DTEND:20260927T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260927T183127Z
 UID:fd04d1382db5369b37a9dd94c59c4ff6@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 3
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 3\n\nCarolina Panthers @ Cleveland Browns\n\n
@@ -869,7 +869,7 @@ DESCRIPTION:NFL 2026 · Week 3\n\nCarolina Panthers @ Cleveland Browns\n\n
  r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
  nue\nHuntington Bank Field\nCleveland\n\nSchedule source: https://www.nfl.
  com/games/panthers-at-browns-2026-reg-3
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20260927T183127Z
 LOCATION:Huntington Bank Field\nCleveland
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -879,9 +879,9 @@ BEGIN:VEVENT
 SUMMARY:Cincinnati Bengals @ Pittsburgh Steelers
 DTSTART:20260927T170000Z
 DTEND:20260927T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260927T183127Z
 UID:f6905e165b9e14688482a9a249072dfd@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 3
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 3\n\nCincinnati Bengals @ Pittsburgh Steelers
@@ -895,7 +895,7 @@ DESCRIPTION:NFL 2026 · Week 3\n\nCincinnati Bengals @ Pittsburgh Steelers
  stings are for the US\; eligible subscriptions and geographic restrictions
   apply.\n\nVenue\nAcrisure Stadium\nPittsburgh\n\nSchedule source: https:/
  /www.nfl.com/games/bengals-at-steelers-2026-reg-3
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20260927T183127Z
 LOCATION:Acrisure Stadium\nPittsburgh
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -905,9 +905,9 @@ BEGIN:VEVENT
 SUMMARY:Houston Texans @ Indianapolis Colts
 DTSTART:20260927T170000Z
 DTEND:20260927T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260927T183127Z
 UID:a114f2f5258d1ef5d7de43fb7dc5ca03@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 3
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 3\n\nHouston Texans @ Indianapolis Colts\n\nK
@@ -921,7 +921,7 @@ DESCRIPTION:NFL 2026 · Week 3\n\nHouston Texans @ Indianapolis Colts\n\nK
  s are for the US\; eligible subscriptions and geographic restrictions appl
  y.\n\nVenue\nLucas Oil Stadium\nIndianapolis\n\nSchedule source: https://w
  ww.nfl.com/games/texans-at-colts-2026-reg-3
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20260927T183127Z
 LOCATION:Lucas Oil Stadium\nIndianapolis
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -931,9 +931,9 @@ BEGIN:VEVENT
 SUMMARY:Kansas City Chiefs @ Miami Dolphins
 DTSTART:20260927T170000Z
 DTEND:20260927T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260927T183127Z
 UID:fb369409a2f11cd02824c1c609127e86@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 3
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 3\n\nKansas City Chiefs @ Miami Dolphins\n\nK
@@ -947,7 +947,7 @@ DESCRIPTION:NFL 2026 · Week 3\n\nKansas City Chiefs @ Miami Dolphins\n\nK
  s are for the US\; eligible subscriptions and geographic restrictions appl
  y.\n\nVenue\nHard Rock Stadium\nOpa Locka\n\nSchedule source: https://www.
  nfl.com/games/chiefs-at-dolphins-2026-reg-3
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20260927T183127Z
 LOCATION:Hard Rock Stadium\nOpa Locka
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -957,9 +957,9 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Chargers @ Buffalo Bills
 DTSTART:20260927T170000Z
 DTEND:20260927T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260927T183127Z
 UID:8b8af7273cdf8726a7f8043172481323@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 3
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 3\n\nLos Angeles Chargers @ Buffalo Bills\n\n
@@ -973,7 +973,7 @@ DESCRIPTION:NFL 2026 · Week 3\n\nLos Angeles Chargers @ Buffalo Bills\n\n
  r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
  nue\nHighmark Stadium\nOrchard Park\n\nSchedule source: https://www.nfl.co
  m/games/chargers-at-bills-2026-reg-3
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20260927T183127Z
 LOCATION:Highmark Stadium\nOrchard Park
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -983,9 +983,9 @@ BEGIN:VEVENT
 SUMMARY:New England Patriots @ Jacksonville Jaguars
 DTSTART:20260927T170000Z
 DTEND:20260927T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260927T183127Z
 UID:2dea0fb82ccd3bb7a1bb5ae4ebd4ee07@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 3
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 3\n\nNew England Patriots @ Jacksonville Jagu
@@ -999,7 +999,7 @@ DESCRIPTION:NFL 2026 · Week 3\n\nNew England Patriots @ Jacksonville Jagu
   listings are for the US\; eligible subscriptions and geographic restricti
  ons apply.\n\nVenue\nEverBank Stadium\nJacksonville\n\nSchedule source: ht
  tps://www.nfl.com/games/patriots-at-jaguars-2026-reg-3
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20260927T183127Z
 LOCATION:EverBank Stadium\nJacksonville
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1009,9 +1009,9 @@ BEGIN:VEVENT
 SUMMARY:New York Jets @ Detroit Lions
 DTSTART:20260927T170000Z
 DTEND:20260927T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260927T183127Z
 UID:48b5afc0b28c7624254569e0c104fce8@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 3
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 3\n\nNew York Jets @ Detroit Lions\n\nKickoff
@@ -1025,7 +1025,7 @@ DESCRIPTION:NFL 2026 · Week 3\n\nNew York Jets @ Detroit Lions\n\nKickoff
  S\; eligible subscriptions and geographic restrictions apply.\n\nVenue\nFo
  rd Field\nDetroit\n\nSchedule source: https://www.nfl.com/games/jets-at-li
  ons-2026-reg-3
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20260927T183127Z
 LOCATION:Ford Field\nDetroit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1035,9 +1035,9 @@ BEGIN:VEVENT
 SUMMARY:Seattle Seahawks @ Washington Commanders
 DTSTART:20260927T170000Z
 DTEND:20260927T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260927T183127Z
 UID:1948c0a74d450ef7df43a3fbe8934a5a@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 3
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 3\n\nSeattle Seahawks @ Washington Commanders
@@ -1051,7 +1051,7 @@ DESCRIPTION:NFL 2026 · Week 3\n\nSeattle Seahawks @ Washington Commanders
  re for the US\; eligible subscriptions and geographic restrictions apply.
  \n\nVenue\nNorthwest Stadium\nLandover\n\nSchedule source: https://www.nfl
  .com/games/seahawks-at-commanders-2026-reg-3
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20260927T183127Z
 LOCATION:Northwest Stadium\nLandover
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1061,9 +1061,9 @@ BEGIN:VEVENT
 SUMMARY:Tennessee Titans @ New York Giants
 DTSTART:20260927T170000Z
 DTEND:20260927T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260927T183127Z
 UID:1eee2de734dc7277f7d26491b394a38d@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 3
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 3\n\nTennessee Titans @ New York Giants\n\nKi
@@ -1077,7 +1077,7 @@ DESCRIPTION:NFL 2026 · Week 3\n\nTennessee Titans @ New York Giants\n\nKi
   are for the US\; eligible subscriptions and geographic restrictions apply
  .\n\nVenue\nMetLife Stadium\nEast Rutherford\n\nSchedule source: https://w
  ww.nfl.com/games/titans-at-giants-2026-reg-3
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20260927T183127Z
 LOCATION:MetLife Stadium\nEast Rutherford
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

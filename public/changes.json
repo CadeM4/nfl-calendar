@@ -1,1 +1,119 @@
-[]
+[
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-CAR-CLE",
+    "away": "CAR",
+    "home": "CLE",
+    "week": 3,
+    "fields": {
+      "status": {
+        "before": "scheduled",
+        "after": "live"
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-CIN-PIT",
+    "away": "CIN",
+    "home": "PIT",
+    "week": 3,
+    "fields": {
+      "status": {
+        "before": "scheduled",
+        "after": "live"
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-HOU-IND",
+    "away": "HOU",
+    "home": "IND",
+    "week": 3,
+    "fields": {
+      "status": {
+        "before": "scheduled",
+        "after": "live"
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-KC-MIA",
+    "away": "KC",
+    "home": "MIA",
+    "week": 3,
+    "fields": {
+      "status": {
+        "before": "scheduled",
+        "after": "live"
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-LAC-BUF",
+    "away": "LAC",
+    "home": "BUF",
+    "week": 3,
+    "fields": {
+      "status": {
+        "before": "scheduled",
+        "after": "live"
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-NE-JAX",
+    "away": "NE",
+    "home": "JAX",
+    "week": 3,
+    "fields": {
+      "status": {
+        "before": "scheduled",
+        "after": "live"
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-NYJ-DET",
+    "away": "NYJ",
+    "home": "DET",
+    "week": 3,
+    "fields": {
+      "status": {
+        "before": "scheduled",
+        "after": "live"
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-SEA-WAS",
+    "away": "SEA",
+    "home": "WAS",
+    "week": 3,
+    "fields": {
+      "status": {
+        "before": "scheduled",
+        "after": "live"
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-TEN-NYG",
+    "away": "TEN",
+    "home": "NYG",
+    "week": 3,
+    "fields": {
+      "status": {
+        "before": "scheduled",
+        "after": "live"
+      }
+    }
+  }
+]

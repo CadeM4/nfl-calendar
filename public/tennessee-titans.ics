@@ -66,9 +66,9 @@ BEGIN:VEVENT
 SUMMARY:Tennessee Titans @ New York Giants
 DTSTART:20260927T170000Z
 DTEND:20260927T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260927T183127Z
 UID:1eee2de734dc7277f7d26491b394a38d@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 3
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 3\n\nTennessee Titans @ New York Giants\n\nKi
@@ -82,7 +82,7 @@ DESCRIPTION:NFL 2026 · Week 3\n\nTennessee Titans @ New York Giants\n\nKi
   are for the US\; eligible subscriptions and geographic restrictions apply
  .\n\nVenue\nMetLife Stadium\nEast Rutherford\n\nSchedule source: https://w
  ww.nfl.com/games/titans-at-giants-2026-reg-3
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20260927T183127Z
 LOCATION:MetLife Stadium\nEast Rutherford
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
