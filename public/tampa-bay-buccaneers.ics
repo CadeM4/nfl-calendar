@@ -66,9 +66,9 @@ BEGIN:VEVENT
 SUMMARY:Minnesota Vikings @ Tampa Bay Buccaneers
 DTSTART:20260927T200500Z
 DTEND:20260927T232000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260927T230945Z
 UID:bc48596ad741392739f29d05407cd2e5@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 3
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 3\n\nMinnesota Vikings @ Tampa Bay Buccaneers
@@ -82,7 +82,7 @@ DESCRIPTION:NFL 2026 · Week 3\n\nMinnesota Vikings @ Tampa Bay Buccaneers
  re for the US\; eligible subscriptions and geographic restrictions apply.
  \n\nVenue\nRaymond James Stadium\nTampa\n\nSchedule source: https://www.nf
  l.com/games/vikings-at-buccaneers-2026-reg-3
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20260927T230945Z
 LOCATION:Raymond James Stadium\nTampa
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

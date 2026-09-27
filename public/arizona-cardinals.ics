@@ -66,9 +66,9 @@ BEGIN:VEVENT
 SUMMARY:Arizona Cardinals @ San Francisco 49ers
 DTSTART:20260927T200500Z
 DTEND:20260927T232000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260927T230945Z
 UID:110488033c69dc35f518175a40e0b692@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 3
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 3\n\nArizona Cardinals @ San Francisco 49ers
@@ -82,7 +82,7 @@ DESCRIPTION:NFL 2026 · Week 3\n\nArizona Cardinals @ San Francisco 49ers
  re for the US\; eligible subscriptions and geographic restrictions apply.
  \n\nVenue\nLevi's® Stadium\nSanta Clara\n\nSchedule source: https://www.n
  fl.com/games/cardinals-at-49ers-2026-reg-3
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20260927T230945Z
 LOCATION:Levi's® Stadium\nSanta Clara
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

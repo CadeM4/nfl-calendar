@@ -66,9 +66,9 @@ BEGIN:VEVENT
 SUMMARY:Cincinnati Bengals @ Pittsburgh Steelers
 DTSTART:20260927T170000Z
 DTEND:20260927T201500Z
-DTSTAMP:20260927T183127Z
+DTSTAMP:20260927T230945Z
 UID:f6905e165b9e14688482a9a249072dfd@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 3
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 3\n\nCincinnati Bengals @ Pittsburgh Steelers
@@ -82,7 +82,7 @@ DESCRIPTION:NFL 2026 · Week 3\n\nCincinnati Bengals @ Pittsburgh Steelers
  stings are for the US\; eligible subscriptions and geographic restrictions
   apply.\n\nVenue\nAcrisure Stadium\nPittsburgh\n\nSchedule source: https:/
  /www.nfl.com/games/bengals-at-steelers-2026-reg-3
-LAST-MODIFIED:20260927T183127Z
+LAST-MODIFIED:20260927T230945Z
 LOCATION:Acrisure Stadium\nPittsburgh
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

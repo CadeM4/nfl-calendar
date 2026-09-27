@@ -66,9 +66,9 @@ BEGIN:VEVENT
 SUMMARY:Houston Texans @ Indianapolis Colts
 DTSTART:20260927T170000Z
 DTEND:20260927T201500Z
-DTSTAMP:20260927T183127Z
+DTSTAMP:20260927T230945Z
 UID:a114f2f5258d1ef5d7de43fb7dc5ca03@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 3
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 3\n\nHouston Texans @ Indianapolis Colts\n\nK
@@ -82,7 +82,7 @@ DESCRIPTION:NFL 2026 · Week 3\n\nHouston Texans @ Indianapolis Colts\n\nK
  s are for the US\; eligible subscriptions and geographic restrictions appl
  y.\n\nVenue\nLucas Oil Stadium\nIndianapolis\n\nSchedule source: https://w
  ww.nfl.com/games/texans-at-colts-2026-reg-3
-LAST-MODIFIED:20260927T183127Z
+LAST-MODIFIED:20260927T230945Z
 LOCATION:Lucas Oil Stadium\nIndianapolis
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

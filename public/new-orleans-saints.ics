@@ -66,9 +66,9 @@ BEGIN:VEVENT
 SUMMARY:Las Vegas Raiders @ New Orleans Saints
 DTSTART:20260927T202500Z
 DTEND:20260927T234000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260927T230945Z
 UID:24280a2b55ad7b7407f0a3c00f557da6@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 3
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 3\n\nLas Vegas Raiders @ New Orleans Saints\n
@@ -82,7 +82,7 @@ DESCRIPTION:NFL 2026 · Week 3\n\nLas Vegas Raiders @ New Orleans Saints\n
  tings are for the US\; eligible subscriptions and geographic restrictions 
  apply.\n\nVenue\nCaesars Superdome\nNew Orleans\n\nSchedule source: https:
  //www.nfl.com/games/raiders-at-saints-2026-reg-3
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20260927T230945Z
 LOCATION:Caesars Superdome\nNew Orleans
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
