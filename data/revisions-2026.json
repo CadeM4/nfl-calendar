@@ -456,10 +456,10 @@
     "fingerprint": "da769b5d87cc5ab17d6ed78a4fb698cb3139d5f05d9d5c820526d30036bd31a8"
   },
   "2026-REG-SF-SEA": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "d58bfc256d0c61555e60e73b40d9c5a65dc7f96da38072cdcc2a55ba671ae72c"
+    "modified": "2026-09-27T08:21:58Z",
+    "fingerprint": "15c2ee2c7833b3ebebad53922a2a4bd0f3a0e503da04f8280ca66c6b087784f5"
   },
   "2026-REG-BAL-ATL": {
     "sequence": 0,

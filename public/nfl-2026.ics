@@ -1909,17 +1909,23 @@ BEGIN:VEVENT
 SUMMARY:San Francisco 49ers @ Seattle Seahawks
 DTSTART:20261011T202500Z
 DTEND:20261011T234000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260927T082158Z
 UID:296c77af257032eca868f9c51f2251bf@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nSan Francisco 49ers @ Seattle Seahawks\n
  \nKickoff: Sunday\, October 11\, 2026 at 4:25 PM EDT (America/New_York)\nE
- stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional br
- oadcast\; local market coverage varies.\n\nVenue\nLumen Field\nSeattle\n\n
- Schedule source: https://www.nfl.com/games/49ers-at-seahawks-2026-reg-5
-LAST-MODIFIED:20260927T005047Z
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: 
+ FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.
+ \nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; loc
+ al and national blackouts apply.\nNFL+: local and primetime live game stre
+ ams require a phone or tablet\; market and device restrictions apply.\nReg
+ ional broadcast\; local market coverage varies.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
+ nue\nLumen Field\nSeattle\n\nSchedule source: https://www.nfl.com/games/49
+ ers-at-seahawks-2026-reg-5
+LAST-MODIFIED:20260927T082158Z
 LOCATION:Lumen Field\nSeattle
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
