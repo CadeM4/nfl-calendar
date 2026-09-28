@@ -118,18 +118,23 @@ BEGIN:VEVENT
 SUMMARY:Cincinnati Bengals @ Miami Dolphins
 DTSTART:20261011T170000Z
 DTEND:20261011T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260928T084826Z
 UID:5b00def38bcca13e584b64513987d2b3@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nCincinnati Bengals @ Miami Dolphins\n\nK
  ickoff: Sunday\, October 11\, 2026 at 1:00 PM EDT (America/New_York)\nEsti
- mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broad
- cast\; local market coverage varies.\n\nVenue\nHard Rock Stadium\nOpa Lock
- a\n\nSchedule source: https://www.nfl.com/games/bengals-at-dolphins-2026-r
- eg-5
-LAST-MODIFIED:20260927T005047Z
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX
+  One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nN
+ FL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local 
+ and national blackouts apply.\nNFL+: local and primetime live game streams
+  require a phone or tablet\; market and device restrictions apply.\nRegion
+ al broadcast\; local market coverage varies.\nStreaming listings are for t
+ he US\; eligible subscriptions and geographic restrictions apply.\n\nVenue
+ \nHard Rock Stadium\nOpa Locka\n\nSchedule source: https://www.nfl.com/gam
+ es/bengals-at-dolphins-2026-reg-5
+LAST-MODIFIED:20260928T084826Z
 LOCATION:Hard Rock Stadium\nOpa Locka
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

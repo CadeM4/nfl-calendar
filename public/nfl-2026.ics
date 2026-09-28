@@ -1087,9 +1087,9 @@ BEGIN:VEVENT
 SUMMARY:Arizona Cardinals @ San Francisco 49ers
 DTSTART:20260927T200500Z
 DTEND:20260927T232000Z
-DTSTAMP:20260927T230945Z
+DTSTAMP:20260928T084826Z
 UID:110488033c69dc35f518175a40e0b692@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 3
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 3\n\nArizona Cardinals @ San Francisco 49ers
@@ -1103,7 +1103,7 @@ DESCRIPTION:NFL 2026 · Week 3\n\nArizona Cardinals @ San Francisco 49ers
  re for the US\; eligible subscriptions and geographic restrictions apply.
  \n\nVenue\nLevi's® Stadium\nSanta Clara\n\nSchedule source: https://www.n
  fl.com/games/cardinals-at-49ers-2026-reg-3
-LAST-MODIFIED:20260927T230945Z
+LAST-MODIFIED:20260928T084826Z
 LOCATION:Levi's® Stadium\nSanta Clara
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1113,9 +1113,9 @@ BEGIN:VEVENT
 SUMMARY:Minnesota Vikings @ Tampa Bay Buccaneers
 DTSTART:20260927T200500Z
 DTEND:20260927T232000Z
-DTSTAMP:20260927T230945Z
+DTSTAMP:20260928T084826Z
 UID:bc48596ad741392739f29d05407cd2e5@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 3
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 3\n\nMinnesota Vikings @ Tampa Bay Buccaneers
@@ -1129,7 +1129,7 @@ DESCRIPTION:NFL 2026 · Week 3\n\nMinnesota Vikings @ Tampa Bay Buccaneers
  re for the US\; eligible subscriptions and geographic restrictions apply.
  \n\nVenue\nRaymond James Stadium\nTampa\n\nSchedule source: https://www.nf
  l.com/games/vikings-at-buccaneers-2026-reg-3
-LAST-MODIFIED:20260927T230945Z
+LAST-MODIFIED:20260928T084826Z
 LOCATION:Raymond James Stadium\nTampa
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1139,9 +1139,9 @@ BEGIN:VEVENT
 SUMMARY:Baltimore Ravens @ Dallas Cowboys
 DTSTART:20260927T202500Z
 DTEND:20260927T234000Z
-DTSTAMP:20260927T230945Z
+DTSTAMP:20260928T084826Z
 UID:edada6b351de5cb7ee0a8ad4a6676ec8@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 3
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 3\n\nBaltimore Ravens @ Dallas Cowboys\n\nKic
@@ -1155,7 +1155,7 @@ DESCRIPTION:NFL 2026 · Week 3\n\nBaltimore Ravens @ Dallas Cowboys\n\nKic
  are for the US\; eligible subscriptions and geographic restrictions apply.
  \n\nVenue\nMaracana Stadium\nRio de Janeiro\, Brazil\n\nSchedule source: h
  ttps://www.nfl.com/games/ravens-at-cowboys-2026-reg-3
-LAST-MODIFIED:20260927T230945Z
+LAST-MODIFIED:20260928T084826Z
 LOCATION:Maracana Stadium\nRio de Janeiro\, Brazil
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1165,9 +1165,9 @@ BEGIN:VEVENT
 SUMMARY:Las Vegas Raiders @ New Orleans Saints
 DTSTART:20260927T202500Z
 DTEND:20260927T234000Z
-DTSTAMP:20260927T230945Z
+DTSTAMP:20260928T084826Z
 UID:24280a2b55ad7b7407f0a3c00f557da6@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 3
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 3\n\nLas Vegas Raiders @ New Orleans Saints\n
@@ -1181,7 +1181,7 @@ DESCRIPTION:NFL 2026 · Week 3\n\nLas Vegas Raiders @ New Orleans Saints\n
  tings are for the US\; eligible subscriptions and geographic restrictions 
  apply.\n\nVenue\nCaesars Superdome\nNew Orleans\n\nSchedule source: https:
  //www.nfl.com/games/raiders-at-saints-2026-reg-3
-LAST-MODIFIED:20260927T230945Z
+LAST-MODIFIED:20260928T084826Z
 LOCATION:Caesars Superdome\nNew Orleans
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1191,9 +1191,9 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Rams @ Denver Broncos
 DTSTART:20260928T002000Z
 DTEND:20260928T033500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260928T084826Z
 UID:1b558938ff0d7aa6ad78a9315c75792e@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 3
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 3\n\nLos Angeles Rams @ Denver Broncos\n\nKic
@@ -1204,7 +1204,7 @@ DESCRIPTION:NFL 2026 · Week 3\n\nLos Angeles Rams @ Denver Broncos\n\nKic
  tings are for the US\; eligible subscriptions and geographic restrictions 
  apply.\nUS national broadcast.\n\nVenue\nEmpower Field at Mile High\nDenve
  r\n\nSchedule source: https://www.nfl.com/games/rams-at-broncos-2026-reg-3
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20260928T084826Z
 LOCATION:Empower Field at Mile High\nDenver
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1691,18 +1691,23 @@ BEGIN:VEVENT
 SUMMARY:Cincinnati Bengals @ Miami Dolphins
 DTSTART:20261011T170000Z
 DTEND:20261011T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260928T084826Z
 UID:5b00def38bcca13e584b64513987d2b3@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nCincinnati Bengals @ Miami Dolphins\n\nK
  ickoff: Sunday\, October 11\, 2026 at 1:00 PM EDT (America/New_York)\nEsti
- mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broad
- cast\; local market coverage varies.\n\nVenue\nHard Rock Stadium\nOpa Lock
- a\n\nSchedule source: https://www.nfl.com/games/bengals-at-dolphins-2026-r
- eg-5
-LAST-MODIFIED:20260927T005047Z
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX
+  One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nN
+ FL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local 
+ and national blackouts apply.\nNFL+: local and primetime live game streams
+  require a phone or tablet\; market and device restrictions apply.\nRegion
+ al broadcast\; local market coverage varies.\nStreaming listings are for t
+ he US\; eligible subscriptions and geographic restrictions apply.\n\nVenue
+ \nHard Rock Stadium\nOpa Locka\n\nSchedule source: https://www.nfl.com/gam
+ es/bengals-at-dolphins-2026-reg-5
+LAST-MODIFIED:20260928T084826Z
 LOCATION:Hard Rock Stadium\nOpa Locka
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1732,17 +1737,23 @@ BEGIN:VEVENT
 SUMMARY:Houston Texans @ Tennessee Titans
 DTSTART:20261011T170000Z
 DTEND:20261011T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260928T084826Z
 UID:bae3c6bec8242a67a47399ea21ec0d51@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nHouston Texans @ Tennessee Titans\n\nKic
  koff: Sunday\, October 11\, 2026 at 1:00 PM EDT (America/New_York)\nEstima
- ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadca
- st\; local market coverage varies.\n\nVenue\nNissan Stadium\nNashville\n\n
- Schedule source: https://www.nfl.com/games/texans-at-titans-2026-reg-5
-LAST-MODIFIED:20260927T005047Z
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL+
+ \, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon 
+ viewing\; local and national blackouts apply.\nNFL+: local and primetime l
+ ive game streams require a phone or tablet\; market and device restriction
+ s apply.\nParamount+: this game must be carried by your local CBS station.
+ \nRegional broadcast\; local market coverage varies.\nStreaming listings a
+ re for the US\; eligible subscriptions and geographic restrictions apply.
+ \n\nVenue\nNissan Stadium\nNashville\n\nSchedule source: https://www.nfl.c
+ om/games/texans-at-titans-2026-reg-5
+LAST-MODIFIED:20260928T084826Z
 LOCATION:Nissan Stadium\nNashville
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1752,18 +1763,23 @@ BEGIN:VEVENT
 SUMMARY:Indianapolis Colts @ Pittsburgh Steelers
 DTSTART:20261011T170000Z
 DTEND:20261011T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260928T084826Z
 UID:41e86e0f3dd9de998f1d283981a0c5c1@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nIndianapolis Colts @ Pittsburgh Steelers
  \n\nKickoff: Sunday\, October 11\, 2026 at 1:00 PM EDT (America/New_York)
- \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional
-  broadcast\; local market coverage varies.\n\nVenue\nAcrisure Stadium\nPit
- tsburgh\n\nSchedule source: https://www.nfl.com/games/colts-at-steelers-20
- 26-reg-5
-LAST-MODIFIED:20260927T005047Z
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreamin
+ g: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday aft
+ ernoon viewing\; local and national blackouts apply.\nNFL+: local and prim
+ etime live game streams require a phone or tablet\; market and device rest
+ rictions apply.\nParamount+: this game must be carried by your local CBS s
+ tation.\nRegional broadcast\; local market coverage varies.\nStreaming lis
+ tings are for the US\; eligible subscriptions and geographic restrictions 
+ apply.\n\nVenue\nAcrisure Stadium\nPittsburgh\n\nSchedule source: https://
+ www.nfl.com/games/colts-at-steelers-2026-reg-5
+LAST-MODIFIED:20260928T084826Z
 LOCATION:Acrisure Stadium\nPittsburgh
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1773,18 +1789,23 @@ BEGIN:VEVENT
 SUMMARY:Las Vegas Raiders @ New England Patriots
 DTSTART:20261011T170000Z
 DTEND:20261011T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260928T084826Z
 UID:2cfd71222d73cf50e679694a139e75f3@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nLas Vegas Raiders @ New England Patriots
  \n\nKickoff: Sunday\, October 11\, 2026 at 1:00 PM EDT (America/New_York)
- \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional
-  broadcast\; local market coverage varies.\n\nVenue\nGillette Stadium\nFox
- borough\n\nSchedule source: https://www.nfl.com/games/raiders-at-patriots-
- 2026-reg-5
-LAST-MODIFIED:20260927T005047Z
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreamin
+ g: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday aft
+ ernoon viewing\; local and national blackouts apply.\nNFL+: local and prim
+ etime live game streams require a phone or tablet\; market and device rest
+ rictions apply.\nParamount+: this game must be carried by your local CBS s
+ tation.\nRegional broadcast\; local market coverage varies.\nStreaming lis
+ tings are for the US\; eligible subscriptions and geographic restrictions 
+ apply.\n\nVenue\nGillette Stadium\nFoxborough\n\nSchedule source: https://
+ www.nfl.com/games/raiders-at-patriots-2026-reg-5
+LAST-MODIFIED:20260928T084826Z
 LOCATION:Gillette Stadium\nFoxborough
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1794,18 +1815,23 @@ BEGIN:VEVENT
 SUMMARY:Minnesota Vikings @ New Orleans Saints
 DTSTART:20261011T170000Z
 DTEND:20261011T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260928T084826Z
 UID:2cfc35aa2d2c2bd8909108c9de456114@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nMinnesota Vikings @ New Orleans Saints\n
  \nKickoff: Sunday\, October 11\, 2026 at 1:00 PM EDT (America/New_York)\nE
- stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional br
- oadcast\; local market coverage varies.\n\nVenue\nCaesars Superdome\nNew O
- rleans\n\nSchedule source: https://www.nfl.com/games/vikings-at-saints-202
- 6-reg-5
-LAST-MODIFIED:20260927T005047Z
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: 
+ FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.
+ \nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; loc
+ al and national blackouts apply.\nNFL+: local and primetime live game stre
+ ams require a phone or tablet\; market and device restrictions apply.\nReg
+ ional broadcast\; local market coverage varies.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
+ nue\nCaesars Superdome\nNew Orleans\n\nSchedule source: https://www.nfl.co
+ m/games/vikings-at-saints-2026-reg-5
+LAST-MODIFIED:20260928T084826Z
 LOCATION:Caesars Superdome\nNew Orleans
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1815,18 +1841,23 @@ BEGIN:VEVENT
 SUMMARY:New York Giants @ Washington Commanders
 DTSTART:20261011T170000Z
 DTEND:20261011T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260928T084826Z
 UID:8e9bd57060adca3e37c8a8a3c9dd8493@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nNew York Giants @ Washington Commanders
  \n\nKickoff: Sunday\, October 11\, 2026 at 1:00 PM EDT (America/New_York)
- \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
-  broadcast\; local market coverage varies.\n\nVenue\nNorthwest Stadium\nLa
- ndover\n\nSchedule source: https://www.nfl.com/games/giants-at-commanders-
- 2026-reg-5
-LAST-MODIFIED:20260927T005047Z
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreamin
+ g: FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions app
+ ly.\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; 
+ local and national blackouts apply.\nNFL+: local and primetime live game s
+ treams require a phone or tablet\; market and device restrictions apply.\n
+ Regional broadcast\; local market coverage varies.\nStreaming listings are
+  for the US\; eligible subscriptions and geographic restrictions apply.\n
+ \nVenue\nNorthwest Stadium\nLandover\n\nSchedule source: https://www.nfl.c
+ om/games/giants-at-commanders-2026-reg-5
+LAST-MODIFIED:20260928T084826Z
 LOCATION:Northwest Stadium\nLandover
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1836,18 +1867,23 @@ BEGIN:VEVENT
 SUMMARY:Denver Broncos @ Los Angeles Chargers
 DTSTART:20261011T200500Z
 DTEND:20261011T232000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260928T084826Z
 UID:2b8f2084c2d71dfc3f4cca846bf74ae0@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nDenver Broncos @ Los Angeles Chargers\n
  \nKickoff: Sunday\, October 11\, 2026 at 4:05 PM EDT (America/New_York)\nE
- stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional br
- oadcast\; local market coverage varies.\n\nVenue\nSoFi Stadium\nInglewood
- \n\nSchedule source: https://www.nfl.com/games/broncos-at-chargers-2026-re
- g-5
-LAST-MODIFIED:20260927T005047Z
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: 
+ NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday aftern
+ oon viewing\; local and national blackouts apply.\nNFL+: local and primeti
+ me live game streams require a phone or tablet\; market and device restric
+ tions apply.\nParamount+: this game must be carried by your local CBS stat
+ ion.\nRegional broadcast\; local market coverage varies.\nStreaming listin
+ gs are for the US\; eligible subscriptions and geographic restrictions app
+ ly.\n\nVenue\nSoFi Stadium\nInglewood\n\nSchedule source: https://www.nfl.
+ com/games/broncos-at-chargers-2026-reg-5
+LAST-MODIFIED:20260928T084826Z
 LOCATION:SoFi Stadium\nInglewood
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -118,17 +118,23 @@ BEGIN:VEVENT
 SUMMARY:Houston Texans @ Tennessee Titans
 DTSTART:20261011T170000Z
 DTEND:20261011T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260928T084826Z
 UID:bae3c6bec8242a67a47399ea21ec0d51@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nHouston Texans @ Tennessee Titans\n\nKic
  koff: Sunday\, October 11\, 2026 at 1:00 PM EDT (America/New_York)\nEstima
- ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadca
- st\; local market coverage varies.\n\nVenue\nNissan Stadium\nNashville\n\n
- Schedule source: https://www.nfl.com/games/texans-at-titans-2026-reg-5
-LAST-MODIFIED:20260927T005047Z
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL+
+ \, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon 
+ viewing\; local and national blackouts apply.\nNFL+: local and primetime l
+ ive game streams require a phone or tablet\; market and device restriction
+ s apply.\nParamount+: this game must be carried by your local CBS station.
+ \nRegional broadcast\; local market coverage varies.\nStreaming listings a
+ re for the US\; eligible subscriptions and geographic restrictions apply.
+ \n\nVenue\nNissan Stadium\nNashville\n\nSchedule source: https://www.nfl.c
+ om/games/texans-at-titans-2026-reg-5
+LAST-MODIFIED:20260928T084826Z
 LOCATION:Nissan Stadium\nNashville
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

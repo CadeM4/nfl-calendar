@@ -63,9 +63,9 @@ BEGIN:VEVENT
 SUMMARY:Baltimore Ravens @ Dallas Cowboys
 DTSTART:20260927T202500Z
 DTEND:20260927T234000Z
-DTSTAMP:20260927T230945Z
+DTSTAMP:20260928T084826Z
 UID:edada6b351de5cb7ee0a8ad4a6676ec8@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 3
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 3\n\nBaltimore Ravens @ Dallas Cowboys\n\nKic
@@ -79,7 +79,7 @@ DESCRIPTION:NFL 2026 · Week 3\n\nBaltimore Ravens @ Dallas Cowboys\n\nKic
  are for the US\; eligible subscriptions and geographic restrictions apply.
  \n\nVenue\nMaracana Stadium\nRio de Janeiro\, Brazil\n\nSchedule source: h
  ttps://www.nfl.com/games/ravens-at-cowboys-2026-reg-3
-LAST-MODIFIED:20260927T230945Z
+LAST-MODIFIED:20260928T084826Z
 LOCATION:Maracana Stadium\nRio de Janeiro\, Brazil
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

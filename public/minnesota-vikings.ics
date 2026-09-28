@@ -66,9 +66,9 @@ BEGIN:VEVENT
 SUMMARY:Minnesota Vikings @ Tampa Bay Buccaneers
 DTSTART:20260927T200500Z
 DTEND:20260927T232000Z
-DTSTAMP:20260927T230945Z
+DTSTAMP:20260928T084826Z
 UID:bc48596ad741392739f29d05407cd2e5@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 3
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 3\n\nMinnesota Vikings @ Tampa Bay Buccaneers
@@ -82,7 +82,7 @@ DESCRIPTION:NFL 2026 · Week 3\n\nMinnesota Vikings @ Tampa Bay Buccaneers
  re for the US\; eligible subscriptions and geographic restrictions apply.
  \n\nVenue\nRaymond James Stadium\nTampa\n\nSchedule source: https://www.nf
  l.com/games/vikings-at-buccaneers-2026-reg-3
-LAST-MODIFIED:20260927T230945Z
+LAST-MODIFIED:20260928T084826Z
 LOCATION:Raymond James Stadium\nTampa
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -118,18 +118,23 @@ BEGIN:VEVENT
 SUMMARY:Minnesota Vikings @ New Orleans Saints
 DTSTART:20261011T170000Z
 DTEND:20261011T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260928T084826Z
 UID:2cfc35aa2d2c2bd8909108c9de456114@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nMinnesota Vikings @ New Orleans Saints\n
  \nKickoff: Sunday\, October 11\, 2026 at 1:00 PM EDT (America/New_York)\nE
- stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional br
- oadcast\; local market coverage varies.\n\nVenue\nCaesars Superdome\nNew O
- rleans\n\nSchedule source: https://www.nfl.com/games/vikings-at-saints-202
- 6-reg-5
-LAST-MODIFIED:20260927T005047Z
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: 
+ FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.
+ \nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; loc
+ al and national blackouts apply.\nNFL+: local and primetime live game stre
+ ams require a phone or tablet\; market and device restrictions apply.\nReg
+ ional broadcast\; local market coverage varies.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
+ nue\nCaesars Superdome\nNew Orleans\n\nSchedule source: https://www.nfl.co
+ m/games/vikings-at-saints-2026-reg-5
+LAST-MODIFIED:20260928T084826Z
 LOCATION:Caesars Superdome\nNew Orleans
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

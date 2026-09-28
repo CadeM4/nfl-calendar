@@ -66,9 +66,9 @@ BEGIN:VEVENT
 SUMMARY:Las Vegas Raiders @ New Orleans Saints
 DTSTART:20260927T202500Z
 DTEND:20260927T234000Z
-DTSTAMP:20260927T230945Z
+DTSTAMP:20260928T084826Z
 UID:24280a2b55ad7b7407f0a3c00f557da6@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 3
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 3\n\nLas Vegas Raiders @ New Orleans Saints\n
@@ -82,7 +82,7 @@ DESCRIPTION:NFL 2026 · Week 3\n\nLas Vegas Raiders @ New Orleans Saints\n
  tings are for the US\; eligible subscriptions and geographic restrictions 
  apply.\n\nVenue\nCaesars Superdome\nNew Orleans\n\nSchedule source: https:
  //www.nfl.com/games/raiders-at-saints-2026-reg-3
-LAST-MODIFIED:20260927T230945Z
+LAST-MODIFIED:20260928T084826Z
 LOCATION:Caesars Superdome\nNew Orleans
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -118,18 +118,23 @@ BEGIN:VEVENT
 SUMMARY:Las Vegas Raiders @ New England Patriots
 DTSTART:20261011T170000Z
 DTEND:20261011T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260928T084826Z
 UID:2cfd71222d73cf50e679694a139e75f3@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nLas Vegas Raiders @ New England Patriots
  \n\nKickoff: Sunday\, October 11\, 2026 at 1:00 PM EDT (America/New_York)
- \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional
-  broadcast\; local market coverage varies.\n\nVenue\nGillette Stadium\nFox
- borough\n\nSchedule source: https://www.nfl.com/games/raiders-at-patriots-
- 2026-reg-5
-LAST-MODIFIED:20260927T005047Z
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreamin
+ g: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday aft
+ ernoon viewing\; local and national blackouts apply.\nNFL+: local and prim
+ etime live game streams require a phone or tablet\; market and device rest
+ rictions apply.\nParamount+: this game must be carried by your local CBS s
+ tation.\nRegional broadcast\; local market coverage varies.\nStreaming lis
+ tings are for the US\; eligible subscriptions and geographic restrictions 
+ apply.\n\nVenue\nGillette Stadium\nFoxborough\n\nSchedule source: https://
+ www.nfl.com/games/raiders-at-patriots-2026-reg-5
+LAST-MODIFIED:20260928T084826Z
 LOCATION:Gillette Stadium\nFoxborough
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

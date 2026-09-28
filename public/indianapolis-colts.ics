@@ -114,18 +114,23 @@ BEGIN:VEVENT
 SUMMARY:Indianapolis Colts @ Pittsburgh Steelers
 DTSTART:20261011T170000Z
 DTEND:20261011T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260928T084826Z
 UID:41e86e0f3dd9de998f1d283981a0c5c1@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nIndianapolis Colts @ Pittsburgh Steelers
  \n\nKickoff: Sunday\, October 11\, 2026 at 1:00 PM EDT (America/New_York)
- \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional
-  broadcast\; local market coverage varies.\n\nVenue\nAcrisure Stadium\nPit
- tsburgh\n\nSchedule source: https://www.nfl.com/games/colts-at-steelers-20
- 26-reg-5
-LAST-MODIFIED:20260927T005047Z
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreamin
+ g: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday aft
+ ernoon viewing\; local and national blackouts apply.\nNFL+: local and prim
+ etime live game streams require a phone or tablet\; market and device rest
+ rictions apply.\nParamount+: this game must be carried by your local CBS s
+ tation.\nRegional broadcast\; local market coverage varies.\nStreaming lis
+ tings are for the US\; eligible subscriptions and geographic restrictions 
+ apply.\n\nVenue\nAcrisure Stadium\nPittsburgh\n\nSchedule source: https://
+ www.nfl.com/games/colts-at-steelers-2026-reg-5
+LAST-MODIFIED:20260928T084826Z
 LOCATION:Acrisure Stadium\nPittsburgh
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

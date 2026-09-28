@@ -116,18 +116,23 @@ BEGIN:VEVENT
 SUMMARY:New York Giants @ Washington Commanders
 DTSTART:20261011T170000Z
 DTEND:20261011T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260928T084826Z
 UID:8e9bd57060adca3e37c8a8a3c9dd8493@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nNew York Giants @ Washington Commanders
  \n\nKickoff: Sunday\, October 11\, 2026 at 1:00 PM EDT (America/New_York)
- \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
-  broadcast\; local market coverage varies.\n\nVenue\nNorthwest Stadium\nLa
- ndover\n\nSchedule source: https://www.nfl.com/games/giants-at-commanders-
- 2026-reg-5
-LAST-MODIFIED:20260927T005047Z
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreamin
+ g: FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions app
+ ly.\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; 
+ local and national blackouts apply.\nNFL+: local and primetime live game s
+ treams require a phone or tablet\; market and device restrictions apply.\n
+ Regional broadcast\; local market coverage varies.\nStreaming listings are
+  for the US\; eligible subscriptions and geographic restrictions apply.\n
+ \nVenue\nNorthwest Stadium\nLandover\n\nSchedule source: https://www.nfl.c
+ om/games/giants-at-commanders-2026-reg-5
+LAST-MODIFIED:20260928T084826Z
 LOCATION:Northwest Stadium\nLandover
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
