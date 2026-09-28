@@ -402,10 +402,10 @@
     "fingerprint": "6b9c3c3359ffd7435d08f2501cedfefd04787379a99a88033d5ca73ce1062736"
   },
   "2026-REG-CLE-NYJ": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "ee3e7762404ccc54da0f6e668caca0bd573a096ef6a51b6a86d3f61f464bed1f"
+    "modified": "2026-09-28T20:37:04Z",
+    "fingerprint": "c5dae2f190abb1fc851ec7261f1f559350e4b798cae70e8e62296e0fa09592e6"
   },
   "2026-REG-HOU-TEN": {
     "sequence": 1,
