@@ -1688,6 +1688,32 @@ TRANSP:TRANSPARENT
 URL:https://www.nfl.com/games/eagles-at-jaguars-2026-reg-5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chicago Bears @ Green Bay Packers
+DTSTART:20261011T170000Z
+DTEND:20261011T201500Z
+DTSTAMP:20260929T192954Z
+UID:5252a8c9e60986a01f4fb1f25f49f707@nfl-calendar.local
+SEQUENCE:1
+CATEGORIES:NFL,Football,Week 5
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 5\n\nChicago Bears @ Green Bay Packers\n\nKic
+ koff: Sunday\, October 11\, 2026 at 1:00 PM EDT (America/New_York)\nEstima
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX O
+ ne\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nNFL
+  Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local an
+ d national blackouts apply.\nNFL+: local and primetime live game streams r
+ equire a phone or tablet\; market and device restrictions apply.\nRegional
+  broadcast\; local market coverage varies.\nStreaming listings are for the
+  US\; eligible subscriptions and geographic restrictions apply.\n\nVenue\n
+ Lambeau Field\nGreen Bay\n\nSchedule source: https://www.nfl.com/games/bea
+ rs-at-packers-2026-reg-5
+LAST-MODIFIED:20260929T192954Z
+LOCATION:Lambeau Field\nGreen Bay
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bears-at-packers-2026-reg-5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cincinnati Bengals @ Miami Dolphins
 DTSTART:20261011T170000Z
 DTEND:20261011T201500Z
@@ -1894,32 +1920,6 @@ LOCATION:SoFi Stadium\nInglewood
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.nfl.com/games/broncos-at-chargers-2026-reg-5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chicago Bears @ Green Bay Packers
-DTSTART:20261011T202500Z
-DTEND:20261011T234000Z
-DTSTAMP:20260927T005047Z
-UID:5252a8c9e60986a01f4fb1f25f49f707@nfl-calendar.local
-SEQUENCE:0
-CATEGORIES:NFL,Football,Week 5
-CREATED:20260927T005047Z
-DESCRIPTION:NFL 2026 · Week 5\n\nChicago Bears @ Green Bay Packers\n\nKic
- koff: Sunday\, October 11\, 2026 at 4:25 PM EDT (America/New_York)\nEstima
- ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX O
- ne\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nNFL
-  Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local an
- d national blackouts apply.\nNFL+: local and primetime live game streams r
- equire a phone or tablet\; market and device restrictions apply.\nRegional
-  broadcast\; local market coverage varies.\nStreaming listings are for the
-  US\; eligible subscriptions and geographic restrictions apply.\n\nVenue\n
- Lambeau Field\nGreen Bay\n\nSchedule source: https://www.nfl.com/games/bea
- rs-at-packers-2026-reg-5
-LAST-MODIFIED:20260927T005047Z
-LOCATION:Lambeau Field\nGreen Bay
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.nfl.com/games/bears-at-packers-2026-reg-5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Detroit Lions @ Arizona Cardinals

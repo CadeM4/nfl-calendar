@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "season": 2026,
-  "fetched_at": "2026-09-29T08:43:41Z",
+  "fetched_at": "2026-09-29T19:29:54Z",
   "source": {
     "name": "NFL.com official schedule and game-specific viewing data",
     "url": "https://www.nfl.com/schedules/2026/by-week/week-1"
@@ -2953,6 +2953,51 @@
       "source_week": 5
     },
     {
+      "id": "2026-REG-CHI-GB",
+      "season": 2026,
+      "season_type": "REG",
+      "week": 5,
+      "away": "CHI",
+      "home": "GB",
+      "start_time": "2026-10-11T17:00:00Z",
+      "date": "2026-10-11",
+      "time_tbd": false,
+      "date_tbd": false,
+      "week_date": "2026-10-08",
+      "venue": {
+        "name": "Lambeau Field",
+        "city": "Green Bay",
+        "country": "USA"
+      },
+      "broadcast": {
+        "tv": [
+          "FOX"
+        ],
+        "streaming": [
+          "FOX One",
+          "NFL+"
+        ],
+        "notes": [
+          "Regional broadcast; local market coverage varies.",
+          "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
+          "FOX One: local FOX coverage and market restrictions apply.",
+          "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
+          "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
+        ]
+      },
+      "status": "scheduled",
+      "source_url": "https://www.nfl.com/games/bears-at-packers-2026-reg-5",
+      "source_ids": {
+        "nfl": "aa94c2ef-4feb-11f1-abca-2c54536568a9",
+        "elias": "2026101110",
+        "gsis": "60253",
+        "slug": "bears-at-packers-2026-reg-5"
+      },
+      "category": null,
+      "international": false,
+      "source_week": 5
+    },
+    {
       "id": "2026-REG-CIN-MIA",
       "season": 2026,
       "season_type": "REG",
@@ -3307,51 +3352,6 @@
         "elias": "2026101108",
         "gsis": "60251",
         "slug": "broncos-at-chargers-2026-reg-5"
-      },
-      "category": null,
-      "international": false,
-      "source_week": 5
-    },
-    {
-      "id": "2026-REG-CHI-GB",
-      "season": 2026,
-      "season_type": "REG",
-      "week": 5,
-      "away": "CHI",
-      "home": "GB",
-      "start_time": "2026-10-11T20:25:00Z",
-      "date": "2026-10-11",
-      "time_tbd": false,
-      "date_tbd": false,
-      "week_date": "2026-10-08",
-      "venue": {
-        "name": "Lambeau Field",
-        "city": "Green Bay",
-        "country": "USA"
-      },
-      "broadcast": {
-        "tv": [
-          "FOX"
-        ],
-        "streaming": [
-          "FOX One",
-          "NFL+"
-        ],
-        "notes": [
-          "Regional broadcast; local market coverage varies.",
-          "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
-          "FOX One: local FOX coverage and market restrictions apply.",
-          "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
-          "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
-        ]
-      },
-      "status": "scheduled",
-      "source_url": "https://www.nfl.com/games/bears-at-packers-2026-reg-5",
-      "source_ids": {
-        "nfl": "aa94c2ef-4feb-11f1-abca-2c54536568a9",
-        "elias": "2026101110",
-        "gsis": "60253",
-        "slug": "bears-at-packers-2026-reg-5"
       },
       "category": null,
       "international": false,

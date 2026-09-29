@@ -444,10 +444,10 @@
     "fingerprint": "f6f9c477f8a970b86537615c93e897a0b00e242b76b6fcb3599520c60a7e0771"
   },
   "2026-REG-CHI-GB": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "b1e70e2636b2387de898544b418166322ac9b424a77ef4392a9b3dad96b9902f"
+    "modified": "2026-09-29T19:29:54Z",
+    "fingerprint": "2d8236a86fbbd5e364eabd5411a6b1ec21f9cdedf51bf71bb66dc4b3b5114d0a"
   },
   "2026-REG-DET-ARI": {
     "sequence": 0,

@@ -1,14 +1,14 @@
 [
   {
     "kind": "UPDATED",
-    "id": "2026-REG-PHI-CHI",
-    "away": "PHI",
-    "home": "CHI",
-    "week": 3,
+    "id": "2026-REG-CHI-GB",
+    "away": "CHI",
+    "home": "GB",
+    "week": 5,
     "fields": {
-      "status": {
-        "before": "scheduled",
-        "after": "final"
+      "start_time": {
+        "before": "2026-10-11T20:25:00Z",
+        "after": "2026-10-11T17:00:00Z"
       }
     }
   }
