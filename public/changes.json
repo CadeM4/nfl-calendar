@@ -1,37 +1,14 @@
 [
   {
     "kind": "UPDATED",
-    "id": "2026-REG-CLE-NYJ",
-    "away": "CLE",
-    "home": "NYJ",
-    "week": 5,
+    "id": "2026-REG-PHI-CHI",
+    "away": "PHI",
+    "home": "CHI",
+    "week": 3,
     "fields": {
-      "broadcast": {
-        "before": {
-          "tv": [
-            "CBS"
-          ],
-          "streaming": [],
-          "notes": [
-            "Regional broadcast; local market coverage varies."
-          ]
-        },
-        "after": {
-          "tv": [
-            "CBS"
-          ],
-          "streaming": [
-            "NFL+",
-            "Paramount+"
-          ],
-          "notes": [
-            "Regional broadcast; local market coverage varies.",
-            "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
-            "Paramount+: this game must be carried by your local CBS station.",
-            "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
-            "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
-          ]
-        }
+      "status": {
+        "before": "scheduled",
+        "after": "final"
       }
     }
   }

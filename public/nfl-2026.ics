@@ -1214,9 +1214,9 @@ BEGIN:VEVENT
 SUMMARY:Philadelphia Eagles @ Chicago Bears
 DTSTART:20260929T001500Z
 DTEND:20260929T033000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20260929T084341Z
 UID:ad20fcf72d9d7c5bbd6830f614fcd9d6@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 3
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 3\n\nPhiladelphia Eagles @ Chicago Bears\n\nK
@@ -1228,7 +1228,7 @@ DESCRIPTION:NFL 2026 · Week 3\n\nPhiladelphia Eagles @ Chicago Bears\n\nK
  graphic restrictions apply.\nUS national broadcast.\n\nVenue\nSoldier Fiel
  d\nChicago\n\nSchedule source: https://www.nfl.com/games/eagles-at-bears-2
  026-reg-3
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20260929T084341Z
 LOCATION:Soldier Field\nChicago
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

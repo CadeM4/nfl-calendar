@@ -282,10 +282,10 @@
     "fingerprint": "3651ae4609c640b3c563473fde81e3bbbf5ac66eafaa190e23eccd6d11756f34"
   },
   "2026-REG-PHI-CHI": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "51df8e1c5af87b6d9885736c26739f5bf183e06b9bc5817cb7ef4dd81dbff0b8"
+    "modified": "2026-09-29T08:43:41Z",
+    "fingerprint": "bc1bb8f86d54bff40cf5350dbf766b899e4e3f09b6b70ede64b88f1baba8dc94"
   },
   "2026-REG-PIT-CLE": {
     "sequence": 0,

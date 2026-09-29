@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "season": 2026,
-  "fetched_at": "2026-09-28T20:37:04Z",
+  "fetched_at": "2026-09-29T08:43:41Z",
   "source": {
     "name": "NFL.com official schedule and game-specific viewing data",
     "url": "https://www.nfl.com/schedules/2026/by-week/week-1"
@@ -2142,7 +2142,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/eagles-at-bears-2026-reg-3",
       "source_ids": {
         "nfl": "aa29d6db-4feb-11f1-abca-2c54536568a9",
