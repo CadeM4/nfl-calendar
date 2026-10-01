@@ -89,21 +89,21 @@ BEGIN:VEVENT
 SUMMARY:Atlanta Falcons @ New Orleans Saints
 DTSTART:20261006T001500Z
 DTEND:20261006T033000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261001T193818Z
 UID:ff2be73d88d50979e04317a142c942ff@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 4
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 4\n\nAtlanta Falcons @ New Orleans Saints\n\n
  Kickoff: Monday\, October 5\, 2026 at 8:15 PM EDT (America/New_York)\nEsti
- mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN D
- eportes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primeti
- me live game streams require a phone or tablet\; market and device restric
- tions apply.\nStreaming listings are for the US\; eligible subscriptions a
- nd geographic restrictions apply.\nUS national broadcast.\n\nVenue\nCaesar
- s Superdome\nNew Orleans\n\nSchedule source: https://www.nfl.com/games/fal
- cons-at-saints-2026-reg-4
-LAST-MODIFIED:20260927T005047Z
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ESPN\, ESPN Deporte
+ s\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetime liv
+ e game streams require a phone or tablet\; market and device restrictions 
+ apply.\nStreaming listings are for the US\; eligible subscriptions and geo
+ graphic restrictions apply.\nUS national broadcast.\n\nVenue\nCaesars Supe
+ rdome\nNew Orleans\n\nSchedule source: https://www.nfl.com/games/falcons-a
+ t-saints-2026-reg-4
+LAST-MODIFIED:20261001T193818Z
 LOCATION:Caesars Superdome\nNew Orleans
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
