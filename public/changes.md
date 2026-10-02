@@ -1,8 +1,5 @@
 # Schedule changes
 
-Verified: 2026-10-02T08:40:57Z
+Verified: 2026-10-02T19:25:01Z
 
-## UPDATED: PIT @ CLE — Week 4
-
-- Status: scheduled → final
-
+No event changes since the previous successful refresh.
