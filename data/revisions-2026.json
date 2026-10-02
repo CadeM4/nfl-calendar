@@ -288,10 +288,10 @@
     "fingerprint": "bc1bb8f86d54bff40cf5350dbf766b899e4e3f09b6b70ede64b88f1baba8dc94"
   },
   "2026-REG-PIT-CLE": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "aa624ed2780ca1721d8796535d4efda7a619d0cfb13e64f64e99364ed2f4e02d"
+    "modified": "2026-10-02T08:40:57Z",
+    "fingerprint": "4cb492634a176037599651aa85927617690829703f4c05be3bd5d139ea4eb8c4"
   },
   "2026-REG-IND-WAS": {
     "sequence": 0,

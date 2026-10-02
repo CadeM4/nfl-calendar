@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-PIT-CLE",
+    "away": "PIT",
+    "home": "CLE",
+    "week": 4,
+    "fields": {
+      "status": {
+        "before": "scheduled",
+        "after": "final"
+      }
+    }
+  }
+]

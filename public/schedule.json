@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "season": 2026,
-  "fetched_at": "2026-10-01T23:58:24Z",
+  "fetched_at": "2026-10-02T08:40:57Z",
   "source": {
     "name": "NFL.com official schedule and game-specific viewing data",
     "url": "https://www.nfl.com/schedules/2026/by-week/week-1"
@@ -2183,7 +2183,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/steelers-at-browns-2026-reg-4",
       "source_ids": {
         "nfl": "aa29da01-4feb-11f1-abca-2c54536568a9",

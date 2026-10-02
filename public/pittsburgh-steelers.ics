@@ -92,9 +92,9 @@ BEGIN:VEVENT
 SUMMARY:Pittsburgh Steelers @ Cleveland Browns
 DTSTART:20261002T001500Z
 DTEND:20261002T033000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261002T084057Z
 UID:7e92382bbda4d97e91aa49c005eca518@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 4
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 4\n\nPittsburgh Steelers @ Cleveland Browns\n
@@ -105,7 +105,7 @@ DESCRIPTION:NFL 2026 · Week 4\n\nPittsburgh Steelers @ Cleveland Browns\n
  r the US\; eligible subscriptions and geographic restrictions apply.\nUS n
  ational broadcast.\n\nVenue\nHuntington Bank Field\nCleveland\n\nSchedule 
  source: https://www.nfl.com/games/steelers-at-browns-2026-reg-4
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261002T084057Z
 LOCATION:Huntington Bank Field\nCleveland
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
