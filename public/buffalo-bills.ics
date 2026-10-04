@@ -89,9 +89,9 @@ BEGIN:VEVENT
 SUMMARY:New England Patriots @ Buffalo Bills
 DTSTART:20261004T170000Z
 DTEND:20261004T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261004T181335Z
 UID:5c35e699a99e5c7c723c2909dd1184d3@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 4
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 4\n\nNew England Patriots @ Buffalo Bills\n\n
@@ -105,7 +105,7 @@ DESCRIPTION:NFL 2026 · Week 4\n\nNew England Patriots @ Buffalo Bills\n\n
  are for the US\; eligible subscriptions and geographic restrictions apply.
  \n\nVenue\nHighmark Stadium\nOrchard Park\n\nSchedule source: https://www.
  nfl.com/games/patriots-at-bills-2026-reg-4
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261004T181335Z
 LOCATION:Highmark Stadium\nOrchard Park
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

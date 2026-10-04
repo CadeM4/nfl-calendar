@@ -1261,9 +1261,9 @@ BEGIN:VEVENT
 SUMMARY:Indianapolis Colts @ Washington Commanders
 DTSTART:20261004T133000Z
 DTEND:20261004T164500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261004T181335Z
 UID:dea3c5be4933e4ae13cecb86e5612fbb@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 4
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 4\n\nIndianapolis Colts @ Washington Commande
@@ -1275,7 +1275,7 @@ DESCRIPTION:NFL 2026 · Week 4\n\nIndianapolis Colts @ Washington Commande
  trictions apply.\nUS national broadcast.\n\nVenue\nTottenham Hotspur Stadi
  um\nLondon\, England\n\nSchedule source: https://www.nfl.com/games/colts-a
  t-commanders-2026-reg-4
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261004T181335Z
 LOCATION:Tottenham Hotspur Stadium\nLondon\, England
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1285,9 +1285,9 @@ BEGIN:VEVENT
 SUMMARY:Arizona Cardinals @ New York Giants
 DTSTART:20261004T170000Z
 DTEND:20261004T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261004T181335Z
 UID:150fa86f8d66631e018190c81a746928@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 4
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 4\n\nArizona Cardinals @ New York Giants\n\nK
@@ -1301,7 +1301,7 @@ DESCRIPTION:NFL 2026 · Week 4\n\nArizona Cardinals @ New York Giants\n\nK
  re for the US\; eligible subscriptions and geographic restrictions apply.
  \n\nVenue\nMetLife Stadium\nEast Rutherford\n\nSchedule source: https://ww
  w.nfl.com/games/cardinals-at-giants-2026-reg-4
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261004T181335Z
 LOCATION:MetLife Stadium\nEast Rutherford
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1311,9 +1311,9 @@ BEGIN:VEVENT
 SUMMARY:Dallas Cowboys @ Houston Texans
 DTSTART:20261004T170000Z
 DTEND:20261004T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261004T181335Z
 UID:9c0f7cb367a32a25583e0cb9b3e256cf@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 4
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 4\n\nDallas Cowboys @ Houston Texans\n\nKicko
@@ -1327,7 +1327,7 @@ DESCRIPTION:NFL 2026 · Week 4\n\nDallas Cowboys @ Houston Texans\n\nKicko
  S\; eligible subscriptions and geographic restrictions apply.\n\nVenue\nRe
  liant Stadium\nHouston\n\nSchedule source: https://www.nfl.com/games/cowbo
  ys-at-texans-2026-reg-4
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261004T181335Z
 LOCATION:Reliant Stadium\nHouston
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1337,9 +1337,9 @@ BEGIN:VEVENT
 SUMMARY:Green Bay Packers @ Tampa Bay Buccaneers
 DTSTART:20261004T170000Z
 DTEND:20261004T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261004T181335Z
 UID:ea9f43e65ab5d49bb99e6e8b760053be@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 4
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 4\n\nGreen Bay Packers @ Tampa Bay Buccaneers
@@ -1353,7 +1353,7 @@ DESCRIPTION:NFL 2026 · Week 4\n\nGreen Bay Packers @ Tampa Bay Buccaneers
  or the US\; eligible subscriptions and geographic restrictions apply.\n\nV
  enue\nRaymond James Stadium\nTampa\n\nSchedule source: https://www.nfl.com
  /games/packers-at-buccaneers-2026-reg-4
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261004T181335Z
 LOCATION:Raymond James Stadium\nTampa
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1363,9 +1363,9 @@ BEGIN:VEVENT
 SUMMARY:Jacksonville Jaguars @ Cincinnati Bengals
 DTSTART:20261004T170000Z
 DTEND:20261004T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261004T181335Z
 UID:4a00435fd065a3d347f11704e45f25b4@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 4
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 4\n\nJacksonville Jaguars @ Cincinnati Bengal
@@ -1379,7 +1379,7 @@ DESCRIPTION:NFL 2026 · Week 4\n\nJacksonville Jaguars @ Cincinnati Bengal
  tings are for the US\; eligible subscriptions and geographic restrictions 
  apply.\n\nVenue\nPaycor Stadium\nCincinnati\n\nSchedule source: https://ww
  w.nfl.com/games/jaguars-at-bengals-2026-reg-4
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261004T181335Z
 LOCATION:Paycor Stadium\nCincinnati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1389,9 +1389,9 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Rams @ Philadelphia Eagles
 DTSTART:20261004T170000Z
 DTEND:20261004T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261004T181335Z
 UID:23a27c66cf503eb07723c703f7b7f9eb@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 4
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 4\n\nLos Angeles Rams @ Philadelphia Eagles\n
@@ -1405,7 +1405,7 @@ DESCRIPTION:NFL 2026 · Week 4\n\nLos Angeles Rams @ Philadelphia Eagles\n
  r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
  nue\nLincoln Financial Field\nPhiladelphia\n\nSchedule source: https://www
  .nfl.com/games/rams-at-eagles-2026-reg-4
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261004T181335Z
 LOCATION:Lincoln Financial Field\nPhiladelphia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1415,9 +1415,9 @@ BEGIN:VEVENT
 SUMMARY:New England Patriots @ Buffalo Bills
 DTSTART:20261004T170000Z
 DTEND:20261004T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261004T181335Z
 UID:5c35e699a99e5c7c723c2909dd1184d3@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 4
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 4\n\nNew England Patriots @ Buffalo Bills\n\n
@@ -1431,7 +1431,7 @@ DESCRIPTION:NFL 2026 · Week 4\n\nNew England Patriots @ Buffalo Bills\n\n
  are for the US\; eligible subscriptions and geographic restrictions apply.
  \n\nVenue\nHighmark Stadium\nOrchard Park\n\nSchedule source: https://www.
  nfl.com/games/patriots-at-bills-2026-reg-4
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261004T181335Z
 LOCATION:Highmark Stadium\nOrchard Park
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1441,9 +1441,9 @@ BEGIN:VEVENT
 SUMMARY:New York Jets @ Chicago Bears
 DTSTART:20261004T170000Z
 DTEND:20261004T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261004T181335Z
 UID:7e21a5516b6401522c1b7729fe762740@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 4
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 4\n\nNew York Jets @ Chicago Bears\n\nKickoff
@@ -1457,7 +1457,7 @@ DESCRIPTION:NFL 2026 · Week 4\n\nNew York Jets @ Chicago Bears\n\nKickoff
   eligible subscriptions and geographic restrictions apply.\n\nVenue\nSoldi
  er Field\nChicago\n\nSchedule source: https://www.nfl.com/games/jets-at-be
  ars-2026-reg-4
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261004T181335Z
 LOCATION:Soldier Field\nChicago
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1467,9 +1467,9 @@ BEGIN:VEVENT
 SUMMARY:Tennessee Titans @ Baltimore Ravens
 DTSTART:20261004T170000Z
 DTEND:20261004T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261004T181335Z
 UID:868a3cd7ffbd1a4d20190d0f2c670dee@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 4
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 4\n\nTennessee Titans @ Baltimore Ravens\n\nK
@@ -1483,7 +1483,7 @@ DESCRIPTION:NFL 2026 · Week 4\n\nTennessee Titans @ Baltimore Ravens\n\nK
  re for the US\; eligible subscriptions and geographic restrictions apply.
  \n\nVenue\nM&T Bank Stadium\nBaltimore\n\nSchedule source: https://www.nfl
  .com/games/titans-at-ravens-2026-reg-4
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261004T181335Z
 LOCATION:M&T Bank Stadium\nBaltimore
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

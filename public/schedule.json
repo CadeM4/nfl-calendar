@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "season": 2026,
-  "fetched_at": "2026-10-04T08:33:05Z",
+  "fetched_at": "2026-10-04T18:13:35Z",
   "source": {
     "name": "NFL.com official schedule and game-specific viewing data",
     "url": "https://www.nfl.com/schedules/2026/by-week/week-1"
@@ -2226,7 +2226,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/colts-at-commanders-2026-reg-4",
       "source_ids": {
         "nfl": "aa29dd21-4feb-11f1-abca-2c54536568a9",
@@ -2271,7 +2271,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/cardinals-at-giants-2026-reg-4",
       "source_ids": {
         "nfl": "aa4b607b-4feb-11f1-abca-2c54536568a9",
@@ -2316,7 +2316,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/cowboys-at-texans-2026-reg-4",
       "source_ids": {
         "nfl": "aa4b5c96-4feb-11f1-abca-2c54536568a9",
@@ -2361,7 +2361,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/packers-at-buccaneers-2026-reg-4",
       "source_ids": {
         "nfl": "aa4b671b-4feb-11f1-abca-2c54536568a9",
@@ -2406,7 +2406,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/jaguars-at-bengals-2026-reg-4",
       "source_ids": {
         "nfl": "aa4b5943-4feb-11f1-abca-2c54536568a9",
@@ -2451,7 +2451,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/rams-at-eagles-2026-reg-4",
       "source_ids": {
         "nfl": "aa4b63de-4feb-11f1-abca-2c54536568a9",
@@ -2496,7 +2496,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/patriots-at-bills-2026-reg-4",
       "source_ids": {
         "nfl": "aa4b51c9-4feb-11f1-abca-2c54536568a9",
@@ -2541,7 +2541,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/jets-at-bears-2026-reg-4",
       "source_ids": {
         "nfl": "aa4b55ce-4feb-11f1-abca-2c54536568a9",
@@ -2586,7 +2586,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/titans-at-ravens-2026-reg-4",
       "source_ids": {
         "nfl": "aa4b4811-4feb-11f1-abca-2c54536568a9",

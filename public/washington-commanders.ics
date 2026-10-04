@@ -92,9 +92,9 @@ BEGIN:VEVENT
 SUMMARY:Indianapolis Colts @ Washington Commanders
 DTSTART:20261004T133000Z
 DTEND:20261004T164500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261004T181335Z
 UID:dea3c5be4933e4ae13cecb86e5612fbb@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 4
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 4\n\nIndianapolis Colts @ Washington Commande
@@ -106,7 +106,7 @@ DESCRIPTION:NFL 2026 · Week 4\n\nIndianapolis Colts @ Washington Commande
  trictions apply.\nUS national broadcast.\n\nVenue\nTottenham Hotspur Stadi
  um\nLondon\, England\n\nSchedule source: https://www.nfl.com/games/colts-a
  t-commanders-2026-reg-4
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261004T181335Z
 LOCATION:Tottenham Hotspur Stadium\nLondon\, England
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

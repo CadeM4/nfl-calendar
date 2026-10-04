@@ -92,9 +92,9 @@ BEGIN:VEVENT
 SUMMARY:Arizona Cardinals @ New York Giants
 DTSTART:20261004T170000Z
 DTEND:20261004T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261004T181335Z
 UID:150fa86f8d66631e018190c81a746928@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 4
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 4\n\nArizona Cardinals @ New York Giants\n\nK
@@ -108,7 +108,7 @@ DESCRIPTION:NFL 2026 · Week 4\n\nArizona Cardinals @ New York Giants\n\nK
  re for the US\; eligible subscriptions and geographic restrictions apply.
  \n\nVenue\nMetLife Stadium\nEast Rutherford\n\nSchedule source: https://ww
  w.nfl.com/games/cardinals-at-giants-2026-reg-4
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261004T181335Z
 LOCATION:MetLife Stadium\nEast Rutherford
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
