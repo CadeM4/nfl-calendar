@@ -92,9 +92,9 @@ BEGIN:VEVENT
 SUMMARY:Miami Dolphins @ Minnesota Vikings
 DTSTART:20261004T200500Z
 DTEND:20261004T232000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261004T231853Z
 UID:42d38f8cefc6b9e77fc1ab423fe16f22@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 4
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 4\n\nMiami Dolphins @ Minnesota Vikings\n\nKi
@@ -108,7 +108,7 @@ DESCRIPTION:NFL 2026 · Week 4\n\nMiami Dolphins @ Minnesota Vikings\n\nKi
   US\; eligible subscriptions and geographic restrictions apply.\n\nVenue\n
  U.S. Bank Stadium\nMinneapolis\n\nSchedule source: https://www.nfl.com/gam
  es/dolphins-at-vikings-2026-reg-4
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261004T231853Z
 LOCATION:U.S. Bank Stadium\nMinneapolis
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

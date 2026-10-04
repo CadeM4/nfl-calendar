@@ -89,9 +89,9 @@ BEGIN:VEVENT
 SUMMARY:Green Bay Packers @ Tampa Bay Buccaneers
 DTSTART:20261004T170000Z
 DTEND:20261004T201500Z
-DTSTAMP:20261004T181335Z
+DTSTAMP:20261004T231853Z
 UID:ea9f43e65ab5d49bb99e6e8b760053be@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 4
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 4\n\nGreen Bay Packers @ Tampa Bay Buccaneers
@@ -105,7 +105,7 @@ DESCRIPTION:NFL 2026 · Week 4\n\nGreen Bay Packers @ Tampa Bay Buccaneers
  or the US\; eligible subscriptions and geographic restrictions apply.\n\nV
  enue\nRaymond James Stadium\nTampa\n\nSchedule source: https://www.nfl.com
  /games/packers-at-buccaneers-2026-reg-4
-LAST-MODIFIED:20261004T181335Z
+LAST-MODIFIED:20261004T231853Z
 LOCATION:Raymond James Stadium\nTampa
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

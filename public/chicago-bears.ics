@@ -90,9 +90,9 @@ BEGIN:VEVENT
 SUMMARY:New York Jets @ Chicago Bears
 DTSTART:20261004T170000Z
 DTEND:20261004T201500Z
-DTSTAMP:20261004T181335Z
+DTSTAMP:20261004T231853Z
 UID:7e21a5516b6401522c1b7729fe762740@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 4
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 4\n\nNew York Jets @ Chicago Bears\n\nKickoff
@@ -106,7 +106,7 @@ DESCRIPTION:NFL 2026 · Week 4\n\nNew York Jets @ Chicago Bears\n\nKickoff
   eligible subscriptions and geographic restrictions apply.\n\nVenue\nSoldi
  er Field\nChicago\n\nSchedule source: https://www.nfl.com/games/jets-at-be
  ars-2026-reg-4
-LAST-MODIFIED:20261004T181335Z
+LAST-MODIFIED:20261004T231853Z
 LOCATION:Soldier Field\nChicago
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
