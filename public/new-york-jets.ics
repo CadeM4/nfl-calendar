@@ -144,18 +144,23 @@ BEGIN:VEVENT
 SUMMARY:New York Jets @ New England Patriots
 DTSTART:20261018T170000Z
 DTEND:20261018T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261005T213207Z
 UID:08d23408ec64fbeca4f8373366b76e9d@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nNew York Jets @ New England Patriots\n\n
  Kickoff: Sunday\, October 18\, 2026 at 1:00 PM EDT (America/New_York)\nEst
- imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broa
- dcast\; local market coverage varies.\n\nVenue\nGillette Stadium\nFoxborou
- gh\n\nSchedule source: https://www.nfl.com/games/jets-at-patriots-2026-reg
- -6
-LAST-MODIFIED:20260927T005047Z
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NF
+ L+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoo
+ n viewing\; local and national blackouts apply.\nNFL+: local and primetime
+  live game streams require a phone or tablet\; market and device restricti
+ ons apply.\nParamount+: this game must be carried by your local CBS statio
+ n.\nRegional broadcast\; local market coverage varies.\nStreaming listings
+  are for the US\; eligible subscriptions and geographic restrictions apply
+ .\n\nVenue\nGillette Stadium\nFoxborough\n\nSchedule source: https://www.n
+ fl.com/games/jets-at-patriots-2026-reg-6
+LAST-MODIFIED:20261005T213207Z
 LOCATION:Gillette Stadium\nFoxborough
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

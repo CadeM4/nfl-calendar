@@ -2092,18 +2092,23 @@ BEGIN:VEVENT
 SUMMARY:Carolina Panthers @ Philadelphia Eagles
 DTSTART:20261018T170000Z
 DTEND:20261018T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261005T213207Z
 UID:e2165c7791af7f8ae6dfb97c466a05ba@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nCarolina Panthers @ Philadelphia Eagles
  \n\nKickoff: Sunday\, October 18\, 2026 at 1:00 PM EDT (America/New_York)
- \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional
-  broadcast\; local market coverage varies.\n\nVenue\nLincoln Financial Fie
- ld\nPhiladelphia\n\nSchedule source: https://www.nfl.com/games/panthers-at
- -eagles-2026-reg-6
-LAST-MODIFIED:20260927T005047Z
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreamin
+ g: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday aft
+ ernoon viewing\; local and national blackouts apply.\nNFL+: local and prim
+ etime live game streams require a phone or tablet\; market and device rest
+ rictions apply.\nParamount+: this game must be carried by your local CBS s
+ tation.\nRegional broadcast\; local market coverage varies.\nStreaming lis
+ tings are for the US\; eligible subscriptions and geographic restrictions 
+ apply.\n\nVenue\nLincoln Financial Field\nPhiladelphia\n\nSchedule source:
+  https://www.nfl.com/games/panthers-at-eagles-2026-reg-6
+LAST-MODIFIED:20261005T213207Z
 LOCATION:Lincoln Financial Field\nPhiladelphia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2154,18 +2159,23 @@ BEGIN:VEVENT
 SUMMARY:New York Jets @ New England Patriots
 DTSTART:20261018T170000Z
 DTEND:20261018T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261005T213207Z
 UID:08d23408ec64fbeca4f8373366b76e9d@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nNew York Jets @ New England Patriots\n\n
  Kickoff: Sunday\, October 18\, 2026 at 1:00 PM EDT (America/New_York)\nEst
- imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broa
- dcast\; local market coverage varies.\n\nVenue\nGillette Stadium\nFoxborou
- gh\n\nSchedule source: https://www.nfl.com/games/jets-at-patriots-2026-reg
- -6
-LAST-MODIFIED:20260927T005047Z
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NF
+ L+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoo
+ n viewing\; local and national blackouts apply.\nNFL+: local and primetime
+  live game streams require a phone or tablet\; market and device restricti
+ ons apply.\nParamount+: this game must be carried by your local CBS statio
+ n.\nRegional broadcast\; local market coverage varies.\nStreaming listings
+  are for the US\; eligible subscriptions and geographic restrictions apply
+ .\n\nVenue\nGillette Stadium\nFoxborough\n\nSchedule source: https://www.n
+ fl.com/games/jets-at-patriots-2026-reg-6
+LAST-MODIFIED:20261005T213207Z
 LOCATION:Gillette Stadium\nFoxborough
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2175,18 +2185,23 @@ BEGIN:VEVENT
 SUMMARY:Pittsburgh Steelers @ Tampa Bay Buccaneers
 DTSTART:20261018T170000Z
 DTEND:20261018T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261005T213207Z
 UID:1b6475df285fa56c0dd19771eacc977d@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nPittsburgh Steelers @ Tampa Bay Buccanee
  rs\n\nKickoff: Sunday\, October 18\, 2026 at 1:00 PM EDT (America/New_York
- )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegiona
- l broadcast\; local market coverage varies.\n\nVenue\nRaymond James Stadiu
- m\nTampa\n\nSchedule source: https://www.nfl.com/games/steelers-at-buccane
- ers-2026-reg-6
-LAST-MODIFIED:20260927T005047Z
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreami
+ ng: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday af
+ ternoon viewing\; local and national blackouts apply.\nNFL+: local and pri
+ metime live game streams require a phone or tablet\; market and device res
+ trictions apply.\nParamount+: this game must be carried by your local CBS 
+ station.\nRegional broadcast\; local market coverage varies.\nStreaming li
+ stings are for the US\; eligible subscriptions and geographic restrictions
+  apply.\n\nVenue\nRaymond James Stadium\nTampa\n\nSchedule source: https:/
+ /www.nfl.com/games/steelers-at-buccaneers-2026-reg-6
+LAST-MODIFIED:20261005T213207Z
 LOCATION:Raymond James Stadium\nTampa
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2237,17 +2252,23 @@ BEGIN:VEVENT
 SUMMARY:Buffalo Bills @ Las Vegas Raiders
 DTSTART:20261018T202500Z
 DTEND:20261018T234000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261005T213207Z
 UID:a601008757867dd0206be22424a031f3@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nBuffalo Bills @ Las Vegas Raiders\n\nKic
  koff: Sunday\, October 18\, 2026 at 4:25 PM EDT (America/New_York)\nEstima
- ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadca
- st\; local market coverage varies.\n\nVenue\nAllegiant Stadium\nParadise\n
- \nSchedule source: https://www.nfl.com/games/bills-at-raiders-2026-reg-6
-LAST-MODIFIED:20260927T005047Z
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL+
+ \, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon 
+ viewing\; local and national blackouts apply.\nNFL+: local and primetime l
+ ive game streams require a phone or tablet\; market and device restriction
+ s apply.\nParamount+: this game must be carried by your local CBS station.
+ \nRegional broadcast\; local market coverage varies.\nStreaming listings a
+ re for the US\; eligible subscriptions and geographic restrictions apply.
+ \n\nVenue\nAllegiant Stadium\nParadise\n\nSchedule source: https://www.nfl
+ .com/games/bills-at-raiders-2026-reg-6
+LAST-MODIFIED:20261005T213207Z
 LOCATION:Allegiant Stadium\nParadise
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2257,18 +2278,23 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Chargers @ Kansas City Chiefs
 DTSTART:20261018T202500Z
 DTEND:20261018T234000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261005T213207Z
 UID:81aa60b66e4b3e5df380e94d41117f10@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nLos Angeles Chargers @ Kansas City Chief
  s\n\nKickoff: Sunday\, October 18\, 2026 at 4:25 PM EDT (America/New_York)
- \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional
-  broadcast\; local market coverage varies.\n\nVenue\nArrowhead Stadium\nKa
- nsas City\n\nSchedule source: https://www.nfl.com/games/chargers-at-chiefs
- -2026-reg-6
-LAST-MODIFIED:20260927T005047Z
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreamin
+ g: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday aft
+ ernoon viewing\; local and national blackouts apply.\nNFL+: local and prim
+ etime live game streams require a phone or tablet\; market and device rest
+ rictions apply.\nParamount+: this game must be carried by your local CBS s
+ tation.\nRegional broadcast\; local market coverage varies.\nStreaming lis
+ tings are for the US\; eligible subscriptions and geographic restrictions 
+ apply.\n\nVenue\nArrowhead Stadium\nKansas City\n\nSchedule source: https:
+ //www.nfl.com/games/chargers-at-chiefs-2026-reg-6
+LAST-MODIFIED:20261005T213207Z
 LOCATION:Arrowhead Stadium\nKansas City
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

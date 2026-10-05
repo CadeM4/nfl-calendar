@@ -144,18 +144,23 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Chargers @ Kansas City Chiefs
 DTSTART:20261018T202500Z
 DTEND:20261018T234000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261005T213207Z
 UID:81aa60b66e4b3e5df380e94d41117f10@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nLos Angeles Chargers @ Kansas City Chief
  s\n\nKickoff: Sunday\, October 18\, 2026 at 4:25 PM EDT (America/New_York)
- \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional
-  broadcast\; local market coverage varies.\n\nVenue\nArrowhead Stadium\nKa
- nsas City\n\nSchedule source: https://www.nfl.com/games/chargers-at-chiefs
- -2026-reg-6
-LAST-MODIFIED:20260927T005047Z
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreamin
+ g: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday aft
+ ernoon viewing\; local and national blackouts apply.\nNFL+: local and prim
+ etime live game streams require a phone or tablet\; market and device rest
+ rictions apply.\nParamount+: this game must be carried by your local CBS s
+ tation.\nRegional broadcast\; local market coverage varies.\nStreaming lis
+ tings are for the US\; eligible subscriptions and geographic restrictions 
+ apply.\n\nVenue\nArrowhead Stadium\nKansas City\n\nSchedule source: https:
+ //www.nfl.com/games/chargers-at-chiefs-2026-reg-6
+LAST-MODIFIED:20261005T213207Z
 LOCATION:Arrowhead Stadium\nKansas City
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -141,18 +141,23 @@ BEGIN:VEVENT
 SUMMARY:Pittsburgh Steelers @ Tampa Bay Buccaneers
 DTSTART:20261018T170000Z
 DTEND:20261018T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261005T213207Z
 UID:1b6475df285fa56c0dd19771eacc977d@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nPittsburgh Steelers @ Tampa Bay Buccanee
  rs\n\nKickoff: Sunday\, October 18\, 2026 at 1:00 PM EDT (America/New_York
- )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegiona
- l broadcast\; local market coverage varies.\n\nVenue\nRaymond James Stadiu
- m\nTampa\n\nSchedule source: https://www.nfl.com/games/steelers-at-buccane
- ers-2026-reg-6
-LAST-MODIFIED:20260927T005047Z
+ )\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreami
+ ng: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday af
+ ternoon viewing\; local and national blackouts apply.\nNFL+: local and pri
+ metime live game streams require a phone or tablet\; market and device res
+ trictions apply.\nParamount+: this game must be carried by your local CBS 
+ station.\nRegional broadcast\; local market coverage varies.\nStreaming li
+ stings are for the US\; eligible subscriptions and geographic restrictions
+  apply.\n\nVenue\nRaymond James Stadium\nTampa\n\nSchedule source: https:/
+ /www.nfl.com/games/steelers-at-buccaneers-2026-reg-6
+LAST-MODIFIED:20261005T213207Z
 LOCATION:Raymond James Stadium\nTampa
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

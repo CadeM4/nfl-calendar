@@ -492,10 +492,10 @@
     "fingerprint": "617b4bd9a5f3002862a9f123594b24a8dc175b32ef96ee212971ee9c88200ad2"
   },
   "2026-REG-CAR-PHI": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "d362564161211fe8e38d9da645c3920370562f4a5a408c46a4810a1ac8a44d1d"
+    "modified": "2026-10-05T21:32:07Z",
+    "fingerprint": "d0cdd5643caaedb3231a1347d78248188da0c4d2f493dcda59624d020fefb3b5"
   },
   "2026-REG-CHI-ATL": {
     "sequence": 0,
@@ -510,16 +510,16 @@
     "fingerprint": "c076f7e0ab7b556c9127c74142b06ab3d869e5de487daa4d59ae21fac3ce2cad"
   },
   "2026-REG-NYJ-NE": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "c57e1ca40cf8e78ab700a6549e9b40b463d06899c1c6adf8370681d07b477443"
+    "modified": "2026-10-05T21:32:07Z",
+    "fingerprint": "f28da418f465acf80f6310d0292def1395404a3b6591582d61ef071c8e7e0666"
   },
   "2026-REG-PIT-TB": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "9ea5d0f47f2bd1c09815eafc990a254c2123b864f94de3818c6e5f29f540376c"
+    "modified": "2026-10-05T21:32:07Z",
+    "fingerprint": "016f215d6c4956da554f3be5fce5a8483eac8173864b959be7ef99e05648817b"
   },
   "2026-REG-TEN-IND": {
     "sequence": 0,
@@ -534,16 +534,16 @@
     "fingerprint": "8f179d72e83235a5f8f68a3e857be22e529c45814a8a1fcaeeb3ecc34d038fa7"
   },
   "2026-REG-BUF-LV": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "06f30cf706cdedaedf23a0ebae7667d190f3b3c342f51e5c2f5e18809d5a9544"
+    "modified": "2026-10-05T21:32:07Z",
+    "fingerprint": "d6a92b29432939482f5021297a390cec535012d9f344588d3238dcda800f2206"
   },
   "2026-REG-LAC-KC": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "b23767903af570e00c3b6a94e9e498e39bdb0b02a9329a6a3fd6654a8b250609"
+    "modified": "2026-10-05T21:32:07Z",
+    "fingerprint": "f76f467196a4520bbae01def0e124b8165f1808814e4b7aeb76125de65e2fcd8"
   },
   "2026-REG-DAL-GB": {
     "sequence": 0,

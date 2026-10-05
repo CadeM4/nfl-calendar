@@ -1,20 +1,24 @@
 # Schedule changes
 
-Verified: 2026-10-05T09:15:18Z
+Verified: 2026-10-05T21:32:07Z
 
-## UPDATED: DEN @ SF — Week 4
+## UPDATED: CAR @ PHI — Week 6
 
-- Status: live → final
+- Broadcast: tv: CBS; notes: Regional broadcast; local market coverage varies. → tv: CBS; streaming: NFL+, Paramount+; notes: Regional broadcast; local market coverage varies., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., Paramount+: this game must be carried by your local CBS station., NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
 
-## UPDATED: KC @ LV — Week 4
+## UPDATED: NYJ @ NE — Week 6
 
-- Status: live → final
+- Broadcast: tv: CBS; notes: Regional broadcast; local market coverage varies. → tv: CBS; streaming: NFL+, Paramount+; notes: Regional broadcast; local market coverage varies., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., Paramount+: this game must be carried by your local CBS station., NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
 
-## UPDATED: LAC @ SEA — Week 4
+## UPDATED: PIT @ TB — Week 6
 
-- Status: live → final
+- Broadcast: tv: CBS; notes: Regional broadcast; local market coverage varies. → tv: CBS; streaming: NFL+, Paramount+; notes: Regional broadcast; local market coverage varies., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., Paramount+: this game must be carried by your local CBS station., NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
 
-## UPDATED: DET @ CAR — Week 4
+## UPDATED: BUF @ LV — Week 6
 
-- Status: scheduled → final
+- Broadcast: tv: CBS; notes: Regional broadcast; local market coverage varies. → tv: CBS; streaming: NFL+, Paramount+; notes: Regional broadcast; local market coverage varies., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., Paramount+: this game must be carried by your local CBS station., NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
+
+## UPDATED: LAC @ KC — Week 6
+
+- Broadcast: tv: CBS; notes: Regional broadcast; local market coverage varies. → tv: CBS; streaming: NFL+, Paramount+; notes: Regional broadcast; local market coverage varies., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., Paramount+: this game must be carried by your local CBS station., NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
 
