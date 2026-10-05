@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "season": 2026,
-  "fetched_at": "2026-10-04T23:18:53Z",
+  "fetched_at": "2026-10-05T09:15:18Z",
   "source": {
     "name": "NFL.com official schedule and game-specific viewing data",
     "url": "https://www.nfl.com/schedules/2026/by-week/week-1"
@@ -2676,7 +2676,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/broncos-at-49ers-2026-reg-4",
       "source_ids": {
         "nfl": "aa6b4cf4-4feb-11f1-abca-2c54536568a9",
@@ -2721,7 +2721,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/chiefs-at-raiders-2026-reg-4",
       "source_ids": {
         "nfl": "aa4b6d71-4feb-11f1-abca-2c54536568a9",
@@ -2766,7 +2766,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/chargers-at-seahawks-2026-reg-4",
       "source_ids": {
         "nfl": "aa6b4255-4feb-11f1-abca-2c54536568a9",
@@ -2810,7 +2810,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/lions-at-panthers-2026-reg-4",
       "source_ids": {
         "nfl": "aa6b512d-4feb-11f1-abca-2c54536568a9",
