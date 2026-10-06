@@ -111,21 +111,21 @@ BEGIN:VEVENT
 SUMMARY:Buffalo Bills @ Los Angeles Rams
 DTSTART:20261013T001500Z
 DTEND:20261013T033000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261006T090759Z
 UID:085fb105aac6d3fe2503c753ab7a3a50@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nBuffalo Bills @ Los Angeles Rams\n\nKick
  off: Monday\, October 12\, 2026 at 8:15 PM EDT (America/New_York)\nEstimat
  ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN Depo
- rtes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetime 
- live game streams require a phone or tablet\; market and device restrictio
- ns apply.\nStreaming listings are for the US\; eligible subscriptions and 
- geographic restrictions apply.\nUS national broadcast.\n\nVenue\nSoFi Stad
- ium\nInglewood\n\nSchedule source: https://www.nfl.com/games/bills-at-rams
- -2026-reg-5
-LAST-MODIFIED:20260927T005047Z
+ rtes\, ESPN2\, NFL Network\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local 
+ and primetime live game streams require a phone or tablet\; market and dev
+ ice restrictions apply.\nStreaming listings are for the US\; eligible subs
+ criptions and geographic restrictions apply.\nUS national broadcast.\n\nVe
+ nue\nSoFi Stadium\nInglewood\n\nSchedule source: https://www.nfl.com/games
+ /bills-at-rams-2026-reg-5
+LAST-MODIFIED:20261006T090759Z
 LOCATION:SoFi Stadium\nInglewood
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

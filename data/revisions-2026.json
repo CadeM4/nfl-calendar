@@ -378,10 +378,10 @@
     "fingerprint": "1b3f00bb716f269415c977366b93cf1a3e1615d3f9989ac4cdca561d8fbfc8ff"
   },
   "2026-REG-ATL-NO": {
-    "sequence": 1,
+    "sequence": 2,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-10-01T19:38:18Z",
-    "fingerprint": "ebdbffc68658e12059b9fc084d386b05791ac786ffe0551e693ecbe9138d80d8"
+    "modified": "2026-10-06T09:07:59Z",
+    "fingerprint": "ba32c9c5f368b51936fa062ecf289e1f2c301ed4073c9f73a33d2fde7831f1cd"
   },
   "2026-REG-TB-DAL": {
     "sequence": 0,
@@ -468,10 +468,10 @@
     "fingerprint": "38d10f3ba9b5afadbe42616b1f5daad1832e29de983ae4fa3f9a58d779a458bf"
   },
   "2026-REG-BUF-LAR": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "6f0e60e0d06a4f40c99239a4ad0d379bd5ff4d1f9bb57757abd54bc3a51e054b"
+    "modified": "2026-10-06T09:07:59Z",
+    "fingerprint": "3f561dae4b3f6782933789337ae0b0b643929d0807dda0969e16093e78254acf"
   },
   "2026-REG-SEA-DEN": {
     "sequence": 0,
@@ -552,10 +552,10 @@
     "fingerprint": "0b17235f1a8bb6ac90ed53999280f40d40dc820e8843be120b5324c4b11926d5"
   },
   "2026-REG-WAS-SF": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "5341fcd898208dd9b8b8849c79ff08ace16f53ae2214a4835fdb6987ed82886a"
+    "modified": "2026-10-06T09:07:59Z",
+    "fingerprint": "fcafde2995b9edde89494659fbeb13af7ea487a2ba96b1bdf8876e9b81b99311"
   },
   "2026-REG-NE-CHI": {
     "sequence": 0,
@@ -636,10 +636,10 @@
     "fingerprint": "be24a4bc6ff932f602bf0fdb901c9d00f911130d83fca3fc857e38dcf43782a2"
   },
   "2026-REG-DAL-PHI": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "cf697c27f744b388006823aeb3c30d6a7c1db4a1d6eb17f35771cf8c7266d634"
+    "modified": "2026-10-06T09:07:59Z",
+    "fingerprint": "78938f463bd33661484798e25805b004e69a3dde882a22d2e886caa4a4918b8a"
   },
   "2026-REG-CAR-GB": {
     "sequence": 0,

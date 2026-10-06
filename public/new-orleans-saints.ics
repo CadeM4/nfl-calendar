@@ -92,9 +92,9 @@ BEGIN:VEVENT
 SUMMARY:Atlanta Falcons @ New Orleans Saints
 DTSTART:20261006T001500Z
 DTEND:20261006T033000Z
-DTSTAMP:20261001T193818Z
+DTSTAMP:20261006T090759Z
 UID:ff2be73d88d50979e04317a142c942ff@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 4
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 4\n\nAtlanta Falcons @ New Orleans Saints\n\n
@@ -106,7 +106,7 @@ DESCRIPTION:NFL 2026 · Week 4\n\nAtlanta Falcons @ New Orleans Saints\n\n
  graphic restrictions apply.\nUS national broadcast.\n\nVenue\nCaesars Supe
  rdome\nNew Orleans\n\nSchedule source: https://www.nfl.com/games/falcons-a
  t-saints-2026-reg-4
-LAST-MODIFIED:20261001T193818Z
+LAST-MODIFIED:20261006T090759Z
 LOCATION:Caesars Superdome\nNew Orleans
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

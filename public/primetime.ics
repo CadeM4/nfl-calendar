@@ -296,9 +296,9 @@ BEGIN:VEVENT
 SUMMARY:Atlanta Falcons @ New Orleans Saints
 DTSTART:20261006T001500Z
 DTEND:20261006T033000Z
-DTSTAMP:20261001T193818Z
+DTSTAMP:20261006T090759Z
 UID:ff2be73d88d50979e04317a142c942ff@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 4
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 4\n\nAtlanta Falcons @ New Orleans Saints\n\n
@@ -310,7 +310,7 @@ DESCRIPTION:NFL 2026 · Week 4\n\nAtlanta Falcons @ New Orleans Saints\n\n
  graphic restrictions apply.\nUS national broadcast.\n\nVenue\nCaesars Supe
  rdome\nNew Orleans\n\nSchedule source: https://www.nfl.com/games/falcons-a
  t-saints-2026-reg-4
-LAST-MODIFIED:20261001T193818Z
+LAST-MODIFIED:20261006T090759Z
 LOCATION:Caesars Superdome\nNew Orleans
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -366,21 +366,21 @@ BEGIN:VEVENT
 SUMMARY:Buffalo Bills @ Los Angeles Rams
 DTSTART:20261013T001500Z
 DTEND:20261013T033000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261006T090759Z
 UID:085fb105aac6d3fe2503c753ab7a3a50@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nBuffalo Bills @ Los Angeles Rams\n\nKick
  off: Monday\, October 12\, 2026 at 8:15 PM EDT (America/New_York)\nEstimat
  ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN Depo
- rtes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetime 
- live game streams require a phone or tablet\; market and device restrictio
- ns apply.\nStreaming listings are for the US\; eligible subscriptions and 
- geographic restrictions apply.\nUS national broadcast.\n\nVenue\nSoFi Stad
- ium\nInglewood\n\nSchedule source: https://www.nfl.com/games/bills-at-rams
- -2026-reg-5
-LAST-MODIFIED:20260927T005047Z
+ rtes\, ESPN2\, NFL Network\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local 
+ and primetime live game streams require a phone or tablet\; market and dev
+ ice restrictions apply.\nStreaming listings are for the US\; eligible subs
+ criptions and geographic restrictions apply.\nUS national broadcast.\n\nVe
+ nue\nSoFi Stadium\nInglewood\n\nSchedule source: https://www.nfl.com/games
+ /bills-at-rams-2026-reg-5
+LAST-MODIFIED:20261006T090759Z
 LOCATION:SoFi Stadium\nInglewood
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -436,21 +436,21 @@ BEGIN:VEVENT
 SUMMARY:Washington Commanders @ San Francisco 49ers
 DTSTART:20261020T001500Z
 DTEND:20261020T033000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261006T090759Z
 UID:9c807829b5278b1e878acc5561668453@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nWashington Commanders @ San Francisco 49
  ers\n\nKickoff: Monday\, October 19\, 2026 at 8:15 PM EDT (America/New_Yor
  k)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN
- \, ESPN Deportes\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primet
- ime live game streams require a phone or tablet\; market and device restri
- ctions apply.\nStreaming listings are for the US\; eligible subscriptions 
- and geographic restrictions apply.\nUS national broadcast.\n\nVenue\nLevi'
- s® Stadium\nSanta Clara\n\nSchedule source: https://www.nfl.com/games/com
- manders-at-49ers-2026-reg-6
-LAST-MODIFIED:20260927T005047Z
+ \, ESPN Deportes\, NFL Network\nStreaming: ESPN Unlimited\, NFL+\nNFL+: lo
+ cal and primetime live game streams require a phone or tablet\; market and
+  device restrictions apply.\nStreaming listings are for the US\; eligible 
+ subscriptions and geographic restrictions apply.\nUS national broadcast.\n
+ \nVenue\nLevi's® Stadium\nSanta Clara\n\nSchedule source: https://www.nfl
+ .com/games/commanders-at-49ers-2026-reg-6
+LAST-MODIFIED:20261006T090759Z
 LOCATION:Levi's® Stadium\nSanta Clara
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -506,21 +506,21 @@ BEGIN:VEVENT
 SUMMARY:Dallas Cowboys @ Philadelphia Eagles
 DTSTART:20261027T001500Z
 DTEND:20261027T033000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261006T090759Z
 UID:d64bd2ab7a2894d0bd71694c499a62e3@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nDallas Cowboys @ Philadelphia Eagles\n\n
  Kickoff: Monday\, October 26\, 2026 at 8:15 PM EDT (America/New_York)\nEst
  imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN 
- Deportes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primet
- ime live game streams require a phone or tablet\; market and device restri
- ctions apply.\nStreaming listings are for the US\; eligible subscriptions 
- and geographic restrictions apply.\nUS national broadcast.\n\nVenue\nLinco
- ln Financial Field\nPhiladelphia\n\nSchedule source: https://www.nfl.com/g
- ames/cowboys-at-eagles-2026-reg-7
-LAST-MODIFIED:20260927T005047Z
+ Deportes\, ESPN2\, NFL Network\nStreaming: ESPN Unlimited\, NFL+\nNFL+: lo
+ cal and primetime live game streams require a phone or tablet\; market and
+  device restrictions apply.\nStreaming listings are for the US\; eligible 
+ subscriptions and geographic restrictions apply.\nUS national broadcast.\n
+ \nVenue\nLincoln Financial Field\nPhiladelphia\n\nSchedule source: https:/
+ /www.nfl.com/games/cowboys-at-eagles-2026-reg-7
+LAST-MODIFIED:20261006T090759Z
 LOCATION:Lincoln Financial Field\nPhiladelphia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -1,24 +1,20 @@
 # Schedule changes
 
-Verified: 2026-10-05T21:32:07Z
+Verified: 2026-10-06T09:07:59Z
 
-## UPDATED: CAR @ PHI — Week 6
+## UPDATED: ATL @ NO — Week 4
 
-- Broadcast: tv: CBS; notes: Regional broadcast; local market coverage varies. → tv: CBS; streaming: NFL+, Paramount+; notes: Regional broadcast; local market coverage varies., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., Paramount+: this game must be carried by your local CBS station., NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
+- Status: scheduled → final
 
-## UPDATED: NYJ @ NE — Week 6
+## UPDATED: BUF @ LAR — Week 5
 
-- Broadcast: tv: CBS; notes: Regional broadcast; local market coverage varies. → tv: CBS; streaming: NFL+, Paramount+; notes: Regional broadcast; local market coverage varies., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., Paramount+: this game must be carried by your local CBS station., NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
+- Broadcast: tv: ABC, ESPN, ESPN Deportes, ESPN2; streaming: ESPN Unlimited, NFL+; notes: US national broadcast., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply. → tv: ABC, ESPN, ESPN Deportes, ESPN2, NFL Network; streaming: ESPN Unlimited, NFL+; notes: US national broadcast., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
 
-## UPDATED: PIT @ TB — Week 6
+## UPDATED: WAS @ SF — Week 6
 
-- Broadcast: tv: CBS; notes: Regional broadcast; local market coverage varies. → tv: CBS; streaming: NFL+, Paramount+; notes: Regional broadcast; local market coverage varies., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., Paramount+: this game must be carried by your local CBS station., NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
+- Broadcast: tv: ABC, ESPN, ESPN Deportes; streaming: ESPN Unlimited, NFL+; notes: US national broadcast., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply. → tv: ABC, ESPN, ESPN Deportes, NFL Network; streaming: ESPN Unlimited, NFL+; notes: US national broadcast., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
 
-## UPDATED: BUF @ LV — Week 6
+## UPDATED: DAL @ PHI — Week 7
 
-- Broadcast: tv: CBS; notes: Regional broadcast; local market coverage varies. → tv: CBS; streaming: NFL+, Paramount+; notes: Regional broadcast; local market coverage varies., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., Paramount+: this game must be carried by your local CBS station., NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
-
-## UPDATED: LAC @ KC — Week 6
-
-- Broadcast: tv: CBS; notes: Regional broadcast; local market coverage varies. → tv: CBS; streaming: NFL+, Paramount+; notes: Regional broadcast; local market coverage varies., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., Paramount+: this game must be carried by your local CBS station., NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
+- Broadcast: tv: ABC, ESPN, ESPN Deportes, ESPN2; streaming: ESPN Unlimited, NFL+; notes: US national broadcast., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply. → tv: ABC, ESPN, ESPN Deportes, ESPN2, NFL Network; streaming: ESPN Unlimited, NFL+; notes: US national broadcast., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
 

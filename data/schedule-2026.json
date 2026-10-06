@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "season": 2026,
-  "fetched_at": "2026-10-05T21:32:07Z",
+  "fetched_at": "2026-10-06T09:07:59Z",
   "source": {
     "name": "NFL.com official schedule and game-specific viewing data",
     "url": "https://www.nfl.com/schedules/2026/by-week/week-1"
@@ -2855,7 +2855,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/falcons-at-saints-2026-reg-4",
       "source_ids": {
         "nfl": "aa6b5517-4feb-11f1-abca-2c54536568a9",
@@ -3512,7 +3512,8 @@
           "ABC",
           "ESPN",
           "ESPN Deportes",
-          "ESPN2"
+          "ESPN2",
+          "NFL Network"
         ],
         "streaming": [
           "ESPN Unlimited",
@@ -4100,7 +4101,8 @@
         "tv": [
           "ABC",
           "ESPN",
-          "ESPN Deportes"
+          "ESPN Deportes",
+          "NFL Network"
         ],
         "streaming": [
           "ESPN Unlimited",
@@ -4654,7 +4656,8 @@
           "ABC",
           "ESPN",
           "ESPN Deportes",
-          "ESPN2"
+          "ESPN2",
+          "NFL Network"
         ],
         "streaming": [
           "ESPN Unlimited",

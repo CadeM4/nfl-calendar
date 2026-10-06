@@ -1,142 +1,57 @@
 [
   {
     "kind": "UPDATED",
-    "id": "2026-REG-CAR-PHI",
-    "away": "CAR",
-    "home": "PHI",
-    "week": 6,
+    "id": "2026-REG-ATL-NO",
+    "away": "ATL",
+    "home": "NO",
+    "week": 4,
     "fields": {
-      "broadcast": {
-        "before": {
-          "tv": [
-            "CBS"
-          ],
-          "streaming": [],
-          "notes": [
-            "Regional broadcast; local market coverage varies."
-          ]
-        },
-        "after": {
-          "tv": [
-            "CBS"
-          ],
-          "streaming": [
-            "NFL+",
-            "Paramount+"
-          ],
-          "notes": [
-            "Regional broadcast; local market coverage varies.",
-            "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
-            "Paramount+: this game must be carried by your local CBS station.",
-            "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
-            "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
-          ]
-        }
+      "status": {
+        "before": "scheduled",
+        "after": "final"
       }
     }
   },
   {
     "kind": "UPDATED",
-    "id": "2026-REG-NYJ-NE",
-    "away": "NYJ",
-    "home": "NE",
-    "week": 6,
-    "fields": {
-      "broadcast": {
-        "before": {
-          "tv": [
-            "CBS"
-          ],
-          "streaming": [],
-          "notes": [
-            "Regional broadcast; local market coverage varies."
-          ]
-        },
-        "after": {
-          "tv": [
-            "CBS"
-          ],
-          "streaming": [
-            "NFL+",
-            "Paramount+"
-          ],
-          "notes": [
-            "Regional broadcast; local market coverage varies.",
-            "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
-            "Paramount+: this game must be carried by your local CBS station.",
-            "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
-            "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
-          ]
-        }
-      }
-    }
-  },
-  {
-    "kind": "UPDATED",
-    "id": "2026-REG-PIT-TB",
-    "away": "PIT",
-    "home": "TB",
-    "week": 6,
-    "fields": {
-      "broadcast": {
-        "before": {
-          "tv": [
-            "CBS"
-          ],
-          "streaming": [],
-          "notes": [
-            "Regional broadcast; local market coverage varies."
-          ]
-        },
-        "after": {
-          "tv": [
-            "CBS"
-          ],
-          "streaming": [
-            "NFL+",
-            "Paramount+"
-          ],
-          "notes": [
-            "Regional broadcast; local market coverage varies.",
-            "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
-            "Paramount+: this game must be carried by your local CBS station.",
-            "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
-            "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
-          ]
-        }
-      }
-    }
-  },
-  {
-    "kind": "UPDATED",
-    "id": "2026-REG-BUF-LV",
+    "id": "2026-REG-BUF-LAR",
     "away": "BUF",
-    "home": "LV",
-    "week": 6,
+    "home": "LAR",
+    "week": 5,
     "fields": {
       "broadcast": {
         "before": {
           "tv": [
-            "CBS"
+            "ABC",
+            "ESPN",
+            "ESPN Deportes",
+            "ESPN2"
           ],
-          "streaming": [],
+          "streaming": [
+            "ESPN Unlimited",
+            "NFL+"
+          ],
           "notes": [
-            "Regional broadcast; local market coverage varies."
+            "US national broadcast.",
+            "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
+            "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
           ]
         },
         "after": {
           "tv": [
-            "CBS"
+            "ABC",
+            "ESPN",
+            "ESPN Deportes",
+            "ESPN2",
+            "NFL Network"
           ],
           "streaming": [
-            "NFL+",
-            "Paramount+"
+            "ESPN Unlimited",
+            "NFL+"
           ],
           "notes": [
-            "Regional broadcast; local market coverage varies.",
+            "US national broadcast.",
             "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
-            "Paramount+: this game must be carried by your local CBS station.",
-            "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
             "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
           ]
         }
@@ -145,34 +60,88 @@
   },
   {
     "kind": "UPDATED",
-    "id": "2026-REG-LAC-KC",
-    "away": "LAC",
-    "home": "KC",
+    "id": "2026-REG-WAS-SF",
+    "away": "WAS",
+    "home": "SF",
     "week": 6,
     "fields": {
       "broadcast": {
         "before": {
           "tv": [
-            "CBS"
+            "ABC",
+            "ESPN",
+            "ESPN Deportes"
           ],
-          "streaming": [],
+          "streaming": [
+            "ESPN Unlimited",
+            "NFL+"
+          ],
           "notes": [
-            "Regional broadcast; local market coverage varies."
+            "US national broadcast.",
+            "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
+            "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
           ]
         },
         "after": {
           "tv": [
-            "CBS"
+            "ABC",
+            "ESPN",
+            "ESPN Deportes",
+            "NFL Network"
           ],
           "streaming": [
-            "NFL+",
-            "Paramount+"
+            "ESPN Unlimited",
+            "NFL+"
           ],
           "notes": [
-            "Regional broadcast; local market coverage varies.",
+            "US national broadcast.",
             "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
-            "Paramount+: this game must be carried by your local CBS station.",
-            "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
+            "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
+          ]
+        }
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-DAL-PHI",
+    "away": "DAL",
+    "home": "PHI",
+    "week": 7,
+    "fields": {
+      "broadcast": {
+        "before": {
+          "tv": [
+            "ABC",
+            "ESPN",
+            "ESPN Deportes",
+            "ESPN2"
+          ],
+          "streaming": [
+            "ESPN Unlimited",
+            "NFL+"
+          ],
+          "notes": [
+            "US national broadcast.",
+            "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
+            "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
+          ]
+        },
+        "after": {
+          "tv": [
+            "ABC",
+            "ESPN",
+            "ESPN Deportes",
+            "ESPN2",
+            "NFL Network"
+          ],
+          "streaming": [
+            "ESPN Unlimited",
+            "NFL+"
+          ],
+          "notes": [
+            "US national broadcast.",
+            "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
             "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
           ]
         }
