@@ -335,18 +335,18 @@ BEGIN:VEVENT
 SUMMARY:[Date & time TBD] Carolina Panthers @ Pittsburgh Steelers
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261008T091005Z
 UID:110a78a3ff98473588e6672f9567fbe2@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 16
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 16\n\nCarolina Panthers @ Pittsburgh Steelers
  \n\nDate and kickoff: TBD.\nWeek placeholder: Thursday\, December 24\, 202
  6. This is not a confirmed game date.\nThe event will move to its confirme
- d date and kickoff when announced.\n\nWatch\nBroadcast information: TBD.\n
- \nVenue\nAcrisure Stadium\nPittsburgh\n\nSchedule source: https://www.nfl.
- com/games/panthers-at-steelers-2026-reg-16
-LAST-MODIFIED:20260927T005047Z
+ d date and kickoff when announced.\n\nWatch\nTV: ESPN\, ESPN Deportes\, ES
+ PN2\n\nVenue\nAcrisure Stadium\nPittsburgh\n\nSchedule source: https://www
+ .nfl.com/games/panthers-at-steelers-2026-reg-16
+LAST-MODIFIED:20261008T091005Z
 LOCATION:Acrisure Stadium\nPittsburgh
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT

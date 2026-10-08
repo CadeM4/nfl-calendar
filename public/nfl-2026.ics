@@ -3247,21 +3247,21 @@ BEGIN:VEVENT
 SUMMARY:Buffalo Bills @ Minnesota Vikings
 DTSTART:20261110T011500Z
 DTEND:20261110T043000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261008T091005Z
 UID:9cf4e0e585fd37245244cb29bee75f21@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nBuffalo Bills @ Minnesota Vikings\n\nKic
  koff: Monday\, November 9\, 2026 at 8:15 PM EST (America/New_York)\nEstima
  ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN Dep
- ortes\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetime live ga
- me streams require a phone or tablet\; market and device restrictions appl
- y.\nStreaming listings are for the US\; eligible subscriptions and geograp
- hic restrictions apply.\nUS national broadcast.\n\nVenue\nU.S. Bank Stadiu
- m\nMinneapolis\n\nSchedule source: https://www.nfl.com/games/bills-at-viki
- ngs-2026-reg-9
-LAST-MODIFIED:20260927T005047Z
+ ortes\, ESPN2\, NFL Network\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local
+  and primetime live game streams require a phone or tablet\; market and de
+ vice restrictions apply.\nStreaming listings are for the US\; eligible sub
+ scriptions and geographic restrictions apply.\nUS national broadcast.\n\nV
+ enue\nU.S. Bank Stadium\nMinneapolis\n\nSchedule source: https://www.nfl.c
+ om/games/bills-at-vikings-2026-reg-9
+LAST-MODIFIED:20261008T091005Z
 LOCATION:U.S. Bank Stadium\nMinneapolis
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4806,21 +4806,21 @@ BEGIN:VEVENT
 SUMMARY:Pittsburgh Steelers @ Jacksonville Jaguars
 DTSTART:20261215T011500Z
 DTEND:20261215T043000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261008T091005Z
 UID:b90054d76e7b3fd9d2a4d2d1a9127563@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 14
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 14\n\nPittsburgh Steelers @ Jacksonville Jagu
  ars\n\nKickoff: Monday\, December 14\, 2026 at 8:15 PM EST (America/New_Yo
  rk)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ESPN\, ESP
- N Deportes\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetime li
- ve game streams require a phone or tablet\; market and device restrictions
-  apply.\nStreaming listings are for the US\; eligible subscriptions and ge
- ographic restrictions apply.\nUS national broadcast.\n\nVenue\nEverBank St
- adium\nJacksonville\n\nSchedule source: https://www.nfl.com/games/steelers
- -at-jaguars-2026-reg-14
-LAST-MODIFIED:20260927T005047Z
+ N Deportes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and prim
+ etime live game streams require a phone or tablet\; market and device rest
+ rictions apply.\nStreaming listings are for the US\; eligible subscription
+ s and geographic restrictions apply.\nUS national broadcast.\n\nVenue\nEve
+ rBank Stadium\nJacksonville\n\nSchedule source: https://www.nfl.com/games/
+ steelers-at-jaguars-2026-reg-14
+LAST-MODIFIED:20261008T091005Z
 LOCATION:EverBank Stadium\nJacksonville
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5182,18 +5182,18 @@ BEGIN:VEVENT
 SUMMARY:[Date & time TBD] Carolina Panthers @ Pittsburgh Steelers
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261008T091005Z
 UID:110a78a3ff98473588e6672f9567fbe2@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 16
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 16\n\nCarolina Panthers @ Pittsburgh Steelers
  \n\nDate and kickoff: TBD.\nWeek placeholder: Thursday\, December 24\, 202
  6. This is not a confirmed game date.\nThe event will move to its confirme
- d date and kickoff when announced.\n\nWatch\nBroadcast information: TBD.\n
- \nVenue\nAcrisure Stadium\nPittsburgh\n\nSchedule source: https://www.nfl.
- com/games/panthers-at-steelers-2026-reg-16
-LAST-MODIFIED:20260927T005047Z
+ d date and kickoff when announced.\n\nWatch\nTV: ESPN\, ESPN Deportes\, ES
+ PN2\n\nVenue\nAcrisure Stadium\nPittsburgh\n\nSchedule source: https://www
+ .nfl.com/games/panthers-at-steelers-2026-reg-16
+LAST-MODIFIED:20261008T091005Z
 LOCATION:Acrisure Stadium\nPittsburgh
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT

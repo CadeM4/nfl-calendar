@@ -1,10 +1,10 @@
 # Games awaiting schedule information
 
-Last verified: 2026-10-08T00:16:06Z
+Last verified: 2026-10-08T09:10:05Z
 
 Week | Away | Home | Date | Kickoff | Broadcast
 --- | --- | --- | --- | --- | ---
-16 | Carolina Panthers | Pittsburgh Steelers | TBD | TBD | TBD
+16 | Carolina Panthers | Pittsburgh Steelers | TBD | TBD | Known
 16 | Cincinnati Bengals | Indianapolis Colts | TBD | TBD | TBD
 16 | Tampa Bay Buccaneers | Atlanta Falcons | TBD | TBD | TBD
 16 | Washington Commanders | Minnesota Vikings | TBD | TBD | TBD

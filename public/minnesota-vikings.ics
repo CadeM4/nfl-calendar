@@ -185,21 +185,21 @@ BEGIN:VEVENT
 SUMMARY:Buffalo Bills @ Minnesota Vikings
 DTSTART:20261110T011500Z
 DTEND:20261110T043000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261008T091005Z
 UID:9cf4e0e585fd37245244cb29bee75f21@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nBuffalo Bills @ Minnesota Vikings\n\nKic
  koff: Monday\, November 9\, 2026 at 8:15 PM EST (America/New_York)\nEstima
  ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN Dep
- ortes\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetime live ga
- me streams require a phone or tablet\; market and device restrictions appl
- y.\nStreaming listings are for the US\; eligible subscriptions and geograp
- hic restrictions apply.\nUS national broadcast.\n\nVenue\nU.S. Bank Stadiu
- m\nMinneapolis\n\nSchedule source: https://www.nfl.com/games/bills-at-viki
- ngs-2026-reg-9
-LAST-MODIFIED:20260927T005047Z
+ ortes\, ESPN2\, NFL Network\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local
+  and primetime live game streams require a phone or tablet\; market and de
+ vice restrictions apply.\nStreaming listings are for the US\; eligible sub
+ scriptions and geographic restrictions apply.\nUS national broadcast.\n\nV
+ enue\nU.S. Bank Stadium\nMinneapolis\n\nSchedule source: https://www.nfl.c
+ om/games/bills-at-vikings-2026-reg-9
+LAST-MODIFIED:20261008T091005Z
 LOCATION:U.S. Bank Stadium\nMinneapolis
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

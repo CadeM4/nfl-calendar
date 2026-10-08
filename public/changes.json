@@ -1,18 +1,17 @@
 [
   {
     "kind": "UPDATED",
-    "id": "2026-REG-WAS-SF",
-    "away": "WAS",
-    "home": "SF",
-    "week": 6,
+    "id": "2026-REG-BUF-MIN",
+    "away": "BUF",
+    "home": "MIN",
+    "week": 9,
     "fields": {
       "broadcast": {
         "before": {
           "tv": [
             "ABC",
             "ESPN",
-            "ESPN Deportes",
-            "NFL Network"
+            "ESPN Deportes"
           ],
           "streaming": [
             "ESPN Unlimited",
@@ -47,10 +46,10 @@
   },
   {
     "kind": "UPDATED",
-    "id": "2026-REG-CAR-TB",
-    "away": "CAR",
-    "home": "TB",
-    "week": 12,
+    "id": "2026-REG-PIT-JAX",
+    "away": "PIT",
+    "home": "JAX",
+    "week": 14,
     "fields": {
       "broadcast": {
         "before": {
@@ -83,6 +82,31 @@
             "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
             "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
           ]
+        }
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-CAR-PIT",
+    "away": "CAR",
+    "home": "PIT",
+    "week": 16,
+    "fields": {
+      "broadcast": {
+        "before": {
+          "tv": [],
+          "streaming": [],
+          "notes": []
+        },
+        "after": {
+          "tv": [
+            "ESPN",
+            "ESPN Deportes",
+            "ESPN2"
+          ],
+          "streaming": [],
+          "notes": []
         }
       }
     }
