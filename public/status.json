@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "fetched_at": "2026-10-08T09:10:05Z",
+  "fetched_at": "2026-10-08T20:00:13Z",
   "source": {
     "name": "NFL.com official schedule and game-specific viewing data",
     "url": "https://www.nfl.com/schedules/2026/by-week/week-1"
@@ -517,6 +517,6 @@
     }
   ],
   "primetime_count": 55,
-  "change_count": 3,
+  "change_count": 0,
   "refresh_hours": 6
 }
