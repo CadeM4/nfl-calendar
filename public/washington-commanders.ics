@@ -142,21 +142,21 @@ BEGIN:VEVENT
 SUMMARY:Washington Commanders @ San Francisco 49ers
 DTSTART:20261020T001500Z
 DTEND:20261020T033000Z
-DTSTAMP:20261006T090759Z
+DTSTAMP:20261008T001606Z
 UID:9c807829b5278b1e878acc5561668453@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nWashington Commanders @ San Francisco 49
  ers\n\nKickoff: Monday\, October 19\, 2026 at 8:15 PM EDT (America/New_Yor
  k)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN
- \, ESPN Deportes\, NFL Network\nStreaming: ESPN Unlimited\, NFL+\nNFL+: lo
- cal and primetime live game streams require a phone or tablet\; market and
-  device restrictions apply.\nStreaming listings are for the US\; eligible 
- subscriptions and geographic restrictions apply.\nUS national broadcast.\n
- \nVenue\nLevi's® Stadium\nSanta Clara\n\nSchedule source: https://www.nfl
- .com/games/commanders-at-49ers-2026-reg-6
-LAST-MODIFIED:20261006T090759Z
+ \, ESPN Deportes\, ESPN2\, NFL Network\nStreaming: ESPN Unlimited\, NFL+\n
+ NFL+: local and primetime live game streams require a phone or tablet\; ma
+ rket and device restrictions apply.\nStreaming listings are for the US\; e
+ ligible subscriptions and geographic restrictions apply.\nUS national broa
+ dcast.\n\nVenue\nLevi's® Stadium\nSanta Clara\n\nSchedule source: https:/
+ /www.nfl.com/games/commanders-at-49ers-2026-reg-6
+LAST-MODIFIED:20261008T001606Z
 LOCATION:Levi's® Stadium\nSanta Clara
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
