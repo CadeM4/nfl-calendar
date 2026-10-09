@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "season": 2026,
-  "fetched_at": "2026-10-09T09:18:42Z",
+  "fetched_at": "2026-10-09T19:35:22Z",
   "source": {
     "name": "NFL.com official schedule and game-specific viewing data",
     "url": "https://www.nfl.com/schedules/2026/by-week/week-1"
@@ -3512,8 +3512,7 @@
           "ABC",
           "ESPN",
           "ESPN Deportes",
-          "ESPN2",
-          "NFL Network"
+          "ESPN2"
         ],
         "streaming": [
           "ESPN Unlimited",

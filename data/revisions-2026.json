@@ -468,10 +468,10 @@
     "fingerprint": "38d10f3ba9b5afadbe42616b1f5daad1832e29de983ae4fa3f9a58d779a458bf"
   },
   "2026-REG-BUF-LAR": {
-    "sequence": 1,
+    "sequence": 2,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-10-06T09:07:59Z",
-    "fingerprint": "3f561dae4b3f6782933789337ae0b0b643929d0807dda0969e16093e78254acf"
+    "modified": "2026-10-09T19:35:22Z",
+    "fingerprint": "6f0e60e0d06a4f40c99239a4ad0d379bd5ff4d1f9bb57757abd54bc3a51e054b"
   },
   "2026-REG-SEA-DEN": {
     "sequence": 0,
