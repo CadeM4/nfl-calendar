@@ -1644,9 +1644,9 @@ BEGIN:VEVENT
 SUMMARY:Tampa Bay Buccaneers @ Dallas Cowboys
 DTSTART:20261009T001500Z
 DTEND:20261009T033000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261009T002929Z
 UID:f52f9175caafe5ab52168feae0fee960@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nTampa Bay Buccaneers @ Dallas Cowboys\n
@@ -1657,7 +1657,7 @@ DESCRIPTION:NFL 2026 · Week 5\n\nTampa Bay Buccaneers @ Dallas Cowboys\n
  r the US\; eligible subscriptions and geographic restrictions apply.\nUS n
  ational broadcast.\n\nVenue\nAT&T Stadium\nArlington\n\nSchedule source: h
  ttps://www.nfl.com/games/buccaneers-at-cowboys-2026-reg-5
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261009T002929Z
 LOCATION:AT&T Stadium\nArlington
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

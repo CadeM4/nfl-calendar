@@ -1,5 +1,8 @@
 # Schedule changes
 
-Verified: 2026-10-08T20:00:13Z
+Verified: 2026-10-09T00:29:29Z
 
-No event changes since the previous successful refresh.
+## UPDATED: TB @ DAL — Week 5
+
+- Status: scheduled → live
+

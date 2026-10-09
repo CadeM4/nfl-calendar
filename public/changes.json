@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-TB-DAL",
+    "away": "TB",
+    "home": "DAL",
+    "week": 5,
+    "fields": {
+      "status": {
+        "before": "scheduled",
+        "after": "live"
+      }
+    }
+  }
+]
