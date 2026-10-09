@@ -1,8 +1,8 @@
 # Schedule changes
 
-Verified: 2026-10-09T00:29:29Z
+Verified: 2026-10-09T09:18:42Z
 
 ## UPDATED: TB @ DAL — Week 5
 
-- Status: scheduled → live
+- Status: live → final
 

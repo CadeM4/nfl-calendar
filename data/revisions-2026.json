@@ -384,10 +384,10 @@
     "fingerprint": "ba32c9c5f368b51936fa062ecf289e1f2c301ed4073c9f73a33d2fde7831f1cd"
   },
   "2026-REG-TB-DAL": {
-    "sequence": 1,
+    "sequence": 2,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-10-09T00:29:29Z",
-    "fingerprint": "4821419933959bef9787e86ce62776adffdfb25dd1b9726e6c8f2bdcd7164bc7"
+    "modified": "2026-10-09T09:18:42Z",
+    "fingerprint": "01bd3211c944b6e3d6ada06d8bf0b79459422d6bd0a0a9400e842fa624665876"
   },
   "2026-REG-PHI-JAX": {
     "sequence": 0,
