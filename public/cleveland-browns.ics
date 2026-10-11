@@ -115,9 +115,9 @@ BEGIN:VEVENT
 SUMMARY:Cleveland Browns @ New York Jets
 DTSTART:20261011T170000Z
 DTEND:20261011T201500Z
-DTSTAMP:20260928T203704Z
+DTSTAMP:20261011T190104Z
 UID:73210e3d770caffecb6b8641e237e314@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nCleveland Browns @ New York Jets\n\nKick
@@ -131,7 +131,7 @@ DESCRIPTION:NFL 2026 · Week 5\n\nCleveland Browns @ New York Jets\n\nKick
   for the US\; eligible subscriptions and geographic restrictions apply.\n
  \nVenue\nMetLife Stadium\nEast Rutherford\n\nSchedule source: https://www.
  nfl.com/games/browns-at-jets-2026-reg-5
-LAST-MODIFIED:20260928T203704Z
+LAST-MODIFIED:20261011T190104Z
 LOCATION:MetLife Stadium\nEast Rutherford
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

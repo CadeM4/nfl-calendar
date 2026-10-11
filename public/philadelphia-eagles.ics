@@ -116,9 +116,9 @@ BEGIN:VEVENT
 SUMMARY:Philadelphia Eagles @ Jacksonville Jaguars
 DTSTART:20261011T133000Z
 DTEND:20261011T164500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261011T190104Z
 UID:ac2432812aade4a2aa55cfd6b3b90510@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nPhiladelphia Eagles @ Jacksonville Jagua
@@ -130,7 +130,7 @@ DESCRIPTION:NFL 2026 · Week 5\n\nPhiladelphia Eagles @ Jacksonville Jagua
  estrictions apply.\nUS national broadcast.\n\nVenue\nTottenham Hotspur Sta
  dium\nLondon\, England\n\nSchedule source: https://www.nfl.com/games/eagle
  s-at-jaguars-2026-reg-5
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261011T190104Z
 LOCATION:Tottenham Hotspur Stadium\nLondon\, England
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
