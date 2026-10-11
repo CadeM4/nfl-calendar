@@ -118,9 +118,9 @@ BEGIN:VEVENT
 SUMMARY:Detroit Lions @ Arizona Cardinals
 DTSTART:20261011T202500Z
 DTEND:20261011T234000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261011T234540Z
 UID:62315a1b142b933b349c8b5097e80325@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nDetroit Lions @ Arizona Cardinals\n\nKic
@@ -134,7 +134,7 @@ DESCRIPTION:NFL 2026 · Week 5\n\nDetroit Lions @ Arizona Cardinals\n\nKic
   US\; eligible subscriptions and geographic restrictions apply.\n\nVenue\n
  State Farm Stadium\nGlendale\n\nSchedule source: https://www.nfl.com/games
  /lions-at-cardinals-2026-reg-5
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261011T234540Z
 LOCATION:State Farm Stadium\nGlendale
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

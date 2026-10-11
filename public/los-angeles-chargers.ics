@@ -118,9 +118,9 @@ BEGIN:VEVENT
 SUMMARY:Denver Broncos @ Los Angeles Chargers
 DTSTART:20261011T200500Z
 DTEND:20261011T232000Z
-DTSTAMP:20260928T084826Z
+DTSTAMP:20261011T234540Z
 UID:2b8f2084c2d71dfc3f4cca846bf74ae0@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nDenver Broncos @ Los Angeles Chargers\n
@@ -134,7 +134,7 @@ DESCRIPTION:NFL 2026 · Week 5\n\nDenver Broncos @ Los Angeles Chargers\n
  gs are for the US\; eligible subscriptions and geographic restrictions app
  ly.\n\nVenue\nSoFi Stadium\nInglewood\n\nSchedule source: https://www.nfl.
  com/games/broncos-at-chargers-2026-reg-5
-LAST-MODIFIED:20260928T084826Z
+LAST-MODIFIED:20261011T234540Z
 LOCATION:SoFi Stadium\nInglewood
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

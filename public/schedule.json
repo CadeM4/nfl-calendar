@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "season": 2026,
-  "fetched_at": "2026-10-11T19:01:04Z",
+  "fetched_at": "2026-10-11T23:45:40Z",
   "source": {
     "name": "NFL.com official schedule and game-specific viewing data",
     "url": "https://www.nfl.com/schedules/2026/by-week/week-1"
@@ -2984,7 +2984,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/bears-at-packers-2026-reg-5",
       "source_ids": {
         "nfl": "aa94c2ef-4feb-11f1-abca-2c54536568a9",
@@ -3029,7 +3029,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/bengals-at-dolphins-2026-reg-5",
       "source_ids": {
         "nfl": "aa6b5f66-4feb-11f1-abca-2c54536568a9",
@@ -3074,7 +3074,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/browns-at-jets-2026-reg-5",
       "source_ids": {
         "nfl": "aa6b69bb-4feb-11f1-abca-2c54536568a9",
@@ -3119,7 +3119,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/texans-at-titans-2026-reg-5",
       "source_ids": {
         "nfl": "aa94b527-4feb-11f1-abca-2c54536568a9",
@@ -3164,7 +3164,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/colts-at-steelers-2026-reg-5",
       "source_ids": {
         "nfl": "aa94ac06-4feb-11f1-abca-2c54536568a9",
@@ -3209,7 +3209,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/raiders-at-patriots-2026-reg-5",
       "source_ids": {
         "nfl": "aa6b6286-4feb-11f1-abca-2c54536568a9",
@@ -3254,7 +3254,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/vikings-at-saints-2026-reg-5",
       "source_ids": {
         "nfl": "aa6b65b1-4feb-11f1-abca-2c54536568a9",
@@ -3299,7 +3299,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/giants-at-commanders-2026-reg-5",
       "source_ids": {
         "nfl": "aa94b906-4feb-11f1-abca-2c54536568a9",
@@ -3344,7 +3344,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/broncos-at-chargers-2026-reg-5",
       "source_ids": {
         "nfl": "aa94bc51-4feb-11f1-abca-2c54536568a9",
@@ -3389,7 +3389,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/lions-at-cardinals-2026-reg-5",
       "source_ids": {
         "nfl": "aa94bfce-4feb-11f1-abca-2c54536568a9",
@@ -3434,7 +3434,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/49ers-at-seahawks-2026-reg-5",
       "source_ids": {
         "nfl": "aa94c647-4feb-11f1-abca-2c54536568a9",

@@ -1,27 +1,14 @@
 [
   {
     "kind": "UPDATED",
-    "id": "2026-REG-PHI-JAX",
-    "away": "PHI",
-    "home": "JAX",
-    "week": 5,
-    "fields": {
-      "status": {
-        "before": "scheduled",
-        "after": "final"
-      }
-    }
-  },
-  {
-    "kind": "UPDATED",
     "id": "2026-REG-CHI-GB",
     "away": "CHI",
     "home": "GB",
     "week": 5,
     "fields": {
       "status": {
-        "before": "scheduled",
-        "after": "live"
+        "before": "live",
+        "after": "final"
       }
     }
   },
@@ -33,8 +20,8 @@
     "week": 5,
     "fields": {
       "status": {
-        "before": "scheduled",
-        "after": "live"
+        "before": "live",
+        "after": "final"
       }
     }
   },
@@ -46,8 +33,8 @@
     "week": 5,
     "fields": {
       "status": {
-        "before": "scheduled",
-        "after": "live"
+        "before": "live",
+        "after": "final"
       }
     }
   },
@@ -59,8 +46,8 @@
     "week": 5,
     "fields": {
       "status": {
-        "before": "scheduled",
-        "after": "live"
+        "before": "live",
+        "after": "final"
       }
     }
   },
@@ -72,8 +59,8 @@
     "week": 5,
     "fields": {
       "status": {
-        "before": "scheduled",
-        "after": "live"
+        "before": "live",
+        "after": "final"
       }
     }
   },
@@ -85,8 +72,8 @@
     "week": 5,
     "fields": {
       "status": {
-        "before": "scheduled",
-        "after": "live"
+        "before": "live",
+        "after": "final"
       }
     }
   },
@@ -98,8 +85,8 @@
     "week": 5,
     "fields": {
       "status": {
-        "before": "scheduled",
-        "after": "live"
+        "before": "live",
+        "after": "final"
       }
     }
   },
@@ -108,6 +95,45 @@
     "id": "2026-REG-NYG-WAS",
     "away": "NYG",
     "home": "WAS",
+    "week": 5,
+    "fields": {
+      "status": {
+        "before": "live",
+        "after": "final"
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-DEN-LAC",
+    "away": "DEN",
+    "home": "LAC",
+    "week": 5,
+    "fields": {
+      "status": {
+        "before": "scheduled",
+        "after": "final"
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-DET-ARI",
+    "away": "DET",
+    "home": "ARI",
+    "week": 5,
+    "fields": {
+      "status": {
+        "before": "scheduled",
+        "after": "final"
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-SF-SEA",
+    "away": "SF",
+    "home": "SEA",
     "week": 5,
     "fields": {
       "status": {

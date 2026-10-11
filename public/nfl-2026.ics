@@ -1691,9 +1691,9 @@ BEGIN:VEVENT
 SUMMARY:Chicago Bears @ Green Bay Packers
 DTSTART:20261011T170000Z
 DTEND:20261011T201500Z
-DTSTAMP:20261011T190104Z
+DTSTAMP:20261011T234540Z
 UID:5252a8c9e60986a01f4fb1f25f49f707@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nChicago Bears @ Green Bay Packers\n\nKic
@@ -1707,7 +1707,7 @@ DESCRIPTION:NFL 2026 · Week 5\n\nChicago Bears @ Green Bay Packers\n\nKic
   US\; eligible subscriptions and geographic restrictions apply.\n\nVenue\n
  Lambeau Field\nGreen Bay\n\nSchedule source: https://www.nfl.com/games/bea
  rs-at-packers-2026-reg-5
-LAST-MODIFIED:20261011T190104Z
+LAST-MODIFIED:20261011T234540Z
 LOCATION:Lambeau Field\nGreen Bay
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1717,9 +1717,9 @@ BEGIN:VEVENT
 SUMMARY:Cincinnati Bengals @ Miami Dolphins
 DTSTART:20261011T170000Z
 DTEND:20261011T201500Z
-DTSTAMP:20261011T190104Z
+DTSTAMP:20261011T234540Z
 UID:5b00def38bcca13e584b64513987d2b3@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nCincinnati Bengals @ Miami Dolphins\n\nK
@@ -1733,7 +1733,7 @@ DESCRIPTION:NFL 2026 · Week 5\n\nCincinnati Bengals @ Miami Dolphins\n\nK
  he US\; eligible subscriptions and geographic restrictions apply.\n\nVenue
  \nHard Rock Stadium\nOpa Locka\n\nSchedule source: https://www.nfl.com/gam
  es/bengals-at-dolphins-2026-reg-5
-LAST-MODIFIED:20261011T190104Z
+LAST-MODIFIED:20261011T234540Z
 LOCATION:Hard Rock Stadium\nOpa Locka
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1743,9 +1743,9 @@ BEGIN:VEVENT
 SUMMARY:Cleveland Browns @ New York Jets
 DTSTART:20261011T170000Z
 DTEND:20261011T201500Z
-DTSTAMP:20261011T190104Z
+DTSTAMP:20261011T234540Z
 UID:73210e3d770caffecb6b8641e237e314@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nCleveland Browns @ New York Jets\n\nKick
@@ -1759,7 +1759,7 @@ DESCRIPTION:NFL 2026 · Week 5\n\nCleveland Browns @ New York Jets\n\nKick
   for the US\; eligible subscriptions and geographic restrictions apply.\n
  \nVenue\nMetLife Stadium\nEast Rutherford\n\nSchedule source: https://www.
  nfl.com/games/browns-at-jets-2026-reg-5
-LAST-MODIFIED:20261011T190104Z
+LAST-MODIFIED:20261011T234540Z
 LOCATION:MetLife Stadium\nEast Rutherford
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1769,9 +1769,9 @@ BEGIN:VEVENT
 SUMMARY:Houston Texans @ Tennessee Titans
 DTSTART:20261011T170000Z
 DTEND:20261011T201500Z
-DTSTAMP:20261011T190104Z
+DTSTAMP:20261011T234540Z
 UID:bae3c6bec8242a67a47399ea21ec0d51@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nHouston Texans @ Tennessee Titans\n\nKic
@@ -1785,7 +1785,7 @@ DESCRIPTION:NFL 2026 · Week 5\n\nHouston Texans @ Tennessee Titans\n\nKic
  re for the US\; eligible subscriptions and geographic restrictions apply.
  \n\nVenue\nNissan Stadium\nNashville\n\nSchedule source: https://www.nfl.c
  om/games/texans-at-titans-2026-reg-5
-LAST-MODIFIED:20261011T190104Z
+LAST-MODIFIED:20261011T234540Z
 LOCATION:Nissan Stadium\nNashville
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1795,9 +1795,9 @@ BEGIN:VEVENT
 SUMMARY:Indianapolis Colts @ Pittsburgh Steelers
 DTSTART:20261011T170000Z
 DTEND:20261011T201500Z
-DTSTAMP:20261011T190104Z
+DTSTAMP:20261011T234540Z
 UID:41e86e0f3dd9de998f1d283981a0c5c1@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nIndianapolis Colts @ Pittsburgh Steelers
@@ -1811,7 +1811,7 @@ DESCRIPTION:NFL 2026 · Week 5\n\nIndianapolis Colts @ Pittsburgh Steelers
  tings are for the US\; eligible subscriptions and geographic restrictions 
  apply.\n\nVenue\nAcrisure Stadium\nPittsburgh\n\nSchedule source: https://
  www.nfl.com/games/colts-at-steelers-2026-reg-5
-LAST-MODIFIED:20261011T190104Z
+LAST-MODIFIED:20261011T234540Z
 LOCATION:Acrisure Stadium\nPittsburgh
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1821,9 +1821,9 @@ BEGIN:VEVENT
 SUMMARY:Las Vegas Raiders @ New England Patriots
 DTSTART:20261011T170000Z
 DTEND:20261011T201500Z
-DTSTAMP:20261011T190104Z
+DTSTAMP:20261011T234540Z
 UID:2cfd71222d73cf50e679694a139e75f3@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nLas Vegas Raiders @ New England Patriots
@@ -1837,7 +1837,7 @@ DESCRIPTION:NFL 2026 · Week 5\n\nLas Vegas Raiders @ New England Patriots
  tings are for the US\; eligible subscriptions and geographic restrictions 
  apply.\n\nVenue\nGillette Stadium\nFoxborough\n\nSchedule source: https://
  www.nfl.com/games/raiders-at-patriots-2026-reg-5
-LAST-MODIFIED:20261011T190104Z
+LAST-MODIFIED:20261011T234540Z
 LOCATION:Gillette Stadium\nFoxborough
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1847,9 +1847,9 @@ BEGIN:VEVENT
 SUMMARY:Minnesota Vikings @ New Orleans Saints
 DTSTART:20261011T170000Z
 DTEND:20261011T201500Z
-DTSTAMP:20261011T190104Z
+DTSTAMP:20261011T234540Z
 UID:2cfc35aa2d2c2bd8909108c9de456114@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nMinnesota Vikings @ New Orleans Saints\n
@@ -1863,7 +1863,7 @@ DESCRIPTION:NFL 2026 · Week 5\n\nMinnesota Vikings @ New Orleans Saints\n
  r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
  nue\nCaesars Superdome\nNew Orleans\n\nSchedule source: https://www.nfl.co
  m/games/vikings-at-saints-2026-reg-5
-LAST-MODIFIED:20261011T190104Z
+LAST-MODIFIED:20261011T234540Z
 LOCATION:Caesars Superdome\nNew Orleans
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1873,9 +1873,9 @@ BEGIN:VEVENT
 SUMMARY:New York Giants @ Washington Commanders
 DTSTART:20261011T170000Z
 DTEND:20261011T201500Z
-DTSTAMP:20261011T190104Z
+DTSTAMP:20261011T234540Z
 UID:8e9bd57060adca3e37c8a8a3c9dd8493@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nNew York Giants @ Washington Commanders
@@ -1889,7 +1889,7 @@ DESCRIPTION:NFL 2026 · Week 5\n\nNew York Giants @ Washington Commanders
   for the US\; eligible subscriptions and geographic restrictions apply.\n
  \nVenue\nNorthwest Stadium\nLandover\n\nSchedule source: https://www.nfl.c
  om/games/giants-at-commanders-2026-reg-5
-LAST-MODIFIED:20261011T190104Z
+LAST-MODIFIED:20261011T234540Z
 LOCATION:Northwest Stadium\nLandover
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1899,9 +1899,9 @@ BEGIN:VEVENT
 SUMMARY:Denver Broncos @ Los Angeles Chargers
 DTSTART:20261011T200500Z
 DTEND:20261011T232000Z
-DTSTAMP:20260928T084826Z
+DTSTAMP:20261011T234540Z
 UID:2b8f2084c2d71dfc3f4cca846bf74ae0@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nDenver Broncos @ Los Angeles Chargers\n
@@ -1915,7 +1915,7 @@ DESCRIPTION:NFL 2026 · Week 5\n\nDenver Broncos @ Los Angeles Chargers\n
  gs are for the US\; eligible subscriptions and geographic restrictions app
  ly.\n\nVenue\nSoFi Stadium\nInglewood\n\nSchedule source: https://www.nfl.
  com/games/broncos-at-chargers-2026-reg-5
-LAST-MODIFIED:20260928T084826Z
+LAST-MODIFIED:20261011T234540Z
 LOCATION:SoFi Stadium\nInglewood
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1925,9 +1925,9 @@ BEGIN:VEVENT
 SUMMARY:Detroit Lions @ Arizona Cardinals
 DTSTART:20261011T202500Z
 DTEND:20261011T234000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261011T234540Z
 UID:62315a1b142b933b349c8b5097e80325@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nDetroit Lions @ Arizona Cardinals\n\nKic
@@ -1941,7 +1941,7 @@ DESCRIPTION:NFL 2026 · Week 5\n\nDetroit Lions @ Arizona Cardinals\n\nKic
   US\; eligible subscriptions and geographic restrictions apply.\n\nVenue\n
  State Farm Stadium\nGlendale\n\nSchedule source: https://www.nfl.com/games
  /lions-at-cardinals-2026-reg-5
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261011T234540Z
 LOCATION:State Farm Stadium\nGlendale
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1951,9 +1951,9 @@ BEGIN:VEVENT
 SUMMARY:San Francisco 49ers @ Seattle Seahawks
 DTSTART:20261011T202500Z
 DTEND:20261011T234000Z
-DTSTAMP:20260927T082158Z
+DTSTAMP:20261011T234540Z
 UID:296c77af257032eca868f9c51f2251bf@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nSan Francisco 49ers @ Seattle Seahawks\n
@@ -1967,7 +1967,7 @@ DESCRIPTION:NFL 2026 · Week 5\n\nSan Francisco 49ers @ Seattle Seahawks\n
  r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
  nue\nLumen Field\nSeattle\n\nSchedule source: https://www.nfl.com/games/49
  ers-at-seahawks-2026-reg-5
-LAST-MODIFIED:20260927T082158Z
+LAST-MODIFIED:20261011T234540Z
 LOCATION:Lumen Field\nSeattle
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
