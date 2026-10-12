@@ -343,9 +343,9 @@ BEGIN:VEVENT
 SUMMARY:Baltimore Ravens @ Atlanta Falcons
 DTSTART:20261012T002000Z
 DTEND:20261012T033500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261012T092630Z
 UID:9b184e01689fec97d72372114a2429a8@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 5
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 5\n\nBaltimore Ravens @ Atlanta Falcons\n\nKi
@@ -356,7 +356,7 @@ DESCRIPTION:NFL 2026 · Week 5\n\nBaltimore Ravens @ Atlanta Falcons\n\nKi
  ings are for the US\; eligible subscriptions and geographic restrictions a
  pply.\nUS national broadcast.\n\nVenue\nMercedes-Benz Stadium\nAtlanta\n\n
  Schedule source: https://www.nfl.com/games/ravens-at-falcons-2026-reg-5
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261012T092630Z
 LOCATION:Mercedes-Benz Stadium\nAtlanta
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -456,16 +456,16 @@
     "fingerprint": "3eefbc53e7f8a98e4c202dbd4ce8037aa572218cbc79d29e10d160d0fdebdea1"
   },
   "2026-REG-SF-SEA": {
-    "sequence": 2,
+    "sequence": 3,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-10-11T23:45:40Z",
-    "fingerprint": "1aa3a10cb1dc254ae9687e7a5638c65fc087319c58d53787f3cc9dc1e1527e16"
+    "modified": "2026-10-12T09:26:30Z",
+    "fingerprint": "57dd28128e73cacc82056f2dcb1c3005df478bdf3660ba1ce7c2f53f1a4c6a55"
   },
   "2026-REG-BAL-ATL": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "38d10f3ba9b5afadbe42616b1f5daad1832e29de983ae4fa3f9a58d779a458bf"
+    "modified": "2026-10-12T09:26:30Z",
+    "fingerprint": "fcf7d57b2cf40e1c8f5df444bcd95dae24a2badac6b1f72c0c7079f710684df1"
   },
   "2026-REG-BUF-LAR": {
     "sequence": 2,

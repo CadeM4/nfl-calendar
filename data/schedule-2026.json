@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "season": 2026,
-  "fetched_at": "2026-10-11T23:45:40Z",
+  "fetched_at": "2026-10-12T09:26:30Z",
   "source": {
     "name": "NFL.com official schedule and game-specific viewing data",
     "url": "https://www.nfl.com/schedules/2026/by-week/week-1"
@@ -3434,7 +3434,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/49ers-at-seahawks-2026-reg-5",
       "source_ids": {
         "nfl": "aa94c647-4feb-11f1-abca-2c54536568a9",
@@ -3478,7 +3478,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/ravens-at-falcons-2026-reg-5",
       "source_ids": {
         "nfl": "aa94c94d-4feb-11f1-abca-2c54536568a9",
