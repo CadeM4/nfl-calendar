@@ -144,17 +144,23 @@ BEGIN:VEVENT
 SUMMARY:Arizona Cardinals @ Los Angeles Rams
 DTSTART:20261018T200500Z
 DTEND:20261018T232000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261012T221031Z
 UID:92800f93a6a1bff3cf4afeb7e70027d3@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nArizona Cardinals @ Los Angeles Rams\n\n
  Kickoff: Sunday\, October 18\, 2026 at 4:05 PM EDT (America/New_York)\nEst
- imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broa
- dcast\; local market coverage varies.\n\nVenue\nSoFi Stadium\nInglewood\n
- \nSchedule source: https://www.nfl.com/games/cardinals-at-rams-2026-reg-6
-LAST-MODIFIED:20260927T005047Z
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FO
+ X One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\n
+ NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local
+  and national blackouts apply.\nNFL+: local and primetime live game stream
+ s require a phone or tablet\; market and device restrictions apply.\nRegio
+ nal broadcast\; local market coverage varies.\nStreaming listings are for 
+ the US\; eligible subscriptions and geographic restrictions apply.\n\nVenu
+ e\nSoFi Stadium\nInglewood\n\nSchedule source: https://www.nfl.com/games/c
+ ardinals-at-rams-2026-reg-6
+LAST-MODIFIED:20261012T221031Z
 LOCATION:SoFi Stadium\nInglewood
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

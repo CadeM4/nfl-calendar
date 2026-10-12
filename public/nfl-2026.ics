@@ -2071,18 +2071,23 @@ BEGIN:VEVENT
 SUMMARY:Baltimore Ravens @ Cleveland Browns
 DTSTART:20261018T170000Z
 DTEND:20261018T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261012T221031Z
 UID:db6aa8428ae776a91064ff74a71a52b9@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nBaltimore Ravens @ Cleveland Browns\n\nK
  ickoff: Sunday\, October 18\, 2026 at 1:00 PM EDT (America/New_York)\nEsti
- mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broad
- cast\; local market coverage varies.\n\nVenue\nHuntington Bank Field\nClev
- eland\n\nSchedule source: https://www.nfl.com/games/ravens-at-browns-2026-
- reg-6
-LAST-MODIFIED:20260927T005047Z
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX
+  One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nN
+ FL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local 
+ and national blackouts apply.\nNFL+: local and primetime live game streams
+  require a phone or tablet\; market and device restrictions apply.\nRegion
+ al broadcast\; local market coverage varies.\nStreaming listings are for t
+ he US\; eligible subscriptions and geographic restrictions apply.\n\nVenue
+ \nHuntington Bank Field\nCleveland\n\nSchedule source: https://www.nfl.com
+ /games/ravens-at-browns-2026-reg-6
+LAST-MODIFIED:20261012T221031Z
 LOCATION:Huntington Bank Field\nCleveland
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2118,17 +2123,23 @@ BEGIN:VEVENT
 SUMMARY:Chicago Bears @ Atlanta Falcons
 DTSTART:20261018T170000Z
 DTEND:20261018T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261012T221031Z
 UID:2074579d4eb58bb18fb7c3c7f58a22e4@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nChicago Bears @ Atlanta Falcons\n\nKicko
  ff: Sunday\, October 18\, 2026 at 1:00 PM EDT (America/New_York)\nEstimate
- d game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadcast
- \; local market coverage varies.\n\nVenue\nMercedes-Benz Stadium\nAtlanta
- \n\nSchedule source: https://www.nfl.com/games/bears-at-falcons-2026-reg-6
-LAST-MODIFIED:20260927T005047Z
+ d game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX One
+ \, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nNFL S
+ unday Ticket: eligible out-of-market Sunday afternoon viewing\; local and 
+ national blackouts apply.\nNFL+: local and primetime live game streams req
+ uire a phone or tablet\; market and device restrictions apply.\nRegional b
+ roadcast\; local market coverage varies.\nStreaming listings are for the U
+ S\; eligible subscriptions and geographic restrictions apply.\n\nVenue\nMe
+ rcedes-Benz Stadium\nAtlanta\n\nSchedule source: https://www.nfl.com/games
+ /bears-at-falcons-2026-reg-6
+LAST-MODIFIED:20261012T221031Z
 LOCATION:Mercedes-Benz Stadium\nAtlanta
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2138,18 +2149,23 @@ BEGIN:VEVENT
 SUMMARY:New Orleans Saints @ New York Giants
 DTSTART:20261018T170000Z
 DTEND:20261018T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261012T221031Z
 UID:d5097b00bc74b071f29b2bc9483c6602@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nNew Orleans Saints @ New York Giants\n\n
  Kickoff: Sunday\, October 18\, 2026 at 1:00 PM EDT (America/New_York)\nEst
- imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broa
- dcast\; local market coverage varies.\n\nVenue\nMetLife Stadium\nEast Ruth
- erford\n\nSchedule source: https://www.nfl.com/games/saints-at-giants-2026
- -reg-6
-LAST-MODIFIED:20260927T005047Z
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FO
+ X One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\n
+ NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local
+  and national blackouts apply.\nNFL+: local and primetime live game stream
+ s require a phone or tablet\; market and device restrictions apply.\nRegio
+ nal broadcast\; local market coverage varies.\nStreaming listings are for 
+ the US\; eligible subscriptions and geographic restrictions apply.\n\nVenu
+ e\nMetLife Stadium\nEast Rutherford\n\nSchedule source: https://www.nfl.co
+ m/games/saints-at-giants-2026-reg-6
+LAST-MODIFIED:20261012T221031Z
 LOCATION:MetLife Stadium\nEast Rutherford
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2211,18 +2227,23 @@ BEGIN:VEVENT
 SUMMARY:Tennessee Titans @ Indianapolis Colts
 DTSTART:20261018T170000Z
 DTEND:20261018T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261012T221031Z
 UID:dc71437ad869f000adcca807a9ce1728@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nTennessee Titans @ Indianapolis Colts\n
  \nKickoff: Sunday\, October 18\, 2026 at 1:00 PM EDT (America/New_York)\nE
- stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional br
- oadcast\; local market coverage varies.\n\nVenue\nLucas Oil Stadium\nIndia
- napolis\n\nSchedule source: https://www.nfl.com/games/titans-at-colts-2026
- -reg-6
-LAST-MODIFIED:20260927T005047Z
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: 
+ FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.
+ \nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; loc
+ al and national blackouts apply.\nNFL+: local and primetime live game stre
+ ams require a phone or tablet\; market and device restrictions apply.\nReg
+ ional broadcast\; local market coverage varies.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
+ nue\nLucas Oil Stadium\nIndianapolis\n\nSchedule source: https://www.nfl.c
+ om/games/titans-at-colts-2026-reg-6
+LAST-MODIFIED:20261012T221031Z
 LOCATION:Lucas Oil Stadium\nIndianapolis
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2232,17 +2253,23 @@ BEGIN:VEVENT
 SUMMARY:Arizona Cardinals @ Los Angeles Rams
 DTSTART:20261018T200500Z
 DTEND:20261018T232000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261012T221031Z
 UID:92800f93a6a1bff3cf4afeb7e70027d3@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nArizona Cardinals @ Los Angeles Rams\n\n
  Kickoff: Sunday\, October 18\, 2026 at 4:05 PM EDT (America/New_York)\nEst
- imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broa
- dcast\; local market coverage varies.\n\nVenue\nSoFi Stadium\nInglewood\n
- \nSchedule source: https://www.nfl.com/games/cardinals-at-rams-2026-reg-6
-LAST-MODIFIED:20260927T005047Z
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FO
+ X One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\n
+ NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local
+  and national blackouts apply.\nNFL+: local and primetime live game stream
+ s require a phone or tablet\; market and device restrictions apply.\nRegio
+ nal broadcast\; local market coverage varies.\nStreaming listings are for 
+ the US\; eligible subscriptions and geographic restrictions apply.\n\nVenu
+ e\nSoFi Stadium\nInglewood\n\nSchedule source: https://www.nfl.com/games/c
+ ardinals-at-rams-2026-reg-6
+LAST-MODIFIED:20261012T221031Z
 LOCATION:SoFi Stadium\nInglewood
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2398,18 +2425,23 @@ BEGIN:VEVENT
 SUMMARY:Cincinnati Bengals @ Baltimore Ravens
 DTSTART:20261025T170000Z
 DTEND:20261025T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261012T221031Z
 UID:7c52d4fdb29260b755ce32d3ebfc2eba@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nCincinnati Bengals @ Baltimore Ravens\n
  \nKickoff: Sunday\, October 25\, 2026 at 1:00 PM EDT (America/New_York)\nE
- stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional br
- oadcast\; local market coverage varies.\n\nVenue\nM&T Bank Stadium\nBaltim
- ore\n\nSchedule source: https://www.nfl.com/games/bengals-at-ravens-2026-r
- eg-7
-LAST-MODIFIED:20260927T005047Z
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: 
+ NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday aftern
+ oon viewing\; local and national blackouts apply.\nNFL+: local and primeti
+ me live game streams require a phone or tablet\; market and device restric
+ tions apply.\nParamount+: this game must be carried by your local CBS stat
+ ion.\nRegional broadcast\; local market coverage varies.\nStreaming listin
+ gs are for the US\; eligible subscriptions and geographic restrictions app
+ ly.\n\nVenue\nM&T Bank Stadium\nBaltimore\n\nSchedule source: https://www.
+ nfl.com/games/bengals-at-ravens-2026-reg-7
+LAST-MODIFIED:20261012T221031Z
 LOCATION:M&T Bank Stadium\nBaltimore
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2419,17 +2451,23 @@ BEGIN:VEVENT
 SUMMARY:Cleveland Browns @ Tennessee Titans
 DTSTART:20261025T170000Z
 DTEND:20261025T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261012T221031Z
 UID:50bfad7bbdd13cb95f511e355eabc45e@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nCleveland Browns @ Tennessee Titans\n\nK
  ickoff: Sunday\, October 25\, 2026 at 1:00 PM EDT (America/New_York)\nEsti
- mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broad
- cast\; local market coverage varies.\n\nVenue\nNissan Stadium\nNashville\n
- \nSchedule source: https://www.nfl.com/games/browns-at-titans-2026-reg-7
-LAST-MODIFIED:20260927T005047Z
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL
+ +\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon
+  viewing\; local and national blackouts apply.\nNFL+: local and primetime 
+ live game streams require a phone or tablet\; market and device restrictio
+ ns apply.\nParamount+: this game must be carried by your local CBS station
+ .\nRegional broadcast\; local market coverage varies.\nStreaming listings 
+ are for the US\; eligible subscriptions and geographic restrictions apply.
+ \n\nVenue\nNissan Stadium\nNashville\n\nSchedule source: https://www.nfl.c
+ om/games/browns-at-titans-2026-reg-7
+LAST-MODIFIED:20261012T221031Z
 LOCATION:Nissan Stadium\nNashville
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2439,18 +2477,23 @@ BEGIN:VEVENT
 SUMMARY:Indianapolis Colts @ Minnesota Vikings
 DTSTART:20261025T170000Z
 DTEND:20261025T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261012T221031Z
 UID:53839ba02c255d1c68bc363808f3c35d@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nIndianapolis Colts @ Minnesota Vikings\n
  \nKickoff: Sunday\, October 25\, 2026 at 1:00 PM EDT (America/New_York)\nE
- stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional br
- oadcast\; local market coverage varies.\n\nVenue\nU.S. Bank Stadium\nMinne
- apolis\n\nSchedule source: https://www.nfl.com/games/colts-at-vikings-2026
- -reg-7
-LAST-MODIFIED:20260927T005047Z
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: 
+ NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday aftern
+ oon viewing\; local and national blackouts apply.\nNFL+: local and primeti
+ me live game streams require a phone or tablet\; market and device restric
+ tions apply.\nParamount+: this game must be carried by your local CBS stat
+ ion.\nRegional broadcast\; local market coverage varies.\nStreaming listin
+ gs are for the US\; eligible subscriptions and geographic restrictions app
+ ly.\n\nVenue\nU.S. Bank Stadium\nMinneapolis\n\nSchedule source: https://w
+ ww.nfl.com/games/colts-at-vikings-2026-reg-7
+LAST-MODIFIED:20261012T221031Z
 LOCATION:U.S. Bank Stadium\nMinneapolis
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2460,18 +2503,23 @@ BEGIN:VEVENT
 SUMMARY:Miami Dolphins @ New York Jets
 DTSTART:20261025T170000Z
 DTEND:20261025T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261012T221031Z
 UID:b04815ac94bb3730aeffd19f701d8512@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nMiami Dolphins @ New York Jets\n\nKickof
  f: Sunday\, October 25\, 2026 at 1:00 PM EDT (America/New_York)\nEstimated
-  game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadcast
- \; local market coverage varies.\n\nVenue\nMetLife Stadium\nEast Rutherfor
- d\n\nSchedule source: https://www.nfl.com/games/dolphins-at-jets-2026-reg-
- 7
-LAST-MODIFIED:20260927T005047Z
+  game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL+\, P
+ aramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon view
+ ing\; local and national blackouts apply.\nNFL+: local and primetime live 
+ game streams require a phone or tablet\; market and device restrictions ap
+ ply.\nParamount+: this game must be carried by your local CBS station.\nRe
+ gional broadcast\; local market coverage varies.\nStreaming listings are f
+ or the US\; eligible subscriptions and geographic restrictions apply.\n\nV
+ enue\nMetLife Stadium\nEast Rutherford\n\nSchedule source: https://www.nfl
+ .com/games/dolphins-at-jets-2026-reg-7
+LAST-MODIFIED:20261012T221031Z
 LOCATION:MetLife Stadium\nEast Rutherford
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

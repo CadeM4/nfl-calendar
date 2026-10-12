@@ -144,18 +144,23 @@ BEGIN:VEVENT
 SUMMARY:Indianapolis Colts @ Minnesota Vikings
 DTSTART:20261025T170000Z
 DTEND:20261025T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261012T221031Z
 UID:53839ba02c255d1c68bc363808f3c35d@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nIndianapolis Colts @ Minnesota Vikings\n
  \nKickoff: Sunday\, October 25\, 2026 at 1:00 PM EDT (America/New_York)\nE
- stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional br
- oadcast\; local market coverage varies.\n\nVenue\nU.S. Bank Stadium\nMinne
- apolis\n\nSchedule source: https://www.nfl.com/games/colts-at-vikings-2026
- -reg-7
-LAST-MODIFIED:20260927T005047Z
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: 
+ NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday aftern
+ oon viewing\; local and national blackouts apply.\nNFL+: local and primeti
+ me live game streams require a phone or tablet\; market and device restric
+ tions apply.\nParamount+: this game must be carried by your local CBS stat
+ ion.\nRegional broadcast\; local market coverage varies.\nStreaming listin
+ gs are for the US\; eligible subscriptions and geographic restrictions app
+ ly.\n\nVenue\nU.S. Bank Stadium\nMinneapolis\n\nSchedule source: https://w
+ ww.nfl.com/games/colts-at-vikings-2026-reg-7
+LAST-MODIFIED:20261012T221031Z
 LOCATION:U.S. Bank Stadium\nMinneapolis
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

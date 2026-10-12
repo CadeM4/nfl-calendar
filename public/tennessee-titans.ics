@@ -144,18 +144,23 @@ BEGIN:VEVENT
 SUMMARY:Tennessee Titans @ Indianapolis Colts
 DTSTART:20261018T170000Z
 DTEND:20261018T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261012T221031Z
 UID:dc71437ad869f000adcca807a9ce1728@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nTennessee Titans @ Indianapolis Colts\n
  \nKickoff: Sunday\, October 18\, 2026 at 1:00 PM EDT (America/New_York)\nE
- stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional br
- oadcast\; local market coverage varies.\n\nVenue\nLucas Oil Stadium\nIndia
- napolis\n\nSchedule source: https://www.nfl.com/games/titans-at-colts-2026
- -reg-6
-LAST-MODIFIED:20260927T005047Z
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: 
+ FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.
+ \nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; loc
+ al and national blackouts apply.\nNFL+: local and primetime live game stre
+ ams require a phone or tablet\; market and device restrictions apply.\nReg
+ ional broadcast\; local market coverage varies.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
+ nue\nLucas Oil Stadium\nIndianapolis\n\nSchedule source: https://www.nfl.c
+ om/games/titans-at-colts-2026-reg-6
+LAST-MODIFIED:20261012T221031Z
 LOCATION:Lucas Oil Stadium\nIndianapolis
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -165,17 +170,23 @@ BEGIN:VEVENT
 SUMMARY:Cleveland Browns @ Tennessee Titans
 DTSTART:20261025T170000Z
 DTEND:20261025T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261012T221031Z
 UID:50bfad7bbdd13cb95f511e355eabc45e@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nCleveland Browns @ Tennessee Titans\n\nK
  ickoff: Sunday\, October 25\, 2026 at 1:00 PM EDT (America/New_York)\nEsti
- mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broad
- cast\; local market coverage varies.\n\nVenue\nNissan Stadium\nNashville\n
- \nSchedule source: https://www.nfl.com/games/browns-at-titans-2026-reg-7
-LAST-MODIFIED:20260927T005047Z
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL
+ +\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon
+  viewing\; local and national blackouts apply.\nNFL+: local and primetime 
+ live game streams require a phone or tablet\; market and device restrictio
+ ns apply.\nParamount+: this game must be carried by your local CBS station
+ .\nRegional broadcast\; local market coverage varies.\nStreaming listings 
+ are for the US\; eligible subscriptions and geographic restrictions apply.
+ \n\nVenue\nNissan Stadium\nNashville\n\nSchedule source: https://www.nfl.c
+ om/games/browns-at-titans-2026-reg-7
+LAST-MODIFIED:20261012T221031Z
 LOCATION:Nissan Stadium\nNashville
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
