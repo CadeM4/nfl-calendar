@@ -1,8 +1,5 @@
 # Schedule changes
 
-Verified: 2026-10-13T09:34:19Z
+Verified: 2026-10-13T20:17:30Z
 
-## UPDATED: BUF @ LAR — Week 5
-
-- Status: scheduled → final
-
+No event changes since the previous successful refresh.

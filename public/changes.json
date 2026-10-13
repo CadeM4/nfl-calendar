@@ -1,15 +1,1 @@
-[
-  {
-    "kind": "UPDATED",
-    "id": "2026-REG-BUF-LAR",
-    "away": "BUF",
-    "home": "LAR",
-    "week": 5,
-    "fields": {
-      "status": {
-        "before": "scheduled",
-        "after": "final"
-      }
-    }
-  }
-]
+[]
