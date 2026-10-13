@@ -1,40 +1,8 @@
 # Schedule changes
 
-Verified: 2026-10-12T22:10:31Z
+Verified: 2026-10-13T09:34:19Z
 
-## UPDATED: BAL @ CLE — Week 6
+## UPDATED: BUF @ LAR — Week 5
 
-- Broadcast: tv: FOX; notes: Regional broadcast; local market coverage varies. → tv: FOX; streaming: FOX One, NFL+; notes: Regional broadcast; local market coverage varies., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., FOX One: local FOX coverage and market restrictions apply., NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
-
-## UPDATED: CHI @ ATL — Week 6
-
-- Broadcast: tv: FOX; notes: Regional broadcast; local market coverage varies. → tv: FOX; streaming: FOX One, NFL+; notes: Regional broadcast; local market coverage varies., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., FOX One: local FOX coverage and market restrictions apply., NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
-
-## UPDATED: NO @ NYG — Week 6
-
-- Broadcast: tv: FOX; notes: Regional broadcast; local market coverage varies. → tv: FOX; streaming: FOX One, NFL+; notes: Regional broadcast; local market coverage varies., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., FOX One: local FOX coverage and market restrictions apply., NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
-
-## UPDATED: TEN @ IND — Week 6
-
-- Broadcast: tv: FOX; notes: Regional broadcast; local market coverage varies. → tv: FOX; streaming: FOX One, NFL+; notes: Regional broadcast; local market coverage varies., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., FOX One: local FOX coverage and market restrictions apply., NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
-
-## UPDATED: ARI @ LAR — Week 6
-
-- Broadcast: tv: FOX; notes: Regional broadcast; local market coverage varies. → tv: FOX; streaming: FOX One, NFL+; notes: Regional broadcast; local market coverage varies., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., FOX One: local FOX coverage and market restrictions apply., NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
-
-## UPDATED: CIN @ BAL — Week 7
-
-- Broadcast: tv: CBS; notes: Regional broadcast; local market coverage varies. → tv: CBS; streaming: NFL+, Paramount+; notes: Regional broadcast; local market coverage varies., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., Paramount+: this game must be carried by your local CBS station., NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
-
-## UPDATED: CLE @ TEN — Week 7
-
-- Broadcast: tv: CBS; notes: Regional broadcast; local market coverage varies. → tv: CBS; streaming: NFL+, Paramount+; notes: Regional broadcast; local market coverage varies., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., Paramount+: this game must be carried by your local CBS station., NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
-
-## UPDATED: IND @ MIN — Week 7
-
-- Broadcast: tv: CBS; notes: Regional broadcast; local market coverage varies. → tv: CBS; streaming: NFL+, Paramount+; notes: Regional broadcast; local market coverage varies., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., Paramount+: this game must be carried by your local CBS station., NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
-
-## UPDATED: MIA @ NYJ — Week 7
-
-- Broadcast: tv: CBS; notes: Regional broadcast; local market coverage varies. → tv: CBS; streaming: NFL+, Paramount+; notes: Regional broadcast; local market coverage varies., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., Paramount+: this game must be carried by your local CBS station., NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
+- Status: scheduled → final
 
