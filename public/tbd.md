@@ -1,6 +1,6 @@
 # Games awaiting schedule information
 
-Last verified: 2026-10-16T13:21:37Z
+Last verified: 2026-10-16T18:11:52Z
 
 Week | Away | Home | Date | Kickoff | Broadcast
 --- | --- | --- | --- | --- | ---
