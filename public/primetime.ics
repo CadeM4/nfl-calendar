@@ -390,9 +390,9 @@ BEGIN:VEVENT
 SUMMARY:Seattle Seahawks @ Denver Broncos
 DTSTART:20261016T001500Z
 DTEND:20261016T033000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261016T072059Z
 UID:62f846b611d23812cfe4069bfa69e529@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nSeattle Seahawks @ Denver Broncos\n\nKic
@@ -403,7 +403,7 @@ DESCRIPTION:NFL 2026 · Week 6\n\nSeattle Seahawks @ Denver Broncos\n\nKic
  e US\; eligible subscriptions and geographic restrictions apply.\nUS natio
  nal broadcast.\n\nVenue\nEmpower Field at Mile High\nDenver\n\nSchedule so
  urce: https://www.nfl.com/games/seahawks-at-broncos-2026-reg-6
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261016T072059Z
 LOCATION:Empower Field at Mile High\nDenver
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

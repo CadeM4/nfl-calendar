@@ -1,5 +1,8 @@
 # Schedule changes
 
-Verified: 2026-10-15T23:07:17Z
+Verified: 2026-10-16T07:20:59Z
 
-No event changes since the previous successful refresh.
+## UPDATED: SEA @ DEN — Week 6
+
+- Status: scheduled → final
+

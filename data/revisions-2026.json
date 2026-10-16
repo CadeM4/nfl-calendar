@@ -474,10 +474,10 @@
     "fingerprint": "6d9d288a95dd0f4873f8b7fa1bd757fa182b5a422785abddedeb7f79d26b9691"
   },
   "2026-REG-SEA-DEN": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "d00fba8c1d21db1ec5326610b13e9496cc28508d0f3e3a188455055c024b9dac"
+    "modified": "2026-10-16T07:20:59Z",
+    "fingerprint": "b595f011cd9fee31d528d706ac119bb3d74130ae2a7d57ef186d1976affd9ce6"
   },
   "2026-REG-HOU-JAX": {
     "sequence": 0,
