@@ -1,5 +1,5 @@
 # Schedule changes
 
-Verified: 2026-10-17T07:03:24Z
+Verified: 2026-10-17T12:16:21Z
 
 No event changes since the previous successful refresh.
