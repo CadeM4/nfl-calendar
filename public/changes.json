@@ -1,217 +1,105 @@
 [
   {
     "kind": "UPDATED",
-    "id": "2026-REG-NYG-HOU",
-    "away": "NYG",
-    "home": "HOU",
-    "week": 7,
+    "id": "2026-REG-HOU-JAX",
+    "away": "HOU",
+    "home": "JAX",
+    "week": 6,
     "fields": {
-      "broadcast": {
-        "before": {
-          "tv": [
-            "FOX"
-          ],
-          "streaming": [],
-          "notes": [
-            "Regional broadcast; local market coverage varies."
-          ]
-        },
-        "after": {
-          "tv": [
-            "FOX"
-          ],
-          "streaming": [
-            "FOX One",
-            "NFL+"
-          ],
-          "notes": [
-            "Regional broadcast; local market coverage varies.",
-            "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
-            "FOX One: local FOX coverage and market restrictions apply.",
-            "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
-            "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
-          ]
-        }
+      "status": {
+        "before": "scheduled",
+        "after": "final"
       }
     }
   },
   {
     "kind": "UPDATED",
-    "id": "2026-REG-SF-ATL",
-    "away": "SF",
+    "id": "2026-REG-BAL-CLE",
+    "away": "BAL",
+    "home": "CLE",
+    "week": 6,
+    "fields": {
+      "status": {
+        "before": "scheduled",
+        "after": "live"
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-CAR-PHI",
+    "away": "CAR",
+    "home": "PHI",
+    "week": 6,
+    "fields": {
+      "status": {
+        "before": "scheduled",
+        "after": "live"
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-CHI-ATL",
+    "away": "CHI",
     "home": "ATL",
-    "week": 7,
+    "week": 6,
     "fields": {
-      "broadcast": {
-        "before": {
-          "tv": [
-            "FOX"
-          ],
-          "streaming": [],
-          "notes": [
-            "Regional broadcast; local market coverage varies."
-          ]
-        },
-        "after": {
-          "tv": [
-            "FOX"
-          ],
-          "streaming": [
-            "FOX One",
-            "NFL+"
-          ],
-          "notes": [
-            "Regional broadcast; local market coverage varies.",
-            "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
-            "FOX One: local FOX coverage and market restrictions apply.",
-            "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
-            "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
-          ]
-        }
+      "status": {
+        "before": "scheduled",
+        "after": "live"
       }
     }
   },
   {
     "kind": "UPDATED",
-    "id": "2026-REG-TB-CAR",
-    "away": "TB",
-    "home": "CAR",
-    "week": 7,
+    "id": "2026-REG-NO-NYG",
+    "away": "NO",
+    "home": "NYG",
+    "week": 6,
     "fields": {
-      "broadcast": {
-        "before": {
-          "tv": [
-            "FOX"
-          ],
-          "streaming": [],
-          "notes": [
-            "Regional broadcast; local market coverage varies."
-          ]
-        },
-        "after": {
-          "tv": [
-            "FOX"
-          ],
-          "streaming": [
-            "FOX One",
-            "NFL+"
-          ],
-          "notes": [
-            "Regional broadcast; local market coverage varies.",
-            "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
-            "FOX One: local FOX coverage and market restrictions apply.",
-            "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
-            "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
-          ]
-        }
+      "status": {
+        "before": "scheduled",
+        "after": "live"
       }
     }
   },
   {
     "kind": "UPDATED",
-    "id": "2026-REG-DEN-ARI",
-    "away": "DEN",
-    "home": "ARI",
-    "week": 7,
+    "id": "2026-REG-NYJ-NE",
+    "away": "NYJ",
+    "home": "NE",
+    "week": 6,
     "fields": {
-      "broadcast": {
-        "before": {
-          "tv": [
-            "CBS"
-          ],
-          "streaming": [],
-          "notes": [
-            "Regional broadcast; local market coverage varies."
-          ]
-        },
-        "after": {
-          "tv": [
-            "CBS"
-          ],
-          "streaming": [
-            "NFL+",
-            "Paramount+"
-          ],
-          "notes": [
-            "Regional broadcast; local market coverage varies.",
-            "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
-            "Paramount+: this game must be carried by your local CBS station.",
-            "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
-            "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
-          ]
-        }
+      "status": {
+        "before": "scheduled",
+        "after": "live"
       }
     }
   },
   {
     "kind": "UPDATED",
-    "id": "2026-REG-GB-DET",
-    "away": "GB",
-    "home": "DET",
-    "week": 7,
+    "id": "2026-REG-PIT-TB",
+    "away": "PIT",
+    "home": "TB",
+    "week": 6,
     "fields": {
-      "broadcast": {
-        "before": {
-          "tv": [
-            "FOX"
-          ],
-          "streaming": [],
-          "notes": [
-            "Regional broadcast; local market coverage varies."
-          ]
-        },
-        "after": {
-          "tv": [
-            "FOX"
-          ],
-          "streaming": [
-            "FOX One",
-            "NFL+"
-          ],
-          "notes": [
-            "Regional broadcast; local market coverage varies.",
-            "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
-            "FOX One: local FOX coverage and market restrictions apply.",
-            "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
-            "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
-          ]
-        }
+      "status": {
+        "before": "scheduled",
+        "after": "live"
       }
     }
   },
   {
     "kind": "UPDATED",
-    "id": "2026-REG-LAR-LV",
-    "away": "LAR",
-    "home": "LV",
-    "week": 7,
+    "id": "2026-REG-TEN-IND",
+    "away": "TEN",
+    "home": "IND",
+    "week": 6,
     "fields": {
-      "broadcast": {
-        "before": {
-          "tv": [
-            "FOX"
-          ],
-          "streaming": [],
-          "notes": [
-            "Regional broadcast; local market coverage varies."
-          ]
-        },
-        "after": {
-          "tv": [
-            "FOX"
-          ],
-          "streaming": [
-            "FOX One",
-            "NFL+"
-          ],
-          "notes": [
-            "Regional broadcast; local market coverage varies.",
-            "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
-            "FOX One: local FOX coverage and market restrictions apply.",
-            "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
-            "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
-          ]
-        }
+      "status": {
+        "before": "scheduled",
+        "after": "live"
       }
     }
   }

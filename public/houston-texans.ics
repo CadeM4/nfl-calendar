@@ -144,9 +144,9 @@ BEGIN:VEVENT
 SUMMARY:Houston Texans @ Jacksonville Jaguars
 DTSTART:20261018T133000Z
 DTEND:20261018T164500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261018T172629Z
 UID:cd43ec8e1817eacbd1fd035e7f22cf34@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nHouston Texans @ Jacksonville Jaguars\n
@@ -158,7 +158,7 @@ DESCRIPTION:NFL 2026 · Week 6\n\nHouston Texans @ Jacksonville Jaguars\n
  ctions apply.\nUS national broadcast.\n\nVenue\nWembley Stadium\nLondon\, 
  England\n\nSchedule source: https://www.nfl.com/games/texans-at-jaguars-20
  26-reg-6
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261018T172629Z
 LOCATION:Wembley Stadium\nLondon\, England
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

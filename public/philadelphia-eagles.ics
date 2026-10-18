@@ -140,9 +140,9 @@ BEGIN:VEVENT
 SUMMARY:Carolina Panthers @ Philadelphia Eagles
 DTSTART:20261018T170000Z
 DTEND:20261018T201500Z
-DTSTAMP:20261005T213207Z
+DTSTAMP:20261018T172629Z
 UID:e2165c7791af7f8ae6dfb97c466a05ba@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nCarolina Panthers @ Philadelphia Eagles
@@ -156,7 +156,7 @@ DESCRIPTION:NFL 2026 · Week 6\n\nCarolina Panthers @ Philadelphia Eagles
  tings are for the US\; eligible subscriptions and geographic restrictions 
  apply.\n\nVenue\nLincoln Financial Field\nPhiladelphia\n\nSchedule source:
   https://www.nfl.com/games/panthers-at-eagles-2026-reg-6
-LAST-MODIFIED:20261005T213207Z
+LAST-MODIFIED:20261018T172629Z
 LOCATION:Lincoln Financial Field\nPhiladelphia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
