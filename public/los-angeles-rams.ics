@@ -161,17 +161,23 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Rams @ Las Vegas Raiders
 DTSTART:20261025T202500Z
 DTEND:20261025T234000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261018T124025Z
 UID:3183ebdc4169a87a4fea6218877868c7@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nLos Angeles Rams @ Las Vegas Raiders\n\n
  Kickoff: Sunday\, October 25\, 2026 at 4:25 PM EDT (America/New_York)\nEst
- imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broa
- dcast\; local market coverage varies.\n\nVenue\nAllegiant Stadium\nParadis
- e\n\nSchedule source: https://www.nfl.com/games/rams-at-raiders-2026-reg-7
-LAST-MODIFIED:20260927T005047Z
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FO
+ X One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\n
+ NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local
+  and national blackouts apply.\nNFL+: local and primetime live game stream
+ s require a phone or tablet\; market and device restrictions apply.\nRegio
+ nal broadcast\; local market coverage varies.\nStreaming listings are for 
+ the US\; eligible subscriptions and geographic restrictions apply.\n\nVenu
+ e\nAllegiant Stadium\nParadise\n\nSchedule source: https://www.nfl.com/gam
+ es/rams-at-raiders-2026-reg-7
+LAST-MODIFIED:20261018T124025Z
 LOCATION:Allegiant Stadium\nParadise
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

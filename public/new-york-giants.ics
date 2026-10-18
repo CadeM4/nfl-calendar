@@ -165,17 +165,23 @@ BEGIN:VEVENT
 SUMMARY:New York Giants @ Houston Texans
 DTSTART:20261025T170000Z
 DTEND:20261025T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261018T124025Z
 UID:e5db3a0abb727f41d30086fdd24b89e0@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nNew York Giants @ Houston Texans\n\nKick
  off: Sunday\, October 25\, 2026 at 1:00 PM EDT (America/New_York)\nEstimat
- ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadcas
- t\; local market coverage varies.\n\nVenue\nReliant Stadium\nHouston\n\nSc
- hedule source: https://www.nfl.com/games/giants-at-texans-2026-reg-7
-LAST-MODIFIED:20260927T005047Z
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX On
+ e\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nNFL 
+ Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local and
+  national blackouts apply.\nNFL+: local and primetime live game streams re
+ quire a phone or tablet\; market and device restrictions apply.\nRegional 
+ broadcast\; local market coverage varies.\nStreaming listings are for the 
+ US\; eligible subscriptions and geographic restrictions apply.\n\nVenue\nR
+ eliant Stadium\nHouston\n\nSchedule source: https://www.nfl.com/games/gian
+ ts-at-texans-2026-reg-7
+LAST-MODIFIED:20261018T124025Z
 LOCATION:Reliant Stadium\nHouston
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -162,18 +162,23 @@ BEGIN:VEVENT
 SUMMARY:San Francisco 49ers @ Atlanta Falcons
 DTSTART:20261025T170000Z
 DTEND:20261025T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261018T124025Z
 UID:eb8b8ba72fa4354b972102191362347c@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nSan Francisco 49ers @ Atlanta Falcons\n
  \nKickoff: Sunday\, October 25\, 2026 at 1:00 PM EDT (America/New_York)\nE
- stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional br
- oadcast\; local market coverage varies.\n\nVenue\nMercedes-Benz Stadium\nA
- tlanta\n\nSchedule source: https://www.nfl.com/games/49ers-at-falcons-2026
- -reg-7
-LAST-MODIFIED:20260927T005047Z
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: 
+ FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.
+ \nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; loc
+ al and national blackouts apply.\nNFL+: local and primetime live game stre
+ ams require a phone or tablet\; market and device restrictions apply.\nReg
+ ional broadcast\; local market coverage varies.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
+ nue\nMercedes-Benz Stadium\nAtlanta\n\nSchedule source: https://www.nfl.co
+ m/games/49ers-at-falcons-2026-reg-7
+LAST-MODIFIED:20261018T124025Z
 LOCATION:Mercedes-Benz Stadium\nAtlanta
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

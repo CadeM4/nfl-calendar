@@ -2529,17 +2529,23 @@ BEGIN:VEVENT
 SUMMARY:New York Giants @ Houston Texans
 DTSTART:20261025T170000Z
 DTEND:20261025T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261018T124025Z
 UID:e5db3a0abb727f41d30086fdd24b89e0@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nNew York Giants @ Houston Texans\n\nKick
  off: Sunday\, October 25\, 2026 at 1:00 PM EDT (America/New_York)\nEstimat
- ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadcas
- t\; local market coverage varies.\n\nVenue\nReliant Stadium\nHouston\n\nSc
- hedule source: https://www.nfl.com/games/giants-at-texans-2026-reg-7
-LAST-MODIFIED:20260927T005047Z
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX On
+ e\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nNFL 
+ Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local and
+  national blackouts apply.\nNFL+: local and primetime live game streams re
+ quire a phone or tablet\; market and device restrictions apply.\nRegional 
+ broadcast\; local market coverage varies.\nStreaming listings are for the 
+ US\; eligible subscriptions and geographic restrictions apply.\n\nVenue\nR
+ eliant Stadium\nHouston\n\nSchedule source: https://www.nfl.com/games/gian
+ ts-at-texans-2026-reg-7
+LAST-MODIFIED:20261018T124025Z
 LOCATION:Reliant Stadium\nHouston
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2549,18 +2555,23 @@ BEGIN:VEVENT
 SUMMARY:San Francisco 49ers @ Atlanta Falcons
 DTSTART:20261025T170000Z
 DTEND:20261025T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261018T124025Z
 UID:eb8b8ba72fa4354b972102191362347c@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nSan Francisco 49ers @ Atlanta Falcons\n
  \nKickoff: Sunday\, October 25\, 2026 at 1:00 PM EDT (America/New_York)\nE
- stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional br
- oadcast\; local market coverage varies.\n\nVenue\nMercedes-Benz Stadium\nA
- tlanta\n\nSchedule source: https://www.nfl.com/games/49ers-at-falcons-2026
- -reg-7
-LAST-MODIFIED:20260927T005047Z
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: 
+ FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.
+ \nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; loc
+ al and national blackouts apply.\nNFL+: local and primetime live game stre
+ ams require a phone or tablet\; market and device restrictions apply.\nReg
+ ional broadcast\; local market coverage varies.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
+ nue\nMercedes-Benz Stadium\nAtlanta\n\nSchedule source: https://www.nfl.co
+ m/games/49ers-at-falcons-2026-reg-7
+LAST-MODIFIED:20261018T124025Z
 LOCATION:Mercedes-Benz Stadium\nAtlanta
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2570,18 +2581,23 @@ BEGIN:VEVENT
 SUMMARY:Tampa Bay Buccaneers @ Carolina Panthers
 DTSTART:20261025T170000Z
 DTEND:20261025T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261018T124025Z
 UID:770e2e484cdcc98044620782ef7d7dd5@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nTampa Bay Buccaneers @ Carolina Panthers
  \n\nKickoff: Sunday\, October 25\, 2026 at 1:00 PM EDT (America/New_York)
- \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
-  broadcast\; local market coverage varies.\n\nVenue\nBank of America Stadi
- um\nCharlotte\n\nSchedule source: https://www.nfl.com/games/buccaneers-at-
- panthers-2026-reg-7
-LAST-MODIFIED:20260927T005047Z
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreamin
+ g: FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions app
+ ly.\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; 
+ local and national blackouts apply.\nNFL+: local and primetime live game s
+ treams require a phone or tablet\; market and device restrictions apply.\n
+ Regional broadcast\; local market coverage varies.\nStreaming listings are
+  for the US\; eligible subscriptions and geographic restrictions apply.\n
+ \nVenue\nBank of America Stadium\nCharlotte\n\nSchedule source: https://ww
+ w.nfl.com/games/buccaneers-at-panthers-2026-reg-7
+LAST-MODIFIED:20261018T124025Z
 LOCATION:Bank of America Stadium\nCharlotte
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2591,18 +2607,23 @@ BEGIN:VEVENT
 SUMMARY:Denver Broncos @ Arizona Cardinals
 DTSTART:20261025T200500Z
 DTEND:20261025T232000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261018T124025Z
 UID:268c407c9c70b7ce35c872a9ba23cff9@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nDenver Broncos @ Arizona Cardinals\n\nKi
  ckoff: Sunday\, October 25\, 2026 at 4:05 PM EDT (America/New_York)\nEstim
- ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadc
- ast\; local market coverage varies.\n\nVenue\nState Farm Stadium\nGlendale
- \n\nSchedule source: https://www.nfl.com/games/broncos-at-cardinals-2026-r
- eg-7
-LAST-MODIFIED:20260927T005047Z
+ ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL+
+ \, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon 
+ viewing\; local and national blackouts apply.\nNFL+: local and primetime l
+ ive game streams require a phone or tablet\; market and device restriction
+ s apply.\nParamount+: this game must be carried by your local CBS station.
+ \nRegional broadcast\; local market coverage varies.\nStreaming listings a
+ re for the US\; eligible subscriptions and geographic restrictions apply.
+ \n\nVenue\nState Farm Stadium\nGlendale\n\nSchedule source: https://www.nf
+ l.com/games/broncos-at-cardinals-2026-reg-7
+LAST-MODIFIED:20261018T124025Z
 LOCATION:State Farm Stadium\nGlendale
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2612,17 +2633,23 @@ BEGIN:VEVENT
 SUMMARY:Green Bay Packers @ Detroit Lions
 DTSTART:20261025T202500Z
 DTEND:20261025T234000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261018T124025Z
 UID:5a6a4c5c6cbfc3268aefb7f012543888@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nGreen Bay Packers @ Detroit Lions\n\nKic
  koff: Sunday\, October 25\, 2026 at 4:25 PM EDT (America/New_York)\nEstima
- ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadca
- st\; local market coverage varies.\n\nVenue\nFord Field\nDetroit\n\nSchedu
- le source: https://www.nfl.com/games/packers-at-lions-2026-reg-7
-LAST-MODIFIED:20260927T005047Z
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX O
+ ne\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nNFL
+  Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local an
+ d national blackouts apply.\nNFL+: local and primetime live game streams r
+ equire a phone or tablet\; market and device restrictions apply.\nRegional
+  broadcast\; local market coverage varies.\nStreaming listings are for the
+  US\; eligible subscriptions and geographic restrictions apply.\n\nVenue\n
+ Ford Field\nDetroit\n\nSchedule source: https://www.nfl.com/games/packers-
+ at-lions-2026-reg-7
+LAST-MODIFIED:20261018T124025Z
 LOCATION:Ford Field\nDetroit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2632,17 +2659,23 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Rams @ Las Vegas Raiders
 DTSTART:20261025T202500Z
 DTEND:20261025T234000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261018T124025Z
 UID:3183ebdc4169a87a4fea6218877868c7@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nLos Angeles Rams @ Las Vegas Raiders\n\n
  Kickoff: Sunday\, October 25\, 2026 at 4:25 PM EDT (America/New_York)\nEst
- imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broa
- dcast\; local market coverage varies.\n\nVenue\nAllegiant Stadium\nParadis
- e\n\nSchedule source: https://www.nfl.com/games/rams-at-raiders-2026-reg-7
-LAST-MODIFIED:20260927T005047Z
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FO
+ X One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\n
+ NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local
+  and national blackouts apply.\nNFL+: local and primetime live game stream
+ s require a phone or tablet\; market and device restrictions apply.\nRegio
+ nal broadcast\; local market coverage varies.\nStreaming listings are for 
+ the US\; eligible subscriptions and geographic restrictions apply.\n\nVenu
+ e\nAllegiant Stadium\nParadise\n\nSchedule source: https://www.nfl.com/gam
+ es/rams-at-raiders-2026-reg-7
+LAST-MODIFIED:20261018T124025Z
 LOCATION:Allegiant Stadium\nParadise
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

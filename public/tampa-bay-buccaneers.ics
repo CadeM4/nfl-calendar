@@ -167,18 +167,23 @@ BEGIN:VEVENT
 SUMMARY:Tampa Bay Buccaneers @ Carolina Panthers
 DTSTART:20261025T170000Z
 DTEND:20261025T201500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261018T124025Z
 UID:770e2e484cdcc98044620782ef7d7dd5@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nTampa Bay Buccaneers @ Carolina Panthers
  \n\nKickoff: Sunday\, October 25\, 2026 at 1:00 PM EDT (America/New_York)
- \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
-  broadcast\; local market coverage varies.\n\nVenue\nBank of America Stadi
- um\nCharlotte\n\nSchedule source: https://www.nfl.com/games/buccaneers-at-
- panthers-2026-reg-7
-LAST-MODIFIED:20260927T005047Z
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreamin
+ g: FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions app
+ ly.\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; 
+ local and national blackouts apply.\nNFL+: local and primetime live game s
+ treams require a phone or tablet\; market and device restrictions apply.\n
+ Regional broadcast\; local market coverage varies.\nStreaming listings are
+  for the US\; eligible subscriptions and geographic restrictions apply.\n
+ \nVenue\nBank of America Stadium\nCharlotte\n\nSchedule source: https://ww
+ w.nfl.com/games/buccaneers-at-panthers-2026-reg-7
+LAST-MODIFIED:20261018T124025Z
 LOCATION:Bank of America Stadium\nCharlotte
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

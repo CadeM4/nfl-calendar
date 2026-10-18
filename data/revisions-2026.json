@@ -594,40 +594,40 @@
     "fingerprint": "85ccf9d8435fb7beab305265354eb8bec8f0f559315294beca5da0f314455268"
   },
   "2026-REG-NYG-HOU": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "ef416c17f4f3cc2676b1d4a243145a8ecd9687b5309a3f4eb013300375600e28"
+    "modified": "2026-10-18T12:40:25Z",
+    "fingerprint": "e6ff4588ef23269892377be0057ba90b24d2d846a541acf5aa6d7bfafcbf7c99"
   },
   "2026-REG-SF-ATL": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "a7e836260fdb8358bc97c3194ad7c66a17c8cac2084b4fcfba0e9baec430ee3e"
+    "modified": "2026-10-18T12:40:25Z",
+    "fingerprint": "7036d31a2d0a96508f30c94bb9afce5b00866de18282683ca8df447af0c63c52"
   },
   "2026-REG-TB-CAR": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "095f34a8ac85417bf991e428abf6bd26636e9c96166c8f0a1a6a8e886c027a06"
+    "modified": "2026-10-18T12:40:25Z",
+    "fingerprint": "19f885eabf4fd4cb4963d7fbbc6e1e028c42961ff22b988c76eac70f85917a24"
   },
   "2026-REG-DEN-ARI": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "6f06fe170493cdf9f5c8183e133a71809692e7b02ae51c0943651c6eb0502c63"
+    "modified": "2026-10-18T12:40:25Z",
+    "fingerprint": "e032d01a67fcb297caf459e68dd76a5491f8b3e79bc816068a5d68df1a317e5e"
   },
   "2026-REG-GB-DET": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "0a3b309ee11654dc41a95237d97ba80d8764d0f01af282f37072aef352669189"
+    "modified": "2026-10-18T12:40:25Z",
+    "fingerprint": "54937530d5a9a4d14936c9e735210aae0df079568502dce09f1563a5affb1a28"
   },
   "2026-REG-LAR-LV": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "5d8b7f8a7e34ceefe08dbe1aa382f5f34e1da721f49482346adf0e5be3c52618"
+    "modified": "2026-10-18T12:40:25Z",
+    "fingerprint": "2c854475e5d3ea68e448398063b75071d9f7ecb8f91ef8d5f73b873d2b6a3eb7"
   },
   "2026-REG-KC-SEA": {
     "sequence": 0,

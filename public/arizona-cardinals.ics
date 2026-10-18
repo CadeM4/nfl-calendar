@@ -170,18 +170,23 @@ BEGIN:VEVENT
 SUMMARY:Denver Broncos @ Arizona Cardinals
 DTSTART:20261025T200500Z
 DTEND:20261025T232000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261018T124025Z
 UID:268c407c9c70b7ce35c872a9ba23cff9@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nDenver Broncos @ Arizona Cardinals\n\nKi
  ckoff: Sunday\, October 25\, 2026 at 4:05 PM EDT (America/New_York)\nEstim
- ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadc
- ast\; local market coverage varies.\n\nVenue\nState Farm Stadium\nGlendale
- \n\nSchedule source: https://www.nfl.com/games/broncos-at-cardinals-2026-r
- eg-7
-LAST-MODIFIED:20260927T005047Z
+ ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL+
+ \, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon 
+ viewing\; local and national blackouts apply.\nNFL+: local and primetime l
+ ive game streams require a phone or tablet\; market and device restriction
+ s apply.\nParamount+: this game must be carried by your local CBS station.
+ \nRegional broadcast\; local market coverage varies.\nStreaming listings a
+ re for the US\; eligible subscriptions and geographic restrictions apply.
+ \n\nVenue\nState Farm Stadium\nGlendale\n\nSchedule source: https://www.nf
+ l.com/games/broncos-at-cardinals-2026-reg-7
+LAST-MODIFIED:20261018T124025Z
 LOCATION:State Farm Stadium\nGlendale
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
