@@ -2071,9 +2071,9 @@ BEGIN:VEVENT
 SUMMARY:Baltimore Ravens @ Cleveland Browns
 DTSTART:20261018T170000Z
 DTEND:20261018T201500Z
-DTSTAMP:20261018T172629Z
+DTSTAMP:20261018T222902Z
 UID:db6aa8428ae776a91064ff74a71a52b9@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nBaltimore Ravens @ Cleveland Browns\n\nK
@@ -2087,7 +2087,7 @@ DESCRIPTION:NFL 2026 · Week 6\n\nBaltimore Ravens @ Cleveland Browns\n\nK
  he US\; eligible subscriptions and geographic restrictions apply.\n\nVenue
  \nHuntington Bank Field\nCleveland\n\nSchedule source: https://www.nfl.com
  /games/ravens-at-browns-2026-reg-6
-LAST-MODIFIED:20261018T172629Z
+LAST-MODIFIED:20261018T222902Z
 LOCATION:Huntington Bank Field\nCleveland
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2097,9 +2097,9 @@ BEGIN:VEVENT
 SUMMARY:Carolina Panthers @ Philadelphia Eagles
 DTSTART:20261018T170000Z
 DTEND:20261018T201500Z
-DTSTAMP:20261018T172629Z
+DTSTAMP:20261018T222902Z
 UID:e2165c7791af7f8ae6dfb97c466a05ba@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nCarolina Panthers @ Philadelphia Eagles
@@ -2113,7 +2113,7 @@ DESCRIPTION:NFL 2026 · Week 6\n\nCarolina Panthers @ Philadelphia Eagles
  tings are for the US\; eligible subscriptions and geographic restrictions 
  apply.\n\nVenue\nLincoln Financial Field\nPhiladelphia\n\nSchedule source:
   https://www.nfl.com/games/panthers-at-eagles-2026-reg-6
-LAST-MODIFIED:20261018T172629Z
+LAST-MODIFIED:20261018T222902Z
 LOCATION:Lincoln Financial Field\nPhiladelphia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2123,9 +2123,9 @@ BEGIN:VEVENT
 SUMMARY:Chicago Bears @ Atlanta Falcons
 DTSTART:20261018T170000Z
 DTEND:20261018T201500Z
-DTSTAMP:20261018T172629Z
+DTSTAMP:20261018T222902Z
 UID:2074579d4eb58bb18fb7c3c7f58a22e4@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nChicago Bears @ Atlanta Falcons\n\nKicko
@@ -2139,7 +2139,7 @@ DESCRIPTION:NFL 2026 · Week 6\n\nChicago Bears @ Atlanta Falcons\n\nKicko
  S\; eligible subscriptions and geographic restrictions apply.\n\nVenue\nMe
  rcedes-Benz Stadium\nAtlanta\n\nSchedule source: https://www.nfl.com/games
  /bears-at-falcons-2026-reg-6
-LAST-MODIFIED:20261018T172629Z
+LAST-MODIFIED:20261018T222902Z
 LOCATION:Mercedes-Benz Stadium\nAtlanta
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2149,9 +2149,9 @@ BEGIN:VEVENT
 SUMMARY:New Orleans Saints @ New York Giants
 DTSTART:20261018T170000Z
 DTEND:20261018T201500Z
-DTSTAMP:20261018T172629Z
+DTSTAMP:20261018T222902Z
 UID:d5097b00bc74b071f29b2bc9483c6602@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nNew Orleans Saints @ New York Giants\n\n
@@ -2165,7 +2165,7 @@ DESCRIPTION:NFL 2026 · Week 6\n\nNew Orleans Saints @ New York Giants\n\n
  the US\; eligible subscriptions and geographic restrictions apply.\n\nVenu
  e\nMetLife Stadium\nEast Rutherford\n\nSchedule source: https://www.nfl.co
  m/games/saints-at-giants-2026-reg-6
-LAST-MODIFIED:20261018T172629Z
+LAST-MODIFIED:20261018T222902Z
 LOCATION:MetLife Stadium\nEast Rutherford
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2175,9 +2175,9 @@ BEGIN:VEVENT
 SUMMARY:New York Jets @ New England Patriots
 DTSTART:20261018T170000Z
 DTEND:20261018T201500Z
-DTSTAMP:20261018T172629Z
+DTSTAMP:20261018T222902Z
 UID:08d23408ec64fbeca4f8373366b76e9d@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nNew York Jets @ New England Patriots\n\n
@@ -2191,7 +2191,7 @@ DESCRIPTION:NFL 2026 · Week 6\n\nNew York Jets @ New England Patriots\n\n
   are for the US\; eligible subscriptions and geographic restrictions apply
  .\n\nVenue\nGillette Stadium\nFoxborough\n\nSchedule source: https://www.n
  fl.com/games/jets-at-patriots-2026-reg-6
-LAST-MODIFIED:20261018T172629Z
+LAST-MODIFIED:20261018T222902Z
 LOCATION:Gillette Stadium\nFoxborough
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2201,9 +2201,9 @@ BEGIN:VEVENT
 SUMMARY:Pittsburgh Steelers @ Tampa Bay Buccaneers
 DTSTART:20261018T170000Z
 DTEND:20261018T201500Z
-DTSTAMP:20261018T172629Z
+DTSTAMP:20261018T222902Z
 UID:1b6475df285fa56c0dd19771eacc977d@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nPittsburgh Steelers @ Tampa Bay Buccanee
@@ -2217,7 +2217,7 @@ DESCRIPTION:NFL 2026 · Week 6\n\nPittsburgh Steelers @ Tampa Bay Buccanee
  stings are for the US\; eligible subscriptions and geographic restrictions
   apply.\n\nVenue\nRaymond James Stadium\nTampa\n\nSchedule source: https:/
  /www.nfl.com/games/steelers-at-buccaneers-2026-reg-6
-LAST-MODIFIED:20261018T172629Z
+LAST-MODIFIED:20261018T222902Z
 LOCATION:Raymond James Stadium\nTampa
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2227,9 +2227,9 @@ BEGIN:VEVENT
 SUMMARY:Tennessee Titans @ Indianapolis Colts
 DTSTART:20261018T170000Z
 DTEND:20261018T201500Z
-DTSTAMP:20261018T172629Z
+DTSTAMP:20261018T222902Z
 UID:dc71437ad869f000adcca807a9ce1728@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nTennessee Titans @ Indianapolis Colts\n
@@ -2243,7 +2243,7 @@ DESCRIPTION:NFL 2026 · Week 6\n\nTennessee Titans @ Indianapolis Colts\n
  r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
  nue\nLucas Oil Stadium\nIndianapolis\n\nSchedule source: https://www.nfl.c
  om/games/titans-at-colts-2026-reg-6
-LAST-MODIFIED:20261018T172629Z
+LAST-MODIFIED:20261018T222902Z
 LOCATION:Lucas Oil Stadium\nIndianapolis
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2253,9 +2253,9 @@ BEGIN:VEVENT
 SUMMARY:Arizona Cardinals @ Los Angeles Rams
 DTSTART:20261018T200500Z
 DTEND:20261018T232000Z
-DTSTAMP:20261012T221031Z
+DTSTAMP:20261018T222902Z
 UID:92800f93a6a1bff3cf4afeb7e70027d3@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nArizona Cardinals @ Los Angeles Rams\n\n
@@ -2269,7 +2269,7 @@ DESCRIPTION:NFL 2026 · Week 6\n\nArizona Cardinals @ Los Angeles Rams\n\n
  the US\; eligible subscriptions and geographic restrictions apply.\n\nVenu
  e\nSoFi Stadium\nInglewood\n\nSchedule source: https://www.nfl.com/games/c
  ardinals-at-rams-2026-reg-6
-LAST-MODIFIED:20261012T221031Z
+LAST-MODIFIED:20261018T222902Z
 LOCATION:SoFi Stadium\nInglewood
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2279,9 +2279,9 @@ BEGIN:VEVENT
 SUMMARY:Buffalo Bills @ Las Vegas Raiders
 DTSTART:20261018T202500Z
 DTEND:20261018T234000Z
-DTSTAMP:20261005T213207Z
+DTSTAMP:20261018T222902Z
 UID:a601008757867dd0206be22424a031f3@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nBuffalo Bills @ Las Vegas Raiders\n\nKic
@@ -2295,7 +2295,7 @@ DESCRIPTION:NFL 2026 · Week 6\n\nBuffalo Bills @ Las Vegas Raiders\n\nKic
  re for the US\; eligible subscriptions and geographic restrictions apply.
  \n\nVenue\nAllegiant Stadium\nParadise\n\nSchedule source: https://www.nfl
  .com/games/bills-at-raiders-2026-reg-6
-LAST-MODIFIED:20261005T213207Z
+LAST-MODIFIED:20261018T222902Z
 LOCATION:Allegiant Stadium\nParadise
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2305,9 +2305,9 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Chargers @ Kansas City Chiefs
 DTSTART:20261018T202500Z
 DTEND:20261018T234000Z
-DTSTAMP:20261005T213207Z
+DTSTAMP:20261018T222902Z
 UID:81aa60b66e4b3e5df380e94d41117f10@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nLos Angeles Chargers @ Kansas City Chief
@@ -2321,7 +2321,7 @@ DESCRIPTION:NFL 2026 · Week 6\n\nLos Angeles Chargers @ Kansas City Chief
  tings are for the US\; eligible subscriptions and geographic restrictions 
  apply.\n\nVenue\nArrowhead Stadium\nKansas City\n\nSchedule source: https:
  //www.nfl.com/games/chargers-at-chiefs-2026-reg-6
-LAST-MODIFIED:20261005T213207Z
+LAST-MODIFIED:20261018T222902Z
 LOCATION:Arrowhead Stadium\nKansas City
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

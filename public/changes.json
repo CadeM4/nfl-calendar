@@ -1,27 +1,14 @@
 [
   {
     "kind": "UPDATED",
-    "id": "2026-REG-HOU-JAX",
-    "away": "HOU",
-    "home": "JAX",
-    "week": 6,
-    "fields": {
-      "status": {
-        "before": "scheduled",
-        "after": "final"
-      }
-    }
-  },
-  {
-    "kind": "UPDATED",
     "id": "2026-REG-BAL-CLE",
     "away": "BAL",
     "home": "CLE",
     "week": 6,
     "fields": {
       "status": {
-        "before": "scheduled",
-        "after": "live"
+        "before": "live",
+        "after": "final"
       }
     }
   },
@@ -33,8 +20,8 @@
     "week": 6,
     "fields": {
       "status": {
-        "before": "scheduled",
-        "after": "live"
+        "before": "live",
+        "after": "final"
       }
     }
   },
@@ -46,8 +33,8 @@
     "week": 6,
     "fields": {
       "status": {
-        "before": "scheduled",
-        "after": "live"
+        "before": "live",
+        "after": "final"
       }
     }
   },
@@ -59,8 +46,8 @@
     "week": 6,
     "fields": {
       "status": {
-        "before": "scheduled",
-        "after": "live"
+        "before": "live",
+        "after": "final"
       }
     }
   },
@@ -72,8 +59,8 @@
     "week": 6,
     "fields": {
       "status": {
-        "before": "scheduled",
-        "after": "live"
+        "before": "live",
+        "after": "final"
       }
     }
   },
@@ -85,8 +72,8 @@
     "week": 6,
     "fields": {
       "status": {
-        "before": "scheduled",
-        "after": "live"
+        "before": "live",
+        "after": "final"
       }
     }
   },
@@ -95,6 +82,45 @@
     "id": "2026-REG-TEN-IND",
     "away": "TEN",
     "home": "IND",
+    "week": 6,
+    "fields": {
+      "status": {
+        "before": "live",
+        "after": "final"
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-ARI-LAR",
+    "away": "ARI",
+    "home": "LAR",
+    "week": 6,
+    "fields": {
+      "status": {
+        "before": "scheduled",
+        "after": "live"
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-BUF-LV",
+    "away": "BUF",
+    "home": "LV",
+    "week": 6,
+    "fields": {
+      "status": {
+        "before": "scheduled",
+        "after": "live"
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-LAC-KC",
+    "away": "LAC",
+    "home": "KC",
     "week": 6,
     "fields": {
       "status": {

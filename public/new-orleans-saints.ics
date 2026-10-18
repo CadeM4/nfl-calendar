@@ -142,9 +142,9 @@ BEGIN:VEVENT
 SUMMARY:New Orleans Saints @ New York Giants
 DTSTART:20261018T170000Z
 DTEND:20261018T201500Z
-DTSTAMP:20261018T172629Z
+DTSTAMP:20261018T222902Z
 UID:d5097b00bc74b071f29b2bc9483c6602@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nNew Orleans Saints @ New York Giants\n\n
@@ -158,7 +158,7 @@ DESCRIPTION:NFL 2026 · Week 6\n\nNew Orleans Saints @ New York Giants\n\n
  the US\; eligible subscriptions and geographic restrictions apply.\n\nVenu
  e\nMetLife Stadium\nEast Rutherford\n\nSchedule source: https://www.nfl.co
  m/games/saints-at-giants-2026-reg-6
-LAST-MODIFIED:20261018T172629Z
+LAST-MODIFIED:20261018T222902Z
 LOCATION:MetLife Stadium\nEast Rutherford
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
