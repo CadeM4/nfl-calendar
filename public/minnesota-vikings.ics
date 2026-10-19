@@ -170,17 +170,23 @@ BEGIN:VEVENT
 SUMMARY:Minnesota Vikings @ Detroit Lions
 DTSTART:20261101T180000Z
 DTEND:20261101T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261019T075608Z
 UID:d90cacd8be66882b76d5672652266e3a@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nMinnesota Vikings @ Detroit Lions\n\nKic
  koff: Sunday\, November 1\, 2026 at 1:00 PM EST (America/New_York)\nEstima
- ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadca
- st\; local market coverage varies.\n\nVenue\nFord Field\nDetroit\n\nSchedu
- le source: https://www.nfl.com/games/vikings-at-lions-2026-reg-8
-LAST-MODIFIED:20260927T005047Z
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX O
+ ne\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nNFL
+  Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local an
+ d national blackouts apply.\nNFL+: local and primetime live game streams r
+ equire a phone or tablet\; market and device restrictions apply.\nRegional
+  broadcast\; local market coverage varies.\nStreaming listings are for the
+  US\; eligible subscriptions and geographic restrictions apply.\n\nVenue\n
+ Ford Field\nDetroit\n\nSchedule source: https://www.nfl.com/games/vikings-
+ at-lions-2026-reg-8
+LAST-MODIFIED:20261019T075608Z
 LOCATION:Ford Field\nDetroit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

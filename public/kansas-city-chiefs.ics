@@ -114,9 +114,9 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Chargers @ Kansas City Chiefs
 DTSTART:20261018T202500Z
 DTEND:20261018T234000Z
-DTSTAMP:20261018T222902Z
+DTSTAMP:20261019T075608Z
 UID:81aa60b66e4b3e5df380e94d41117f10@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nLos Angeles Chargers @ Kansas City Chief
@@ -130,7 +130,7 @@ DESCRIPTION:NFL 2026 · Week 6\n\nLos Angeles Chargers @ Kansas City Chief
  tings are for the US\; eligible subscriptions and geographic restrictions 
  apply.\n\nVenue\nArrowhead Stadium\nKansas City\n\nSchedule source: https:
  //www.nfl.com/games/chargers-at-chiefs-2026-reg-6
-LAST-MODIFIED:20261018T222902Z
+LAST-MODIFIED:20261019T075608Z
 LOCATION:Arrowhead Stadium\nKansas City
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

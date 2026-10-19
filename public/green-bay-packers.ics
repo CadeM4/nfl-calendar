@@ -141,9 +141,9 @@ BEGIN:VEVENT
 SUMMARY:Dallas Cowboys @ Green Bay Packers
 DTSTART:20261019T002000Z
 DTEND:20261019T033500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261019T075608Z
 UID:10fefda2ecff2be7c98c0f4333816c82@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nDallas Cowboys @ Green Bay Packers\n\nKi
@@ -154,7 +154,7 @@ DESCRIPTION:NFL 2026 · Week 6\n\nDallas Cowboys @ Green Bay Packers\n\nKi
  ings are for the US\; eligible subscriptions and geographic restrictions a
  pply.\nUS national broadcast.\n\nVenue\nLambeau Field\nGreen Bay\n\nSchedu
  le source: https://www.nfl.com/games/cowboys-at-packers-2026-reg-6
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261019T075608Z
 LOCATION:Lambeau Field\nGreen Bay
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

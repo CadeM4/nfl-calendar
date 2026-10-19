@@ -193,18 +193,23 @@ BEGIN:VEVENT
 SUMMARY:Cleveland Browns @ Pittsburgh Steelers
 DTSTART:20261101T180000Z
 DTEND:20261101T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261019T075608Z
 UID:dc33f4297dcda197107639bb5cd984b6@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nCleveland Browns @ Pittsburgh Steelers\n
  \nKickoff: Sunday\, November 1\, 2026 at 1:00 PM EST (America/New_York)\nE
- stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional br
- oadcast\; local market coverage varies.\n\nVenue\nAcrisure Stadium\nPittsb
- urgh\n\nSchedule source: https://www.nfl.com/games/browns-at-steelers-2026
- -reg-8
-LAST-MODIFIED:20260927T005047Z
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: 
+ NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday aftern
+ oon viewing\; local and national blackouts apply.\nNFL+: local and primeti
+ me live game streams require a phone or tablet\; market and device restric
+ tions apply.\nParamount+: this game must be carried by your local CBS stat
+ ion.\nRegional broadcast\; local market coverage varies.\nStreaming listin
+ gs are for the US\; eligible subscriptions and geographic restrictions app
+ ly.\n\nVenue\nAcrisure Stadium\nPittsburgh\n\nSchedule source: https://www
+ .nfl.com/games/browns-at-steelers-2026-reg-8
+LAST-MODIFIED:20261019T075608Z
 LOCATION:Acrisure Stadium\nPittsburgh
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

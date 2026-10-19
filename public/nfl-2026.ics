@@ -2253,9 +2253,9 @@ BEGIN:VEVENT
 SUMMARY:Arizona Cardinals @ Los Angeles Rams
 DTSTART:20261018T200500Z
 DTEND:20261018T232000Z
-DTSTAMP:20261018T222902Z
+DTSTAMP:20261019T075608Z
 UID:92800f93a6a1bff3cf4afeb7e70027d3@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nArizona Cardinals @ Los Angeles Rams\n\n
@@ -2269,7 +2269,7 @@ DESCRIPTION:NFL 2026 · Week 6\n\nArizona Cardinals @ Los Angeles Rams\n\n
  the US\; eligible subscriptions and geographic restrictions apply.\n\nVenu
  e\nSoFi Stadium\nInglewood\n\nSchedule source: https://www.nfl.com/games/c
  ardinals-at-rams-2026-reg-6
-LAST-MODIFIED:20261018T222902Z
+LAST-MODIFIED:20261019T075608Z
 LOCATION:SoFi Stadium\nInglewood
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2279,9 +2279,9 @@ BEGIN:VEVENT
 SUMMARY:Buffalo Bills @ Las Vegas Raiders
 DTSTART:20261018T202500Z
 DTEND:20261018T234000Z
-DTSTAMP:20261018T222902Z
+DTSTAMP:20261019T075608Z
 UID:a601008757867dd0206be22424a031f3@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nBuffalo Bills @ Las Vegas Raiders\n\nKic
@@ -2295,7 +2295,7 @@ DESCRIPTION:NFL 2026 · Week 6\n\nBuffalo Bills @ Las Vegas Raiders\n\nKic
  re for the US\; eligible subscriptions and geographic restrictions apply.
  \n\nVenue\nAllegiant Stadium\nParadise\n\nSchedule source: https://www.nfl
  .com/games/bills-at-raiders-2026-reg-6
-LAST-MODIFIED:20261018T222902Z
+LAST-MODIFIED:20261019T075608Z
 LOCATION:Allegiant Stadium\nParadise
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2305,9 +2305,9 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Chargers @ Kansas City Chiefs
 DTSTART:20261018T202500Z
 DTEND:20261018T234000Z
-DTSTAMP:20261018T222902Z
+DTSTAMP:20261019T075608Z
 UID:81aa60b66e4b3e5df380e94d41117f10@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nLos Angeles Chargers @ Kansas City Chief
@@ -2321,7 +2321,7 @@ DESCRIPTION:NFL 2026 · Week 6\n\nLos Angeles Chargers @ Kansas City Chief
  tings are for the US\; eligible subscriptions and geographic restrictions 
  apply.\n\nVenue\nArrowhead Stadium\nKansas City\n\nSchedule source: https:
  //www.nfl.com/games/chargers-at-chiefs-2026-reg-6
-LAST-MODIFIED:20261018T222902Z
+LAST-MODIFIED:20261019T075608Z
 LOCATION:Arrowhead Stadium\nKansas City
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2331,9 +2331,9 @@ BEGIN:VEVENT
 SUMMARY:Dallas Cowboys @ Green Bay Packers
 DTSTART:20261019T002000Z
 DTEND:20261019T033500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261019T075608Z
 UID:10fefda2ecff2be7c98c0f4333816c82@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nDallas Cowboys @ Green Bay Packers\n\nKi
@@ -2344,7 +2344,7 @@ DESCRIPTION:NFL 2026 · Week 6\n\nDallas Cowboys @ Green Bay Packers\n\nKi
  ings are for the US\; eligible subscriptions and geographic restrictions a
  pply.\nUS national broadcast.\n\nVenue\nLambeau Field\nGreen Bay\n\nSchedu
  le source: https://www.nfl.com/games/cowboys-at-packers-2026-reg-6
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261019T075608Z
 LOCATION:Lambeau Field\nGreen Bay
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2755,17 +2755,23 @@ BEGIN:VEVENT
 SUMMARY:Arizona Cardinals @ Dallas Cowboys
 DTSTART:20261101T180000Z
 DTEND:20261101T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261019T075608Z
 UID:083c0faebb2b9f80fb2d39748901afee@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nArizona Cardinals @ Dallas Cowboys\n\nKi
  ckoff: Sunday\, November 1\, 2026 at 1:00 PM EST (America/New_York)\nEstim
- ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadc
- ast\; local market coverage varies.\n\nVenue\nAT&T Stadium\nArlington\n\nS
- chedule source: https://www.nfl.com/games/cardinals-at-cowboys-2026-reg-8
-LAST-MODIFIED:20260927T005047Z
+ ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX 
+ One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nNF
+ L Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local a
+ nd national blackouts apply.\nNFL+: local and primetime live game streams 
+ require a phone or tablet\; market and device restrictions apply.\nRegiona
+ l broadcast\; local market coverage varies.\nStreaming listings are for th
+ e US\; eligible subscriptions and geographic restrictions apply.\n\nVenue
+ \nAT&T Stadium\nArlington\n\nSchedule source: https://www.nfl.com/games/ca
+ rdinals-at-cowboys-2026-reg-8
+LAST-MODIFIED:20261019T075608Z
 LOCATION:AT&T Stadium\nArlington
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2775,18 +2781,23 @@ BEGIN:VEVENT
 SUMMARY:Atlanta Falcons @ Tampa Bay Buccaneers
 DTSTART:20261101T180000Z
 DTEND:20261101T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261019T075608Z
 UID:fa29e52661fc632a08c68b58f683a207@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nAtlanta Falcons @ Tampa Bay Buccaneers\n
  \nKickoff: Sunday\, November 1\, 2026 at 1:00 PM EST (America/New_York)\nE
- stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional br
- oadcast\; local market coverage varies.\n\nVenue\nRaymond James Stadium\nT
- ampa\n\nSchedule source: https://www.nfl.com/games/falcons-at-buccaneers-2
- 026-reg-8
-LAST-MODIFIED:20260927T005047Z
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: 
+ FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.
+ \nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; loc
+ al and national blackouts apply.\nNFL+: local and primetime live game stre
+ ams require a phone or tablet\; market and device restrictions apply.\nReg
+ ional broadcast\; local market coverage varies.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
+ nue\nRaymond James Stadium\nTampa\n\nSchedule source: https://www.nfl.com/
+ games/falcons-at-buccaneers-2026-reg-8
+LAST-MODIFIED:20261019T075608Z
 LOCATION:Raymond James Stadium\nTampa
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2796,17 +2807,23 @@ BEGIN:VEVENT
 SUMMARY:Baltimore Ravens @ Buffalo Bills
 DTSTART:20261101T180000Z
 DTEND:20261101T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261019T075608Z
 UID:9f50bb7a299ccba96b82c7f3f8cd948d@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nBaltimore Ravens @ Buffalo Bills\n\nKick
  off: Sunday\, November 1\, 2026 at 1:00 PM EST (America/New_York)\nEstimat
- ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadcas
- t\; local market coverage varies.\n\nVenue\nHighmark Stadium\nOrchard Park
- \n\nSchedule source: https://www.nfl.com/games/ravens-at-bills-2026-reg-8
-LAST-MODIFIED:20260927T005047Z
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL+\,
+  Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon vi
+ ewing\; local and national blackouts apply.\nNFL+: local and primetime liv
+ e game streams require a phone or tablet\; market and device restrictions 
+ apply.\nParamount+: this game must be carried by your local CBS station.\n
+ Regional broadcast\; local market coverage varies.\nStreaming listings are
+  for the US\; eligible subscriptions and geographic restrictions apply.\n
+ \nVenue\nHighmark Stadium\nOrchard Park\n\nSchedule source: https://www.nf
+ l.com/games/ravens-at-bills-2026-reg-8
+LAST-MODIFIED:20261019T075608Z
 LOCATION:Highmark Stadium\nOrchard Park
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2816,18 +2833,23 @@ BEGIN:VEVENT
 SUMMARY:Cleveland Browns @ Pittsburgh Steelers
 DTSTART:20261101T180000Z
 DTEND:20261101T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261019T075608Z
 UID:dc33f4297dcda197107639bb5cd984b6@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nCleveland Browns @ Pittsburgh Steelers\n
  \nKickoff: Sunday\, November 1\, 2026 at 1:00 PM EST (America/New_York)\nE
- stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional br
- oadcast\; local market coverage varies.\n\nVenue\nAcrisure Stadium\nPittsb
- urgh\n\nSchedule source: https://www.nfl.com/games/browns-at-steelers-2026
- -reg-8
-LAST-MODIFIED:20260927T005047Z
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: 
+ NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday aftern
+ oon viewing\; local and national blackouts apply.\nNFL+: local and primeti
+ me live game streams require a phone or tablet\; market and device restric
+ tions apply.\nParamount+: this game must be carried by your local CBS stat
+ ion.\nRegional broadcast\; local market coverage varies.\nStreaming listin
+ gs are for the US\; eligible subscriptions and geographic restrictions app
+ ly.\n\nVenue\nAcrisure Stadium\nPittsburgh\n\nSchedule source: https://www
+ .nfl.com/games/browns-at-steelers-2026-reg-8
+LAST-MODIFIED:20261019T075608Z
 LOCATION:Acrisure Stadium\nPittsburgh
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2837,18 +2859,23 @@ BEGIN:VEVENT
 SUMMARY:Indianapolis Colts @ Jacksonville Jaguars
 DTSTART:20261101T180000Z
 DTEND:20261101T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261019T075608Z
 UID:08b67422ee421c73cd0bb00b200d82d7@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nIndianapolis Colts @ Jacksonville Jaguar
  s\n\nKickoff: Sunday\, November 1\, 2026 at 1:00 PM EST (America/New_York)
- \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional
-  broadcast\; local market coverage varies.\n\nVenue\nEverBank Stadium\nJac
- ksonville\n\nSchedule source: https://www.nfl.com/games/colts-at-jaguars-2
- 026-reg-8
-LAST-MODIFIED:20260927T005047Z
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreamin
+ g: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday aft
+ ernoon viewing\; local and national blackouts apply.\nNFL+: local and prim
+ etime live game streams require a phone or tablet\; market and device rest
+ rictions apply.\nParamount+: this game must be carried by your local CBS s
+ tation.\nRegional broadcast\; local market coverage varies.\nStreaming lis
+ tings are for the US\; eligible subscriptions and geographic restrictions 
+ apply.\n\nVenue\nEverBank Stadium\nJacksonville\n\nSchedule source: https:
+ //www.nfl.com/games/colts-at-jaguars-2026-reg-8
+LAST-MODIFIED:20261019T075608Z
 LOCATION:EverBank Stadium\nJacksonville
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2858,18 +2885,23 @@ BEGIN:VEVENT
 SUMMARY:Las Vegas Raiders @ New York Jets
 DTSTART:20261101T180000Z
 DTEND:20261101T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261019T075608Z
 UID:a8fa744c88d380b1caf9e6f0ddb4b586@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nLas Vegas Raiders @ New York Jets\n\nKic
  koff: Sunday\, November 1\, 2026 at 1:00 PM EST (America/New_York)\nEstima
- ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadca
- st\; local market coverage varies.\n\nVenue\nMetLife Stadium\nEast Rutherf
- ord\n\nSchedule source: https://www.nfl.com/games/raiders-at-jets-2026-reg
- -8
-LAST-MODIFIED:20260927T005047Z
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX O
+ ne\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nNFL
+  Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local an
+ d national blackouts apply.\nNFL+: local and primetime live game streams r
+ equire a phone or tablet\; market and device restrictions apply.\nRegional
+  broadcast\; local market coverage varies.\nStreaming listings are for the
+  US\; eligible subscriptions and geographic restrictions apply.\n\nVenue\n
+ MetLife Stadium\nEast Rutherford\n\nSchedule source: https://www.nfl.com/g
+ ames/raiders-at-jets-2026-reg-8
+LAST-MODIFIED:20261019T075608Z
 LOCATION:MetLife Stadium\nEast Rutherford
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2879,17 +2911,23 @@ BEGIN:VEVENT
 SUMMARY:Minnesota Vikings @ Detroit Lions
 DTSTART:20261101T180000Z
 DTEND:20261101T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261019T075608Z
 UID:d90cacd8be66882b76d5672652266e3a@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nMinnesota Vikings @ Detroit Lions\n\nKic
  koff: Sunday\, November 1\, 2026 at 1:00 PM EST (America/New_York)\nEstima
- ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadca
- st\; local market coverage varies.\n\nVenue\nFord Field\nDetroit\n\nSchedu
- le source: https://www.nfl.com/games/vikings-at-lions-2026-reg-8
-LAST-MODIFIED:20260927T005047Z
+ ted game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX O
+ ne\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nNFL
+  Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local an
+ d national blackouts apply.\nNFL+: local and primetime live game streams r
+ equire a phone or tablet\; market and device restrictions apply.\nRegional
+  broadcast\; local market coverage varies.\nStreaming listings are for the
+  US\; eligible subscriptions and geographic restrictions apply.\n\nVenue\n
+ Ford Field\nDetroit\n\nSchedule source: https://www.nfl.com/games/vikings-
+ at-lions-2026-reg-8
+LAST-MODIFIED:20261019T075608Z
 LOCATION:Ford Field\nDetroit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2899,18 +2937,23 @@ BEGIN:VEVENT
 SUMMARY:Tennessee Titans @ Cincinnati Bengals
 DTSTART:20261101T180000Z
 DTEND:20261101T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261019T075608Z
 UID:b517aae795c201ee314caf16a01e9a93@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nTennessee Titans @ Cincinnati Bengals\n
  \nKickoff: Sunday\, November 1\, 2026 at 1:00 PM EST (America/New_York)\nE
- stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional br
- oadcast\; local market coverage varies.\n\nVenue\nPaycor Stadium\nCincinna
- ti\n\nSchedule source: https://www.nfl.com/games/titans-at-bengals-2026-re
- g-8
-LAST-MODIFIED:20260927T005047Z
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: 
+ NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday aftern
+ oon viewing\; local and national blackouts apply.\nNFL+: local and primeti
+ me live game streams require a phone or tablet\; market and device restric
+ tions apply.\nParamount+: this game must be carried by your local CBS stat
+ ion.\nRegional broadcast\; local market coverage varies.\nStreaming listin
+ gs are for the US\; eligible subscriptions and geographic restrictions app
+ ly.\n\nVenue\nPaycor Stadium\nCincinnati\n\nSchedule source: https://www.n
+ fl.com/games/titans-at-bengals-2026-reg-8
+LAST-MODIFIED:20261019T075608Z
 LOCATION:Paycor Stadium\nCincinnati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
