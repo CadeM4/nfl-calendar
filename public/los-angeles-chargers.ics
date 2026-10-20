@@ -170,18 +170,23 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Chargers @ Los Angeles Rams
 DTSTART:20261101T210500Z
 DTEND:20261102T002000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261020T074526Z
 UID:6f7d14b46750060996d7c604a99d2006@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nLos Angeles Chargers @ Los Angeles Rams
  \n\nKickoff: Sunday\, November 1\, 2026 at 4:05 PM EST (America/New_York)
- \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
-  broadcast\; local market coverage varies.\n\nVenue\nSoFi Stadium\nInglewo
- od\n\nSchedule source: https://www.nfl.com/games/chargers-at-rams-2026-reg
- -8
-LAST-MODIFIED:20260927T005047Z
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreamin
+ g: FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions app
+ ly.\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; 
+ local and national blackouts apply.\nNFL+: local and primetime live game s
+ treams require a phone or tablet\; market and device restrictions apply.\n
+ Regional broadcast\; local market coverage varies.\nStreaming listings are
+  for the US\; eligible subscriptions and geographic restrictions apply.\n
+ \nVenue\nSoFi Stadium\nInglewood\n\nSchedule source: https://www.nfl.com/g
+ ames/chargers-at-rams-2026-reg-8
+LAST-MODIFIED:20261020T074526Z
 LOCATION:SoFi Stadium\nInglewood
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

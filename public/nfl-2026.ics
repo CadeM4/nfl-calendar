@@ -2354,9 +2354,9 @@ BEGIN:VEVENT
 SUMMARY:Washington Commanders @ San Francisco 49ers
 DTSTART:20261020T001500Z
 DTEND:20261020T033000Z
-DTSTAMP:20261008T001606Z
+DTSTAMP:20261020T074526Z
 UID:9c807829b5278b1e878acc5561668453@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 6
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 6\n\nWashington Commanders @ San Francisco 49
@@ -2368,7 +2368,7 @@ DESCRIPTION:NFL 2026 · Week 6\n\nWashington Commanders @ San Francisco 49
  ligible subscriptions and geographic restrictions apply.\nUS national broa
  dcast.\n\nVenue\nLevi's® Stadium\nSanta Clara\n\nSchedule source: https:/
  /www.nfl.com/games/commanders-at-49ers-2026-reg-6
-LAST-MODIFIED:20261008T001606Z
+LAST-MODIFIED:20261020T074526Z
 LOCATION:Levi's® Stadium\nSanta Clara
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2963,18 +2963,23 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Chargers @ Los Angeles Rams
 DTSTART:20261101T210500Z
 DTEND:20261102T002000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261020T074526Z
 UID:6f7d14b46750060996d7c604a99d2006@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nLos Angeles Chargers @ Los Angeles Rams
  \n\nKickoff: Sunday\, November 1\, 2026 at 4:05 PM EST (America/New_York)
- \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
-  broadcast\; local market coverage varies.\n\nVenue\nSoFi Stadium\nInglewo
- od\n\nSchedule source: https://www.nfl.com/games/chargers-at-rams-2026-reg
- -8
-LAST-MODIFIED:20260927T005047Z
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreamin
+ g: FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions app
+ ly.\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; 
+ local and national blackouts apply.\nNFL+: local and primetime live game s
+ treams require a phone or tablet\; market and device restrictions apply.\n
+ Regional broadcast\; local market coverage varies.\nStreaming listings are
+  for the US\; eligible subscriptions and geographic restrictions apply.\n
+ \nVenue\nSoFi Stadium\nInglewood\n\nSchedule source: https://www.nfl.com/g
+ ames/chargers-at-rams-2026-reg-8
+LAST-MODIFIED:20261020T074526Z
 LOCATION:SoFi Stadium\nInglewood
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2984,18 +2989,23 @@ BEGIN:VEVENT
 SUMMARY:Kansas City Chiefs @ Denver Broncos
 DTSTART:20261101T212500Z
 DTEND:20261102T004000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261020T074526Z
 UID:7c949fe0464e44c4ba573441a921f8ad@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nKansas City Chiefs @ Denver Broncos\n\nK
  ickoff: Sunday\, November 1\, 2026 at 4:25 PM EST (America/New_York)\nEsti
- mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broad
- cast\; local market coverage varies.\n\nVenue\nEmpower Field at Mile High
- \nDenver\n\nSchedule source: https://www.nfl.com/games/chiefs-at-broncos-2
- 026-reg-8
-LAST-MODIFIED:20260927T005047Z
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL
+ +\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon
+  viewing\; local and national blackouts apply.\nNFL+: local and primetime 
+ live game streams require a phone or tablet\; market and device restrictio
+ ns apply.\nParamount+: this game must be carried by your local CBS station
+ .\nRegional broadcast\; local market coverage varies.\nStreaming listings 
+ are for the US\; eligible subscriptions and geographic restrictions apply.
+ \n\nVenue\nEmpower Field at Mile High\nDenver\n\nSchedule source: https://
+ www.nfl.com/games/chiefs-at-broncos-2026-reg-8
+LAST-MODIFIED:20261020T074526Z
 LOCATION:Empower Field at Mile High\nDenver
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3005,18 +3015,23 @@ BEGIN:VEVENT
 SUMMARY:New England Patriots @ Miami Dolphins
 DTSTART:20261101T212500Z
 DTEND:20261102T004000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261020T074526Z
 UID:3223d090041cb650da2fd5e73859cf46@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nNew England Patriots @ Miami Dolphins\n
  \nKickoff: Sunday\, November 1\, 2026 at 4:25 PM EST (America/New_York)\nE
- stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional br
- oadcast\; local market coverage varies.\n\nVenue\nHard Rock Stadium\nOpa L
- ocka\n\nSchedule source: https://www.nfl.com/games/patriots-at-dolphins-20
- 26-reg-8
-LAST-MODIFIED:20260927T005047Z
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: 
+ NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday aftern
+ oon viewing\; local and national blackouts apply.\nNFL+: local and primeti
+ me live game streams require a phone or tablet\; market and device restric
+ tions apply.\nParamount+: this game must be carried by your local CBS stat
+ ion.\nRegional broadcast\; local market coverage varies.\nStreaming listin
+ gs are for the US\; eligible subscriptions and geographic restrictions app
+ ly.\n\nVenue\nHard Rock Stadium\nOpa Locka\n\nSchedule source: https://www
+ .nfl.com/games/patriots-at-dolphins-2026-reg-8
+LAST-MODIFIED:20261020T074526Z
 LOCATION:Hard Rock Stadium\nOpa Locka
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

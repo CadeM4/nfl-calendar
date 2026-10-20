@@ -191,18 +191,23 @@ BEGIN:VEVENT
 SUMMARY:New England Patriots @ Miami Dolphins
 DTSTART:20261101T212500Z
 DTEND:20261102T004000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261020T074526Z
 UID:3223d090041cb650da2fd5e73859cf46@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nNew England Patriots @ Miami Dolphins\n
  \nKickoff: Sunday\, November 1\, 2026 at 4:25 PM EST (America/New_York)\nE
- stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional br
- oadcast\; local market coverage varies.\n\nVenue\nHard Rock Stadium\nOpa L
- ocka\n\nSchedule source: https://www.nfl.com/games/patriots-at-dolphins-20
- 26-reg-8
-LAST-MODIFIED:20260927T005047Z
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: 
+ NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday aftern
+ oon viewing\; local and national blackouts apply.\nNFL+: local and primeti
+ me live game streams require a phone or tablet\; market and device restric
+ tions apply.\nParamount+: this game must be carried by your local CBS stat
+ ion.\nRegional broadcast\; local market coverage varies.\nStreaming listin
+ gs are for the US\; eligible subscriptions and geographic restrictions app
+ ly.\n\nVenue\nHard Rock Stadium\nOpa Locka\n\nSchedule source: https://www
+ .nfl.com/games/patriots-at-dolphins-2026-reg-8
+LAST-MODIFIED:20261020T074526Z
 LOCATION:Hard Rock Stadium\nOpa Locka
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
