@@ -460,9 +460,9 @@ BEGIN:VEVENT
 SUMMARY:New England Patriots @ Chicago Bears
 DTSTART:20261023T001500Z
 DTEND:20261023T033000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261023T074311Z
 UID:42f73e8af3d4e2f0ce5ae03708853db3@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nNew England Patriots @ Chicago Bears\n\n
@@ -473,7 +473,7 @@ DESCRIPTION:NFL 2026 · Week 7\n\nNew England Patriots @ Chicago Bears\n\n
   the US\; eligible subscriptions and geographic restrictions apply.\nUS na
  tional broadcast.\n\nVenue\nSoldier Field\nChicago\n\nSchedule source: htt
  ps://www.nfl.com/games/patriots-at-bears-2026-reg-7
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261023T074311Z
 LOCATION:Soldier Field\nChicago
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

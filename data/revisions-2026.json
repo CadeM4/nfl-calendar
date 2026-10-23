@@ -558,10 +558,10 @@
     "fingerprint": "ad6f1cc5449c4f28043425aed5a4343d637618e3f75d843d3970bc1f670fd1ad"
   },
   "2026-REG-NE-CHI": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "65b502dd559c62ef970c252c9114a967af879dafa7e5bf91df4db7ce7199b76b"
+    "modified": "2026-10-23T07:43:11Z",
+    "fingerprint": "bc85c847e9613a92837cb540a7b33bee7039dd4157e1d1ea989aa38c3cbf13f8"
   },
   "2026-REG-PIT-NO": {
     "sequence": 0,
