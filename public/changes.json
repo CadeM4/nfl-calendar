@@ -1,15 +1,1 @@
-[
-  {
-    "kind": "UPDATED",
-    "id": "2026-REG-NE-CHI",
-    "away": "NE",
-    "home": "CHI",
-    "week": 7,
-    "fields": {
-      "status": {
-        "before": "scheduled",
-        "after": "final"
-      }
-    }
-  }
-]
+[]

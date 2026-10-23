@@ -1,8 +1,5 @@
 # Schedule changes
 
-Verified: 2026-10-23T07:43:11Z
+Verified: 2026-10-23T13:36:53Z
 
-## UPDATED: NE @ CHI — Week 7
-
-- Status: scheduled → final
-
+No event changes since the previous successful refresh.
