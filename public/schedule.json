@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "season": 2026,
-  "fetched_at": "2026-10-25T13:15:01Z",
+  "fetched_at": "2026-10-25T17:42:40Z",
   "source": {
     "name": "NFL.com official schedule and game-specific viewing data",
     "url": "https://www.nfl.com/schedules/2026/by-week/week-1"
@@ -4233,7 +4233,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/steelers-at-saints-2026-reg-7",
       "source_ids": {
         "nfl": "aad58d7d-4feb-11f1-abca-2c54536568a9",
@@ -4278,7 +4278,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/bengals-at-ravens-2026-reg-7",
       "source_ids": {
         "nfl": "aad594ee-4feb-11f1-abca-2c54536568a9",
@@ -4323,7 +4323,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/browns-at-titans-2026-reg-7",
       "source_ids": {
         "nfl": "aaf6f621-4feb-11f1-abca-2c54536568a9",
@@ -4368,7 +4368,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/colts-at-vikings-2026-reg-7",
       "source_ids": {
         "nfl": "aad5a2ac-4feb-11f1-abca-2c54536568a9",
@@ -4413,7 +4413,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/dolphins-at-jets-2026-reg-7",
       "source_ids": {
         "nfl": "aaf6ec9e-4feb-11f1-abca-2c54536568a9",
@@ -4458,7 +4458,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/giants-at-texans-2026-reg-7",
       "source_ids": {
         "nfl": "aad59e95-4feb-11f1-abca-2c54536568a9",
@@ -4503,7 +4503,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/49ers-at-falcons-2026-reg-7",
       "source_ids": {
         "nfl": "aad59092-4feb-11f1-abca-2c54536568a9",
@@ -4548,7 +4548,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/buccaneers-at-panthers-2026-reg-7",
       "source_ids": {
         "nfl": "aad59a67-4feb-11f1-abca-2c54536568a9",

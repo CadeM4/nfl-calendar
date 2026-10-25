@@ -167,9 +167,9 @@ BEGIN:VEVENT
 SUMMARY:Pittsburgh Steelers @ New Orleans Saints
 DTSTART:20261025T133000Z
 DTEND:20261025T164500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261025T174240Z
 UID:66781b3f3ae1bbf5dc902be366eae095@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nPittsburgh Steelers @ New Orleans Saints
@@ -181,7 +181,7 @@ DESCRIPTION:NFL 2026 · Week 7\n\nPittsburgh Steelers @ New Orleans Saints
  trictions apply.\nUS national broadcast.\n\nVenue\nStade de France\nSaint-
  Denis\, France\n\nSchedule source: https://www.nfl.com/games/steelers-at-s
  aints-2026-reg-7
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261025T174240Z
 LOCATION:Stade de France\nSaint-Denis\, France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

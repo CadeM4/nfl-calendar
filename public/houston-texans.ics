@@ -168,9 +168,9 @@ BEGIN:VEVENT
 SUMMARY:New York Giants @ Houston Texans
 DTSTART:20261025T170000Z
 DTEND:20261025T201500Z
-DTSTAMP:20261018T124025Z
+DTSTAMP:20261025T174240Z
 UID:e5db3a0abb727f41d30086fdd24b89e0@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nNew York Giants @ Houston Texans\n\nKick
@@ -184,7 +184,7 @@ DESCRIPTION:NFL 2026 · Week 7\n\nNew York Giants @ Houston Texans\n\nKick
  US\; eligible subscriptions and geographic restrictions apply.\n\nVenue\nR
  eliant Stadium\nHouston\n\nSchedule source: https://www.nfl.com/games/gian
  ts-at-texans-2026-reg-7
-LAST-MODIFIED:20261018T124025Z
+LAST-MODIFIED:20261025T174240Z
 LOCATION:Reliant Stadium\nHouston
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

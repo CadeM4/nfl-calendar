@@ -141,9 +141,9 @@ BEGIN:VEVENT
 SUMMARY:Tampa Bay Buccaneers @ Carolina Panthers
 DTSTART:20261025T170000Z
 DTEND:20261025T201500Z
-DTSTAMP:20261018T124025Z
+DTSTAMP:20261025T174240Z
 UID:770e2e484cdcc98044620782ef7d7dd5@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nTampa Bay Buccaneers @ Carolina Panthers
@@ -157,7 +157,7 @@ DESCRIPTION:NFL 2026 · Week 7\n\nTampa Bay Buccaneers @ Carolina Panthers
   for the US\; eligible subscriptions and geographic restrictions apply.\n
  \nVenue\nBank of America Stadium\nCharlotte\n\nSchedule source: https://ww
  w.nfl.com/games/buccaneers-at-panthers-2026-reg-7
-LAST-MODIFIED:20261018T124025Z
+LAST-MODIFIED:20261025T174240Z
 LOCATION:Bank of America Stadium\nCharlotte
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -144,9 +144,9 @@ BEGIN:VEVENT
 SUMMARY:Indianapolis Colts @ Minnesota Vikings
 DTSTART:20261025T170000Z
 DTEND:20261025T201500Z
-DTSTAMP:20261012T221031Z
+DTSTAMP:20261025T174240Z
 UID:53839ba02c255d1c68bc363808f3c35d@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nIndianapolis Colts @ Minnesota Vikings\n
@@ -160,7 +160,7 @@ DESCRIPTION:NFL 2026 · Week 7\n\nIndianapolis Colts @ Minnesota Vikings\n
  gs are for the US\; eligible subscriptions and geographic restrictions app
  ly.\n\nVenue\nU.S. Bank Stadium\nMinneapolis\n\nSchedule source: https://w
  ww.nfl.com/games/colts-at-vikings-2026-reg-7
-LAST-MODIFIED:20261012T221031Z
+LAST-MODIFIED:20261025T174240Z
 LOCATION:U.S. Bank Stadium\nMinneapolis
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

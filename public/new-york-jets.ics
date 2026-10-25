@@ -170,9 +170,9 @@ BEGIN:VEVENT
 SUMMARY:Miami Dolphins @ New York Jets
 DTSTART:20261025T170000Z
 DTEND:20261025T201500Z
-DTSTAMP:20261012T221031Z
+DTSTAMP:20261025T174240Z
 UID:b04815ac94bb3730aeffd19f701d8512@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nMiami Dolphins @ New York Jets\n\nKickof
@@ -186,7 +186,7 @@ DESCRIPTION:NFL 2026 · Week 7\n\nMiami Dolphins @ New York Jets\n\nKickof
  or the US\; eligible subscriptions and geographic restrictions apply.\n\nV
  enue\nMetLife Stadium\nEast Rutherford\n\nSchedule source: https://www.nfl
  .com/games/dolphins-at-jets-2026-reg-7
-LAST-MODIFIED:20261012T221031Z
+LAST-MODIFIED:20261025T174240Z
 LOCATION:MetLife Stadium\nEast Rutherford
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

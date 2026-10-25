@@ -167,9 +167,9 @@ BEGIN:VEVENT
 SUMMARY:Cleveland Browns @ Tennessee Titans
 DTSTART:20261025T170000Z
 DTEND:20261025T201500Z
-DTSTAMP:20261012T221031Z
+DTSTAMP:20261025T174240Z
 UID:50bfad7bbdd13cb95f511e355eabc45e@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nCleveland Browns @ Tennessee Titans\n\nK
@@ -183,7 +183,7 @@ DESCRIPTION:NFL 2026 · Week 7\n\nCleveland Browns @ Tennessee Titans\n\nK
  are for the US\; eligible subscriptions and geographic restrictions apply.
  \n\nVenue\nNissan Stadium\nNashville\n\nSchedule source: https://www.nfl.c
  om/games/browns-at-titans-2026-reg-7
-LAST-MODIFIED:20261012T221031Z
+LAST-MODIFIED:20261025T174240Z
 LOCATION:Nissan Stadium\nNashville
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

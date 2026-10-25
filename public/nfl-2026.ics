@@ -2401,9 +2401,9 @@ BEGIN:VEVENT
 SUMMARY:Pittsburgh Steelers @ New Orleans Saints
 DTSTART:20261025T133000Z
 DTEND:20261025T164500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261025T174240Z
 UID:66781b3f3ae1bbf5dc902be366eae095@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nPittsburgh Steelers @ New Orleans Saints
@@ -2415,7 +2415,7 @@ DESCRIPTION:NFL 2026 · Week 7\n\nPittsburgh Steelers @ New Orleans Saints
  trictions apply.\nUS national broadcast.\n\nVenue\nStade de France\nSaint-
  Denis\, France\n\nSchedule source: https://www.nfl.com/games/steelers-at-s
  aints-2026-reg-7
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261025T174240Z
 LOCATION:Stade de France\nSaint-Denis\, France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2425,9 +2425,9 @@ BEGIN:VEVENT
 SUMMARY:Cincinnati Bengals @ Baltimore Ravens
 DTSTART:20261025T170000Z
 DTEND:20261025T201500Z
-DTSTAMP:20261012T221031Z
+DTSTAMP:20261025T174240Z
 UID:7c52d4fdb29260b755ce32d3ebfc2eba@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nCincinnati Bengals @ Baltimore Ravens\n
@@ -2441,7 +2441,7 @@ DESCRIPTION:NFL 2026 · Week 7\n\nCincinnati Bengals @ Baltimore Ravens\n
  gs are for the US\; eligible subscriptions and geographic restrictions app
  ly.\n\nVenue\nM&T Bank Stadium\nBaltimore\n\nSchedule source: https://www.
  nfl.com/games/bengals-at-ravens-2026-reg-7
-LAST-MODIFIED:20261012T221031Z
+LAST-MODIFIED:20261025T174240Z
 LOCATION:M&T Bank Stadium\nBaltimore
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2451,9 +2451,9 @@ BEGIN:VEVENT
 SUMMARY:Cleveland Browns @ Tennessee Titans
 DTSTART:20261025T170000Z
 DTEND:20261025T201500Z
-DTSTAMP:20261012T221031Z
+DTSTAMP:20261025T174240Z
 UID:50bfad7bbdd13cb95f511e355eabc45e@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nCleveland Browns @ Tennessee Titans\n\nK
@@ -2467,7 +2467,7 @@ DESCRIPTION:NFL 2026 · Week 7\n\nCleveland Browns @ Tennessee Titans\n\nK
  are for the US\; eligible subscriptions and geographic restrictions apply.
  \n\nVenue\nNissan Stadium\nNashville\n\nSchedule source: https://www.nfl.c
  om/games/browns-at-titans-2026-reg-7
-LAST-MODIFIED:20261012T221031Z
+LAST-MODIFIED:20261025T174240Z
 LOCATION:Nissan Stadium\nNashville
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2477,9 +2477,9 @@ BEGIN:VEVENT
 SUMMARY:Indianapolis Colts @ Minnesota Vikings
 DTSTART:20261025T170000Z
 DTEND:20261025T201500Z
-DTSTAMP:20261012T221031Z
+DTSTAMP:20261025T174240Z
 UID:53839ba02c255d1c68bc363808f3c35d@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nIndianapolis Colts @ Minnesota Vikings\n
@@ -2493,7 +2493,7 @@ DESCRIPTION:NFL 2026 · Week 7\n\nIndianapolis Colts @ Minnesota Vikings\n
  gs are for the US\; eligible subscriptions and geographic restrictions app
  ly.\n\nVenue\nU.S. Bank Stadium\nMinneapolis\n\nSchedule source: https://w
  ww.nfl.com/games/colts-at-vikings-2026-reg-7
-LAST-MODIFIED:20261012T221031Z
+LAST-MODIFIED:20261025T174240Z
 LOCATION:U.S. Bank Stadium\nMinneapolis
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2503,9 +2503,9 @@ BEGIN:VEVENT
 SUMMARY:Miami Dolphins @ New York Jets
 DTSTART:20261025T170000Z
 DTEND:20261025T201500Z
-DTSTAMP:20261012T221031Z
+DTSTAMP:20261025T174240Z
 UID:b04815ac94bb3730aeffd19f701d8512@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nMiami Dolphins @ New York Jets\n\nKickof
@@ -2519,7 +2519,7 @@ DESCRIPTION:NFL 2026 · Week 7\n\nMiami Dolphins @ New York Jets\n\nKickof
  or the US\; eligible subscriptions and geographic restrictions apply.\n\nV
  enue\nMetLife Stadium\nEast Rutherford\n\nSchedule source: https://www.nfl
  .com/games/dolphins-at-jets-2026-reg-7
-LAST-MODIFIED:20261012T221031Z
+LAST-MODIFIED:20261025T174240Z
 LOCATION:MetLife Stadium\nEast Rutherford
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2529,9 +2529,9 @@ BEGIN:VEVENT
 SUMMARY:New York Giants @ Houston Texans
 DTSTART:20261025T170000Z
 DTEND:20261025T201500Z
-DTSTAMP:20261018T124025Z
+DTSTAMP:20261025T174240Z
 UID:e5db3a0abb727f41d30086fdd24b89e0@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nNew York Giants @ Houston Texans\n\nKick
@@ -2545,7 +2545,7 @@ DESCRIPTION:NFL 2026 · Week 7\n\nNew York Giants @ Houston Texans\n\nKick
  US\; eligible subscriptions and geographic restrictions apply.\n\nVenue\nR
  eliant Stadium\nHouston\n\nSchedule source: https://www.nfl.com/games/gian
  ts-at-texans-2026-reg-7
-LAST-MODIFIED:20261018T124025Z
+LAST-MODIFIED:20261025T174240Z
 LOCATION:Reliant Stadium\nHouston
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2555,9 +2555,9 @@ BEGIN:VEVENT
 SUMMARY:San Francisco 49ers @ Atlanta Falcons
 DTSTART:20261025T170000Z
 DTEND:20261025T201500Z
-DTSTAMP:20261018T124025Z
+DTSTAMP:20261025T174240Z
 UID:eb8b8ba72fa4354b972102191362347c@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nSan Francisco 49ers @ Atlanta Falcons\n
@@ -2571,7 +2571,7 @@ DESCRIPTION:NFL 2026 · Week 7\n\nSan Francisco 49ers @ Atlanta Falcons\n
  r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
  nue\nMercedes-Benz Stadium\nAtlanta\n\nSchedule source: https://www.nfl.co
  m/games/49ers-at-falcons-2026-reg-7
-LAST-MODIFIED:20261018T124025Z
+LAST-MODIFIED:20261025T174240Z
 LOCATION:Mercedes-Benz Stadium\nAtlanta
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2581,9 +2581,9 @@ BEGIN:VEVENT
 SUMMARY:Tampa Bay Buccaneers @ Carolina Panthers
 DTSTART:20261025T170000Z
 DTEND:20261025T201500Z
-DTSTAMP:20261018T124025Z
+DTSTAMP:20261025T174240Z
 UID:770e2e484cdcc98044620782ef7d7dd5@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nTampa Bay Buccaneers @ Carolina Panthers
@@ -2597,7 +2597,7 @@ DESCRIPTION:NFL 2026 · Week 7\n\nTampa Bay Buccaneers @ Carolina Panthers
   for the US\; eligible subscriptions and geographic restrictions apply.\n
  \nVenue\nBank of America Stadium\nCharlotte\n\nSchedule source: https://ww
  w.nfl.com/games/buccaneers-at-panthers-2026-reg-7
-LAST-MODIFIED:20261018T124025Z
+LAST-MODIFIED:20261025T174240Z
 LOCATION:Bank of America Stadium\nCharlotte
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
