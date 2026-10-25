@@ -167,9 +167,9 @@ BEGIN:VEVENT
 SUMMARY:Cincinnati Bengals @ Baltimore Ravens
 DTSTART:20261025T170000Z
 DTEND:20261025T201500Z
-DTSTAMP:20261025T174240Z
+DTSTAMP:20261025T224009Z
 UID:7c52d4fdb29260b755ce32d3ebfc2eba@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nCincinnati Bengals @ Baltimore Ravens\n
@@ -183,7 +183,7 @@ DESCRIPTION:NFL 2026 · Week 7\n\nCincinnati Bengals @ Baltimore Ravens\n
  gs are for the US\; eligible subscriptions and geographic restrictions app
  ly.\n\nVenue\nM&T Bank Stadium\nBaltimore\n\nSchedule source: https://www.
  nfl.com/games/bengals-at-ravens-2026-reg-7
-LAST-MODIFIED:20261025T174240Z
+LAST-MODIFIED:20261025T224009Z
 LOCATION:M&T Bank Stadium\nBaltimore
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

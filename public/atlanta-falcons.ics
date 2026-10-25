@@ -162,9 +162,9 @@ BEGIN:VEVENT
 SUMMARY:San Francisco 49ers @ Atlanta Falcons
 DTSTART:20261025T170000Z
 DTEND:20261025T201500Z
-DTSTAMP:20261025T174240Z
+DTSTAMP:20261025T224009Z
 UID:eb8b8ba72fa4354b972102191362347c@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nSan Francisco 49ers @ Atlanta Falcons\n
@@ -178,7 +178,7 @@ DESCRIPTION:NFL 2026 · Week 7\n\nSan Francisco 49ers @ Atlanta Falcons\n
  r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
  nue\nMercedes-Benz Stadium\nAtlanta\n\nSchedule source: https://www.nfl.co
  m/games/49ers-at-falcons-2026-reg-7
-LAST-MODIFIED:20261025T174240Z
+LAST-MODIFIED:20261025T224009Z
 LOCATION:Mercedes-Benz Stadium\nAtlanta
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

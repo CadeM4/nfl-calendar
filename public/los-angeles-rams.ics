@@ -161,9 +161,9 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Rams @ Las Vegas Raiders
 DTSTART:20261025T202500Z
 DTEND:20261025T234000Z
-DTSTAMP:20261018T124025Z
+DTSTAMP:20261025T224009Z
 UID:3183ebdc4169a87a4fea6218877868c7@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nLos Angeles Rams @ Las Vegas Raiders\n\n
@@ -177,7 +177,7 @@ DESCRIPTION:NFL 2026 · Week 7\n\nLos Angeles Rams @ Las Vegas Raiders\n\n
  the US\; eligible subscriptions and geographic restrictions apply.\n\nVenu
  e\nAllegiant Stadium\nParadise\n\nSchedule source: https://www.nfl.com/gam
  es/rams-at-raiders-2026-reg-7
-LAST-MODIFIED:20261018T124025Z
+LAST-MODIFIED:20261025T224009Z
 LOCATION:Allegiant Stadium\nParadise
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
