@@ -194,18 +194,23 @@ BEGIN:VEVENT
 SUMMARY:Houston Texans @ Los Angeles Chargers
 DTSTART:20261108T210500Z
 DTEND:20261109T002000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261026T235718Z
 UID:9d87815712cae3047564645aadd32be8@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nHouston Texans @ Los Angeles Chargers\n
  \nKickoff: Sunday\, November 8\, 2026 at 4:05 PM EST (America/New_York)\nE
- stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional br
- oadcast\; local market coverage varies.\n\nVenue\nSoFi Stadium\nInglewood
- \n\nSchedule source: https://www.nfl.com/games/texans-at-chargers-2026-reg
- -9
-LAST-MODIFIED:20260927T005047Z
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: 
+ NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday aftern
+ oon viewing\; local and national blackouts apply.\nNFL+: local and primeti
+ me live game streams require a phone or tablet\; market and device restric
+ tions apply.\nParamount+: this game must be carried by your local CBS stat
+ ion.\nRegional broadcast\; local market coverage varies.\nStreaming listin
+ gs are for the US\; eligible subscriptions and geographic restrictions app
+ ly.\n\nVenue\nSoFi Stadium\nInglewood\n\nSchedule source: https://www.nfl.
+ com/games/texans-at-chargers-2026-reg-9
+LAST-MODIFIED:20261026T235718Z
 LOCATION:SoFi Stadium\nInglewood
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

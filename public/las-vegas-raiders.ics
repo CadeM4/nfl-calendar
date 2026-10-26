@@ -220,20 +220,20 @@ URL:https://www.nfl.com/games/raiders-at-jets-2026-reg-8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Las Vegas Raiders @ San Francisco 49ers
-DTSTART:20261108T210500Z
-DTEND:20261109T002000Z
-DTSTAMP:20260927T005047Z
+DTSTART:20261108T212500Z
+DTEND:20261109T004000Z
+DTSTAMP:20261026T235718Z
 UID:344da42239bc90123b950c976065271a@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nLas Vegas Raiders @ San Francisco 49ers
- \n\nKickoff: Sunday\, November 8\, 2026 at 4:05 PM EST (America/New_York)
- \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional
+ \n\nKickoff: Sunday\, November 8\, 2026 at 4:25 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
   broadcast\; local market coverage varies.\n\nVenue\nLevi's® Stadium\nSan
  ta Clara\n\nSchedule source: https://www.nfl.com/games/raiders-at-49ers-20
  26-reg-9
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261026T235718Z
 LOCATION:Levi's® Stadium\nSanta Clara
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

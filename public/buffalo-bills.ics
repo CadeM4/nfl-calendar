@@ -235,18 +235,18 @@ BEGIN:VEVENT
 SUMMARY:Miami Dolphins @ Buffalo Bills
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261026T235718Z
 UID:3ee2fbed324adf68eeed8037de6e67a5@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nMiami Dolphins @ Buffalo Bills\n\nKicko
  ff: Sunday\, November 22\, 2026 at 1:00 PM EST (America/New_York)\nEstimat
- ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadcas
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadcas
  t\; local market coverage varies.\n\nVenue\nHighmark Stadium\nOrchard Park
  \n\nSchedule source: https://www.nfl.com/games/dolphins-at-bills-2026-reg-
  11
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261026T235718Z
 LOCATION:Highmark Stadium\nOrchard Park
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

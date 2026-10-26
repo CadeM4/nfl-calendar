@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "season": 2026,
-  "fetched_at": "2026-10-26T15:18:21Z",
+  "fetched_at": "2026-10-26T23:57:18Z",
   "source": {
     "name": "NFL.com official schedule and game-specific viewing data",
     "url": "https://www.nfl.com/schedules/2026/by-week/week-1"
@@ -5517,9 +5517,16 @@
         "tv": [
           "CBS"
         ],
-        "streaming": [],
+        "streaming": [
+          "NFL+",
+          "Paramount+"
+        ],
         "notes": [
-          "Regional broadcast; local market coverage varies."
+          "Regional broadcast; local market coverage varies.",
+          "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
+          "Paramount+: this game must be carried by your local CBS station.",
+          "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
+          "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
       "status": "scheduled",
@@ -5643,16 +5650,16 @@
       },
       "broadcast": {
         "tv": [
-          "FOX"
+          "CBS"
         ],
         "streaming": [
-          "FOX One",
-          "NFL+"
+          "NFL+",
+          "Paramount+"
         ],
         "notes": [
           "Regional broadcast; local market coverage varies.",
           "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
-          "FOX One: local FOX coverage and market restrictions apply.",
+          "Paramount+: this game must be carried by your local CBS station.",
           "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
@@ -5825,9 +5832,16 @@
         "tv": [
           "CBS"
         ],
-        "streaming": [],
+        "streaming": [
+          "NFL+",
+          "Paramount+"
+        ],
         "notes": [
-          "Regional broadcast; local market coverage varies."
+          "Regional broadcast; local market coverage varies.",
+          "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
+          "Paramount+: this game must be carried by your local CBS station.",
+          "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
+          "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
       "status": "scheduled",
@@ -5837,44 +5851,6 @@
         "elias": "2026110808",
         "gsis": "60308",
         "slug": "texans-at-chargers-2026-reg-9"
-      },
-      "category": null,
-      "international": false,
-      "source_week": 9
-    },
-    {
-      "id": "2026-REG-LV-SF",
-      "season": 2026,
-      "season_type": "REG",
-      "week": 9,
-      "away": "LV",
-      "home": "SF",
-      "start_time": "2026-11-08T21:05:00Z",
-      "date": "2026-11-08",
-      "time_tbd": false,
-      "date_tbd": false,
-      "week_date": "2026-11-05",
-      "venue": {
-        "name": "Levi's® Stadium",
-        "city": "Santa Clara",
-        "country": "USA"
-      },
-      "broadcast": {
-        "tv": [
-          "CBS"
-        ],
-        "streaming": [],
-        "notes": [
-          "Regional broadcast; local market coverage varies."
-        ]
-      },
-      "status": "scheduled",
-      "source_url": "https://www.nfl.com/games/raiders-at-49ers-2026-reg-9",
-      "source_ids": {
-        "nfl": "ab581766-4feb-11f1-abca-2c54536568a9",
-        "elias": "2026110809",
-        "gsis": "60309",
-        "slug": "raiders-at-49ers-2026-reg-9"
       },
       "category": null,
       "international": false,
@@ -5951,6 +5927,44 @@
         "elias": "2026110810",
         "gsis": "60310",
         "slug": "packers-at-patriots-2026-reg-9"
+      },
+      "category": null,
+      "international": false,
+      "source_week": 9
+    },
+    {
+      "id": "2026-REG-LV-SF",
+      "season": 2026,
+      "season_type": "REG",
+      "week": 9,
+      "away": "LV",
+      "home": "SF",
+      "start_time": "2026-11-08T21:25:00Z",
+      "date": "2026-11-08",
+      "time_tbd": false,
+      "date_tbd": false,
+      "week_date": "2026-11-05",
+      "venue": {
+        "name": "Levi's® Stadium",
+        "city": "Santa Clara",
+        "country": "USA"
+      },
+      "broadcast": {
+        "tv": [
+          "FOX"
+        ],
+        "streaming": [],
+        "notes": [
+          "Regional broadcast; local market coverage varies."
+        ]
+      },
+      "status": "scheduled",
+      "source_url": "https://www.nfl.com/games/raiders-at-49ers-2026-reg-9",
+      "source_ids": {
+        "nfl": "ab581766-4feb-11f1-abca-2c54536568a9",
+        "elias": "2026110809",
+        "gsis": "60309",
+        "slug": "raiders-at-49ers-2026-reg-9"
       },
       "category": null,
       "international": false,
@@ -6778,7 +6792,7 @@
       },
       "broadcast": {
         "tv": [
-          "FOX"
+          "CBS"
         ],
         "streaming": [],
         "notes": [
@@ -6854,7 +6868,7 @@
       },
       "broadcast": {
         "tv": [
-          "CBS"
+          "FOX"
         ],
         "streaming": [],
         "notes": [

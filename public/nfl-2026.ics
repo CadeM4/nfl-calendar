@@ -3135,18 +3135,23 @@ BEGIN:VEVENT
 SUMMARY:Cleveland Browns @ New Orleans Saints
 DTSTART:20261108T180000Z
 DTEND:20261108T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261026T235718Z
 UID:3fc4e1ea9943e4404159e55e6cbdaf64@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nCleveland Browns @ New Orleans Saints\n
  \nKickoff: Sunday\, November 8\, 2026 at 1:00 PM EST (America/New_York)\nE
- stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional br
- oadcast\; local market coverage varies.\n\nVenue\nCaesars Superdome\nNew O
- rleans\n\nSchedule source: https://www.nfl.com/games/browns-at-saints-2026
- -reg-9
-LAST-MODIFIED:20260927T005047Z
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: 
+ NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday aftern
+ oon viewing\; local and national blackouts apply.\nNFL+: local and primeti
+ me live game streams require a phone or tablet\; market and device restric
+ tions apply.\nParamount+: this game must be carried by your local CBS stat
+ ion.\nRegional broadcast\; local market coverage varies.\nStreaming listin
+ gs are for the US\; eligible subscriptions and geographic restrictions app
+ ly.\n\nVenue\nCaesars Superdome\nNew Orleans\n\nSchedule source: https://w
+ ww.nfl.com/games/browns-at-saints-2026-reg-9
+LAST-MODIFIED:20261026T235718Z
 LOCATION:Caesars Superdome\nNew Orleans
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3208,23 +3213,23 @@ BEGIN:VEVENT
 SUMMARY:Detroit Lions @ Miami Dolphins
 DTSTART:20261108T180000Z
 DTEND:20261108T211500Z
-DTSTAMP:20261026T075547Z
+DTSTAMP:20261026T235718Z
 UID:090f0911babf836b0b38cfa540e66e02@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nDetroit Lions @ Miami Dolphins\n\nKickof
  f: Sunday\, November 8\, 2026 at 1:00 PM EST (America/New_York)\nEstimated
-  game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX One
- \, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nNFL S
- unday Ticket: eligible out-of-market Sunday afternoon viewing\; local and 
- national blackouts apply.\nNFL+: local and primetime live game streams req
- uire a phone or tablet\; market and device restrictions apply.\nRegional b
- roadcast\; local market coverage varies.\nStreaming listings are for the U
- S\; eligible subscriptions and geographic restrictions apply.\n\nVenue\nHa
- rd Rock Stadium\nOpa Locka\n\nSchedule source: https://www.nfl.com/games/l
- ions-at-dolphins-2026-reg-9
-LAST-MODIFIED:20261026T075547Z
+  game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL+\, P
+ aramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon view
+ ing\; local and national blackouts apply.\nNFL+: local and primetime live 
+ game streams require a phone or tablet\; market and device restrictions ap
+ ply.\nParamount+: this game must be carried by your local CBS station.\nRe
+ gional broadcast\; local market coverage varies.\nStreaming listings are f
+ or the US\; eligible subscriptions and geographic restrictions apply.\n\nV
+ enue\nHard Rock Stadium\nOpa Locka\n\nSchedule source: https://www.nfl.com
+ /games/lions-at-dolphins-2026-reg-9
+LAST-MODIFIED:20261026T235718Z
 LOCATION:Hard Rock Stadium\nOpa Locka
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3312,43 +3317,27 @@ BEGIN:VEVENT
 SUMMARY:Houston Texans @ Los Angeles Chargers
 DTSTART:20261108T210500Z
 DTEND:20261109T002000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261026T235718Z
 UID:9d87815712cae3047564645aadd32be8@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nHouston Texans @ Los Angeles Chargers\n
  \nKickoff: Sunday\, November 8\, 2026 at 4:05 PM EST (America/New_York)\nE
- stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional br
- oadcast\; local market coverage varies.\n\nVenue\nSoFi Stadium\nInglewood
- \n\nSchedule source: https://www.nfl.com/games/texans-at-chargers-2026-reg
- -9
-LAST-MODIFIED:20260927T005047Z
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: 
+ NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday aftern
+ oon viewing\; local and national blackouts apply.\nNFL+: local and primeti
+ me live game streams require a phone or tablet\; market and device restric
+ tions apply.\nParamount+: this game must be carried by your local CBS stat
+ ion.\nRegional broadcast\; local market coverage varies.\nStreaming listin
+ gs are for the US\; eligible subscriptions and geographic restrictions app
+ ly.\n\nVenue\nSoFi Stadium\nInglewood\n\nSchedule source: https://www.nfl.
+ com/games/texans-at-chargers-2026-reg-9
+LAST-MODIFIED:20261026T235718Z
 LOCATION:SoFi Stadium\nInglewood
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.nfl.com/games/texans-at-chargers-2026-reg-9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Las Vegas Raiders @ San Francisco 49ers
-DTSTART:20261108T210500Z
-DTEND:20261109T002000Z
-DTSTAMP:20260927T005047Z
-UID:344da42239bc90123b950c976065271a@nfl-calendar.local
-SEQUENCE:0
-CATEGORIES:NFL,Football,Week 9
-CREATED:20260927T005047Z
-DESCRIPTION:NFL 2026 · Week 9\n\nLas Vegas Raiders @ San Francisco 49ers
- \n\nKickoff: Sunday\, November 8\, 2026 at 4:05 PM EST (America/New_York)
- \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional
-  broadcast\; local market coverage varies.\n\nVenue\nLevi's® Stadium\nSan
- ta Clara\n\nSchedule source: https://www.nfl.com/games/raiders-at-49ers-20
- 26-reg-9
-LAST-MODIFIED:20260927T005047Z
-LOCATION:Levi's® Stadium\nSanta Clara
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.nfl.com/games/raiders-at-49ers-2026-reg-9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arizona Cardinals @ Seattle Seahawks
@@ -3390,6 +3379,27 @@ LOCATION:Gillette Stadium\nFoxborough
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.nfl.com/games/packers-at-patriots-2026-reg-9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las Vegas Raiders @ San Francisco 49ers
+DTSTART:20261108T212500Z
+DTEND:20261109T004000Z
+DTSTAMP:20261026T235718Z
+UID:344da42239bc90123b950c976065271a@nfl-calendar.local
+SEQUENCE:1
+CATEGORIES:NFL,Football,Week 9
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 9\n\nLas Vegas Raiders @ San Francisco 49ers
+ \n\nKickoff: Sunday\, November 8\, 2026 at 4:25 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
+  broadcast\; local market coverage varies.\n\nVenue\nLevi's® Stadium\nSan
+ ta Clara\n\nSchedule source: https://www.nfl.com/games/raiders-at-49ers-20
+ 26-reg-9
+LAST-MODIFIED:20261026T235718Z
+LOCATION:Levi's® Stadium\nSanta Clara
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/raiders-at-49ers-2026-reg-9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tampa Bay Buccaneers @ Chicago Bears
@@ -3834,18 +3844,18 @@ BEGIN:VEVENT
 SUMMARY:Miami Dolphins @ Buffalo Bills
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261026T235718Z
 UID:3ee2fbed324adf68eeed8037de6e67a5@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nMiami Dolphins @ Buffalo Bills\n\nKicko
  ff: Sunday\, November 22\, 2026 at 1:00 PM EST (America/New_York)\nEstimat
- ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadcas
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadcas
  t\; local market coverage varies.\n\nVenue\nHighmark Stadium\nOrchard Park
  \n\nSchedule source: https://www.nfl.com/games/dolphins-at-bills-2026-reg-
  11
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261026T235718Z
 LOCATION:Highmark Stadium\nOrchard Park
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3875,17 +3885,17 @@ BEGIN:VEVENT
 SUMMARY:Tampa Bay Buccaneers @ Detroit Lions
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261026T235718Z
 UID:bcdb530718c8173bacefb568b7436039@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nTampa Bay Buccaneers @ Detroit Lions\n
  \nKickoff: Sunday\, November 22\, 2026 at 1:00 PM EST (America/New_York)\n
- Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional b
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional b
  roadcast\; local market coverage varies.\n\nVenue\nFord Field\nDetroit\n\n
  Schedule source: https://www.nfl.com/games/buccaneers-at-lions-2026-reg-11
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261026T235718Z
 LOCATION:Ford Field\nDetroit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
