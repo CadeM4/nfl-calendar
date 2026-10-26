@@ -191,18 +191,23 @@ BEGIN:VEVENT
 SUMMARY:New York Giants @ Philadelphia Eagles
 DTSTART:20261108T180000Z
 DTEND:20261108T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261026T075547Z
 UID:62247cbe3de77096689cf133cd94a367@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nNew York Giants @ Philadelphia Eagles\n
  \nKickoff: Sunday\, November 8\, 2026 at 1:00 PM EST (America/New_York)\nE
- stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional br
- oadcast\; local market coverage varies.\n\nVenue\nLincoln Financial Field
- \nPhiladelphia\n\nSchedule source: https://www.nfl.com/games/giants-at-eag
- les-2026-reg-9
-LAST-MODIFIED:20260927T005047Z
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: 
+ FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.
+ \nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; loc
+ al and national blackouts apply.\nNFL+: local and primetime live game stre
+ ams require a phone or tablet\; market and device restrictions apply.\nReg
+ ional broadcast\; local market coverage varies.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
+ nue\nLincoln Financial Field\nPhiladelphia\n\nSchedule source: https://www
+ .nfl.com/games/giants-at-eagles-2026-reg-9
+LAST-MODIFIED:20261026T075547Z
 LOCATION:Lincoln Financial Field\nPhiladelphia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

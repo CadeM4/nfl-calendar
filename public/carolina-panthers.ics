@@ -190,18 +190,23 @@ BEGIN:VEVENT
 SUMMARY:Denver Broncos @ Carolina Panthers
 DTSTART:20261108T180000Z
 DTEND:20261108T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261026T075547Z
 UID:fc1522869e5e821c1e426281acfb9b84@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nDenver Broncos @ Carolina Panthers\n\nKi
  ckoff: Sunday\, November 8\, 2026 at 1:00 PM EST (America/New_York)\nEstim
- ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadc
- ast\; local market coverage varies.\n\nVenue\nBank of America Stadium\nCha
- rlotte\n\nSchedule source: https://www.nfl.com/games/broncos-at-panthers-2
- 026-reg-9
-LAST-MODIFIED:20260927T005047Z
+ ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL+
+ \, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon 
+ viewing\; local and national blackouts apply.\nNFL+: local and primetime l
+ ive game streams require a phone or tablet\; market and device restriction
+ s apply.\nParamount+: this game must be carried by your local CBS station.
+ \nRegional broadcast\; local market coverage varies.\nStreaming listings a
+ re for the US\; eligible subscriptions and geographic restrictions apply.
+ \n\nVenue\nBank of America Stadium\nCharlotte\n\nSchedule source: https://
+ www.nfl.com/games/broncos-at-panthers-2026-reg-9
+LAST-MODIFIED:20261026T075547Z
 LOCATION:Bank of America Stadium\nCharlotte
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

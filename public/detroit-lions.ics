@@ -138,9 +138,9 @@ BEGIN:VEVENT
 SUMMARY:Green Bay Packers @ Detroit Lions
 DTSTART:20261025T202500Z
 DTEND:20261025T234000Z
-DTSTAMP:20261025T224009Z
+DTSTAMP:20261026T075547Z
 UID:5a6a4c5c6cbfc3268aefb7f012543888@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nGreen Bay Packers @ Detroit Lions\n\nKic
@@ -154,7 +154,7 @@ DESCRIPTION:NFL 2026 · Week 7\n\nGreen Bay Packers @ Detroit Lions\n\nKic
   US\; eligible subscriptions and geographic restrictions apply.\n\nVenue\n
  Ford Field\nDetroit\n\nSchedule source: https://www.nfl.com/games/packers-
  at-lions-2026-reg-7
-LAST-MODIFIED:20261025T224009Z
+LAST-MODIFIED:20261026T075547Z
 LOCATION:Ford Field\nDetroit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -190,17 +190,23 @@ BEGIN:VEVENT
 SUMMARY:Detroit Lions @ Miami Dolphins
 DTSTART:20261108T180000Z
 DTEND:20261108T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261026T075547Z
 UID:090f0911babf836b0b38cfa540e66e02@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nDetroit Lions @ Miami Dolphins\n\nKickof
  f: Sunday\, November 8\, 2026 at 1:00 PM EST (America/New_York)\nEstimated
-  game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadcast
- \; local market coverage varies.\n\nVenue\nHard Rock Stadium\nOpa Locka\n
- \nSchedule source: https://www.nfl.com/games/lions-at-dolphins-2026-reg-9
-LAST-MODIFIED:20260927T005047Z
+  game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX One
+ \, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nNFL S
+ unday Ticket: eligible out-of-market Sunday afternoon viewing\; local and 
+ national blackouts apply.\nNFL+: local and primetime live game streams req
+ uire a phone or tablet\; market and device restrictions apply.\nRegional b
+ roadcast\; local market coverage varies.\nStreaming listings are for the U
+ S\; eligible subscriptions and geographic restrictions apply.\n\nVenue\nHa
+ rd Rock Stadium\nOpa Locka\n\nSchedule source: https://www.nfl.com/games/l
+ ions-at-dolphins-2026-reg-9
+LAST-MODIFIED:20261026T075547Z
 LOCATION:Hard Rock Stadium\nOpa Locka
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -2607,9 +2607,9 @@ BEGIN:VEVENT
 SUMMARY:Denver Broncos @ Arizona Cardinals
 DTSTART:20261025T200500Z
 DTEND:20261025T232000Z
-DTSTAMP:20261025T224009Z
+DTSTAMP:20261026T075547Z
 UID:268c407c9c70b7ce35c872a9ba23cff9@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nDenver Broncos @ Arizona Cardinals\n\nKi
@@ -2623,7 +2623,7 @@ DESCRIPTION:NFL 2026 · Week 7\n\nDenver Broncos @ Arizona Cardinals\n\nKi
  re for the US\; eligible subscriptions and geographic restrictions apply.
  \n\nVenue\nState Farm Stadium\nGlendale\n\nSchedule source: https://www.nf
  l.com/games/broncos-at-cardinals-2026-reg-7
-LAST-MODIFIED:20261025T224009Z
+LAST-MODIFIED:20261026T075547Z
 LOCATION:State Farm Stadium\nGlendale
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2633,9 +2633,9 @@ BEGIN:VEVENT
 SUMMARY:Green Bay Packers @ Detroit Lions
 DTSTART:20261025T202500Z
 DTEND:20261025T234000Z
-DTSTAMP:20261025T224009Z
+DTSTAMP:20261026T075547Z
 UID:5a6a4c5c6cbfc3268aefb7f012543888@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nGreen Bay Packers @ Detroit Lions\n\nKic
@@ -2649,7 +2649,7 @@ DESCRIPTION:NFL 2026 · Week 7\n\nGreen Bay Packers @ Detroit Lions\n\nKic
   US\; eligible subscriptions and geographic restrictions apply.\n\nVenue\n
  Ford Field\nDetroit\n\nSchedule source: https://www.nfl.com/games/packers-
  at-lions-2026-reg-7
-LAST-MODIFIED:20261025T224009Z
+LAST-MODIFIED:20261026T075547Z
 LOCATION:Ford Field\nDetroit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2659,9 +2659,9 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Rams @ Las Vegas Raiders
 DTSTART:20261025T202500Z
 DTEND:20261025T234000Z
-DTSTAMP:20261025T224009Z
+DTSTAMP:20261026T075547Z
 UID:3183ebdc4169a87a4fea6218877868c7@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nLos Angeles Rams @ Las Vegas Raiders\n\n
@@ -2675,7 +2675,7 @@ DESCRIPTION:NFL 2026 · Week 7\n\nLos Angeles Rams @ Las Vegas Raiders\n\n
  the US\; eligible subscriptions and geographic restrictions apply.\n\nVenu
  e\nAllegiant Stadium\nParadise\n\nSchedule source: https://www.nfl.com/gam
  es/rams-at-raiders-2026-reg-7
-LAST-MODIFIED:20261025T224009Z
+LAST-MODIFIED:20261026T075547Z
 LOCATION:Allegiant Stadium\nParadise
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2685,9 +2685,9 @@ BEGIN:VEVENT
 SUMMARY:Kansas City Chiefs @ Seattle Seahawks
 DTSTART:20261026T002000Z
 DTEND:20261026T033500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261026T075547Z
 UID:4d73474b78eeae32292fd9dc9c54088e@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nKansas City Chiefs @ Seattle Seahawks\n
@@ -2698,7 +2698,7 @@ DESCRIPTION:NFL 2026 · Week 7\n\nKansas City Chiefs @ Seattle Seahawks\n
  listings are for the US\; eligible subscriptions and geographic restrictio
  ns apply.\nUS national broadcast.\n\nVenue\nLumen Field\nSeattle\n\nSchedu
  le source: https://www.nfl.com/games/chiefs-at-seahawks-2026-reg-7
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261026T075547Z
 LOCATION:Lumen Field\nSeattle
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3156,18 +3156,23 @@ BEGIN:VEVENT
 SUMMARY:Dallas Cowboys @ Indianapolis Colts
 DTSTART:20261108T180000Z
 DTEND:20261108T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261026T075547Z
 UID:f45e2c43979bde983732e8651e24cd20@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nDallas Cowboys @ Indianapolis Colts\n\nK
  ickoff: Sunday\, November 8\, 2026 at 1:00 PM EST (America/New_York)\nEsti
- mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broad
- cast\; local market coverage varies.\n\nVenue\nLucas Oil Stadium\nIndianap
- olis\n\nSchedule source: https://www.nfl.com/games/cowboys-at-colts-2026-r
- eg-9
-LAST-MODIFIED:20260927T005047Z
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX
+  One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nN
+ FL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local 
+ and national blackouts apply.\nNFL+: local and primetime live game streams
+  require a phone or tablet\; market and device restrictions apply.\nRegion
+ al broadcast\; local market coverage varies.\nStreaming listings are for t
+ he US\; eligible subscriptions and geographic restrictions apply.\n\nVenue
+ \nLucas Oil Stadium\nIndianapolis\n\nSchedule source: https://www.nfl.com/
+ games/cowboys-at-colts-2026-reg-9
+LAST-MODIFIED:20261026T075547Z
 LOCATION:Lucas Oil Stadium\nIndianapolis
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3177,18 +3182,23 @@ BEGIN:VEVENT
 SUMMARY:Denver Broncos @ Carolina Panthers
 DTSTART:20261108T180000Z
 DTEND:20261108T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261026T075547Z
 UID:fc1522869e5e821c1e426281acfb9b84@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nDenver Broncos @ Carolina Panthers\n\nKi
  ckoff: Sunday\, November 8\, 2026 at 1:00 PM EST (America/New_York)\nEstim
- ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadc
- ast\; local market coverage varies.\n\nVenue\nBank of America Stadium\nCha
- rlotte\n\nSchedule source: https://www.nfl.com/games/broncos-at-panthers-2
- 026-reg-9
-LAST-MODIFIED:20260927T005047Z
+ ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL+
+ \, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon 
+ viewing\; local and national blackouts apply.\nNFL+: local and primetime l
+ ive game streams require a phone or tablet\; market and device restriction
+ s apply.\nParamount+: this game must be carried by your local CBS station.
+ \nRegional broadcast\; local market coverage varies.\nStreaming listings a
+ re for the US\; eligible subscriptions and geographic restrictions apply.
+ \n\nVenue\nBank of America Stadium\nCharlotte\n\nSchedule source: https://
+ www.nfl.com/games/broncos-at-panthers-2026-reg-9
+LAST-MODIFIED:20261026T075547Z
 LOCATION:Bank of America Stadium\nCharlotte
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3198,17 +3208,23 @@ BEGIN:VEVENT
 SUMMARY:Detroit Lions @ Miami Dolphins
 DTSTART:20261108T180000Z
 DTEND:20261108T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261026T075547Z
 UID:090f0911babf836b0b38cfa540e66e02@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nDetroit Lions @ Miami Dolphins\n\nKickof
  f: Sunday\, November 8\, 2026 at 1:00 PM EST (America/New_York)\nEstimated
-  game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadcast
- \; local market coverage varies.\n\nVenue\nHard Rock Stadium\nOpa Locka\n
- \nSchedule source: https://www.nfl.com/games/lions-at-dolphins-2026-reg-9
-LAST-MODIFIED:20260927T005047Z
+  game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX One
+ \, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nNFL S
+ unday Ticket: eligible out-of-market Sunday afternoon viewing\; local and 
+ national blackouts apply.\nNFL+: local and primetime live game streams req
+ uire a phone or tablet\; market and device restrictions apply.\nRegional b
+ roadcast\; local market coverage varies.\nStreaming listings are for the U
+ S\; eligible subscriptions and geographic restrictions apply.\n\nVenue\nHa
+ rd Rock Stadium\nOpa Locka\n\nSchedule source: https://www.nfl.com/games/l
+ ions-at-dolphins-2026-reg-9
+LAST-MODIFIED:20261026T075547Z
 LOCATION:Hard Rock Stadium\nOpa Locka
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3218,18 +3234,23 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Rams @ Washington Commanders
 DTSTART:20261108T180000Z
 DTEND:20261108T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261026T075547Z
 UID:16fbe6ea8475f194fe66640762c11667@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nLos Angeles Rams @ Washington Commanders
  \n\nKickoff: Sunday\, November 8\, 2026 at 1:00 PM EST (America/New_York)
- \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
-  broadcast\; local market coverage varies.\n\nVenue\nNorthwest Stadium\nLa
- ndover\n\nSchedule source: https://www.nfl.com/games/rams-at-commanders-20
- 26-reg-9
-LAST-MODIFIED:20260927T005047Z
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreamin
+ g: FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions app
+ ly.\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; 
+ local and national blackouts apply.\nNFL+: local and primetime live game s
+ treams require a phone or tablet\; market and device restrictions apply.\n
+ Regional broadcast\; local market coverage varies.\nStreaming listings are
+  for the US\; eligible subscriptions and geographic restrictions apply.\n
+ \nVenue\nNorthwest Stadium\nLandover\n\nSchedule source: https://www.nfl.c
+ om/games/rams-at-commanders-2026-reg-9
+LAST-MODIFIED:20261026T075547Z
 LOCATION:Northwest Stadium\nLandover
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3239,18 +3260,23 @@ BEGIN:VEVENT
 SUMMARY:New York Giants @ Philadelphia Eagles
 DTSTART:20261108T180000Z
 DTEND:20261108T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261026T075547Z
 UID:62247cbe3de77096689cf133cd94a367@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nNew York Giants @ Philadelphia Eagles\n
  \nKickoff: Sunday\, November 8\, 2026 at 1:00 PM EST (America/New_York)\nE
- stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional br
- oadcast\; local market coverage varies.\n\nVenue\nLincoln Financial Field
- \nPhiladelphia\n\nSchedule source: https://www.nfl.com/games/giants-at-eag
- les-2026-reg-9
-LAST-MODIFIED:20260927T005047Z
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: 
+ FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.
+ \nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; loc
+ al and national blackouts apply.\nNFL+: local and primetime live game stre
+ ams require a phone or tablet\; market and device restrictions apply.\nReg
+ ional broadcast\; local market coverage varies.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
+ nue\nLincoln Financial Field\nPhiladelphia\n\nSchedule source: https://www
+ .nfl.com/games/giants-at-eagles-2026-reg-9
+LAST-MODIFIED:20261026T075547Z
 LOCATION:Lincoln Financial Field\nPhiladelphia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3260,17 +3286,23 @@ BEGIN:VEVENT
 SUMMARY:New York Jets @ Kansas City Chiefs
 DTSTART:20261108T180000Z
 DTEND:20261108T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261026T075547Z
 UID:4cb3e8e3883c104c4ccdf47b397bda12@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nNew York Jets @ Kansas City Chiefs\n\nKi
  ckoff: Sunday\, November 8\, 2026 at 1:00 PM EST (America/New_York)\nEstim
- ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadc
- ast\; local market coverage varies.\n\nVenue\nArrowhead Stadium\nKansas Ci
- ty\n\nSchedule source: https://www.nfl.com/games/jets-at-chiefs-2026-reg-9
-LAST-MODIFIED:20260927T005047Z
+ ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL+
+ \, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon 
+ viewing\; local and national blackouts apply.\nNFL+: local and primetime l
+ ive game streams require a phone or tablet\; market and device restriction
+ s apply.\nParamount+: this game must be carried by your local CBS station.
+ \nRegional broadcast\; local market coverage varies.\nStreaming listings a
+ re for the US\; eligible subscriptions and geographic restrictions apply.
+ \n\nVenue\nArrowhead Stadium\nKansas City\n\nSchedule source: https://www.
+ nfl.com/games/jets-at-chiefs-2026-reg-9
+LAST-MODIFIED:20261026T075547Z
 LOCATION:Arrowhead Stadium\nKansas City
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

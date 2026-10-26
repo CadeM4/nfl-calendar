@@ -140,9 +140,9 @@ BEGIN:VEVENT
 SUMMARY:Kansas City Chiefs @ Seattle Seahawks
 DTSTART:20261026T002000Z
 DTEND:20261026T033500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261026T075547Z
 UID:4d73474b78eeae32292fd9dc9c54088e@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nKansas City Chiefs @ Seattle Seahawks\n
@@ -153,7 +153,7 @@ DESCRIPTION:NFL 2026 · Week 7\n\nKansas City Chiefs @ Seattle Seahawks\n
  listings are for the US\; eligible subscriptions and geographic restrictio
  ns apply.\nUS national broadcast.\n\nVenue\nLumen Field\nSeattle\n\nSchedu
  le source: https://www.nfl.com/games/chiefs-at-seahawks-2026-reg-7
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261026T075547Z
 LOCATION:Lumen Field\nSeattle
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -189,17 +189,23 @@ BEGIN:VEVENT
 SUMMARY:New York Jets @ Kansas City Chiefs
 DTSTART:20261108T180000Z
 DTEND:20261108T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261026T075547Z
 UID:4cb3e8e3883c104c4ccdf47b397bda12@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nNew York Jets @ Kansas City Chiefs\n\nKi
  ckoff: Sunday\, November 8\, 2026 at 1:00 PM EST (America/New_York)\nEstim
- ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadc
- ast\; local market coverage varies.\n\nVenue\nArrowhead Stadium\nKansas Ci
- ty\n\nSchedule source: https://www.nfl.com/games/jets-at-chiefs-2026-reg-9
-LAST-MODIFIED:20260927T005047Z
+ ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL+
+ \, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon 
+ viewing\; local and national blackouts apply.\nNFL+: local and primetime l
+ ive game streams require a phone or tablet\; market and device restriction
+ s apply.\nParamount+: this game must be carried by your local CBS station.
+ \nRegional broadcast\; local market coverage varies.\nStreaming listings a
+ re for the US\; eligible subscriptions and geographic restrictions apply.
+ \n\nVenue\nArrowhead Stadium\nKansas City\n\nSchedule source: https://www.
+ nfl.com/games/jets-at-chiefs-2026-reg-9
+LAST-MODIFIED:20261026T075547Z
 LOCATION:Arrowhead Stadium\nKansas City
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

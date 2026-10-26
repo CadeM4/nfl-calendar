@@ -211,18 +211,23 @@ BEGIN:VEVENT
 SUMMARY:Dallas Cowboys @ Indianapolis Colts
 DTSTART:20261108T180000Z
 DTEND:20261108T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261026T075547Z
 UID:f45e2c43979bde983732e8651e24cd20@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nDallas Cowboys @ Indianapolis Colts\n\nK
  ickoff: Sunday\, November 8\, 2026 at 1:00 PM EST (America/New_York)\nEsti
- mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broad
- cast\; local market coverage varies.\n\nVenue\nLucas Oil Stadium\nIndianap
- olis\n\nSchedule source: https://www.nfl.com/games/cowboys-at-colts-2026-r
- eg-9
-LAST-MODIFIED:20260927T005047Z
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX
+  One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nN
+ FL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local 
+ and national blackouts apply.\nNFL+: local and primetime live game streams
+  require a phone or tablet\; market and device restrictions apply.\nRegion
+ al broadcast\; local market coverage varies.\nStreaming listings are for t
+ he US\; eligible subscriptions and geographic restrictions apply.\n\nVenue
+ \nLucas Oil Stadium\nIndianapolis\n\nSchedule source: https://www.nfl.com/
+ games/cowboys-at-colts-2026-reg-9
+LAST-MODIFIED:20261026T075547Z
 LOCATION:Lucas Oil Stadium\nIndianapolis
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

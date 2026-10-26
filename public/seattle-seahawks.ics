@@ -165,9 +165,9 @@ BEGIN:VEVENT
 SUMMARY:Kansas City Chiefs @ Seattle Seahawks
 DTSTART:20261026T002000Z
 DTEND:20261026T033500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261026T075547Z
 UID:4d73474b78eeae32292fd9dc9c54088e@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nKansas City Chiefs @ Seattle Seahawks\n
@@ -178,7 +178,7 @@ DESCRIPTION:NFL 2026 · Week 7\n\nKansas City Chiefs @ Seattle Seahawks\n
  listings are for the US\; eligible subscriptions and geographic restrictio
  ns apply.\nUS national broadcast.\n\nVenue\nLumen Field\nSeattle\n\nSchedu
  le source: https://www.nfl.com/games/chiefs-at-seahawks-2026-reg-7
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261026T075547Z
 LOCATION:Lumen Field\nSeattle
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

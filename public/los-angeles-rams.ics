@@ -161,9 +161,9 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Rams @ Las Vegas Raiders
 DTSTART:20261025T202500Z
 DTEND:20261025T234000Z
-DTSTAMP:20261025T224009Z
+DTSTAMP:20261026T075547Z
 UID:3183ebdc4169a87a4fea6218877868c7@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 7
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 7\n\nLos Angeles Rams @ Las Vegas Raiders\n\n
@@ -177,7 +177,7 @@ DESCRIPTION:NFL 2026 · Week 7\n\nLos Angeles Rams @ Las Vegas Raiders\n\n
  the US\; eligible subscriptions and geographic restrictions apply.\n\nVenu
  e\nAllegiant Stadium\nParadise\n\nSchedule source: https://www.nfl.com/gam
  es/rams-at-raiders-2026-reg-7
-LAST-MODIFIED:20261025T224009Z
+LAST-MODIFIED:20261026T075547Z
 LOCATION:Allegiant Stadium\nParadise
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -213,18 +213,23 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Rams @ Washington Commanders
 DTSTART:20261108T180000Z
 DTEND:20261108T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261026T075547Z
 UID:16fbe6ea8475f194fe66640762c11667@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nLos Angeles Rams @ Washington Commanders
  \n\nKickoff: Sunday\, November 8\, 2026 at 1:00 PM EST (America/New_York)
- \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
-  broadcast\; local market coverage varies.\n\nVenue\nNorthwest Stadium\nLa
- ndover\n\nSchedule source: https://www.nfl.com/games/rams-at-commanders-20
- 26-reg-9
-LAST-MODIFIED:20260927T005047Z
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreamin
+ g: FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions app
+ ly.\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; 
+ local and national blackouts apply.\nNFL+: local and primetime live game s
+ treams require a phone or tablet\; market and device restrictions apply.\n
+ Regional broadcast\; local market coverage varies.\nStreaming listings are
+  for the US\; eligible subscriptions and geographic restrictions apply.\n
+ \nVenue\nNorthwest Stadium\nLandover\n\nSchedule source: https://www.nfl.c
+ om/games/rams-at-commanders-2026-reg-9
+LAST-MODIFIED:20261026T075547Z
 LOCATION:Northwest Stadium\nLandover
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
