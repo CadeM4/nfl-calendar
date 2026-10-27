@@ -222,17 +222,23 @@ BEGIN:VEVENT
 SUMMARY:Arizona Cardinals @ Seattle Seahawks
 DTSTART:20261108T212500Z
 DTEND:20261109T004000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261027T080237Z
 UID:cc137d8d2cefbf1b8ad31e7ebf5ecd88@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nArizona Cardinals @ Seattle Seahawks\n\n
  Kickoff: Sunday\, November 8\, 2026 at 4:25 PM EST (America/New_York)\nEst
- imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broa
- dcast\; local market coverage varies.\n\nVenue\nLumen Field\nSeattle\n\nSc
- hedule source: https://www.nfl.com/games/cardinals-at-seahawks-2026-reg-9
-LAST-MODIFIED:20260927T005047Z
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FO
+ X One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\n
+ NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local
+  and national blackouts apply.\nNFL+: local and primetime live game stream
+ s require a phone or tablet\; market and device restrictions apply.\nRegio
+ nal broadcast\; local market coverage varies.\nStreaming listings are for 
+ the US\; eligible subscriptions and geographic restrictions apply.\n\nVenu
+ e\nLumen Field\nSeattle\n\nSchedule source: https://www.nfl.com/games/card
+ inals-at-seahawks-2026-reg-9
+LAST-MODIFIED:20261027T080237Z
 LOCATION:Lumen Field\nSeattle
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
