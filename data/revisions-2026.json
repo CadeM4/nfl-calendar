@@ -786,10 +786,10 @@
     "fingerprint": "4ebc77124a8e66d101558f95e8d091fd2d8a2df56f280714294faecdbd408099"
   },
   "2026-REG-LV-SF": {
-    "sequence": 1,
+    "sequence": 2,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-10-26T23:57:18Z",
-    "fingerprint": "1f2b3b7d8882fefb54233321ead0e75508b245124711e6d330f9938bc43e1ba9"
+    "modified": "2026-10-29T08:40:41Z",
+    "fingerprint": "aefb95f6eb9a242865756afb6eb4a3c2ead44a63d9e37e98f1380a802afd4c96"
   },
   "2026-REG-ARI-SEA": {
     "sequence": 1,
