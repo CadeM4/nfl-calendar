@@ -167,9 +167,9 @@ BEGIN:VEVENT
 SUMMARY:Carolina Panthers @ Green Bay Packers
 DTSTART:20261030T001500Z
 DTEND:20261030T033000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261030T084658Z
 UID:95daa16d38793d863ee02e14abd6fc6c@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nCarolina Panthers @ Green Bay Packers\n
@@ -180,7 +180,7 @@ DESCRIPTION:NFL 2026 · Week 8\n\nCarolina Panthers @ Green Bay Packers\n
  for the US\; eligible subscriptions and geographic restrictions apply.\nUS
   national broadcast.\n\nVenue\nLambeau Field\nGreen Bay\n\nSchedule source
  : https://www.nfl.com/games/panthers-at-packers-2026-reg-8
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261030T084658Z
 LOCATION:Lambeau Field\nGreen Bay
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

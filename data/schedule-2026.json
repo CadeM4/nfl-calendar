@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "season": 2026,
-  "fetched_at": "2026-10-29T23:59:54Z",
+  "fetched_at": "2026-10-30T08:46:58Z",
   "source": {
     "name": "NFL.com official schedule and game-specific viewing data",
     "url": "https://www.nfl.com/schedules/2026/by-week/week-1"
@@ -4815,7 +4815,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/panthers-at-packers-2026-reg-8",
       "source_ids": {
         "nfl": "aaf70a66-4feb-11f1-abca-2c54536568a9",

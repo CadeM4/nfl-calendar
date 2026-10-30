@@ -642,10 +642,10 @@
     "fingerprint": "556f4bcb103360d3f650caab92985663f26fc1330a7cbb833069332982b64f82"
   },
   "2026-REG-CAR-GB": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "2373a835e62b6186b3023dd540682578ee4b2ce913f32a84bee25326b53eb263"
+    "modified": "2026-10-30T08:46:58Z",
+    "fingerprint": "ef647e69de3cfbef01e01801a5fbb272adbc3d658386f572032d4ece42fc27e7"
   },
   "2026-REG-ARI-DAL": {
     "sequence": 1,

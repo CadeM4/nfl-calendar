@@ -1,5 +1,8 @@
 # Schedule changes
 
-Verified: 2026-10-29T23:59:54Z
+Verified: 2026-10-30T08:46:58Z
 
-No event changes since the previous successful refresh.
+## UPDATED: CAR @ GB — Week 8
+
+- Status: scheduled → final
+
