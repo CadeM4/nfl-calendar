@@ -1,15 +1,1 @@
-[
-  {
-    "kind": "UPDATED",
-    "id": "2026-REG-CAR-GB",
-    "away": "CAR",
-    "home": "GB",
-    "week": 8,
-    "fields": {
-      "status": {
-        "before": "scheduled",
-        "after": "final"
-      }
-    }
-  }
-]
+[]
