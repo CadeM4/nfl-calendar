@@ -2755,9 +2755,9 @@ BEGIN:VEVENT
 SUMMARY:Arizona Cardinals @ Dallas Cowboys
 DTSTART:20261101T180000Z
 DTEND:20261101T211500Z
-DTSTAMP:20261019T075608Z
+DTSTAMP:20261101T190015Z
 UID:083c0faebb2b9f80fb2d39748901afee@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nArizona Cardinals @ Dallas Cowboys\n\nKi
@@ -2771,7 +2771,7 @@ DESCRIPTION:NFL 2026 · Week 8\n\nArizona Cardinals @ Dallas Cowboys\n\nKi
  e US\; eligible subscriptions and geographic restrictions apply.\n\nVenue
  \nAT&T Stadium\nArlington\n\nSchedule source: https://www.nfl.com/games/ca
  rdinals-at-cowboys-2026-reg-8
-LAST-MODIFIED:20261019T075608Z
+LAST-MODIFIED:20261101T190015Z
 LOCATION:AT&T Stadium\nArlington
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2781,9 +2781,9 @@ BEGIN:VEVENT
 SUMMARY:Atlanta Falcons @ Tampa Bay Buccaneers
 DTSTART:20261101T180000Z
 DTEND:20261101T211500Z
-DTSTAMP:20261019T075608Z
+DTSTAMP:20261101T190015Z
 UID:fa29e52661fc632a08c68b58f683a207@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nAtlanta Falcons @ Tampa Bay Buccaneers\n
@@ -2797,7 +2797,7 @@ DESCRIPTION:NFL 2026 · Week 8\n\nAtlanta Falcons @ Tampa Bay Buccaneers\n
  r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
  nue\nRaymond James Stadium\nTampa\n\nSchedule source: https://www.nfl.com/
  games/falcons-at-buccaneers-2026-reg-8
-LAST-MODIFIED:20261019T075608Z
+LAST-MODIFIED:20261101T190015Z
 LOCATION:Raymond James Stadium\nTampa
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2807,9 +2807,9 @@ BEGIN:VEVENT
 SUMMARY:Baltimore Ravens @ Buffalo Bills
 DTSTART:20261101T180000Z
 DTEND:20261101T211500Z
-DTSTAMP:20261019T075608Z
+DTSTAMP:20261101T190015Z
 UID:9f50bb7a299ccba96b82c7f3f8cd948d@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nBaltimore Ravens @ Buffalo Bills\n\nKick
@@ -2823,7 +2823,7 @@ DESCRIPTION:NFL 2026 · Week 8\n\nBaltimore Ravens @ Buffalo Bills\n\nKick
   for the US\; eligible subscriptions and geographic restrictions apply.\n
  \nVenue\nHighmark Stadium\nOrchard Park\n\nSchedule source: https://www.nf
  l.com/games/ravens-at-bills-2026-reg-8
-LAST-MODIFIED:20261019T075608Z
+LAST-MODIFIED:20261101T190015Z
 LOCATION:Highmark Stadium\nOrchard Park
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2833,9 +2833,9 @@ BEGIN:VEVENT
 SUMMARY:Cleveland Browns @ Pittsburgh Steelers
 DTSTART:20261101T180000Z
 DTEND:20261101T211500Z
-DTSTAMP:20261019T075608Z
+DTSTAMP:20261101T190015Z
 UID:dc33f4297dcda197107639bb5cd984b6@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nCleveland Browns @ Pittsburgh Steelers\n
@@ -2849,7 +2849,7 @@ DESCRIPTION:NFL 2026 · Week 8\n\nCleveland Browns @ Pittsburgh Steelers\n
  gs are for the US\; eligible subscriptions and geographic restrictions app
  ly.\n\nVenue\nAcrisure Stadium\nPittsburgh\n\nSchedule source: https://www
  .nfl.com/games/browns-at-steelers-2026-reg-8
-LAST-MODIFIED:20261019T075608Z
+LAST-MODIFIED:20261101T190015Z
 LOCATION:Acrisure Stadium\nPittsburgh
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2859,9 +2859,9 @@ BEGIN:VEVENT
 SUMMARY:Indianapolis Colts @ Jacksonville Jaguars
 DTSTART:20261101T180000Z
 DTEND:20261101T211500Z
-DTSTAMP:20261019T075608Z
+DTSTAMP:20261101T190015Z
 UID:08b67422ee421c73cd0bb00b200d82d7@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nIndianapolis Colts @ Jacksonville Jaguar
@@ -2875,7 +2875,7 @@ DESCRIPTION:NFL 2026 · Week 8\n\nIndianapolis Colts @ Jacksonville Jaguar
  tings are for the US\; eligible subscriptions and geographic restrictions 
  apply.\n\nVenue\nEverBank Stadium\nJacksonville\n\nSchedule source: https:
  //www.nfl.com/games/colts-at-jaguars-2026-reg-8
-LAST-MODIFIED:20261019T075608Z
+LAST-MODIFIED:20261101T190015Z
 LOCATION:EverBank Stadium\nJacksonville
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2885,9 +2885,9 @@ BEGIN:VEVENT
 SUMMARY:Las Vegas Raiders @ New York Jets
 DTSTART:20261101T180000Z
 DTEND:20261101T211500Z
-DTSTAMP:20261019T075608Z
+DTSTAMP:20261101T190015Z
 UID:a8fa744c88d380b1caf9e6f0ddb4b586@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nLas Vegas Raiders @ New York Jets\n\nKic
@@ -2901,7 +2901,7 @@ DESCRIPTION:NFL 2026 · Week 8\n\nLas Vegas Raiders @ New York Jets\n\nKic
   US\; eligible subscriptions and geographic restrictions apply.\n\nVenue\n
  MetLife Stadium\nEast Rutherford\n\nSchedule source: https://www.nfl.com/g
  ames/raiders-at-jets-2026-reg-8
-LAST-MODIFIED:20261019T075608Z
+LAST-MODIFIED:20261101T190015Z
 LOCATION:MetLife Stadium\nEast Rutherford
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2911,9 +2911,9 @@ BEGIN:VEVENT
 SUMMARY:Minnesota Vikings @ Detroit Lions
 DTSTART:20261101T180000Z
 DTEND:20261101T211500Z
-DTSTAMP:20261019T075608Z
+DTSTAMP:20261101T190015Z
 UID:d90cacd8be66882b76d5672652266e3a@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nMinnesota Vikings @ Detroit Lions\n\nKic
@@ -2927,7 +2927,7 @@ DESCRIPTION:NFL 2026 · Week 8\n\nMinnesota Vikings @ Detroit Lions\n\nKic
   US\; eligible subscriptions and geographic restrictions apply.\n\nVenue\n
  Ford Field\nDetroit\n\nSchedule source: https://www.nfl.com/games/vikings-
  at-lions-2026-reg-8
-LAST-MODIFIED:20261019T075608Z
+LAST-MODIFIED:20261101T190015Z
 LOCATION:Ford Field\nDetroit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2937,9 +2937,9 @@ BEGIN:VEVENT
 SUMMARY:Tennessee Titans @ Cincinnati Bengals
 DTSTART:20261101T180000Z
 DTEND:20261101T211500Z
-DTSTAMP:20261019T075608Z
+DTSTAMP:20261101T190015Z
 UID:b517aae795c201ee314caf16a01e9a93@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nTennessee Titans @ Cincinnati Bengals\n
@@ -2953,7 +2953,7 @@ DESCRIPTION:NFL 2026 · Week 8\n\nTennessee Titans @ Cincinnati Bengals\n
  gs are for the US\; eligible subscriptions and geographic restrictions app
  ly.\n\nVenue\nPaycor Stadium\nCincinnati\n\nSchedule source: https://www.n
  fl.com/games/titans-at-bengals-2026-reg-8
-LAST-MODIFIED:20261019T075608Z
+LAST-MODIFIED:20261101T190015Z
 LOCATION:Paycor Stadium\nCincinnati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

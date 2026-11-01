@@ -170,9 +170,9 @@ BEGIN:VEVENT
 SUMMARY:Minnesota Vikings @ Detroit Lions
 DTSTART:20261101T180000Z
 DTEND:20261101T211500Z
-DTSTAMP:20261019T075608Z
+DTSTAMP:20261101T190015Z
 UID:d90cacd8be66882b76d5672652266e3a@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nMinnesota Vikings @ Detroit Lions\n\nKic
@@ -186,7 +186,7 @@ DESCRIPTION:NFL 2026 · Week 8\n\nMinnesota Vikings @ Detroit Lions\n\nKic
   US\; eligible subscriptions and geographic restrictions apply.\n\nVenue\n
  Ford Field\nDetroit\n\nSchedule source: https://www.nfl.com/games/vikings-
  at-lions-2026-reg-8
-LAST-MODIFIED:20261019T075608Z
+LAST-MODIFIED:20261101T190015Z
 LOCATION:Ford Field\nDetroit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
