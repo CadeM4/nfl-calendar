@@ -196,9 +196,9 @@ BEGIN:VEVENT
 SUMMARY:Tennessee Titans @ Cincinnati Bengals
 DTSTART:20261101T180000Z
 DTEND:20261101T211500Z
-DTSTAMP:20261101T190015Z
+DTSTAMP:20261101T234209Z
 UID:b517aae795c201ee314caf16a01e9a93@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nTennessee Titans @ Cincinnati Bengals\n
@@ -212,7 +212,7 @@ DESCRIPTION:NFL 2026 · Week 8\n\nTennessee Titans @ Cincinnati Bengals\n
  gs are for the US\; eligible subscriptions and geographic restrictions app
  ly.\n\nVenue\nPaycor Stadium\nCincinnati\n\nSchedule source: https://www.n
  fl.com/games/titans-at-bengals-2026-reg-8
-LAST-MODIFIED:20261101T190015Z
+LAST-MODIFIED:20261101T234209Z
 LOCATION:Paycor Stadium\nCincinnati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

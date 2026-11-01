@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "season": 2026,
-  "fetched_at": "2026-11-01T19:00:15Z",
+  "fetched_at": "2026-11-01T23:42:09Z",
   "source": {
     "name": "NFL.com official schedule and game-specific viewing data",
     "url": "https://www.nfl.com/schedules/2026/by-week/week-1"
@@ -4860,7 +4860,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/cardinals-at-cowboys-2026-reg-8",
       "source_ids": {
         "nfl": "ab16512c-4feb-11f1-abca-2c54536568a9",
@@ -4905,7 +4905,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/falcons-at-buccaneers-2026-reg-8",
       "source_ids": {
         "nfl": "ab1667cd-4feb-11f1-abca-2c54536568a9",
@@ -4950,7 +4950,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/ravens-at-bills-2026-reg-8",
       "source_ids": {
         "nfl": "aaf70dac-4feb-11f1-abca-2c54536568a9",
@@ -4995,7 +4995,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/browns-at-steelers-2026-reg-8",
       "source_ids": {
         "nfl": "ab1664ca-4feb-11f1-abca-2c54536568a9",
@@ -5040,7 +5040,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/colts-at-jaguars-2026-reg-8",
       "source_ids": {
         "nfl": "ab165e6a-4feb-11f1-abca-2c54536568a9",
@@ -5085,7 +5085,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/raiders-at-jets-2026-reg-8",
       "source_ids": {
         "nfl": "ab1661ac-4feb-11f1-abca-2c54536568a9",
@@ -5130,7 +5130,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/vikings-at-lions-2026-reg-8",
       "source_ids": {
         "nfl": "ab165aa8-4feb-11f1-abca-2c54536568a9",
@@ -5175,7 +5175,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/titans-at-bengals-2026-reg-8",
       "source_ids": {
         "nfl": "aaf71176-4feb-11f1-abca-2c54536568a9",
@@ -5220,7 +5220,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/chargers-at-rams-2026-reg-8",
       "source_ids": {
         "nfl": "ab166ac0-4feb-11f1-abca-2c54536568a9",
@@ -5265,7 +5265,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/chiefs-at-broncos-2026-reg-8",
       "source_ids": {
         "nfl": "ab166dc7-4feb-11f1-abca-2c54536568a9",
@@ -5310,7 +5310,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/patriots-at-dolphins-2026-reg-8",
       "source_ids": {
         "nfl": "ab1670ad-4feb-11f1-abca-2c54536568a9",

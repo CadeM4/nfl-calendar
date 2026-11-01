@@ -187,9 +187,9 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Chargers @ Los Angeles Rams
 DTSTART:20261101T210500Z
 DTEND:20261102T002000Z
-DTSTAMP:20261020T074526Z
+DTSTAMP:20261101T234209Z
 UID:6f7d14b46750060996d7c604a99d2006@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nLos Angeles Chargers @ Los Angeles Rams
@@ -203,7 +203,7 @@ DESCRIPTION:NFL 2026 · Week 8\n\nLos Angeles Chargers @ Los Angeles Rams
   for the US\; eligible subscriptions and geographic restrictions apply.\n
  \nVenue\nSoFi Stadium\nInglewood\n\nSchedule source: https://www.nfl.com/g
  ames/chargers-at-rams-2026-reg-8
-LAST-MODIFIED:20261020T074526Z
+LAST-MODIFIED:20261101T234209Z
 LOCATION:SoFi Stadium\nInglewood
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -7,8 +7,8 @@
     "week": 8,
     "fields": {
       "status": {
-        "before": "scheduled",
-        "after": "live"
+        "before": "live",
+        "after": "final"
       }
     }
   },
@@ -20,8 +20,8 @@
     "week": 8,
     "fields": {
       "status": {
-        "before": "scheduled",
-        "after": "live"
+        "before": "live",
+        "after": "final"
       }
     }
   },
@@ -33,8 +33,8 @@
     "week": 8,
     "fields": {
       "status": {
-        "before": "scheduled",
-        "after": "live"
+        "before": "live",
+        "after": "final"
       }
     }
   },
@@ -46,8 +46,8 @@
     "week": 8,
     "fields": {
       "status": {
-        "before": "scheduled",
-        "after": "live"
+        "before": "live",
+        "after": "final"
       }
     }
   },
@@ -59,8 +59,8 @@
     "week": 8,
     "fields": {
       "status": {
-        "before": "scheduled",
-        "after": "live"
+        "before": "live",
+        "after": "final"
       }
     }
   },
@@ -72,8 +72,8 @@
     "week": 8,
     "fields": {
       "status": {
-        "before": "scheduled",
-        "after": "live"
+        "before": "live",
+        "after": "final"
       }
     }
   },
@@ -85,8 +85,8 @@
     "week": 8,
     "fields": {
       "status": {
-        "before": "scheduled",
-        "after": "live"
+        "before": "live",
+        "after": "final"
       }
     }
   },
@@ -95,6 +95,45 @@
     "id": "2026-REG-TEN-CIN",
     "away": "TEN",
     "home": "CIN",
+    "week": 8,
+    "fields": {
+      "status": {
+        "before": "live",
+        "after": "final"
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-LAC-LAR",
+    "away": "LAC",
+    "home": "LAR",
+    "week": 8,
+    "fields": {
+      "status": {
+        "before": "scheduled",
+        "after": "live"
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-KC-DEN",
+    "away": "KC",
+    "home": "DEN",
+    "week": 8,
+    "fields": {
+      "status": {
+        "before": "scheduled",
+        "after": "live"
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-NE-MIA",
+    "away": "NE",
+    "home": "MIA",
     "week": 8,
     "fields": {
       "status": {
