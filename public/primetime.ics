@@ -553,9 +553,9 @@ BEGIN:VEVENT
 SUMMARY:Philadelphia Eagles @ Washington Commanders
 DTSTART:20261102T012000Z
 DTEND:20261102T043500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261102T094019Z
 UID:512787588f77b1afe5d29603e2748d4b@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nPhiladelphia Eagles @ Washington Command
@@ -567,7 +567,7 @@ DESCRIPTION:NFL 2026 · Week 8\n\nPhiladelphia Eagles @ Washington Command
  ictions apply.\nUS national broadcast.\n\nVenue\nNorthwest Stadium\nLandov
  er\n\nSchedule source: https://www.nfl.com/games/eagles-at-commanders-2026
  -reg-8
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261102T094019Z
 LOCATION:Northwest Stadium\nLandover
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

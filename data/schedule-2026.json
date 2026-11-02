@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "season": 2026,
-  "fetched_at": "2026-11-01T23:42:09Z",
+  "fetched_at": "2026-11-02T09:40:19Z",
   "source": {
     "name": "NFL.com official schedule and game-specific viewing data",
     "url": "https://www.nfl.com/schedules/2026/by-week/week-1"
@@ -5220,7 +5220,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/chargers-at-rams-2026-reg-8",
       "source_ids": {
         "nfl": "ab166ac0-4feb-11f1-abca-2c54536568a9",
@@ -5265,7 +5265,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/chiefs-at-broncos-2026-reg-8",
       "source_ids": {
         "nfl": "ab166dc7-4feb-11f1-abca-2c54536568a9",
@@ -5310,7 +5310,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/patriots-at-dolphins-2026-reg-8",
       "source_ids": {
         "nfl": "ab1670ad-4feb-11f1-abca-2c54536568a9",
@@ -5354,7 +5354,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/eagles-at-commanders-2026-reg-8",
       "source_ids": {
         "nfl": "ab167386-4feb-11f1-abca-2c54536568a9",
@@ -6190,9 +6190,16 @@
         "tv": [
           "CBS"
         ],
-        "streaming": [],
+        "streaming": [
+          "NFL+",
+          "Paramount+"
+        ],
         "notes": [
-          "Regional broadcast; local market coverage varies."
+          "Regional broadcast; local market coverage varies.",
+          "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
+          "Paramount+: this game must be carried by your local CBS station.",
+          "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
+          "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
       "status": "scheduled",
@@ -6266,9 +6273,16 @@
         "tv": [
           "FOX"
         ],
-        "streaming": [],
+        "streaming": [
+          "FOX One",
+          "NFL+"
+        ],
         "notes": [
-          "Regional broadcast; local market coverage varies."
+          "Regional broadcast; local market coverage varies.",
+          "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
+          "FOX One: local FOX coverage and market restrictions apply.",
+          "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
+          "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
       "status": "scheduled",
@@ -6342,9 +6356,16 @@
         "tv": [
           "CBS"
         ],
-        "streaming": [],
+        "streaming": [
+          "NFL+",
+          "Paramount+"
+        ],
         "notes": [
-          "Regional broadcast; local market coverage varies."
+          "Regional broadcast; local market coverage varies.",
+          "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
+          "Paramount+: this game must be carried by your local CBS station.",
+          "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
+          "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
       "status": "scheduled",
@@ -6418,9 +6439,16 @@
         "tv": [
           "FOX"
         ],
-        "streaming": [],
+        "streaming": [
+          "FOX One",
+          "NFL+"
+        ],
         "notes": [
-          "Regional broadcast; local market coverage varies."
+          "Regional broadcast; local market coverage varies.",
+          "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
+          "FOX One: local FOX coverage and market restrictions apply.",
+          "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
+          "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
       "status": "scheduled",

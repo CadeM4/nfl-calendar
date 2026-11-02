@@ -2963,9 +2963,9 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Chargers @ Los Angeles Rams
 DTSTART:20261101T210500Z
 DTEND:20261102T002000Z
-DTSTAMP:20261101T234209Z
+DTSTAMP:20261102T094019Z
 UID:6f7d14b46750060996d7c604a99d2006@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nLos Angeles Chargers @ Los Angeles Rams
@@ -2979,7 +2979,7 @@ DESCRIPTION:NFL 2026 · Week 8\n\nLos Angeles Chargers @ Los Angeles Rams
   for the US\; eligible subscriptions and geographic restrictions apply.\n
  \nVenue\nSoFi Stadium\nInglewood\n\nSchedule source: https://www.nfl.com/g
  ames/chargers-at-rams-2026-reg-8
-LAST-MODIFIED:20261101T234209Z
+LAST-MODIFIED:20261102T094019Z
 LOCATION:SoFi Stadium\nInglewood
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2989,9 +2989,9 @@ BEGIN:VEVENT
 SUMMARY:Kansas City Chiefs @ Denver Broncos
 DTSTART:20261101T212500Z
 DTEND:20261102T004000Z
-DTSTAMP:20261101T234209Z
+DTSTAMP:20261102T094019Z
 UID:7c949fe0464e44c4ba573441a921f8ad@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nKansas City Chiefs @ Denver Broncos\n\nK
@@ -3005,7 +3005,7 @@ DESCRIPTION:NFL 2026 · Week 8\n\nKansas City Chiefs @ Denver Broncos\n\nK
  are for the US\; eligible subscriptions and geographic restrictions apply.
  \n\nVenue\nEmpower Field at Mile High\nDenver\n\nSchedule source: https://
  www.nfl.com/games/chiefs-at-broncos-2026-reg-8
-LAST-MODIFIED:20261101T234209Z
+LAST-MODIFIED:20261102T094019Z
 LOCATION:Empower Field at Mile High\nDenver
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3015,9 +3015,9 @@ BEGIN:VEVENT
 SUMMARY:New England Patriots @ Miami Dolphins
 DTSTART:20261101T212500Z
 DTEND:20261102T004000Z
-DTSTAMP:20261101T234209Z
+DTSTAMP:20261102T094019Z
 UID:3223d090041cb650da2fd5e73859cf46@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nNew England Patriots @ Miami Dolphins\n
@@ -3031,7 +3031,7 @@ DESCRIPTION:NFL 2026 · Week 8\n\nNew England Patriots @ Miami Dolphins\n
  gs are for the US\; eligible subscriptions and geographic restrictions app
  ly.\n\nVenue\nHard Rock Stadium\nOpa Locka\n\nSchedule source: https://www
  .nfl.com/games/patriots-at-dolphins-2026-reg-8
-LAST-MODIFIED:20261101T234209Z
+LAST-MODIFIED:20261102T094019Z
 LOCATION:Hard Rock Stadium\nOpa Locka
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3041,9 +3041,9 @@ BEGIN:VEVENT
 SUMMARY:Philadelphia Eagles @ Washington Commanders
 DTSTART:20261102T012000Z
 DTEND:20261102T043500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261102T094019Z
 UID:512787588f77b1afe5d29603e2748d4b@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nPhiladelphia Eagles @ Washington Command
@@ -3055,7 +3055,7 @@ DESCRIPTION:NFL 2026 · Week 8\n\nPhiladelphia Eagles @ Washington Command
  ictions apply.\nUS national broadcast.\n\nVenue\nNorthwest Stadium\nLandov
  er\n\nSchedule source: https://www.nfl.com/games/eagles-at-commanders-2026
  -reg-8
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261102T094019Z
 LOCATION:Northwest Stadium\nLandover
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3517,17 +3517,23 @@ BEGIN:VEVENT
 SUMMARY:Buffalo Bills @ New York Jets
 DTSTART:20261115T180000Z
 DTEND:20261115T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261102T094019Z
 UID:faf0b89ffcad5c283c6712caeccae639@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 10
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 10\n\nBuffalo Bills @ New York Jets\n\nKickof
  f: Sunday\, November 15\, 2026 at 1:00 PM EST (America/New_York)\nEstimate
- d game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadcast
- \; local market coverage varies.\n\nVenue\nMetLife Stadium\nEast Rutherfor
- d\n\nSchedule source: https://www.nfl.com/games/bills-at-jets-2026-reg-10
-LAST-MODIFIED:20260927T005047Z
+ d game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL+\, 
+ Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon vie
+ wing\; local and national blackouts apply.\nNFL+: local and primetime live
+  game streams require a phone or tablet\; market and device restrictions a
+ pply.\nParamount+: this game must be carried by your local CBS station.\nR
+ egional broadcast\; local market coverage varies.\nStreaming listings are 
+ for the US\; eligible subscriptions and geographic restrictions apply.\n\n
+ Venue\nMetLife Stadium\nEast Rutherford\n\nSchedule source: https://www.nf
+ l.com/games/bills-at-jets-2026-reg-10
+LAST-MODIFIED:20261102T094019Z
 LOCATION:MetLife Stadium\nEast Rutherford
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3558,18 +3564,23 @@ BEGIN:VEVENT
 SUMMARY:Houston Texans @ Cleveland Browns
 DTSTART:20261115T180000Z
 DTEND:20261115T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261102T094019Z
 UID:b301aee58ac5db7cf078dccd607b511d@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 10
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 10\n\nHouston Texans @ Cleveland Browns\n\nKi
  ckoff: Sunday\, November 15\, 2026 at 1:00 PM EST (America/New_York)\nEsti
- mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broad
- cast\; local market coverage varies.\n\nVenue\nHuntington Bank Field\nClev
- eland\n\nSchedule source: https://www.nfl.com/games/texans-at-browns-2026-
- reg-10
-LAST-MODIFIED:20260927T005047Z
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX
+  One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nN
+ FL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local 
+ and national blackouts apply.\nNFL+: local and primetime live game streams
+  require a phone or tablet\; market and device restrictions apply.\nRegion
+ al broadcast\; local market coverage varies.\nStreaming listings are for t
+ he US\; eligible subscriptions and geographic restrictions apply.\n\nVenue
+ \nHuntington Bank Field\nCleveland\n\nSchedule source: https://www.nfl.com
+ /games/texans-at-browns-2026-reg-10
+LAST-MODIFIED:20261102T094019Z
 LOCATION:Huntington Bank Field\nCleveland
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3600,18 +3611,23 @@ BEGIN:VEVENT
 SUMMARY:Kansas City Chiefs @ Atlanta Falcons
 DTSTART:20261115T180000Z
 DTEND:20261115T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261102T094019Z
 UID:c331b992cfdb6f0f18a20b00123bec3a@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 10
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 10\n\nKansas City Chiefs @ Atlanta Falcons\n
  \nKickoff: Sunday\, November 15\, 2026 at 1:00 PM EST (America/New_York)\n
- Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional b
- roadcast\; local market coverage varies.\n\nVenue\nMercedes-Benz Stadium\n
- Atlanta\n\nSchedule source: https://www.nfl.com/games/chiefs-at-falcons-20
- 26-reg-10
-LAST-MODIFIED:20260927T005047Z
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming:
+  NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday after
+ noon viewing\; local and national blackouts apply.\nNFL+: local and primet
+ ime live game streams require a phone or tablet\; market and device restri
+ ctions apply.\nParamount+: this game must be carried by your local CBS sta
+ tion.\nRegional broadcast\; local market coverage varies.\nStreaming listi
+ ngs are for the US\; eligible subscriptions and geographic restrictions ap
+ ply.\n\nVenue\nMercedes-Benz Stadium\nAtlanta\n\nSchedule source: https://
+ www.nfl.com/games/chiefs-at-falcons-2026-reg-10
+LAST-MODIFIED:20261102T094019Z
 LOCATION:Mercedes-Benz Stadium\nAtlanta
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3642,18 +3658,23 @@ BEGIN:VEVENT
 SUMMARY:Minnesota Vikings @ Green Bay Packers
 DTSTART:20261115T180000Z
 DTEND:20261115T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261102T094019Z
 UID:c941914af678f6327d509c8e9a9c64f0@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 10
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 10\n\nMinnesota Vikings @ Green Bay Packers\n
  \nKickoff: Sunday\, November 15\, 2026 at 1:00 PM EST (America/New_York)\n
- Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional b
- roadcast\; local market coverage varies.\n\nVenue\nLambeau Field\nGreen Ba
- y\n\nSchedule source: https://www.nfl.com/games/vikings-at-packers-2026-re
- g-10
-LAST-MODIFIED:20260927T005047Z
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming:
+  FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply
+ .\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; lo
+ cal and national blackouts apply.\nNFL+: local and primetime live game str
+ eams require a phone or tablet\; market and device restrictions apply.\nRe
+ gional broadcast\; local market coverage varies.\nStreaming listings are f
+ or the US\; eligible subscriptions and geographic restrictions apply.\n\nV
+ enue\nLambeau Field\nGreen Bay\n\nSchedule source: https://www.nfl.com/gam
+ es/vikings-at-packers-2026-reg-10
+LAST-MODIFIED:20261102T094019Z
 LOCATION:Lambeau Field\nGreen Bay
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

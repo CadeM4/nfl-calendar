@@ -239,18 +239,23 @@ BEGIN:VEVENT
 SUMMARY:Minnesota Vikings @ Green Bay Packers
 DTSTART:20261115T180000Z
 DTEND:20261115T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261102T094019Z
 UID:c941914af678f6327d509c8e9a9c64f0@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 10
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 10\n\nMinnesota Vikings @ Green Bay Packers\n
  \nKickoff: Sunday\, November 15\, 2026 at 1:00 PM EST (America/New_York)\n
- Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional b
- roadcast\; local market coverage varies.\n\nVenue\nLambeau Field\nGreen Ba
- y\n\nSchedule source: https://www.nfl.com/games/vikings-at-packers-2026-re
- g-10
-LAST-MODIFIED:20260927T005047Z
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming:
+  FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply
+ .\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; lo
+ cal and national blackouts apply.\nNFL+: local and primetime live game str
+ eams require a phone or tablet\; market and device restrictions apply.\nRe
+ gional broadcast\; local market coverage varies.\nStreaming listings are f
+ or the US\; eligible subscriptions and geographic restrictions apply.\n\nV
+ enue\nLambeau Field\nGreen Bay\n\nSchedule source: https://www.nfl.com/gam
+ es/vikings-at-packers-2026-reg-10
+LAST-MODIFIED:20261102T094019Z
 LOCATION:Lambeau Field\nGreen Bay
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

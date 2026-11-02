@@ -191,9 +191,9 @@ BEGIN:VEVENT
 SUMMARY:New England Patriots @ Miami Dolphins
 DTSTART:20261101T212500Z
 DTEND:20261102T004000Z
-DTSTAMP:20261101T234209Z
+DTSTAMP:20261102T094019Z
 UID:3223d090041cb650da2fd5e73859cf46@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nNew England Patriots @ Miami Dolphins\n
@@ -207,7 +207,7 @@ DESCRIPTION:NFL 2026 · Week 8\n\nNew England Patriots @ Miami Dolphins\n
  gs are for the US\; eligible subscriptions and geographic restrictions app
  ly.\n\nVenue\nHard Rock Stadium\nOpa Locka\n\nSchedule source: https://www
  .nfl.com/games/patriots-at-dolphins-2026-reg-8
-LAST-MODIFIED:20261101T234209Z
+LAST-MODIFIED:20261102T094019Z
 LOCATION:Hard Rock Stadium\nOpa Locka
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

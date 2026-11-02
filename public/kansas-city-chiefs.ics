@@ -163,9 +163,9 @@ BEGIN:VEVENT
 SUMMARY:Kansas City Chiefs @ Denver Broncos
 DTSTART:20261101T212500Z
 DTEND:20261102T004000Z
-DTSTAMP:20261101T234209Z
+DTSTAMP:20261102T094019Z
 UID:7c949fe0464e44c4ba573441a921f8ad@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nKansas City Chiefs @ Denver Broncos\n\nK
@@ -179,7 +179,7 @@ DESCRIPTION:NFL 2026 · Week 8\n\nKansas City Chiefs @ Denver Broncos\n\nK
  are for the US\; eligible subscriptions and geographic restrictions apply.
  \n\nVenue\nEmpower Field at Mile High\nDenver\n\nSchedule source: https://
  www.nfl.com/games/chiefs-at-broncos-2026-reg-8
-LAST-MODIFIED:20261101T234209Z
+LAST-MODIFIED:20261102T094019Z
 LOCATION:Empower Field at Mile High\nDenver
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -215,18 +215,23 @@ BEGIN:VEVENT
 SUMMARY:Kansas City Chiefs @ Atlanta Falcons
 DTSTART:20261115T180000Z
 DTEND:20261115T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261102T094019Z
 UID:c331b992cfdb6f0f18a20b00123bec3a@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 10
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 10\n\nKansas City Chiefs @ Atlanta Falcons\n
  \nKickoff: Sunday\, November 15\, 2026 at 1:00 PM EST (America/New_York)\n
- Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional b
- roadcast\; local market coverage varies.\n\nVenue\nMercedes-Benz Stadium\n
- Atlanta\n\nSchedule source: https://www.nfl.com/games/chiefs-at-falcons-20
- 26-reg-10
-LAST-MODIFIED:20260927T005047Z
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming:
+  NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday after
+ noon viewing\; local and national blackouts apply.\nNFL+: local and primet
+ ime live game streams require a phone or tablet\; market and device restri
+ ctions apply.\nParamount+: this game must be carried by your local CBS sta
+ tion.\nRegional broadcast\; local market coverage varies.\nStreaming listi
+ ngs are for the US\; eligible subscriptions and geographic restrictions ap
+ ply.\n\nVenue\nMercedes-Benz Stadium\nAtlanta\n\nSchedule source: https://
+ www.nfl.com/games/chiefs-at-falcons-2026-reg-10
+LAST-MODIFIED:20261102T094019Z
 LOCATION:Mercedes-Benz Stadium\nAtlanta
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -215,17 +215,23 @@ BEGIN:VEVENT
 SUMMARY:Buffalo Bills @ New York Jets
 DTSTART:20261115T180000Z
 DTEND:20261115T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261102T094019Z
 UID:faf0b89ffcad5c283c6712caeccae639@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 10
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 10\n\nBuffalo Bills @ New York Jets\n\nKickof
  f: Sunday\, November 15\, 2026 at 1:00 PM EST (America/New_York)\nEstimate
- d game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadcast
- \; local market coverage varies.\n\nVenue\nMetLife Stadium\nEast Rutherfor
- d\n\nSchedule source: https://www.nfl.com/games/bills-at-jets-2026-reg-10
-LAST-MODIFIED:20260927T005047Z
+ d game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL+\, 
+ Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon vie
+ wing\; local and national blackouts apply.\nNFL+: local and primetime live
+  game streams require a phone or tablet\; market and device restrictions a
+ pply.\nParamount+: this game must be carried by your local CBS station.\nR
+ egional broadcast\; local market coverage varies.\nStreaming listings are 
+ for the US\; eligible subscriptions and geographic restrictions apply.\n\n
+ Venue\nMetLife Stadium\nEast Rutherford\n\nSchedule source: https://www.nf
+ l.com/games/bills-at-jets-2026-reg-10
+LAST-MODIFIED:20261102T094019Z
 LOCATION:MetLife Stadium\nEast Rutherford
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
