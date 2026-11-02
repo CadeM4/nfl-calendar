@@ -248,18 +248,23 @@ BEGIN:VEVENT
 SUMMARY:Seattle Seahawks @ Las Vegas Raiders
 DTSTART:20261115T210500Z
 DTEND:20261116T002000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261102T224918Z
 UID:26aa0eefc691526f0cb3866a0087075a@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 10
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 10\n\nSeattle Seahawks @ Las Vegas Raiders\n
  \nKickoff: Sunday\, November 15\, 2026 at 4:05 PM EST (America/New_York)\n
- Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional b
- roadcast\; local market coverage varies.\n\nVenue\nAllegiant Stadium\nPara
- dise\n\nSchedule source: https://www.nfl.com/games/seahawks-at-raiders-202
- 6-reg-10
-LAST-MODIFIED:20260927T005047Z
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming:
+  NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday after
+ noon viewing\; local and national blackouts apply.\nNFL+: local and primet
+ ime live game streams require a phone or tablet\; market and device restri
+ ctions apply.\nParamount+: this game must be carried by your local CBS sta
+ tion.\nRegional broadcast\; local market coverage varies.\nStreaming listi
+ ngs are for the US\; eligible subscriptions and geographic restrictions ap
+ ply.\n\nVenue\nAllegiant Stadium\nParadise\n\nSchedule source: https://www
+ .nfl.com/games/seahawks-at-raiders-2026-reg-10
+LAST-MODIFIED:20261102T224918Z
 LOCATION:Allegiant Stadium\nParadise
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
