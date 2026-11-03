@@ -191,9 +191,9 @@ BEGIN:VEVENT
 SUMMARY:Chicago Bears @ Seattle Seahawks
 DTSTART:20261103T011500Z
 DTEND:20261103T043000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261103T094406Z
 UID:846d307974cdaac7ca860167ec5261f0@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 8
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 8\n\nChicago Bears @ Seattle Seahawks\n\nKick
@@ -205,7 +205,7 @@ DESCRIPTION:NFL 2026 · Week 8\n\nChicago Bears @ Seattle Seahawks\n\nKick
  geographic restrictions apply.\nUS national broadcast.\n\nVenue\nLumen Fie
  ld\nSeattle\n\nSchedule source: https://www.nfl.com/games/bears-at-seahawk
  s-2026-reg-8
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261103T094406Z
 LOCATION:Lumen Field\nSeattle
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
