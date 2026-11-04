@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "season": 2026,
-  "fetched_at": "2026-11-03T20:32:40Z",
+  "fetched_at": "2026-11-04T09:30:13Z",
   "source": {
     "name": "NFL.com official schedule and game-specific viewing data",
     "url": "https://www.nfl.com/schedules/2026/by-week/week-1"
@@ -6235,9 +6235,16 @@
         "tv": [
           "FOX"
         ],
-        "streaming": [],
+        "streaming": [
+          "FOX One",
+          "NFL+"
+        ],
         "notes": [
-          "Regional broadcast; local market coverage varies."
+          "Regional broadcast; local market coverage varies.",
+          "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
+          "FOX One: local FOX coverage and market restrictions apply.",
+          "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
+          "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
       "status": "scheduled",
@@ -6318,9 +6325,16 @@
         "tv": [
           "FOX"
         ],
-        "streaming": [],
+        "streaming": [
+          "FOX One",
+          "NFL+"
+        ],
         "notes": [
-          "Regional broadcast; local market coverage varies."
+          "Regional broadcast; local market coverage varies.",
+          "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
+          "FOX One: local FOX coverage and market restrictions apply.",
+          "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
+          "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
       "status": "scheduled",

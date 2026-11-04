@@ -3543,18 +3543,23 @@ BEGIN:VEVENT
 SUMMARY:Carolina Panthers @ New Orleans Saints
 DTSTART:20261115T180000Z
 DTEND:20261115T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261104T093013Z
 UID:f1985530a9b3df28a3fca43b02b2810d@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 10
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 10\n\nCarolina Panthers @ New Orleans Saints
  \n\nKickoff: Sunday\, November 15\, 2026 at 1:00 PM EST (America/New_York)
- \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
-  broadcast\; local market coverage varies.\n\nVenue\nCaesars Superdome\nNe
- w Orleans\n\nSchedule source: https://www.nfl.com/games/panthers-at-saints
- -2026-reg-10
-LAST-MODIFIED:20260927T005047Z
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreamin
+ g: FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions app
+ ly.\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; 
+ local and national blackouts apply.\nNFL+: local and primetime live game s
+ treams require a phone or tablet\; market and device restrictions apply.\n
+ Regional broadcast\; local market coverage varies.\nStreaming listings are
+  for the US\; eligible subscriptions and geographic restrictions apply.\n
+ \nVenue\nCaesars Superdome\nNew Orleans\n\nSchedule source: https://www.nf
+ l.com/games/panthers-at-saints-2026-reg-10
+LAST-MODIFIED:20261104T093013Z
 LOCATION:Caesars Superdome\nNew Orleans
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3590,18 +3595,23 @@ BEGIN:VEVENT
 SUMMARY:Jacksonville Jaguars @ Tennessee Titans
 DTSTART:20261115T180000Z
 DTEND:20261115T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261104T093013Z
 UID:d425929a0451fccac58dc31dcac4317a@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 10
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 10\n\nJacksonville Jaguars @ Tennessee Titans
  \n\nKickoff: Sunday\, November 15\, 2026 at 1:00 PM EST (America/New_York)
- \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
-  broadcast\; local market coverage varies.\n\nVenue\nNissan Stadium\nNashv
- ille\n\nSchedule source: https://www.nfl.com/games/jaguars-at-titans-2026-
- reg-10
-LAST-MODIFIED:20260927T005047Z
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreamin
+ g: FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions app
+ ly.\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; 
+ local and national blackouts apply.\nNFL+: local and primetime live game s
+ treams require a phone or tablet\; market and device restrictions apply.\n
+ Regional broadcast\; local market coverage varies.\nStreaming listings are
+  for the US\; eligible subscriptions and geographic restrictions apply.\n
+ \nVenue\nNissan Stadium\nNashville\n\nSchedule source: https://www.nfl.com
+ /games/jaguars-at-titans-2026-reg-10
+LAST-MODIFIED:20261104T093013Z
 LOCATION:Nissan Stadium\nNashville
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
