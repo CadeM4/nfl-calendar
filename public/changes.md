@@ -1,5 +1,8 @@
 # Schedule changes
 
-Verified: 2026-11-05T21:08:03Z
+Verified: 2026-11-06T09:32:19Z
 
-No event changes since the previous successful refresh.
+## UPDATED: JAX @ BAL — Week 9
+
+- Status: scheduled → final
+
