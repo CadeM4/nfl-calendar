@@ -1,15 +1,1 @@
-[
-  {
-    "kind": "UPDATED",
-    "id": "2026-REG-JAX-BAL",
-    "away": "JAX",
-    "home": "BAL",
-    "week": 9,
-    "fields": {
-      "status": {
-        "before": "scheduled",
-        "after": "final"
-      }
-    }
-  }
-]
+[]
