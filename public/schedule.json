@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "season": 2026,
-  "fetched_at": "2026-11-08T18:54:21Z",
+  "fetched_at": "2026-11-08T23:49:32Z",
   "source": {
     "name": "NFL.com official schedule and game-specific viewing data",
     "url": "https://www.nfl.com/schedules/2026/by-week/week-1"
@@ -5529,7 +5529,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/browns-at-saints-2026-reg-9",
       "source_ids": {
         "nfl": "ab381d58-4feb-11f1-abca-2c54536568a9",
@@ -5574,7 +5574,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/cowboys-at-colts-2026-reg-9",
       "source_ids": {
         "nfl": "ab38123a-4feb-11f1-abca-2c54536568a9",
@@ -5619,7 +5619,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/broncos-at-panthers-2026-reg-9",
       "source_ids": {
         "nfl": "ab380efd-4feb-11f1-abca-2c54536568a9",
@@ -5664,7 +5664,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/lions-at-dolphins-2026-reg-9",
       "source_ids": {
         "nfl": "ab381a59-4feb-11f1-abca-2c54536568a9",
@@ -5709,7 +5709,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/rams-at-commanders-2026-reg-9",
       "source_ids": {
         "nfl": "ab382331-4feb-11f1-abca-2c54536568a9",
@@ -5754,7 +5754,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/giants-at-eagles-2026-reg-9",
       "source_ids": {
         "nfl": "ab38203e-4feb-11f1-abca-2c54536568a9",
@@ -5799,7 +5799,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "live",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/jets-at-chiefs-2026-reg-9",
       "source_ids": {
         "nfl": "ab381724-4feb-11f1-abca-2c54536568a9",
@@ -5844,7 +5844,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/texans-at-chargers-2026-reg-9",
       "source_ids": {
         "nfl": "ab580cb7-4feb-11f1-abca-2c54536568a9",
@@ -5889,7 +5889,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/cardinals-at-seahawks-2026-reg-9",
       "source_ids": {
         "nfl": "ab581f17-4feb-11f1-abca-2c54536568a9",
@@ -5934,7 +5934,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/packers-at-patriots-2026-reg-9",
       "source_ids": {
         "nfl": "ab581b93-4feb-11f1-abca-2c54536568a9",
@@ -5979,7 +5979,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/raiders-at-49ers-2026-reg-9",
       "source_ids": {
         "nfl": "ab581766-4feb-11f1-abca-2c54536568a9",

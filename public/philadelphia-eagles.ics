@@ -214,9 +214,9 @@ BEGIN:VEVENT
 SUMMARY:New York Giants @ Philadelphia Eagles
 DTSTART:20261108T180000Z
 DTEND:20261108T211500Z
-DTSTAMP:20261108T185421Z
+DTSTAMP:20261108T234932Z
 UID:62247cbe3de77096689cf133cd94a367@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nNew York Giants @ Philadelphia Eagles\n
@@ -230,7 +230,7 @@ DESCRIPTION:NFL 2026 · Week 9\n\nNew York Giants @ Philadelphia Eagles\n
  r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
  nue\nLincoln Financial Field\nPhiladelphia\n\nSchedule source: https://www
  .nfl.com/games/giants-at-eagles-2026-reg-9
-LAST-MODIFIED:20261108T185421Z
+LAST-MODIFIED:20261108T234932Z
 LOCATION:Lincoln Financial Field\nPhiladelphia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
