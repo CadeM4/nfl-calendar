@@ -222,9 +222,9 @@ BEGIN:VEVENT
 SUMMARY:New York Jets @ Kansas City Chiefs
 DTSTART:20261108T180000Z
 DTEND:20261108T211500Z
-DTSTAMP:20261026T075547Z
+DTSTAMP:20261108T185421Z
 UID:4cb3e8e3883c104c4ccdf47b397bda12@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nNew York Jets @ Kansas City Chiefs\n\nKi
@@ -238,7 +238,7 @@ DESCRIPTION:NFL 2026 · Week 9\n\nNew York Jets @ Kansas City Chiefs\n\nKi
  re for the US\; eligible subscriptions and geographic restrictions apply.
  \n\nVenue\nArrowhead Stadium\nKansas City\n\nSchedule source: https://www.
  nfl.com/games/jets-at-chiefs-2026-reg-9
-LAST-MODIFIED:20261026T075547Z
+LAST-MODIFIED:20261108T185421Z
 LOCATION:Arrowhead Stadium\nKansas City
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

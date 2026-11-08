@@ -3112,9 +3112,9 @@ BEGIN:VEVENT
 SUMMARY:Cincinnati Bengals @ Atlanta Falcons
 DTSTART:20261108T143000Z
 DTEND:20261108T174500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261108T185421Z
 UID:7d5b9a2ef063efd39e7793456390d86a@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nCincinnati Bengals @ Atlanta Falcons\n\n
@@ -3125,7 +3125,7 @@ DESCRIPTION:NFL 2026 · Week 9\n\nCincinnati Bengals @ Atlanta Falcons\n\n
  g listings are for the US\; eligible subscriptions and geographic restrict
  ions apply.\nUS national broadcast.\n\nVenue\nBernabeu\nMadrid\, Spain\n\n
  Schedule source: https://www.nfl.com/games/bengals-at-falcons-2026-reg-9
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261108T185421Z
 LOCATION:Bernabeu\nMadrid\, Spain
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3135,9 +3135,9 @@ BEGIN:VEVENT
 SUMMARY:Cleveland Browns @ New Orleans Saints
 DTSTART:20261108T180000Z
 DTEND:20261108T211500Z
-DTSTAMP:20261026T235718Z
+DTSTAMP:20261108T185421Z
 UID:3fc4e1ea9943e4404159e55e6cbdaf64@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nCleveland Browns @ New Orleans Saints\n
@@ -3151,7 +3151,7 @@ DESCRIPTION:NFL 2026 · Week 9\n\nCleveland Browns @ New Orleans Saints\n
  gs are for the US\; eligible subscriptions and geographic restrictions app
  ly.\n\nVenue\nCaesars Superdome\nNew Orleans\n\nSchedule source: https://w
  ww.nfl.com/games/browns-at-saints-2026-reg-9
-LAST-MODIFIED:20261026T235718Z
+LAST-MODIFIED:20261108T185421Z
 LOCATION:Caesars Superdome\nNew Orleans
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3161,9 +3161,9 @@ BEGIN:VEVENT
 SUMMARY:Dallas Cowboys @ Indianapolis Colts
 DTSTART:20261108T180000Z
 DTEND:20261108T211500Z
-DTSTAMP:20261026T075547Z
+DTSTAMP:20261108T185421Z
 UID:f45e2c43979bde983732e8651e24cd20@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nDallas Cowboys @ Indianapolis Colts\n\nK
@@ -3177,7 +3177,7 @@ DESCRIPTION:NFL 2026 · Week 9\n\nDallas Cowboys @ Indianapolis Colts\n\nK
  he US\; eligible subscriptions and geographic restrictions apply.\n\nVenue
  \nLucas Oil Stadium\nIndianapolis\n\nSchedule source: https://www.nfl.com/
  games/cowboys-at-colts-2026-reg-9
-LAST-MODIFIED:20261026T075547Z
+LAST-MODIFIED:20261108T185421Z
 LOCATION:Lucas Oil Stadium\nIndianapolis
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3187,9 +3187,9 @@ BEGIN:VEVENT
 SUMMARY:Denver Broncos @ Carolina Panthers
 DTSTART:20261108T180000Z
 DTEND:20261108T211500Z
-DTSTAMP:20261026T075547Z
+DTSTAMP:20261108T185421Z
 UID:fc1522869e5e821c1e426281acfb9b84@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nDenver Broncos @ Carolina Panthers\n\nKi
@@ -3203,7 +3203,7 @@ DESCRIPTION:NFL 2026 · Week 9\n\nDenver Broncos @ Carolina Panthers\n\nKi
  re for the US\; eligible subscriptions and geographic restrictions apply.
  \n\nVenue\nBank of America Stadium\nCharlotte\n\nSchedule source: https://
  www.nfl.com/games/broncos-at-panthers-2026-reg-9
-LAST-MODIFIED:20261026T075547Z
+LAST-MODIFIED:20261108T185421Z
 LOCATION:Bank of America Stadium\nCharlotte
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3213,9 +3213,9 @@ BEGIN:VEVENT
 SUMMARY:Detroit Lions @ Miami Dolphins
 DTSTART:20261108T180000Z
 DTEND:20261108T211500Z
-DTSTAMP:20261026T235718Z
+DTSTAMP:20261108T185421Z
 UID:090f0911babf836b0b38cfa540e66e02@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nDetroit Lions @ Miami Dolphins\n\nKickof
@@ -3229,7 +3229,7 @@ DESCRIPTION:NFL 2026 · Week 9\n\nDetroit Lions @ Miami Dolphins\n\nKickof
  or the US\; eligible subscriptions and geographic restrictions apply.\n\nV
  enue\nHard Rock Stadium\nOpa Locka\n\nSchedule source: https://www.nfl.com
  /games/lions-at-dolphins-2026-reg-9
-LAST-MODIFIED:20261026T235718Z
+LAST-MODIFIED:20261108T185421Z
 LOCATION:Hard Rock Stadium\nOpa Locka
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3239,9 +3239,9 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Rams @ Washington Commanders
 DTSTART:20261108T180000Z
 DTEND:20261108T211500Z
-DTSTAMP:20261026T075547Z
+DTSTAMP:20261108T185421Z
 UID:16fbe6ea8475f194fe66640762c11667@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nLos Angeles Rams @ Washington Commanders
@@ -3255,7 +3255,7 @@ DESCRIPTION:NFL 2026 · Week 9\n\nLos Angeles Rams @ Washington Commanders
   for the US\; eligible subscriptions and geographic restrictions apply.\n
  \nVenue\nNorthwest Stadium\nLandover\n\nSchedule source: https://www.nfl.c
  om/games/rams-at-commanders-2026-reg-9
-LAST-MODIFIED:20261026T075547Z
+LAST-MODIFIED:20261108T185421Z
 LOCATION:Northwest Stadium\nLandover
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3265,9 +3265,9 @@ BEGIN:VEVENT
 SUMMARY:New York Giants @ Philadelphia Eagles
 DTSTART:20261108T180000Z
 DTEND:20261108T211500Z
-DTSTAMP:20261026T075547Z
+DTSTAMP:20261108T185421Z
 UID:62247cbe3de77096689cf133cd94a367@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nNew York Giants @ Philadelphia Eagles\n
@@ -3281,7 +3281,7 @@ DESCRIPTION:NFL 2026 · Week 9\n\nNew York Giants @ Philadelphia Eagles\n
  r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
  nue\nLincoln Financial Field\nPhiladelphia\n\nSchedule source: https://www
  .nfl.com/games/giants-at-eagles-2026-reg-9
-LAST-MODIFIED:20261026T075547Z
+LAST-MODIFIED:20261108T185421Z
 LOCATION:Lincoln Financial Field\nPhiladelphia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3291,9 +3291,9 @@ BEGIN:VEVENT
 SUMMARY:New York Jets @ Kansas City Chiefs
 DTSTART:20261108T180000Z
 DTEND:20261108T211500Z
-DTSTAMP:20261026T075547Z
+DTSTAMP:20261108T185421Z
 UID:4cb3e8e3883c104c4ccdf47b397bda12@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nNew York Jets @ Kansas City Chiefs\n\nKi
@@ -3307,7 +3307,7 @@ DESCRIPTION:NFL 2026 · Week 9\n\nNew York Jets @ Kansas City Chiefs\n\nKi
  re for the US\; eligible subscriptions and geographic restrictions apply.
  \n\nVenue\nArrowhead Stadium\nKansas City\n\nSchedule source: https://www.
  nfl.com/games/jets-at-chiefs-2026-reg-9
-LAST-MODIFIED:20261026T075547Z
+LAST-MODIFIED:20261108T185421Z
 LOCATION:Arrowhead Stadium\nKansas City
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
