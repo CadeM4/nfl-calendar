@@ -215,9 +215,9 @@ BEGIN:VEVENT
 SUMMARY:Tampa Bay Buccaneers @ Chicago Bears
 DTSTART:20261109T012000Z
 DTEND:20261109T043500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261109T095658Z
 UID:956524230c8a67d472c8242f8e57cf5a@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 9
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 9\n\nTampa Bay Buccaneers @ Chicago Bears\n\n
@@ -228,7 +228,7 @@ DESCRIPTION:NFL 2026 · Week 9\n\nTampa Bay Buccaneers @ Chicago Bears\n\n
  stings are for the US\; eligible subscriptions and geographic restrictions
   apply.\nUS national broadcast.\n\nVenue\nSoldier Field\nChicago\n\nSchedu
  le source: https://www.nfl.com/games/buccaneers-at-bears-2026-reg-9
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261109T095658Z
 LOCATION:Soldier Field\nChicago
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -238,17 +238,23 @@ BEGIN:VEVENT
 SUMMARY:New Orleans Saints @ Chicago Bears
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261109T095658Z
 UID:30cb458cdf160b010317b2e09473c0fb@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nNew Orleans Saints @ Chicago Bears\n\nK
  ickoff: Sunday\, November 22\, 2026 at 1:00 PM EST (America/New_York)\nEst
- imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broa
- dcast\; local market coverage varies.\n\nVenue\nSoldier Field\nChicago\n\n
- Schedule source: https://www.nfl.com/games/saints-at-bears-2026-reg-11
-LAST-MODIFIED:20260927T005047Z
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FO
+ X One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\n
+ NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local
+  and national blackouts apply.\nNFL+: local and primetime live game stream
+ s require a phone or tablet\; market and device restrictions apply.\nRegio
+ nal broadcast\; local market coverage varies.\nStreaming listings are for 
+ the US\; eligible subscriptions and geographic restrictions apply.\n\nVenu
+ e\nSoldier Field\nChicago\n\nSchedule source: https://www.nfl.com/games/sa
+ ints-at-bears-2026-reg-11
+LAST-MODIFIED:20261109T095658Z
 LOCATION:Soldier Field\nChicago
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

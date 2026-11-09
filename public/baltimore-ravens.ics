@@ -266,18 +266,23 @@ BEGIN:VEVENT
 SUMMARY:Baltimore Ravens @ Carolina Panthers
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261109T095658Z
 UID:181415e8075fd6fd6adb104c3d4dfdef@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nBaltimore Ravens @ Carolina Panthers\n
  \nKickoff: Sunday\, November 22\, 2026 at 1:00 PM EST (America/New_York)\n
- Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional b
- roadcast\; local market coverage varies.\n\nVenue\nBank of America Stadium
- \nCharlotte\n\nSchedule source: https://www.nfl.com/games/ravens-at-panthe
- rs-2026-reg-11
-LAST-MODIFIED:20260927T005047Z
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming:
+  FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply
+ .\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; lo
+ cal and national blackouts apply.\nNFL+: local and primetime live game str
+ eams require a phone or tablet\; market and device restrictions apply.\nRe
+ gional broadcast\; local market coverage varies.\nStreaming listings are f
+ or the US\; eligible subscriptions and geographic restrictions apply.\n\nV
+ enue\nBank of America Stadium\nCharlotte\n\nSchedule source: https://www.n
+ fl.com/games/ravens-at-panthers-2026-reg-11
+LAST-MODIFIED:20261109T095658Z
 LOCATION:Bank of America Stadium\nCharlotte
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
