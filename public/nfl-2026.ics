@@ -3897,47 +3897,26 @@ TRANSP:TRANSPARENT
 URL:https://www.nfl.com/games/ravens-at-panthers-2026-reg-11
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jacksonville Jaguars @ New York Giants
-DTSTART:20261122T180000Z
-DTEND:20261122T211500Z
-DTSTAMP:20261109T095658Z
-UID:9a6c35795ff58b969ecd8d0e56b69026@nfl-calendar.local
-SEQUENCE:1
-CATEGORIES:NFL,Football,Week 11
-CREATED:20260927T005047Z
-DESCRIPTION:NFL 2026 · Week 11\n\nJacksonville Jaguars @ New York Giants
- \n\nKickoff: Sunday\, November 22\, 2026 at 1:00 PM EST (America/New_York)
- \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreamin
- g: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday aft
- ernoon viewing\; local and national blackouts apply.\nNFL+: local and prim
- etime live game streams require a phone or tablet\; market and device rest
- rictions apply.\nParamount+: this game must be carried by your local CBS s
- tation.\nRegional broadcast\; local market coverage varies.\nStreaming lis
- tings are for the US\; eligible subscriptions and geographic restrictions 
- apply.\n\nVenue\nMetLife Stadium\nEast Rutherford\n\nSchedule source: http
- s://www.nfl.com/games/jaguars-at-giants-2026-reg-11
-LAST-MODIFIED:20261109T095658Z
-LOCATION:MetLife Stadium\nEast Rutherford
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.nfl.com/games/jaguars-at-giants-2026-reg-11
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Miami Dolphins @ Buffalo Bills
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
-DTSTAMP:20261026T235718Z
+DTSTAMP:20261109T232852Z
 UID:3ee2fbed324adf68eeed8037de6e67a5@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nMiami Dolphins @ Buffalo Bills\n\nKicko
  ff: Sunday\, November 22\, 2026 at 1:00 PM EST (America/New_York)\nEstimat
- ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadcas
- t\; local market coverage varies.\n\nVenue\nHighmark Stadium\nOrchard Park
- \n\nSchedule source: https://www.nfl.com/games/dolphins-at-bills-2026-reg-
- 11
-LAST-MODIFIED:20261026T235718Z
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL+\,
+  Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon vi
+ ewing\; local and national blackouts apply.\nNFL+: local and primetime liv
+ e game streams require a phone or tablet\; market and device restrictions 
+ apply.\nParamount+: this game must be carried by your local CBS station.\n
+ Regional broadcast\; local market coverage varies.\nStreaming listings are
+  for the US\; eligible subscriptions and geographic restrictions apply.\n
+ \nVenue\nHighmark Stadium\nOrchard Park\n\nSchedule source: https://www.nf
+ l.com/games/dolphins-at-bills-2026-reg-11
+LAST-MODIFIED:20261109T232852Z
 LOCATION:Highmark Stadium\nOrchard Park
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3968,6 +3947,32 @@ LOCATION:Soldier Field\nChicago
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.nfl.com/games/saints-at-bears-2026-reg-11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh Steelers @ Philadelphia Eagles
+DTSTART:20261122T180000Z
+DTEND:20261122T211500Z
+DTSTAMP:20261109T232852Z
+UID:71dee8ff4872ed764311c3751e96fa87@nfl-calendar.local
+SEQUENCE:1
+CATEGORIES:NFL,Football,Week 11
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 11\n\nPittsburgh Steelers @ Philadelphia Eagl
+ es\n\nKickoff: Sunday\, November 22\, 2026 at 1:00 PM EST (America/New_Yor
+ k)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStream
+ ing: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday a
+ fternoon viewing\; local and national blackouts apply.\nNFL+: local and pr
+ imetime live game streams require a phone or tablet\; market and device re
+ strictions apply.\nParamount+: this game must be carried by your local CBS
+  station.\nRegional broadcast\; local market coverage varies.\nStreaming l
+ istings are for the US\; eligible subscriptions and geographic restriction
+ s apply.\n\nVenue\nLincoln Financial Field\nPhiladelphia\n\nSchedule sourc
+ e: https://www.nfl.com/games/steelers-at-eagles-2026-reg-11
+LAST-MODIFIED:20261109T232852Z
+LOCATION:Lincoln Financial Field\nPhiladelphia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/steelers-at-eagles-2026-reg-11
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tampa Bay Buccaneers @ Detroit Lions
@@ -4037,46 +4042,56 @@ TRANSP:TRANSPARENT
 URL:https://www.nfl.com/games/jets-at-chargers-2026-reg-11
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jacksonville Jaguars @ New York Giants
+DTSTART:20261122T212500Z
+DTEND:20261123T004000Z
+DTSTAMP:20261109T232852Z
+UID:9a6c35795ff58b969ecd8d0e56b69026@nfl-calendar.local
+SEQUENCE:2
+CATEGORIES:NFL,Football,Week 11
+CREATED:20260927T005047Z
+DESCRIPTION:NFL 2026 · Week 11\n\nJacksonville Jaguars @ New York Giants
+ \n\nKickoff: Sunday\, November 22\, 2026 at 4:25 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreamin
+ g: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday aft
+ ernoon viewing\; local and national blackouts apply.\nNFL+: local and prim
+ etime live game streams require a phone or tablet\; market and device rest
+ rictions apply.\nParamount+: this game must be carried by your local CBS s
+ tation.\nRegional broadcast\; local market coverage varies.\nStreaming lis
+ tings are for the US\; eligible subscriptions and geographic restrictions 
+ apply.\n\nVenue\nMetLife Stadium\nEast Rutherford\n\nSchedule source: http
+ s://www.nfl.com/games/jaguars-at-giants-2026-reg-11
+LAST-MODIFIED:20261109T232852Z
+LOCATION:MetLife Stadium\nEast Rutherford
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/jaguars-at-giants-2026-reg-11
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Las Vegas Raiders @ Denver Broncos
 DTSTART:20261122T212500Z
 DTEND:20261123T004000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261109T232852Z
 UID:eed5320d9f09ba54ff6bca36b9d50809@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nLas Vegas Raiders @ Denver Broncos\n\nK
  ickoff: Sunday\, November 22\, 2026 at 4:25 PM EST (America/New_York)\nEst
- imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broa
- dcast\; local market coverage varies.\n\nVenue\nEmpower Field at Mile High
- \nDenver\n\nSchedule source: https://www.nfl.com/games/raiders-at-broncos-
- 2026-reg-11
-LAST-MODIFIED:20260927T005047Z
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NF
+ L+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoo
+ n viewing\; local and national blackouts apply.\nNFL+: local and primetime
+  live game streams require a phone or tablet\; market and device restricti
+ ons apply.\nParamount+: this game must be carried by your local CBS statio
+ n.\nRegional broadcast\; local market coverage varies.\nStreaming listings
+  are for the US\; eligible subscriptions and geographic restrictions apply
+ .\n\nVenue\nEmpower Field at Mile High\nDenver\n\nSchedule source: https:/
+ /www.nfl.com/games/raiders-at-broncos-2026-reg-11
+LAST-MODIFIED:20261109T232852Z
 LOCATION:Empower Field at Mile High\nDenver
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://www.nfl.com/games/raiders-at-broncos-2026-reg-11
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pittsburgh Steelers @ Philadelphia Eagles
-DTSTART:20261122T212500Z
-DTEND:20261123T004000Z
-DTSTAMP:20260927T005047Z
-UID:71dee8ff4872ed764311c3751e96fa87@nfl-calendar.local
-SEQUENCE:0
-CATEGORIES:NFL,Football,Week 11
-CREATED:20260927T005047Z
-DESCRIPTION:NFL 2026 · Week 11\n\nPittsburgh Steelers @ Philadelphia Eagl
- es\n\nKickoff: Sunday\, November 22\, 2026 at 4:25 PM EST (America/New_Yor
- k)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegion
- al broadcast\; local market coverage varies.\n\nVenue\nLincoln Financial F
- ield\nPhiladelphia\n\nSchedule source: https://www.nfl.com/games/steelers-
- at-eagles-2026-reg-11
-LAST-MODIFIED:20260927T005047Z
-LOCATION:Lincoln Financial Field\nPhiladelphia
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.nfl.com/games/steelers-at-eagles-2026-reg-11
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minnesota Vikings @ San Francisco 49ers

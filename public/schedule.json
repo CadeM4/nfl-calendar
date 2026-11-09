@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "season": 2026,
-  "fetched_at": "2026-11-09T09:56:58Z",
+  "fetched_at": "2026-11-09T23:28:52Z",
   "source": {
     "name": "NFL.com official schedule and game-specific viewing data",
     "url": "https://www.nfl.com/schedules/2026/by-week/week-1"
@@ -6841,51 +6841,6 @@
       "source_week": 11
     },
     {
-      "id": "2026-REG-JAX-NYG",
-      "season": 2026,
-      "season_type": "REG",
-      "week": 11,
-      "away": "JAX",
-      "home": "NYG",
-      "start_time": "2026-11-22T18:00:00Z",
-      "date": "2026-11-22",
-      "time_tbd": false,
-      "date_tbd": false,
-      "week_date": "2026-11-19",
-      "venue": {
-        "name": "MetLife Stadium",
-        "city": "East Rutherford",
-        "country": "USA"
-      },
-      "broadcast": {
-        "tv": [
-          "CBS"
-        ],
-        "streaming": [
-          "NFL+",
-          "Paramount+"
-        ],
-        "notes": [
-          "Regional broadcast; local market coverage varies.",
-          "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
-          "Paramount+: this game must be carried by your local CBS station.",
-          "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
-          "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
-        ]
-      },
-      "status": "scheduled",
-      "source_url": "https://www.nfl.com/games/jaguars-at-giants-2026-reg-11",
-      "source_ids": {
-        "nfl": "ab999b80-4feb-11f1-abca-2c54536568a9",
-        "elias": "2026112206",
-        "gsis": "60335",
-        "slug": "jaguars-at-giants-2026-reg-11"
-      },
-      "category": null,
-      "international": false,
-      "source_week": 11
-    },
-    {
       "id": "2026-REG-MIA-BUF",
       "season": 2026,
       "season_type": "REG",
@@ -6906,9 +6861,16 @@
         "tv": [
           "CBS"
         ],
-        "streaming": [],
+        "streaming": [
+          "NFL+",
+          "Paramount+"
+        ],
         "notes": [
-          "Regional broadcast; local market coverage varies."
+          "Regional broadcast; local market coverage varies.",
+          "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
+          "Paramount+: this game must be carried by your local CBS station.",
+          "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
+          "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
       "status": "scheduled",
@@ -6963,6 +6925,51 @@
         "elias": "2026112202",
         "gsis": "60331",
         "slug": "saints-at-bears-2026-reg-11"
+      },
+      "category": null,
+      "international": false,
+      "source_week": 11
+    },
+    {
+      "id": "2026-REG-PIT-PHI",
+      "season": 2026,
+      "season_type": "REG",
+      "week": 11,
+      "away": "PIT",
+      "home": "PHI",
+      "start_time": "2026-11-22T18:00:00Z",
+      "date": "2026-11-22",
+      "time_tbd": false,
+      "date_tbd": false,
+      "week_date": "2026-11-19",
+      "venue": {
+        "name": "Lincoln Financial Field",
+        "city": "Philadelphia",
+        "country": "USA"
+      },
+      "broadcast": {
+        "tv": [
+          "CBS"
+        ],
+        "streaming": [
+          "NFL+",
+          "Paramount+"
+        ],
+        "notes": [
+          "Regional broadcast; local market coverage varies.",
+          "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
+          "Paramount+: this game must be carried by your local CBS station.",
+          "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
+          "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
+        ]
+      },
+      "status": "scheduled",
+      "source_url": "https://www.nfl.com/games/steelers-at-eagles-2026-reg-11",
+      "source_ids": {
+        "nfl": "abbf1908-4feb-11f1-abca-2c54536568a9",
+        "elias": "2026112209",
+        "gsis": "60338",
+        "slug": "steelers-at-eagles-2026-reg-11"
       },
       "category": null,
       "international": false,
@@ -7090,6 +7097,51 @@
       "source_week": 11
     },
     {
+      "id": "2026-REG-JAX-NYG",
+      "season": 2026,
+      "season_type": "REG",
+      "week": 11,
+      "away": "JAX",
+      "home": "NYG",
+      "start_time": "2026-11-22T21:25:00Z",
+      "date": "2026-11-22",
+      "time_tbd": false,
+      "date_tbd": false,
+      "week_date": "2026-11-19",
+      "venue": {
+        "name": "MetLife Stadium",
+        "city": "East Rutherford",
+        "country": "USA"
+      },
+      "broadcast": {
+        "tv": [
+          "CBS"
+        ],
+        "streaming": [
+          "NFL+",
+          "Paramount+"
+        ],
+        "notes": [
+          "Regional broadcast; local market coverage varies.",
+          "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
+          "Paramount+: this game must be carried by your local CBS station.",
+          "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
+          "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
+        ]
+      },
+      "status": "scheduled",
+      "source_url": "https://www.nfl.com/games/jaguars-at-giants-2026-reg-11",
+      "source_ids": {
+        "nfl": "ab999b80-4feb-11f1-abca-2c54536568a9",
+        "elias": "2026112206",
+        "gsis": "60335",
+        "slug": "jaguars-at-giants-2026-reg-11"
+      },
+      "category": null,
+      "international": false,
+      "source_week": 11
+    },
+    {
       "id": "2026-REG-LV-DEN",
       "season": 2026,
       "season_type": "REG",
@@ -7110,9 +7162,16 @@
         "tv": [
           "CBS"
         ],
-        "streaming": [],
+        "streaming": [
+          "NFL+",
+          "Paramount+"
+        ],
         "notes": [
-          "Regional broadcast; local market coverage varies."
+          "Regional broadcast; local market coverage varies.",
+          "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
+          "Paramount+: this game must be carried by your local CBS station.",
+          "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
+          "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
       "status": "scheduled",
@@ -7122,44 +7181,6 @@
         "elias": "2026112208",
         "gsis": "60337",
         "slug": "raiders-at-broncos-2026-reg-11"
-      },
-      "category": null,
-      "international": false,
-      "source_week": 11
-    },
-    {
-      "id": "2026-REG-PIT-PHI",
-      "season": 2026,
-      "season_type": "REG",
-      "week": 11,
-      "away": "PIT",
-      "home": "PHI",
-      "start_time": "2026-11-22T21:25:00Z",
-      "date": "2026-11-22",
-      "time_tbd": false,
-      "date_tbd": false,
-      "week_date": "2026-11-19",
-      "venue": {
-        "name": "Lincoln Financial Field",
-        "city": "Philadelphia",
-        "country": "USA"
-      },
-      "broadcast": {
-        "tv": [
-          "CBS"
-        ],
-        "streaming": [],
-        "notes": [
-          "Regional broadcast; local market coverage varies."
-        ]
-      },
-      "status": "scheduled",
-      "source_url": "https://www.nfl.com/games/steelers-at-eagles-2026-reg-11",
-      "source_ids": {
-        "nfl": "abbf1908-4feb-11f1-abca-2c54536568a9",
-        "elias": "2026112209",
-        "gsis": "60338",
-        "slug": "steelers-at-eagles-2026-reg-11"
       },
       "category": null,
       "international": false,
@@ -7427,7 +7448,7 @@
         "gsis": "60344",
         "slug": "chiefs-at-bills-2026-reg-12"
       },
-      "category": "SNF",
+      "category": null,
       "international": false,
       "source_week": 12
     },
@@ -7468,7 +7489,7 @@
         "gsis": "60345",
         "slug": "broncos-at-steelers-2026-reg-12"
       },
-      "category": "TNF",
+      "category": null,
       "international": false,
       "source_week": 12
     },

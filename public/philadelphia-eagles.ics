@@ -238,20 +238,25 @@ URL:https://www.nfl.com/games/giants-at-eagles-2026-reg-9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pittsburgh Steelers @ Philadelphia Eagles
-DTSTART:20261122T212500Z
-DTEND:20261123T004000Z
-DTSTAMP:20260927T005047Z
+DTSTART:20261122T180000Z
+DTEND:20261122T211500Z
+DTSTAMP:20261109T232852Z
 UID:71dee8ff4872ed764311c3751e96fa87@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nPittsburgh Steelers @ Philadelphia Eagl
- es\n\nKickoff: Sunday\, November 22\, 2026 at 4:25 PM EST (America/New_Yor
- k)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegion
- al broadcast\; local market coverage varies.\n\nVenue\nLincoln Financial F
- ield\nPhiladelphia\n\nSchedule source: https://www.nfl.com/games/steelers-
- at-eagles-2026-reg-11
-LAST-MODIFIED:20260927T005047Z
+ es\n\nKickoff: Sunday\, November 22\, 2026 at 1:00 PM EST (America/New_Yor
+ k)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStream
+ ing: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday a
+ fternoon viewing\; local and national blackouts apply.\nNFL+: local and pr
+ imetime live game streams require a phone or tablet\; market and device re
+ strictions apply.\nParamount+: this game must be carried by your local CBS
+  station.\nRegional broadcast\; local market coverage varies.\nStreaming l
+ istings are for the US\; eligible subscriptions and geographic restriction
+ s apply.\n\nVenue\nLincoln Financial Field\nPhiladelphia\n\nSchedule sourc
+ e: https://www.nfl.com/games/steelers-at-eagles-2026-reg-11
+LAST-MODIFIED:20261109T232852Z
 LOCATION:Lincoln Financial Field\nPhiladelphia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

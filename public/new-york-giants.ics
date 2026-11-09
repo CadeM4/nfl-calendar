@@ -238,15 +238,15 @@ URL:https://www.nfl.com/games/commanders-at-giants-2026-reg-10
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jacksonville Jaguars @ New York Giants
-DTSTART:20261122T180000Z
-DTEND:20261122T211500Z
-DTSTAMP:20261109T095658Z
+DTSTART:20261122T212500Z
+DTEND:20261123T004000Z
+DTSTAMP:20261109T232852Z
 UID:9a6c35795ff58b969ecd8d0e56b69026@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nJacksonville Jaguars @ New York Giants
- \n\nKickoff: Sunday\, November 22\, 2026 at 1:00 PM EST (America/New_York)
+ \n\nKickoff: Sunday\, November 22\, 2026 at 4:25 PM EST (America/New_York)
  \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreamin
  g: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday aft
  ernoon viewing\; local and national blackouts apply.\nNFL+: local and prim
@@ -256,7 +256,7 @@ DESCRIPTION:NFL 2026 · Week 11\n\nJacksonville Jaguars @ New York Giants
  tings are for the US\; eligible subscriptions and geographic restrictions 
  apply.\n\nVenue\nMetLife Stadium\nEast Rutherford\n\nSchedule source: http
  s://www.nfl.com/games/jaguars-at-giants-2026-reg-11
-LAST-MODIFIED:20261109T095658Z
+LAST-MODIFIED:20261109T232852Z
 LOCATION:MetLife Stadium\nEast Rutherford
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

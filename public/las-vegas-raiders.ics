@@ -274,18 +274,23 @@ BEGIN:VEVENT
 SUMMARY:Las Vegas Raiders @ Denver Broncos
 DTSTART:20261122T212500Z
 DTEND:20261123T004000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261109T232852Z
 UID:eed5320d9f09ba54ff6bca36b9d50809@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nLas Vegas Raiders @ Denver Broncos\n\nK
  ickoff: Sunday\, November 22\, 2026 at 4:25 PM EST (America/New_York)\nEst
- imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broa
- dcast\; local market coverage varies.\n\nVenue\nEmpower Field at Mile High
- \nDenver\n\nSchedule source: https://www.nfl.com/games/raiders-at-broncos-
- 2026-reg-11
-LAST-MODIFIED:20260927T005047Z
+ imated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NF
+ L+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoo
+ n viewing\; local and national blackouts apply.\nNFL+: local and primetime
+  live game streams require a phone or tablet\; market and device restricti
+ ons apply.\nParamount+: this game must be carried by your local CBS statio
+ n.\nRegional broadcast\; local market coverage varies.\nStreaming listings
+  are for the US\; eligible subscriptions and geographic restrictions apply
+ .\n\nVenue\nEmpower Field at Mile High\nDenver\n\nSchedule source: https:/
+ /www.nfl.com/games/raiders-at-broncos-2026-reg-11
+LAST-MODIFIED:20261109T232852Z
 LOCATION:Empower Field at Mile High\nDenver
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

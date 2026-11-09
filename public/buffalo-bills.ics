@@ -241,18 +241,23 @@ BEGIN:VEVENT
 SUMMARY:Miami Dolphins @ Buffalo Bills
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
-DTSTAMP:20261026T235718Z
+DTSTAMP:20261109T232852Z
 UID:3ee2fbed324adf68eeed8037de6e67a5@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nMiami Dolphins @ Buffalo Bills\n\nKicko
  ff: Sunday\, November 22\, 2026 at 1:00 PM EST (America/New_York)\nEstimat
- ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadcas
- t\; local market coverage varies.\n\nVenue\nHighmark Stadium\nOrchard Park
- \n\nSchedule source: https://www.nfl.com/games/dolphins-at-bills-2026-reg-
- 11
-LAST-MODIFIED:20261026T235718Z
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL+\,
+  Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon vi
+ ewing\; local and national blackouts apply.\nNFL+: local and primetime liv
+ e game streams require a phone or tablet\; market and device restrictions 
+ apply.\nParamount+: this game must be carried by your local CBS station.\n
+ Regional broadcast\; local market coverage varies.\nStreaming listings are
+  for the US\; eligible subscriptions and geographic restrictions apply.\n
+ \nVenue\nHighmark Stadium\nOrchard Park\n\nSchedule source: https://www.nf
+ l.com/games/dolphins-at-bills-2026-reg-11
+LAST-MODIFIED:20261109T232852Z
 LOCATION:Highmark Stadium\nOrchard Park
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

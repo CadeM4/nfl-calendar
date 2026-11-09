@@ -1,74 +1,9 @@
 [
   {
     "kind": "UPDATED",
-    "id": "2026-REG-HOU-LAC",
-    "away": "HOU",
-    "home": "LAC",
-    "week": 9,
-    "fields": {
-      "status": {
-        "before": "live",
-        "after": "final"
-      }
-    }
-  },
-  {
-    "kind": "UPDATED",
-    "id": "2026-REG-ARI-SEA",
-    "away": "ARI",
-    "home": "SEA",
-    "week": 9,
-    "fields": {
-      "status": {
-        "before": "live",
-        "after": "final"
-      }
-    }
-  },
-  {
-    "kind": "UPDATED",
-    "id": "2026-REG-GB-NE",
-    "away": "GB",
-    "home": "NE",
-    "week": 9,
-    "fields": {
-      "status": {
-        "before": "live",
-        "after": "final"
-      }
-    }
-  },
-  {
-    "kind": "UPDATED",
-    "id": "2026-REG-LV-SF",
-    "away": "LV",
-    "home": "SF",
-    "week": 9,
-    "fields": {
-      "status": {
-        "before": "live",
-        "after": "final"
-      }
-    }
-  },
-  {
-    "kind": "UPDATED",
-    "id": "2026-REG-TB-CHI",
-    "away": "TB",
-    "home": "CHI",
-    "week": 9,
-    "fields": {
-      "status": {
-        "before": "scheduled",
-        "after": "final"
-      }
-    }
-  },
-  {
-    "kind": "UPDATED",
-    "id": "2026-REG-ARI-KC",
-    "away": "ARI",
-    "home": "KC",
+    "id": "2026-REG-MIA-BUF",
+    "away": "MIA",
+    "home": "BUF",
     "week": 11,
     "fields": {
       "broadcast": {
@@ -102,15 +37,19 @@
   },
   {
     "kind": "UPDATED",
-    "id": "2026-REG-BAL-CAR",
-    "away": "BAL",
-    "home": "CAR",
+    "id": "2026-REG-PIT-PHI",
+    "away": "PIT",
+    "home": "PHI",
     "week": 11,
     "fields": {
+      "start_time": {
+        "before": "2026-11-22T21:25:00Z",
+        "after": "2026-11-22T18:00:00Z"
+      },
       "broadcast": {
         "before": {
           "tv": [
-            "FOX"
+            "CBS"
           ],
           "streaming": [],
           "notes": [
@@ -119,16 +58,16 @@
         },
         "after": {
           "tv": [
-            "FOX"
+            "CBS"
           ],
           "streaming": [
-            "FOX One",
-            "NFL+"
+            "NFL+",
+            "Paramount+"
           ],
           "notes": [
             "Regional broadcast; local market coverage varies.",
             "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
-            "FOX One: local FOX coverage and market restrictions apply.",
+            "Paramount+: this game must be carried by your local CBS station.",
             "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
             "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
           ]
@@ -143,6 +82,19 @@
     "home": "NYG",
     "week": 11,
     "fields": {
+      "start_time": {
+        "before": "2026-11-22T18:00:00Z",
+        "after": "2026-11-22T21:25:00Z"
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-LV-DEN",
+    "away": "LV",
+    "home": "DEN",
+    "week": 11,
+    "fields": {
       "broadcast": {
         "before": {
           "tv": [
@@ -165,78 +117,6 @@
             "Regional broadcast; local market coverage varies.",
             "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
             "Paramount+: this game must be carried by your local CBS station.",
-            "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
-            "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
-          ]
-        }
-      }
-    }
-  },
-  {
-    "kind": "UPDATED",
-    "id": "2026-REG-NO-CHI",
-    "away": "NO",
-    "home": "CHI",
-    "week": 11,
-    "fields": {
-      "broadcast": {
-        "before": {
-          "tv": [
-            "FOX"
-          ],
-          "streaming": [],
-          "notes": [
-            "Regional broadcast; local market coverage varies."
-          ]
-        },
-        "after": {
-          "tv": [
-            "FOX"
-          ],
-          "streaming": [
-            "FOX One",
-            "NFL+"
-          ],
-          "notes": [
-            "Regional broadcast; local market coverage varies.",
-            "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
-            "FOX One: local FOX coverage and market restrictions apply.",
-            "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
-            "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
-          ]
-        }
-      }
-    }
-  },
-  {
-    "kind": "UPDATED",
-    "id": "2026-REG-TEN-DAL",
-    "away": "TEN",
-    "home": "DAL",
-    "week": 11,
-    "fields": {
-      "broadcast": {
-        "before": {
-          "tv": [
-            "FOX"
-          ],
-          "streaming": [],
-          "notes": [
-            "Regional broadcast; local market coverage varies."
-          ]
-        },
-        "after": {
-          "tv": [
-            "FOX"
-          ],
-          "streaming": [
-            "FOX One",
-            "NFL+"
-          ],
-          "notes": [
-            "Regional broadcast; local market coverage varies.",
-            "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
-            "FOX One: local FOX coverage and market restrictions apply.",
             "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
             "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
           ]
