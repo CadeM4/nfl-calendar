@@ -242,17 +242,23 @@ BEGIN:VEVENT
 SUMMARY:Tampa Bay Buccaneers @ Detroit Lions
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
-DTSTAMP:20261026T235718Z
+DTSTAMP:20261113T094526Z
 UID:bcdb530718c8173bacefb568b7436039@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nTampa Bay Buccaneers @ Detroit Lions\n
  \nKickoff: Sunday\, November 22\, 2026 at 1:00 PM EST (America/New_York)\n
- Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional b
- roadcast\; local market coverage varies.\n\nVenue\nFord Field\nDetroit\n\n
- Schedule source: https://www.nfl.com/games/buccaneers-at-lions-2026-reg-11
-LAST-MODIFIED:20261026T235718Z
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming:
+  FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply
+ .\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; lo
+ cal and national blackouts apply.\nNFL+: local and primetime live game str
+ eams require a phone or tablet\; market and device restrictions apply.\nRe
+ gional broadcast\; local market coverage varies.\nStreaming listings are f
+ or the US\; eligible subscriptions and geographic restrictions apply.\n\nV
+ enue\nFord Field\nDetroit\n\nSchedule source: https://www.nfl.com/games/bu
+ ccaneers-at-lions-2026-reg-11
+LAST-MODIFIED:20261113T094526Z
 LOCATION:Ford Field\nDetroit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
