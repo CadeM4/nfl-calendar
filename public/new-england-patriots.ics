@@ -243,9 +243,9 @@ BEGIN:VEVENT
 SUMMARY:New England Patriots @ Detroit Lions
 DTSTART:20261115T143000Z
 DTEND:20261115T174500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261115T195111Z
 UID:aac4378dc818d197dbd14688b8425f44@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 10
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 10\n\nNew England Patriots @ Detroit Lions\n
@@ -259,7 +259,7 @@ DESCRIPTION:NFL 2026 · Week 10\n\nNew England Patriots @ Detroit Lions\n
  d geographic restrictions apply.\nUS national broadcast.\n\nVenue\nFC Baye
  rn Munich Stadium\nMunich\, Germany\n\nSchedule source: https://www.nfl.co
  m/games/patriots-at-lions-2026-reg-10
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261115T195111Z
 LOCATION:FC Bayern Munich Stadium\nMunich\, Germany
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

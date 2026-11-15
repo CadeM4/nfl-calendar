@@ -3491,9 +3491,9 @@ BEGIN:VEVENT
 SUMMARY:New England Patriots @ Detroit Lions
 DTSTART:20261115T143000Z
 DTEND:20261115T174500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261115T195111Z
 UID:aac4378dc818d197dbd14688b8425f44@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 10
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 10\n\nNew England Patriots @ Detroit Lions\n
@@ -3507,7 +3507,7 @@ DESCRIPTION:NFL 2026 · Week 10\n\nNew England Patriots @ Detroit Lions\n
  d geographic restrictions apply.\nUS national broadcast.\n\nVenue\nFC Baye
  rn Munich Stadium\nMunich\, Germany\n\nSchedule source: https://www.nfl.co
  m/games/patriots-at-lions-2026-reg-10
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261115T195111Z
 LOCATION:FC Bayern Munich Stadium\nMunich\, Germany
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3517,9 +3517,9 @@ BEGIN:VEVENT
 SUMMARY:Buffalo Bills @ New York Jets
 DTSTART:20261115T180000Z
 DTEND:20261115T211500Z
-DTSTAMP:20261102T094019Z
+DTSTAMP:20261115T195111Z
 UID:faf0b89ffcad5c283c6712caeccae639@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 10
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 10\n\nBuffalo Bills @ New York Jets\n\nKickof
@@ -3533,7 +3533,7 @@ DESCRIPTION:NFL 2026 · Week 10\n\nBuffalo Bills @ New York Jets\n\nKickof
  for the US\; eligible subscriptions and geographic restrictions apply.\n\n
  Venue\nMetLife Stadium\nEast Rutherford\n\nSchedule source: https://www.nf
  l.com/games/bills-at-jets-2026-reg-10
-LAST-MODIFIED:20261102T094019Z
+LAST-MODIFIED:20261115T195111Z
 LOCATION:MetLife Stadium\nEast Rutherford
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3543,9 +3543,9 @@ BEGIN:VEVENT
 SUMMARY:Carolina Panthers @ New Orleans Saints
 DTSTART:20261115T180000Z
 DTEND:20261115T211500Z
-DTSTAMP:20261104T093013Z
+DTSTAMP:20261115T195111Z
 UID:f1985530a9b3df28a3fca43b02b2810d@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 10
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 10\n\nCarolina Panthers @ New Orleans Saints
@@ -3559,7 +3559,7 @@ DESCRIPTION:NFL 2026 · Week 10\n\nCarolina Panthers @ New Orleans Saints
   for the US\; eligible subscriptions and geographic restrictions apply.\n
  \nVenue\nCaesars Superdome\nNew Orleans\n\nSchedule source: https://www.nf
  l.com/games/panthers-at-saints-2026-reg-10
-LAST-MODIFIED:20261104T093013Z
+LAST-MODIFIED:20261115T195111Z
 LOCATION:Caesars Superdome\nNew Orleans
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3569,9 +3569,9 @@ BEGIN:VEVENT
 SUMMARY:Houston Texans @ Cleveland Browns
 DTSTART:20261115T180000Z
 DTEND:20261115T211500Z
-DTSTAMP:20261102T094019Z
+DTSTAMP:20261115T195111Z
 UID:b301aee58ac5db7cf078dccd607b511d@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 10
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 10\n\nHouston Texans @ Cleveland Browns\n\nKi
@@ -3585,7 +3585,7 @@ DESCRIPTION:NFL 2026 · Week 10\n\nHouston Texans @ Cleveland Browns\n\nKi
  he US\; eligible subscriptions and geographic restrictions apply.\n\nVenue
  \nHuntington Bank Field\nCleveland\n\nSchedule source: https://www.nfl.com
  /games/texans-at-browns-2026-reg-10
-LAST-MODIFIED:20261102T094019Z
+LAST-MODIFIED:20261115T195111Z
 LOCATION:Huntington Bank Field\nCleveland
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3595,9 +3595,9 @@ BEGIN:VEVENT
 SUMMARY:Jacksonville Jaguars @ Tennessee Titans
 DTSTART:20261115T180000Z
 DTEND:20261115T211500Z
-DTSTAMP:20261104T093013Z
+DTSTAMP:20261115T195111Z
 UID:d425929a0451fccac58dc31dcac4317a@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 10
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 10\n\nJacksonville Jaguars @ Tennessee Titans
@@ -3611,7 +3611,7 @@ DESCRIPTION:NFL 2026 · Week 10\n\nJacksonville Jaguars @ Tennessee Titans
   for the US\; eligible subscriptions and geographic restrictions apply.\n
  \nVenue\nNissan Stadium\nNashville\n\nSchedule source: https://www.nfl.com
  /games/jaguars-at-titans-2026-reg-10
-LAST-MODIFIED:20261104T093013Z
+LAST-MODIFIED:20261115T195111Z
 LOCATION:Nissan Stadium\nNashville
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3621,9 +3621,9 @@ BEGIN:VEVENT
 SUMMARY:Kansas City Chiefs @ Atlanta Falcons
 DTSTART:20261115T180000Z
 DTEND:20261115T211500Z
-DTSTAMP:20261102T094019Z
+DTSTAMP:20261115T195111Z
 UID:c331b992cfdb6f0f18a20b00123bec3a@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 10
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 10\n\nKansas City Chiefs @ Atlanta Falcons\n
@@ -3637,7 +3637,7 @@ DESCRIPTION:NFL 2026 · Week 10\n\nKansas City Chiefs @ Atlanta Falcons\n
  ngs are for the US\; eligible subscriptions and geographic restrictions ap
  ply.\n\nVenue\nMercedes-Benz Stadium\nAtlanta\n\nSchedule source: https://
  www.nfl.com/games/chiefs-at-falcons-2026-reg-10
-LAST-MODIFIED:20261102T094019Z
+LAST-MODIFIED:20261115T195111Z
 LOCATION:Mercedes-Benz Stadium\nAtlanta
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3647,9 +3647,9 @@ BEGIN:VEVENT
 SUMMARY:Miami Dolphins @ Indianapolis Colts
 DTSTART:20261115T180000Z
 DTEND:20261115T211500Z
-DTSTAMP:20261102T224918Z
+DTSTAMP:20261115T195111Z
 UID:debc8b8ceae0841c3997029c0dd3e412@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 10
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 10\n\nMiami Dolphins @ Indianapolis Colts\n\n
@@ -3663,7 +3663,7 @@ DESCRIPTION:NFL 2026 · Week 10\n\nMiami Dolphins @ Indianapolis Colts\n\n
  s are for the US\; eligible subscriptions and geographic restrictions appl
  y.\n\nVenue\nLucas Oil Stadium\nIndianapolis\n\nSchedule source: https://w
  ww.nfl.com/games/dolphins-at-colts-2026-reg-10
-LAST-MODIFIED:20261102T224918Z
+LAST-MODIFIED:20261115T195111Z
 LOCATION:Lucas Oil Stadium\nIndianapolis
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3673,9 +3673,9 @@ BEGIN:VEVENT
 SUMMARY:Minnesota Vikings @ Green Bay Packers
 DTSTART:20261115T180000Z
 DTEND:20261115T211500Z
-DTSTAMP:20261102T094019Z
+DTSTAMP:20261115T195111Z
 UID:c941914af678f6327d509c8e9a9c64f0@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 10
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 10\n\nMinnesota Vikings @ Green Bay Packers\n
@@ -3689,7 +3689,7 @@ DESCRIPTION:NFL 2026 · Week 10\n\nMinnesota Vikings @ Green Bay Packers\n
  or the US\; eligible subscriptions and geographic restrictions apply.\n\nV
  enue\nLambeau Field\nGreen Bay\n\nSchedule source: https://www.nfl.com/gam
  es/vikings-at-packers-2026-reg-10
-LAST-MODIFIED:20261102T094019Z
+LAST-MODIFIED:20261115T195111Z
 LOCATION:Lambeau Field\nGreen Bay
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

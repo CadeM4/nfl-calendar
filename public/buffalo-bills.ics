@@ -215,9 +215,9 @@ BEGIN:VEVENT
 SUMMARY:Buffalo Bills @ New York Jets
 DTSTART:20261115T180000Z
 DTEND:20261115T211500Z
-DTSTAMP:20261102T094019Z
+DTSTAMP:20261115T195111Z
 UID:faf0b89ffcad5c283c6712caeccae639@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 10
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 10\n\nBuffalo Bills @ New York Jets\n\nKickof
@@ -231,7 +231,7 @@ DESCRIPTION:NFL 2026 · Week 10\n\nBuffalo Bills @ New York Jets\n\nKickof
  for the US\; eligible subscriptions and geographic restrictions apply.\n\n
  Venue\nMetLife Stadium\nEast Rutherford\n\nSchedule source: https://www.nf
  l.com/games/bills-at-jets-2026-reg-10
-LAST-MODIFIED:20261102T094019Z
+LAST-MODIFIED:20261115T195111Z
 LOCATION:MetLife Stadium\nEast Rutherford
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

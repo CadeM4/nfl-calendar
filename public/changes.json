@@ -1,1 +1,106 @@
-[]
+[
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-NE-DET",
+    "away": "NE",
+    "home": "DET",
+    "week": 10,
+    "fields": {
+      "status": {
+        "before": "scheduled",
+        "after": "final"
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-BUF-NYJ",
+    "away": "BUF",
+    "home": "NYJ",
+    "week": 10,
+    "fields": {
+      "status": {
+        "before": "scheduled",
+        "after": "live"
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-CAR-NO",
+    "away": "CAR",
+    "home": "NO",
+    "week": 10,
+    "fields": {
+      "status": {
+        "before": "scheduled",
+        "after": "live"
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-HOU-CLE",
+    "away": "HOU",
+    "home": "CLE",
+    "week": 10,
+    "fields": {
+      "status": {
+        "before": "scheduled",
+        "after": "live"
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-JAX-TEN",
+    "away": "JAX",
+    "home": "TEN",
+    "week": 10,
+    "fields": {
+      "status": {
+        "before": "scheduled",
+        "after": "live"
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-KC-ATL",
+    "away": "KC",
+    "home": "ATL",
+    "week": 10,
+    "fields": {
+      "status": {
+        "before": "scheduled",
+        "after": "live"
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-MIA-IND",
+    "away": "MIA",
+    "home": "IND",
+    "week": 10,
+    "fields": {
+      "status": {
+        "before": "scheduled",
+        "after": "live"
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-MIN-GB",
+    "away": "MIN",
+    "home": "GB",
+    "week": 10,
+    "fields": {
+      "status": {
+        "before": "scheduled",
+        "after": "live"
+      }
+    }
+  }
+]
