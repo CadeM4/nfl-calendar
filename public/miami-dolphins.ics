@@ -274,17 +274,23 @@ BEGIN:VEVENT
 SUMMARY:New York Jets @ Miami Dolphins
 DTSTART:20261129T180000Z
 DTEND:20261129T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261116T095549Z
 UID:115a78095509f13f3337cc15a5ed9f19@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 12
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 12\n\nNew York Jets @ Miami Dolphins\n\nKicko
  ff: Sunday\, November 29\, 2026 at 1:00 PM EST (America/New_York)\nEstimat
- ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadcas
- t\; local market coverage varies.\n\nVenue\nHard Rock Stadium\nOpa Locka\n
- \nSchedule source: https://www.nfl.com/games/jets-at-dolphins-2026-reg-12
-LAST-MODIFIED:20260927T005047Z
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL+\,
+  Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon vi
+ ewing\; local and national blackouts apply.\nNFL+: local and primetime liv
+ e game streams require a phone or tablet\; market and device restrictions 
+ apply.\nParamount+: this game must be carried by your local CBS station.\n
+ Regional broadcast\; local market coverage varies.\nStreaming listings are
+  for the US\; eligible subscriptions and geographic restrictions apply.\n
+ \nVenue\nHard Rock Stadium\nOpa Locka\n\nSchedule source: https://www.nfl.
+ com/games/jets-at-dolphins-2026-reg-12
+LAST-MODIFIED:20261116T095549Z
 LOCATION:Hard Rock Stadium\nOpa Locka
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

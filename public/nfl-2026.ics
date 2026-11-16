@@ -3751,9 +3751,9 @@ BEGIN:VEVENT
 SUMMARY:San Francisco 49ers @ Dallas Cowboys
 DTSTART:20261115T212500Z
 DTEND:20261116T004000Z
-DTSTAMP:20261116T000233Z
+DTSTAMP:20261116T095549Z
 UID:2c816cce3fec91a725a2a304bf4d3eae@nfl-calendar.local
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:NFL,Football,Week 10
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 10\n\nSan Francisco 49ers @ Dallas Cowboys\n
@@ -3767,7 +3767,7 @@ DESCRIPTION:NFL 2026 · Week 10\n\nSan Francisco 49ers @ Dallas Cowboys\n
   listings are for the US\; eligible subscriptions and geographic restricti
  ons apply.\n\nVenue\nAT&T Stadium\nArlington\n\nSchedule source: https://w
  ww.nfl.com/games/49ers-at-cowboys-2026-reg-10
-LAST-MODIFIED:20261116T000233Z
+LAST-MODIFIED:20261116T095549Z
 LOCATION:AT&T Stadium\nArlington
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3777,9 +3777,9 @@ BEGIN:VEVENT
 SUMMARY:Pittsburgh Steelers @ Cincinnati Bengals
 DTSTART:20261116T012000Z
 DTEND:20261116T043500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261116T095549Z
 UID:29c419b09b3a7927e35de408e5ce4a35@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 10
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 10\n\nPittsburgh Steelers @ Cincinnati Bengal
@@ -3791,7 +3791,7 @@ DESCRIPTION:NFL 2026 · Week 10\n\nPittsburgh Steelers @ Cincinnati Bengal
  ctions apply.\nUS national broadcast.\n\nVenue\nPaycor Stadium\nCincinnati
  \n\nSchedule source: https://www.nfl.com/games/steelers-at-bengals-2026-re
  g-10
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261116T095549Z
 LOCATION:Paycor Stadium\nCincinnati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4276,18 +4276,23 @@ BEGIN:VEVENT
 SUMMARY:Atlanta Falcons @ Minnesota Vikings
 DTSTART:20261129T180000Z
 DTEND:20261129T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261116T095549Z
 UID:7a73d90f4e1dbaf0094f6b7b1e731c8e@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 12
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 12\n\nAtlanta Falcons @ Minnesota Vikings\n\n
  Kickoff: Sunday\, November 29\, 2026 at 1:00 PM EST (America/New_York)\nEs
- timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional bro
- adcast\; local market coverage varies.\n\nVenue\nU.S. Bank Stadium\nMinnea
- polis\n\nSchedule source: https://www.nfl.com/games/falcons-at-vikings-202
- 6-reg-12
-LAST-MODIFIED:20260927T005047Z
+ timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: F
+ OX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.
+ \nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; loc
+ al and national blackouts apply.\nNFL+: local and primetime live game stre
+ ams require a phone or tablet\; market and device restrictions apply.\nReg
+ ional broadcast\; local market coverage varies.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
+ nue\nU.S. Bank Stadium\nMinneapolis\n\nSchedule source: https://www.nfl.co
+ m/games/falcons-at-vikings-2026-reg-12
+LAST-MODIFIED:20261116T095549Z
 LOCATION:U.S. Bank Stadium\nMinneapolis
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4297,17 +4302,23 @@ BEGIN:VEVENT
 SUMMARY:Baltimore Ravens @ Houston Texans
 DTSTART:20261129T180000Z
 DTEND:20261129T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261116T095549Z
 UID:f374d85e2deff2713b6f88c3b82c5bbc@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 12
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 12\n\nBaltimore Ravens @ Houston Texans\n\nKi
  ckoff: Sunday\, November 29\, 2026 at 1:00 PM EST (America/New_York)\nEsti
- mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broad
- cast\; local market coverage varies.\n\nVenue\nReliant Stadium\nHouston\n
- \nSchedule source: https://www.nfl.com/games/ravens-at-texans-2026-reg-12
-LAST-MODIFIED:20260927T005047Z
+ mated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL
+ +\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon
+  viewing\; local and national blackouts apply.\nNFL+: local and primetime 
+ live game streams require a phone or tablet\; market and device restrictio
+ ns apply.\nParamount+: this game must be carried by your local CBS station
+ .\nRegional broadcast\; local market coverage varies.\nStreaming listings 
+ are for the US\; eligible subscriptions and geographic restrictions apply.
+ \n\nVenue\nReliant Stadium\nHouston\n\nSchedule source: https://www.nfl.co
+ m/games/ravens-at-texans-2026-reg-12
+LAST-MODIFIED:20261116T095549Z
 LOCATION:Reliant Stadium\nHouston
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4317,18 +4328,23 @@ BEGIN:VEVENT
 SUMMARY:Las Vegas Raiders @ Cleveland Browns
 DTSTART:20261129T180000Z
 DTEND:20261129T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261116T095549Z
 UID:51e46857ae00d31c397f78ad2d330506@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 12
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 12\n\nLas Vegas Raiders @ Cleveland Browns\n
  \nKickoff: Sunday\, November 29\, 2026 at 1:00 PM EST (America/New_York)\n
- Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional b
- roadcast\; local market coverage varies.\n\nVenue\nHuntington Bank Field\n
- Cleveland\n\nSchedule source: https://www.nfl.com/games/raiders-at-browns-
- 2026-reg-12
-LAST-MODIFIED:20260927T005047Z
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming:
+  FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply
+ .\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; lo
+ cal and national blackouts apply.\nNFL+: local and primetime live game str
+ eams require a phone or tablet\; market and device restrictions apply.\nRe
+ gional broadcast\; local market coverage varies.\nStreaming listings are f
+ or the US\; eligible subscriptions and geographic restrictions apply.\n\nV
+ enue\nHuntington Bank Field\nCleveland\n\nSchedule source: https://www.nfl
+ .com/games/raiders-at-browns-2026-reg-12
+LAST-MODIFIED:20261116T095549Z
 LOCATION:Huntington Bank Field\nCleveland
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4359,18 +4375,23 @@ BEGIN:VEVENT
 SUMMARY:New York Giants @ Indianapolis Colts
 DTSTART:20261129T180000Z
 DTEND:20261129T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261116T095549Z
 UID:33a24dac7a2095d32c081743d88acab8@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 12
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 12\n\nNew York Giants @ Indianapolis Colts\n
  \nKickoff: Sunday\, November 29\, 2026 at 1:00 PM EST (America/New_York)\n
- Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional b
- roadcast\; local market coverage varies.\n\nVenue\nLucas Oil Stadium\nIndi
- anapolis\n\nSchedule source: https://www.nfl.com/games/giants-at-colts-202
- 6-reg-12
-LAST-MODIFIED:20260927T005047Z
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming:
+  FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply
+ .\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; lo
+ cal and national blackouts apply.\nNFL+: local and primetime live game str
+ eams require a phone or tablet\; market and device restrictions apply.\nRe
+ gional broadcast\; local market coverage varies.\nStreaming listings are f
+ or the US\; eligible subscriptions and geographic restrictions apply.\n\nV
+ enue\nLucas Oil Stadium\nIndianapolis\n\nSchedule source: https://www.nfl.
+ com/games/giants-at-colts-2026-reg-12
+LAST-MODIFIED:20261116T095549Z
 LOCATION:Lucas Oil Stadium\nIndianapolis
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4380,17 +4401,23 @@ BEGIN:VEVENT
 SUMMARY:New York Jets @ Miami Dolphins
 DTSTART:20261129T180000Z
 DTEND:20261129T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261116T095549Z
 UID:115a78095509f13f3337cc15a5ed9f19@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 12
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 12\n\nNew York Jets @ Miami Dolphins\n\nKicko
  ff: Sunday\, November 29\, 2026 at 1:00 PM EST (America/New_York)\nEstimat
- ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadcas
- t\; local market coverage varies.\n\nVenue\nHard Rock Stadium\nOpa Locka\n
- \nSchedule source: https://www.nfl.com/games/jets-at-dolphins-2026-reg-12
-LAST-MODIFIED:20260927T005047Z
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL+\,
+  Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon vi
+ ewing\; local and national blackouts apply.\nNFL+: local and primetime liv
+ e game streams require a phone or tablet\; market and device restrictions 
+ apply.\nParamount+: this game must be carried by your local CBS station.\n
+ Regional broadcast\; local market coverage varies.\nStreaming listings are
+  for the US\; eligible subscriptions and geographic restrictions apply.\n
+ \nVenue\nHard Rock Stadium\nOpa Locka\n\nSchedule source: https://www.nfl.
+ com/games/jets-at-dolphins-2026-reg-12
+LAST-MODIFIED:20261116T095549Z
 LOCATION:Hard Rock Stadium\nOpa Locka
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

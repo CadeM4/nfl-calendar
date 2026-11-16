@@ -694,9 +694,9 @@ BEGIN:VEVENT
 SUMMARY:Pittsburgh Steelers @ Cincinnati Bengals
 DTSTART:20261116T012000Z
 DTEND:20261116T043500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261116T095549Z
 UID:29c419b09b3a7927e35de408e5ce4a35@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 10
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 10\n\nPittsburgh Steelers @ Cincinnati Bengal
@@ -708,7 +708,7 @@ DESCRIPTION:NFL 2026 · Week 10\n\nPittsburgh Steelers @ Cincinnati Bengal
  ctions apply.\nUS national broadcast.\n\nVenue\nPaycor Stadium\nCincinnati
  \n\nSchedule source: https://www.nfl.com/games/steelers-at-bengals-2026-re
  g-10
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261116T095549Z
 LOCATION:Paycor Stadium\nCincinnati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

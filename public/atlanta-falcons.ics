@@ -263,18 +263,23 @@ BEGIN:VEVENT
 SUMMARY:Atlanta Falcons @ Minnesota Vikings
 DTSTART:20261129T180000Z
 DTEND:20261129T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261116T095549Z
 UID:7a73d90f4e1dbaf0094f6b7b1e731c8e@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 12
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 12\n\nAtlanta Falcons @ Minnesota Vikings\n\n
  Kickoff: Sunday\, November 29\, 2026 at 1:00 PM EST (America/New_York)\nEs
- timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional bro
- adcast\; local market coverage varies.\n\nVenue\nU.S. Bank Stadium\nMinnea
- polis\n\nSchedule source: https://www.nfl.com/games/falcons-at-vikings-202
- 6-reg-12
-LAST-MODIFIED:20260927T005047Z
+ timated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: F
+ OX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.
+ \nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; loc
+ al and national blackouts apply.\nNFL+: local and primetime live game stre
+ ams require a phone or tablet\; market and device restrictions apply.\nReg
+ ional broadcast\; local market coverage varies.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
+ nue\nU.S. Bank Stadium\nMinneapolis\n\nSchedule source: https://www.nfl.co
+ m/games/falcons-at-vikings-2026-reg-12
+LAST-MODIFIED:20261116T095549Z
 LOCATION:U.S. Bank Stadium\nMinneapolis
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
