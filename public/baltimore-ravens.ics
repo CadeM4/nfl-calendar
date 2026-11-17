@@ -242,9 +242,9 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Chargers @ Baltimore Ravens
 DTSTART:20261117T011500Z
 DTEND:20261117T043000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261117T105148Z
 UID:0e15a31ac0fa08aa8972aef39d0ecc02@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 10
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 10\n\nLos Angeles Chargers @ Baltimore Ravens
@@ -256,7 +256,7 @@ DESCRIPTION:NFL 2026 · Week 10\n\nLos Angeles Chargers @ Baltimore Ravens
  ions and geographic restrictions apply.\nUS national broadcast.\n\nVenue\n
  M&T Bank Stadium\nBaltimore\n\nSchedule source: https://www.nfl.com/games/
  chargers-at-ravens-2026-reg-10
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261117T105148Z
 LOCATION:M&T Bank Stadium\nBaltimore
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
