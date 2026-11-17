@@ -270,23 +270,25 @@ URL:https://www.nfl.com/games/jets-at-chargers-2026-reg-11
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New England Patriots @ Los Angeles Chargers
-DTSTART:20261130T012000Z
-DTEND:20261130T043500Z
-DTSTAMP:20260927T005047Z
+DTSTART:20261129T210500Z
+DTEND:20261130T002000Z
+DTSTAMP:20261117T222946Z
 UID:d96c34c5c9db60c7f01afe702123f418@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 12
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 12\n\nNew England Patriots @ Los Angeles Char
- gers\n\nKickoff: Sunday\, November 29\, 2026 at 8:20 PM EST (America/New_Y
- ork)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Uni
- verso\nStreaming: NFL+\, Peacock\nNFL+: local and primetime live game stre
- ams require a phone or tablet\; market and device restrictions apply.\nStr
- eaming listings are for the US\; eligible subscriptions and geographic res
- trictions apply.\nUS national broadcast.\n\nVenue\nSoFi Stadium\nInglewood
- \n\nSchedule source: https://www.nfl.com/games/patriots-at-chargers-2026-r
- eg-12
-LAST-MODIFIED:20260927T005047Z
+ gers\n\nKickoff: Sunday\, November 29\, 2026 at 4:05 PM EST (America/New_Y
+ ork)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStre
+ aming: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday
+  afternoon viewing\; local and national blackouts apply.\nNFL+: local and 
+ primetime live game streams require a phone or tablet\; market and device 
+ restrictions apply.\nParamount+: this game must be carried by your local C
+ BS station.\nRegional broadcast\; local market coverage varies.\nStreaming
+  listings are for the US\; eligible subscriptions and geographic restricti
+ ons apply.\n\nVenue\nSoFi Stadium\nInglewood\n\nSchedule source: https://w
+ ww.nfl.com/games/patriots-at-chargers-2026-reg-12
+LAST-MODIFIED:20261117T222946Z
 LOCATION:SoFi Stadium\nInglewood
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

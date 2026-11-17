@@ -265,25 +265,25 @@ URL:https://www.nfl.com/games/jaguars-at-giants-2026-reg-11
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tennessee Titans @ Jacksonville Jaguars
-DTSTART:20261129T210500Z
-DTEND:20261130T002000Z
-DTSTAMP:20261117T105148Z
+DTSTART:20261129T180000Z
+DTEND:20261129T211500Z
+DTSTAMP:20261117T222946Z
 UID:c95e7c35e12ccfdfc7e3d527406ce2ce@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 12
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 12\n\nTennessee Titans @ Jacksonville Jaguars
- \n\nKickoff: Sunday\, November 29\, 2026 at 4:05 PM EST (America/New_York)
- \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreamin
- g: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday aft
- ernoon viewing\; local and national blackouts apply.\nNFL+: local and prim
- etime live game streams require a phone or tablet\; market and device rest
- rictions apply.\nParamount+: this game must be carried by your local CBS s
- tation.\nRegional broadcast\; local market coverage varies.\nStreaming lis
- tings are for the US\; eligible subscriptions and geographic restrictions 
- apply.\n\nVenue\nEverBank Stadium\nJacksonville\n\nSchedule source: https:
- //www.nfl.com/games/titans-at-jaguars-2026-reg-12
-LAST-MODIFIED:20261117T105148Z
+ \n\nKickoff: Sunday\, November 29\, 2026 at 1:00 PM EST (America/New_York)
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreamin
+ g: FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions app
+ ly.\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; 
+ local and national blackouts apply.\nNFL+: local and primetime live game s
+ treams require a phone or tablet\; market and device restrictions apply.\n
+ Regional broadcast\; local market coverage varies.\nStreaming listings are
+  for the US\; eligible subscriptions and geographic restrictions apply.\n
+ \nVenue\nEverBank Stadium\nJacksonville\n\nSchedule source: https://www.nf
+ l.com/games/titans-at-jaguars-2026-reg-12
+LAST-MODIFIED:20261117T222946Z
 LOCATION:EverBank Stadium\nJacksonville
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

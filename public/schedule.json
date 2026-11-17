@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "season": 2026,
-  "fetched_at": "2026-11-17T10:51:48Z",
+  "fetched_at": "2026-11-17T22:29:46Z",
   "source": {
     "name": "NFL.com official schedule and game-specific viewing data",
     "url": "https://www.nfl.com/schedules/2026/by-week/week-1"
@@ -7599,51 +7599,6 @@
       "source_week": 12
     },
     {
-      "id": "2026-REG-LV-CLE",
-      "season": 2026,
-      "season_type": "REG",
-      "week": 12,
-      "away": "LV",
-      "home": "CLE",
-      "start_time": "2026-11-29T18:00:00Z",
-      "date": "2026-11-29",
-      "time_tbd": false,
-      "date_tbd": false,
-      "week_date": "2026-11-25",
-      "venue": {
-        "name": "Huntington Bank Field",
-        "city": "Cleveland",
-        "country": "USA"
-      },
-      "broadcast": {
-        "tv": [
-          "FOX"
-        ],
-        "streaming": [
-          "FOX One",
-          "NFL+"
-        ],
-        "notes": [
-          "Regional broadcast; local market coverage varies.",
-          "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
-          "FOX One: local FOX coverage and market restrictions apply.",
-          "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
-          "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
-        ]
-      },
-      "status": "scheduled",
-      "source_url": "https://www.nfl.com/games/raiders-at-browns-2026-reg-12",
-      "source_ids": {
-        "nfl": "abbf3c97-4feb-11f1-abca-2c54536568a9",
-        "elias": "2026112901",
-        "gsis": "60347",
-        "slug": "raiders-at-browns-2026-reg-12"
-      },
-      "category": null,
-      "international": false,
-      "source_week": 12
-    },
-    {
       "id": "2026-REG-NO-CIN",
       "season": 2026,
       "season_type": "REG",
@@ -7664,9 +7619,16 @@
         "tv": [
           "CBS"
         ],
-        "streaming": [],
+        "streaming": [
+          "NFL+",
+          "Paramount+"
+        ],
         "notes": [
-          "Regional broadcast; local market coverage varies."
+          "Regional broadcast; local market coverage varies.",
+          "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
+          "Paramount+: this game must be carried by your local CBS station.",
+          "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
+          "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
       "status": "scheduled",
@@ -7778,7 +7740,7 @@
       "week": 12,
       "away": "TEN",
       "home": "JAX",
-      "start_time": "2026-11-29T21:05:00Z",
+      "start_time": "2026-11-29T18:00:00Z",
       "date": "2026-11-29",
       "time_tbd": false,
       "date_tbd": false,
@@ -7786,6 +7748,51 @@
       "venue": {
         "name": "EverBank Stadium",
         "city": "Jacksonville",
+        "country": "USA"
+      },
+      "broadcast": {
+        "tv": [
+          "FOX"
+        ],
+        "streaming": [
+          "FOX One",
+          "NFL+"
+        ],
+        "notes": [
+          "Regional broadcast; local market coverage varies.",
+          "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
+          "FOX One: local FOX coverage and market restrictions apply.",
+          "NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply.",
+          "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
+        ]
+      },
+      "status": "scheduled",
+      "source_url": "https://www.nfl.com/games/titans-at-jaguars-2026-reg-12",
+      "source_ids": {
+        "nfl": "abdfd663-4feb-11f1-abca-2c54536568a9",
+        "elias": "2026112906",
+        "gsis": "60352",
+        "slug": "titans-at-jaguars-2026-reg-12"
+      },
+      "category": null,
+      "international": false,
+      "source_week": 12
+    },
+    {
+      "id": "2026-REG-NE-LAC",
+      "season": 2026,
+      "season_type": "REG",
+      "week": 12,
+      "away": "NE",
+      "home": "LAC",
+      "start_time": "2026-11-29T21:05:00Z",
+      "date": "2026-11-29",
+      "time_tbd": false,
+      "date_tbd": false,
+      "week_date": "2026-11-25",
+      "venue": {
+        "name": "SoFi Stadium",
+        "city": "Inglewood",
         "country": "USA"
       },
       "broadcast": {
@@ -7805,12 +7812,12 @@
         ]
       },
       "status": "scheduled",
-      "source_url": "https://www.nfl.com/games/titans-at-jaguars-2026-reg-12",
+      "source_url": "https://www.nfl.com/games/patriots-at-chargers-2026-reg-12",
       "source_ids": {
-        "nfl": "abdfd663-4feb-11f1-abca-2c54536568a9",
-        "elias": "2026112906",
-        "gsis": "60352",
-        "slug": "titans-at-jaguars-2026-reg-12"
+        "nfl": "abdfe0ab-4feb-11f1-abca-2c54536568a9",
+        "elias": "2026112909",
+        "gsis": "60355",
+        "slug": "patriots-at-chargers-2026-reg-12"
       },
       "category": null,
       "international": false,
@@ -7907,20 +7914,20 @@
       "source_week": 12
     },
     {
-      "id": "2026-REG-NE-LAC",
+      "id": "2026-REG-LV-CLE",
       "season": 2026,
       "season_type": "REG",
       "week": 12,
-      "away": "NE",
-      "home": "LAC",
+      "away": "LV",
+      "home": "CLE",
       "start_time": "2026-11-30T01:20:00Z",
       "date": "2026-11-29",
       "time_tbd": false,
       "date_tbd": false,
       "week_date": "2026-11-25",
       "venue": {
-        "name": "SoFi Stadium",
-        "city": "Inglewood",
+        "name": "Huntington Bank Field",
+        "city": "Cleveland",
         "country": "USA"
       },
       "broadcast": {
@@ -7939,12 +7946,12 @@
         ]
       },
       "status": "scheduled",
-      "source_url": "https://www.nfl.com/games/patriots-at-chargers-2026-reg-12",
+      "source_url": "https://www.nfl.com/games/raiders-at-browns-2026-reg-12",
       "source_ids": {
-        "nfl": "abdfe0ab-4feb-11f1-abca-2c54536568a9",
-        "elias": "2026112909",
-        "gsis": "60355",
-        "slug": "patriots-at-chargers-2026-reg-12"
+        "nfl": "abbf3c97-4feb-11f1-abca-2c54536568a9",
+        "elias": "2026112901",
+        "gsis": "60347",
+        "slug": "raiders-at-browns-2026-reg-12"
       },
       "category": "SNF",
       "international": false,

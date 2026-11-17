@@ -269,25 +269,23 @@ URL:https://www.nfl.com/games/texans-at-browns-2026-reg-10
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Las Vegas Raiders @ Cleveland Browns
-DTSTART:20261129T180000Z
-DTEND:20261129T211500Z
-DTSTAMP:20261116T095549Z
+DTSTART:20261130T012000Z
+DTEND:20261130T043500Z
+DTSTAMP:20261117T222946Z
 UID:51e46857ae00d31c397f78ad2d330506@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 12
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 12\n\nLas Vegas Raiders @ Cleveland Browns\n
- \nKickoff: Sunday\, November 29\, 2026 at 1:00 PM EST (America/New_York)\n
- Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming:
-  FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply
- .\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; lo
- cal and national blackouts apply.\nNFL+: local and primetime live game str
- eams require a phone or tablet\; market and device restrictions apply.\nRe
- gional broadcast\; local market coverage varies.\nStreaming listings are f
- or the US\; eligible subscriptions and geographic restrictions apply.\n\nV
- enue\nHuntington Bank Field\nCleveland\n\nSchedule source: https://www.nfl
- .com/games/raiders-at-browns-2026-reg-12
-LAST-MODIFIED:20261116T095549Z
+ \nKickoff: Sunday\, November 29\, 2026 at 8:20 PM EST (America/New_York)\n
+ Estimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo
+ \nStreaming: NFL+\, Peacock\nNFL+: local and primetime live game streams r
+ equire a phone or tablet\; market and device restrictions apply.\nStreamin
+ g listings are for the US\; eligible subscriptions and geographic restrict
+ ions apply.\nUS national broadcast.\n\nVenue\nHuntington Bank Field\nCleve
+ land\n\nSchedule source: https://www.nfl.com/games/raiders-at-browns-2026-
+ reg-12
+LAST-MODIFIED:20261117T222946Z
 LOCATION:Huntington Bank Field\nCleveland
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -1020,16 +1020,16 @@
     "fingerprint": "0bb51145f6ae6c7603f361c7f18bcd9e4161dc01fd6869d920bd90ff33c36751"
   },
   "2026-REG-LV-CLE": {
-    "sequence": 1,
+    "sequence": 2,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-11-16T09:55:49Z",
-    "fingerprint": "521fe13977bd455b2865a3b9baa3fbc40127b5a59a07fe6a869390c10cdab1cc"
+    "modified": "2026-11-17T22:29:46Z",
+    "fingerprint": "2905112f0060ad5287e4e3eb46d58409390c2da700e1f6492a3cb0c12a90924c"
   },
   "2026-REG-NO-CIN": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "2d90014949f75f9ce8466f2e2dfb92fe87d04c3a3463d480db17f27894b4b7c7"
+    "modified": "2026-11-17T22:29:46Z",
+    "fingerprint": "aeedba00f42b8e98a8ae99bdce46b194f6eec328621296a49a8d45542ede7d8d"
   },
   "2026-REG-NYG-IND": {
     "sequence": 1,
@@ -1044,10 +1044,10 @@
     "fingerprint": "cb29f4df5684e0283a3f046c55e86fa08108f4606e369717df746e38bef2cefa"
   },
   "2026-REG-TEN-JAX": {
-    "sequence": 1,
+    "sequence": 2,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-11-17T10:51:48Z",
-    "fingerprint": "611fa2208d47a9c150de97b983d2943b32ae4260d710ac53c96d466cc6954bfc"
+    "modified": "2026-11-17T22:29:46Z",
+    "fingerprint": "b6c4efa4aa9f03f1bacb69559cb1002395e80af665f5a058a673266259e21fb2"
   },
   "2026-REG-SEA-SF": {
     "sequence": 1,
@@ -1062,10 +1062,10 @@
     "fingerprint": "357a84603608afd0941c4f4cc6304c9b66325bef9d6410578cdf37f052b781ae"
   },
   "2026-REG-NE-LAC": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "23a459f4b2d109ab210ad2c0aebe6e8d55b5009da0a59365641fd06c293ebc41"
+    "modified": "2026-11-17T22:29:46Z",
+    "fingerprint": "568f73872dc2f76bae5d077a4e5a954ff261830e89ea34f3e0115e93c8e7eb0a"
   },
   "2026-REG-CAR-TB": {
     "sequence": 1,
