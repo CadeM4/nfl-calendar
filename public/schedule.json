@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "season": 2026,
-  "fetched_at": "2026-11-18T10:22:33Z",
+  "fetched_at": "2026-11-18T22:09:32Z",
   "source": {
     "name": "NFL.com official schedule and game-specific viewing data",
     "url": "https://www.nfl.com/schedules/2026/by-week/week-1"
@@ -7404,6 +7404,7 @@
           "NFL+"
         ],
         "notes": [
+          "Other official watch listing: TUBI",
           "US national broadcast.",
           "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
           "FOX One: local FOX coverage and market restrictions apply.",
