@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "fetched_at": "2026-11-19T10:30:29Z",
+  "fetched_at": "2026-11-19T22:18:08Z",
   "source": {
     "name": "NFL.com official schedule and game-specific viewing data",
     "url": "https://www.nfl.com/schedules/2026/by-week/week-1"
@@ -14,7 +14,7 @@
   "tbd": {
     "time": 24,
     "date": 24,
-    "broadcast": 23,
+    "broadcast": 24,
     "games": [
       {
         "id": "2026-REG-CAR-PIT",
@@ -24,7 +24,7 @@
         "season_type": "REG",
         "time_tbd": true,
         "date_tbd": true,
-        "broadcast_tbd": false
+        "broadcast_tbd": true
       },
       {
         "id": "2026-REG-CIN-IND",
@@ -517,6 +517,6 @@
     }
   ],
   "primetime_count": 55,
-  "change_count": 0,
+  "change_count": 1,
   "refresh_hours": 6
 }

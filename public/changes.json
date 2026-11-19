@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-CAR-PIT",
+    "away": "CAR",
+    "home": "PIT",
+    "week": 16,
+    "fields": {
+      "broadcast": {
+        "before": {
+          "tv": [
+            "ESPN",
+            "ESPN Deportes",
+            "ESPN2"
+          ],
+          "streaming": [],
+          "notes": []
+        },
+        "after": {
+          "tv": [],
+          "streaming": [],
+          "notes": []
+        }
+      }
+    }
+  }
+]

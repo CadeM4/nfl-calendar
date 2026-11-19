@@ -1416,10 +1416,10 @@
     "fingerprint": "a6f0aca3f12d00bc34fdb69a6deb3a3c6b60f6d0f05691872f0348d998686bf6"
   },
   "2026-REG-CAR-PIT": {
-    "sequence": 1,
+    "sequence": 2,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-10-08T09:10:05Z",
-    "fingerprint": "0408a5a63cae5f9e5638fe63d872d877919a5b47f2502f9cf64e78e15003042b"
+    "modified": "2026-11-19T22:18:08Z",
+    "fingerprint": "4b4c418481771765d8ad1b9a69b860c906249bbc7b3481f2f6c8a2214dffbf16"
   },
   "2026-REG-CIN-IND": {
     "sequence": 0,

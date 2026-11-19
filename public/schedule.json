@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "season": 2026,
-  "fetched_at": "2026-11-19T10:30:29Z",
+  "fetched_at": "2026-11-19T22:18:08Z",
   "source": {
     "name": "NFL.com official schedule and game-specific viewing data",
     "url": "https://www.nfl.com/schedules/2026/by-week/week-1"
@@ -10281,11 +10281,7 @@
         "country": "USA"
       },
       "broadcast": {
-        "tv": [
-          "ESPN",
-          "ESPN Deportes",
-          "ESPN2"
-        ],
+        "tv": [],
         "streaming": [],
         "notes": []
       },

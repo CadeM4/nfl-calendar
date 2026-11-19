@@ -1,5 +1,8 @@
 # Schedule changes
 
-Verified: 2026-11-19T10:30:29Z
+Verified: 2026-11-19T22:18:08Z
 
-No event changes since the previous successful refresh.
+## UPDATED: CAR @ PIT — Week 16
+
+- Broadcast: tv: ESPN, ESPN Deportes, ESPN2 → 
+
