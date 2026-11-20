@@ -1,26 +1,14 @@
 [
   {
     "kind": "UPDATED",
-    "id": "2026-REG-CAR-PIT",
-    "away": "CAR",
-    "home": "PIT",
-    "week": 16,
+    "id": "2026-REG-IND-HOU",
+    "away": "IND",
+    "home": "HOU",
+    "week": 11,
     "fields": {
-      "broadcast": {
-        "before": {
-          "tv": [
-            "ESPN",
-            "ESPN Deportes",
-            "ESPN2"
-          ],
-          "streaming": [],
-          "notes": []
-        },
-        "after": {
-          "tv": [],
-          "streaming": [],
-          "notes": []
-        }
+      "status": {
+        "before": "scheduled",
+        "after": "final"
       }
     }
   }

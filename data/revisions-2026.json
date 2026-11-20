@@ -900,10 +900,10 @@
     "fingerprint": "1f759edae7105020dd9039241dcf3728d66c9235f97eda1e16c8d5b9c0ee120c"
   },
   "2026-REG-IND-HOU": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "76b083e620185115a1a7d646c03151dc2d5bd3547f73d473295e296b14ba9fdb"
+    "modified": "2026-11-20T10:11:56Z",
+    "fingerprint": "c923537ad23875e31810e2663443eb0567b38fca8e2c12c5dba45bf4dd073ec4"
   },
   "2026-REG-ARI-KC": {
     "sequence": 1,

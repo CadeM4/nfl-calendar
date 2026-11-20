@@ -742,9 +742,9 @@ BEGIN:VEVENT
 SUMMARY:Indianapolis Colts @ Houston Texans
 DTSTART:20261120T011500Z
 DTEND:20261120T043000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261120T101156Z
 UID:b087101ffc3e483625e80510b220258f@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nIndianapolis Colts @ Houston Texans\n\n
@@ -755,7 +755,7 @@ DESCRIPTION:NFL 2026 · Week 11\n\nIndianapolis Colts @ Houston Texans\n\n
  r the US\; eligible subscriptions and geographic restrictions apply.\nUS n
  ational broadcast.\n\nVenue\nReliant Stadium\nHouston\n\nSchedule source: 
  https://www.nfl.com/games/colts-at-texans-2026-reg-11
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261120T101156Z
 LOCATION:Reliant Stadium\nHouston
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

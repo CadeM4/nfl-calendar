@@ -1,8 +1,8 @@
 # Schedule changes
 
-Verified: 2026-11-19T22:18:08Z
+Verified: 2026-11-20T10:11:56Z
 
-## UPDATED: CAR @ PIT — Week 16
+## UPDATED: IND @ HOU — Week 11
 
-- Broadcast: tv: ESPN, ESPN Deportes, ESPN2 → 
+- Status: scheduled → final
 
