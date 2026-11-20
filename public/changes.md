@@ -1,8 +1,5 @@
 # Schedule changes
 
-Verified: 2026-11-20T10:11:56Z
+Verified: 2026-11-20T21:52:53Z
 
-## UPDATED: IND @ HOU — Week 11
-
-- Status: scheduled → final
-
+No event changes since the previous successful refresh.
