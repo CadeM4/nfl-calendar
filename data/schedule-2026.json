@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "season": 2026,
-  "fetched_at": "2026-11-22T09:56:45Z",
+  "fetched_at": "2026-11-22T20:46:31Z",
   "source": {
     "name": "NFL.com official schedule and game-specific viewing data",
     "url": "https://www.nfl.com/schedules/2026/by-week/week-1"
@@ -6784,7 +6784,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/cardinals-at-chiefs-2026-reg-11",
       "source_ids": {
         "nfl": "ab999891-4feb-11f1-abca-2c54536568a9",
@@ -6829,7 +6829,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/ravens-at-panthers-2026-reg-11",
       "source_ids": {
         "nfl": "ab998b7f-4feb-11f1-abca-2c54536568a9",
@@ -6874,7 +6874,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/dolphins-at-bills-2026-reg-11",
       "source_ids": {
         "nfl": "ab998769-4feb-11f1-abca-2c54536568a9",
@@ -6919,7 +6919,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/saints-at-bears-2026-reg-11",
       "source_ids": {
         "nfl": "ab998f5e-4feb-11f1-abca-2c54536568a9",
@@ -6964,7 +6964,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/steelers-at-eagles-2026-reg-11",
       "source_ids": {
         "nfl": "abbf1908-4feb-11f1-abca-2c54536568a9",
@@ -7009,7 +7009,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/buccaneers-at-lions-2026-reg-11",
       "source_ids": {
         "nfl": "ab999586-4feb-11f1-abca-2c54536568a9",
@@ -7054,7 +7054,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/titans-at-cowboys-2026-reg-11",
       "source_ids": {
         "nfl": "ab99929a-4feb-11f1-abca-2c54536568a9",

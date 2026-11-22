@@ -241,9 +241,9 @@ BEGIN:VEVENT
 SUMMARY:Arizona Cardinals @ Kansas City Chiefs
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
-DTSTAMP:20261109T095658Z
+DTSTAMP:20261122T204631Z
 UID:5b5884dd360b1130dc23e01626c79b5f@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nArizona Cardinals @ Kansas City Chiefs
@@ -257,7 +257,7 @@ DESCRIPTION:NFL 2026 · Week 11\n\nArizona Cardinals @ Kansas City Chiefs
  tings are for the US\; eligible subscriptions and geographic restrictions 
  apply.\n\nVenue\nArrowhead Stadium\nKansas City\n\nSchedule source: https:
  //www.nfl.com/games/cardinals-at-chiefs-2026-reg-11
-LAST-MODIFIED:20261109T095658Z
+LAST-MODIFIED:20261122T204631Z
 LOCATION:Arrowhead Stadium\nKansas City
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

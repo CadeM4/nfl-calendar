@@ -241,9 +241,9 @@ BEGIN:VEVENT
 SUMMARY:Miami Dolphins @ Buffalo Bills
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
-DTSTAMP:20261109T232852Z
+DTSTAMP:20261122T204631Z
 UID:3ee2fbed324adf68eeed8037de6e67a5@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nMiami Dolphins @ Buffalo Bills\n\nKicko
@@ -257,7 +257,7 @@ DESCRIPTION:NFL 2026 · Week 11\n\nMiami Dolphins @ Buffalo Bills\n\nKicko
   for the US\; eligible subscriptions and geographic restrictions apply.\n
  \nVenue\nHighmark Stadium\nOrchard Park\n\nSchedule source: https://www.nf
  l.com/games/dolphins-at-bills-2026-reg-11
-LAST-MODIFIED:20261109T232852Z
+LAST-MODIFIED:20261122T204631Z
 LOCATION:Highmark Stadium\nOrchard Park
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

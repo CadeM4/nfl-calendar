@@ -3848,9 +3848,9 @@ BEGIN:VEVENT
 SUMMARY:Arizona Cardinals @ Kansas City Chiefs
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
-DTSTAMP:20261109T095658Z
+DTSTAMP:20261122T204631Z
 UID:5b5884dd360b1130dc23e01626c79b5f@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nArizona Cardinals @ Kansas City Chiefs
@@ -3864,7 +3864,7 @@ DESCRIPTION:NFL 2026 · Week 11\n\nArizona Cardinals @ Kansas City Chiefs
  tings are for the US\; eligible subscriptions and geographic restrictions 
  apply.\n\nVenue\nArrowhead Stadium\nKansas City\n\nSchedule source: https:
  //www.nfl.com/games/cardinals-at-chiefs-2026-reg-11
-LAST-MODIFIED:20261109T095658Z
+LAST-MODIFIED:20261122T204631Z
 LOCATION:Arrowhead Stadium\nKansas City
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3874,9 +3874,9 @@ BEGIN:VEVENT
 SUMMARY:Baltimore Ravens @ Carolina Panthers
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
-DTSTAMP:20261109T095658Z
+DTSTAMP:20261122T204631Z
 UID:181415e8075fd6fd6adb104c3d4dfdef@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nBaltimore Ravens @ Carolina Panthers\n
@@ -3890,7 +3890,7 @@ DESCRIPTION:NFL 2026 · Week 11\n\nBaltimore Ravens @ Carolina Panthers\n
  or the US\; eligible subscriptions and geographic restrictions apply.\n\nV
  enue\nBank of America Stadium\nCharlotte\n\nSchedule source: https://www.n
  fl.com/games/ravens-at-panthers-2026-reg-11
-LAST-MODIFIED:20261109T095658Z
+LAST-MODIFIED:20261122T204631Z
 LOCATION:Bank of America Stadium\nCharlotte
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3900,9 +3900,9 @@ BEGIN:VEVENT
 SUMMARY:Miami Dolphins @ Buffalo Bills
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
-DTSTAMP:20261109T232852Z
+DTSTAMP:20261122T204631Z
 UID:3ee2fbed324adf68eeed8037de6e67a5@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nMiami Dolphins @ Buffalo Bills\n\nKicko
@@ -3916,7 +3916,7 @@ DESCRIPTION:NFL 2026 · Week 11\n\nMiami Dolphins @ Buffalo Bills\n\nKicko
   for the US\; eligible subscriptions and geographic restrictions apply.\n
  \nVenue\nHighmark Stadium\nOrchard Park\n\nSchedule source: https://www.nf
  l.com/games/dolphins-at-bills-2026-reg-11
-LAST-MODIFIED:20261109T232852Z
+LAST-MODIFIED:20261122T204631Z
 LOCATION:Highmark Stadium\nOrchard Park
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3926,9 +3926,9 @@ BEGIN:VEVENT
 SUMMARY:New Orleans Saints @ Chicago Bears
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
-DTSTAMP:20261109T095658Z
+DTSTAMP:20261122T204631Z
 UID:30cb458cdf160b010317b2e09473c0fb@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nNew Orleans Saints @ Chicago Bears\n\nK
@@ -3942,7 +3942,7 @@ DESCRIPTION:NFL 2026 · Week 11\n\nNew Orleans Saints @ Chicago Bears\n\nK
  the US\; eligible subscriptions and geographic restrictions apply.\n\nVenu
  e\nSoldier Field\nChicago\n\nSchedule source: https://www.nfl.com/games/sa
  ints-at-bears-2026-reg-11
-LAST-MODIFIED:20261109T095658Z
+LAST-MODIFIED:20261122T204631Z
 LOCATION:Soldier Field\nChicago
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3952,9 +3952,9 @@ BEGIN:VEVENT
 SUMMARY:Pittsburgh Steelers @ Philadelphia Eagles
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
-DTSTAMP:20261109T232852Z
+DTSTAMP:20261122T204631Z
 UID:71dee8ff4872ed764311c3751e96fa87@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nPittsburgh Steelers @ Philadelphia Eagl
@@ -3968,7 +3968,7 @@ DESCRIPTION:NFL 2026 · Week 11\n\nPittsburgh Steelers @ Philadelphia Eagl
  istings are for the US\; eligible subscriptions and geographic restriction
  s apply.\n\nVenue\nLincoln Financial Field\nPhiladelphia\n\nSchedule sourc
  e: https://www.nfl.com/games/steelers-at-eagles-2026-reg-11
-LAST-MODIFIED:20261109T232852Z
+LAST-MODIFIED:20261122T204631Z
 LOCATION:Lincoln Financial Field\nPhiladelphia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3978,9 +3978,9 @@ BEGIN:VEVENT
 SUMMARY:Tampa Bay Buccaneers @ Detroit Lions
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
-DTSTAMP:20261113T094526Z
+DTSTAMP:20261122T204631Z
 UID:bcdb530718c8173bacefb568b7436039@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nTampa Bay Buccaneers @ Detroit Lions\n
@@ -3994,7 +3994,7 @@ DESCRIPTION:NFL 2026 · Week 11\n\nTampa Bay Buccaneers @ Detroit Lions\n
  or the US\; eligible subscriptions and geographic restrictions apply.\n\nV
  enue\nFord Field\nDetroit\n\nSchedule source: https://www.nfl.com/games/bu
  ccaneers-at-lions-2026-reg-11
-LAST-MODIFIED:20261113T094526Z
+LAST-MODIFIED:20261122T204631Z
 LOCATION:Ford Field\nDetroit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4004,9 +4004,9 @@ BEGIN:VEVENT
 SUMMARY:Tennessee Titans @ Dallas Cowboys
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
-DTSTAMP:20261109T095658Z
+DTSTAMP:20261122T204631Z
 UID:9cb28c02088243edefa2d48b3092e542@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nTennessee Titans @ Dallas Cowboys\n\nKi
@@ -4020,7 +4020,7 @@ DESCRIPTION:NFL 2026 · Week 11\n\nTennessee Titans @ Dallas Cowboys\n\nKi
  he US\; eligible subscriptions and geographic restrictions apply.\n\nVenue
  \nAT&T Stadium\nArlington\n\nSchedule source: https://www.nfl.com/games/ti
  tans-at-cowboys-2026-reg-11
-LAST-MODIFIED:20261109T095658Z
+LAST-MODIFIED:20261122T204631Z
 LOCATION:AT&T Stadium\nArlington
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
