@@ -3848,9 +3848,9 @@ BEGIN:VEVENT
 SUMMARY:Arizona Cardinals @ Kansas City Chiefs
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
-DTSTAMP:20261122T204631Z
+DTSTAMP:20261123T105607Z
 UID:5b5884dd360b1130dc23e01626c79b5f@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nArizona Cardinals @ Kansas City Chiefs
@@ -3864,7 +3864,7 @@ DESCRIPTION:NFL 2026 · Week 11\n\nArizona Cardinals @ Kansas City Chiefs
  tings are for the US\; eligible subscriptions and geographic restrictions 
  apply.\n\nVenue\nArrowhead Stadium\nKansas City\n\nSchedule source: https:
  //www.nfl.com/games/cardinals-at-chiefs-2026-reg-11
-LAST-MODIFIED:20261122T204631Z
+LAST-MODIFIED:20261123T105607Z
 LOCATION:Arrowhead Stadium\nKansas City
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3874,9 +3874,9 @@ BEGIN:VEVENT
 SUMMARY:Baltimore Ravens @ Carolina Panthers
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
-DTSTAMP:20261122T204631Z
+DTSTAMP:20261123T105607Z
 UID:181415e8075fd6fd6adb104c3d4dfdef@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nBaltimore Ravens @ Carolina Panthers\n
@@ -3890,7 +3890,7 @@ DESCRIPTION:NFL 2026 · Week 11\n\nBaltimore Ravens @ Carolina Panthers\n
  or the US\; eligible subscriptions and geographic restrictions apply.\n\nV
  enue\nBank of America Stadium\nCharlotte\n\nSchedule source: https://www.n
  fl.com/games/ravens-at-panthers-2026-reg-11
-LAST-MODIFIED:20261122T204631Z
+LAST-MODIFIED:20261123T105607Z
 LOCATION:Bank of America Stadium\nCharlotte
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3900,9 +3900,9 @@ BEGIN:VEVENT
 SUMMARY:Miami Dolphins @ Buffalo Bills
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
-DTSTAMP:20261122T204631Z
+DTSTAMP:20261123T105607Z
 UID:3ee2fbed324adf68eeed8037de6e67a5@nfl-calendar.local
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nMiami Dolphins @ Buffalo Bills\n\nKicko
@@ -3916,7 +3916,7 @@ DESCRIPTION:NFL 2026 · Week 11\n\nMiami Dolphins @ Buffalo Bills\n\nKicko
   for the US\; eligible subscriptions and geographic restrictions apply.\n
  \nVenue\nHighmark Stadium\nOrchard Park\n\nSchedule source: https://www.nf
  l.com/games/dolphins-at-bills-2026-reg-11
-LAST-MODIFIED:20261122T204631Z
+LAST-MODIFIED:20261123T105607Z
 LOCATION:Highmark Stadium\nOrchard Park
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3926,9 +3926,9 @@ BEGIN:VEVENT
 SUMMARY:New Orleans Saints @ Chicago Bears
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
-DTSTAMP:20261122T204631Z
+DTSTAMP:20261123T105607Z
 UID:30cb458cdf160b010317b2e09473c0fb@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nNew Orleans Saints @ Chicago Bears\n\nK
@@ -3942,7 +3942,7 @@ DESCRIPTION:NFL 2026 · Week 11\n\nNew Orleans Saints @ Chicago Bears\n\nK
  the US\; eligible subscriptions and geographic restrictions apply.\n\nVenu
  e\nSoldier Field\nChicago\n\nSchedule source: https://www.nfl.com/games/sa
  ints-at-bears-2026-reg-11
-LAST-MODIFIED:20261122T204631Z
+LAST-MODIFIED:20261123T105607Z
 LOCATION:Soldier Field\nChicago
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3952,9 +3952,9 @@ BEGIN:VEVENT
 SUMMARY:Pittsburgh Steelers @ Philadelphia Eagles
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
-DTSTAMP:20261122T204631Z
+DTSTAMP:20261123T105607Z
 UID:71dee8ff4872ed764311c3751e96fa87@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nPittsburgh Steelers @ Philadelphia Eagl
@@ -3968,7 +3968,7 @@ DESCRIPTION:NFL 2026 · Week 11\n\nPittsburgh Steelers @ Philadelphia Eagl
  istings are for the US\; eligible subscriptions and geographic restriction
  s apply.\n\nVenue\nLincoln Financial Field\nPhiladelphia\n\nSchedule sourc
  e: https://www.nfl.com/games/steelers-at-eagles-2026-reg-11
-LAST-MODIFIED:20261122T204631Z
+LAST-MODIFIED:20261123T105607Z
 LOCATION:Lincoln Financial Field\nPhiladelphia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3978,9 +3978,9 @@ BEGIN:VEVENT
 SUMMARY:Tampa Bay Buccaneers @ Detroit Lions
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
-DTSTAMP:20261122T204631Z
+DTSTAMP:20261123T105607Z
 UID:bcdb530718c8173bacefb568b7436039@nfl-calendar.local
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nTampa Bay Buccaneers @ Detroit Lions\n
@@ -3994,7 +3994,7 @@ DESCRIPTION:NFL 2026 · Week 11\n\nTampa Bay Buccaneers @ Detroit Lions\n
  or the US\; eligible subscriptions and geographic restrictions apply.\n\nV
  enue\nFord Field\nDetroit\n\nSchedule source: https://www.nfl.com/games/bu
  ccaneers-at-lions-2026-reg-11
-LAST-MODIFIED:20261122T204631Z
+LAST-MODIFIED:20261123T105607Z
 LOCATION:Ford Field\nDetroit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4004,9 +4004,9 @@ BEGIN:VEVENT
 SUMMARY:Tennessee Titans @ Dallas Cowboys
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
-DTSTAMP:20261122T204631Z
+DTSTAMP:20261123T105607Z
 UID:9cb28c02088243edefa2d48b3092e542@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nTennessee Titans @ Dallas Cowboys\n\nKi
@@ -4020,7 +4020,7 @@ DESCRIPTION:NFL 2026 · Week 11\n\nTennessee Titans @ Dallas Cowboys\n\nKi
  he US\; eligible subscriptions and geographic restrictions apply.\n\nVenue
  \nAT&T Stadium\nArlington\n\nSchedule source: https://www.nfl.com/games/ti
  tans-at-cowboys-2026-reg-11
-LAST-MODIFIED:20261122T204631Z
+LAST-MODIFIED:20261123T105607Z
 LOCATION:AT&T Stadium\nArlington
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4030,9 +4030,9 @@ BEGIN:VEVENT
 SUMMARY:New York Jets @ Los Angeles Chargers
 DTSTART:20261122T210500Z
 DTEND:20261123T002000Z
-DTSTAMP:20261110T100424Z
+DTSTAMP:20261123T105607Z
 UID:a8a1ab4fc4de1331ff00ef837f7dedb8@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nNew York Jets @ Los Angeles Chargers\n
@@ -4046,7 +4046,7 @@ DESCRIPTION:NFL 2026 · Week 11\n\nNew York Jets @ Los Angeles Chargers\n
  or the US\; eligible subscriptions and geographic restrictions apply.\n\nV
  enue\nSoFi Stadium\nInglewood\n\nSchedule source: https://www.nfl.com/game
  s/jets-at-chargers-2026-reg-11
-LAST-MODIFIED:20261110T100424Z
+LAST-MODIFIED:20261123T105607Z
 LOCATION:SoFi Stadium\nInglewood
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4056,9 +4056,9 @@ BEGIN:VEVENT
 SUMMARY:Jacksonville Jaguars @ New York Giants
 DTSTART:20261122T212500Z
 DTEND:20261123T004000Z
-DTSTAMP:20261109T232852Z
+DTSTAMP:20261123T105607Z
 UID:9a6c35795ff58b969ecd8d0e56b69026@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nJacksonville Jaguars @ New York Giants
@@ -4072,7 +4072,7 @@ DESCRIPTION:NFL 2026 · Week 11\n\nJacksonville Jaguars @ New York Giants
  tings are for the US\; eligible subscriptions and geographic restrictions 
  apply.\n\nVenue\nMetLife Stadium\nEast Rutherford\n\nSchedule source: http
  s://www.nfl.com/games/jaguars-at-giants-2026-reg-11
-LAST-MODIFIED:20261109T232852Z
+LAST-MODIFIED:20261123T105607Z
 LOCATION:MetLife Stadium\nEast Rutherford
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4082,9 +4082,9 @@ BEGIN:VEVENT
 SUMMARY:Las Vegas Raiders @ Denver Broncos
 DTSTART:20261122T212500Z
 DTEND:20261123T004000Z
-DTSTAMP:20261109T232852Z
+DTSTAMP:20261123T105607Z
 UID:eed5320d9f09ba54ff6bca36b9d50809@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nLas Vegas Raiders @ Denver Broncos\n\nK
@@ -4098,7 +4098,7 @@ DESCRIPTION:NFL 2026 · Week 11\n\nLas Vegas Raiders @ Denver Broncos\n\nK
   are for the US\; eligible subscriptions and geographic restrictions apply
  .\n\nVenue\nEmpower Field at Mile High\nDenver\n\nSchedule source: https:/
  /www.nfl.com/games/raiders-at-broncos-2026-reg-11
-LAST-MODIFIED:20261109T232852Z
+LAST-MODIFIED:20261123T105607Z
 LOCATION:Empower Field at Mile High\nDenver
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4108,9 +4108,9 @@ BEGIN:VEVENT
 SUMMARY:Minnesota Vikings @ San Francisco 49ers
 DTSTART:20261123T012000Z
 DTEND:20261123T043500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261123T105607Z
 UID:30df9b2a53315255da745b2210a5110e@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nMinnesota Vikings @ San Francisco 49ers
@@ -4122,7 +4122,7 @@ DESCRIPTION:NFL 2026 · Week 11\n\nMinnesota Vikings @ San Francisco 49ers
  tions apply.\nUS national broadcast.\n\nVenue\nEstadio Banorte\nMexico Cit
  y\, Mexico\n\nSchedule source: https://www.nfl.com/games/vikings-at-49ers-
  2026-reg-11
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261123T105607Z
 LOCATION:Estadio Banorte\nMexico City\, Mexico
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4581,18 +4581,23 @@ BEGIN:VEVENT
 SUMMARY:Cincinnati Bengals @ Cleveland Browns
 DTSTART:20261206T180000Z
 DTEND:20261206T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261123T105607Z
 UID:3e83a75f0ae6de8ae3d4fc89bcfcebe2@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 13
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 13\n\nCincinnati Bengals @ Cleveland Browns\n
  \nKickoff: Sunday\, December 6\, 2026 at 1:00 PM EST (America/New_York)\nE
- stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional br
- oadcast\; local market coverage varies.\n\nVenue\nHuntington Bank Field\nC
- leveland\n\nSchedule source: https://www.nfl.com/games/bengals-at-browns-2
- 026-reg-13
-LAST-MODIFIED:20260927T005047Z
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: 
+ NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday aftern
+ oon viewing\; local and national blackouts apply.\nNFL+: local and primeti
+ me live game streams require a phone or tablet\; market and device restric
+ tions apply.\nParamount+: this game must be carried by your local CBS stat
+ ion.\nRegional broadcast\; local market coverage varies.\nStreaming listin
+ gs are for the US\; eligible subscriptions and geographic restrictions app
+ ly.\n\nVenue\nHuntington Bank Field\nCleveland\n\nSchedule source: https:/
+ /www.nfl.com/games/bengals-at-browns-2026-reg-13
+LAST-MODIFIED:20261123T105607Z
 LOCATION:Huntington Bank Field\nCleveland
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4602,18 +4607,23 @@ BEGIN:VEVENT
 SUMMARY:Detroit Lions @ Atlanta Falcons
 DTSTART:20261206T180000Z
 DTEND:20261206T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261123T105607Z
 UID:25b167a64fb3015df0b27d39da35fbc7@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 13
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 13\n\nDetroit Lions @ Atlanta Falcons\n\nKick
  off: Sunday\, December 6\, 2026 at 1:00 PM EST (America/New_York)\nEstimat
- ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadcas
- t\; local market coverage varies.\n\nVenue\nMercedes-Benz Stadium\nAtlanta
- \n\nSchedule source: https://www.nfl.com/games/lions-at-falcons-2026-reg-1
- 3
-LAST-MODIFIED:20260927T005047Z
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL+\,
+  Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon vi
+ ewing\; local and national blackouts apply.\nNFL+: local and primetime liv
+ e game streams require a phone or tablet\; market and device restrictions 
+ apply.\nParamount+: this game must be carried by your local CBS station.\n
+ Regional broadcast\; local market coverage varies.\nStreaming listings are
+  for the US\; eligible subscriptions and geographic restrictions apply.\n
+ \nVenue\nMercedes-Benz Stadium\nAtlanta\n\nSchedule source: https://www.nf
+ l.com/games/lions-at-falcons-2026-reg-13
+LAST-MODIFIED:20261123T105607Z
 LOCATION:Mercedes-Benz Stadium\nAtlanta
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4623,18 +4633,23 @@ BEGIN:VEVENT
 SUMMARY:Green Bay Packers @ New Orleans Saints
 DTSTART:20261206T180000Z
 DTEND:20261206T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261123T105607Z
 UID:64e48d19025c37354d55a36d4efba41c@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 13
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 13\n\nGreen Bay Packers @ New Orleans Saints
  \n\nKickoff: Sunday\, December 6\, 2026 at 1:00 PM EST (America/New_York)
- \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
-  broadcast\; local market coverage varies.\n\nVenue\nCaesars Superdome\nNe
- w Orleans\n\nSchedule source: https://www.nfl.com/games/packers-at-saints-
- 2026-reg-13
-LAST-MODIFIED:20260927T005047Z
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreamin
+ g: FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions app
+ ly.\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; 
+ local and national blackouts apply.\nNFL+: local and primetime live game s
+ treams require a phone or tablet\; market and device restrictions apply.\n
+ Regional broadcast\; local market coverage varies.\nStreaming listings are
+  for the US\; eligible subscriptions and geographic restrictions apply.\n
+ \nVenue\nCaesars Superdome\nNew Orleans\n\nSchedule source: https://www.nf
+ l.com/games/packers-at-saints-2026-reg-13
+LAST-MODIFIED:20261123T105607Z
 LOCATION:Caesars Superdome\nNew Orleans
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4644,17 +4659,23 @@ BEGIN:VEVENT
 SUMMARY:Jacksonville Jaguars @ Chicago Bears
 DTSTART:20261206T180000Z
 DTEND:20261206T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261123T105607Z
 UID:8e0ca3856776f1cee713733f09b1acfc@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 13
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 13\n\nJacksonville Jaguars @ Chicago Bears\n
  \nKickoff: Sunday\, December 6\, 2026 at 1:00 PM EST (America/New_York)\nE
- stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional br
- oadcast\; local market coverage varies.\n\nVenue\nSoldier Field\nChicago\n
- \nSchedule source: https://www.nfl.com/games/jaguars-at-bears-2026-reg-13
-LAST-MODIFIED:20260927T005047Z
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: 
+ FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.
+ \nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; loc
+ al and national blackouts apply.\nNFL+: local and primetime live game stre
+ ams require a phone or tablet\; market and device restrictions apply.\nReg
+ ional broadcast\; local market coverage varies.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
+ nue\nSoldier Field\nChicago\n\nSchedule source: https://www.nfl.com/games/
+ jaguars-at-bears-2026-reg-13
+LAST-MODIFIED:20261123T105607Z
 LOCATION:Soldier Field\nChicago
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4664,18 +4685,23 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Chargers @ Tampa Bay Buccaneers
 DTSTART:20261206T180000Z
 DTEND:20261206T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261123T105607Z
 UID:46997c0ef809dc5f867b8f66abc3ed73@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 13
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 13\n\nLos Angeles Chargers @ Tampa Bay Buccan
  eers\n\nKickoff: Sunday\, December 6\, 2026 at 1:00 PM EST (America/New_Yo
- rk)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegio
- nal broadcast\; local market coverage varies.\n\nVenue\nRaymond James Stad
- ium\nTampa\n\nSchedule source: https://www.nfl.com/games/chargers-at-bucca
- neers-2026-reg-13
-LAST-MODIFIED:20260927T005047Z
+ rk)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStrea
+ ming: NFL+\, Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday 
+ afternoon viewing\; local and national blackouts apply.\nNFL+: local and p
+ rimetime live game streams require a phone or tablet\; market and device r
+ estrictions apply.\nParamount+: this game must be carried by your local CB
+ S station.\nRegional broadcast\; local market coverage varies.\nStreaming 
+ listings are for the US\; eligible subscriptions and geographic restrictio
+ ns apply.\n\nVenue\nRaymond James Stadium\nTampa\n\nSchedule source: https
+ ://www.nfl.com/games/chargers-at-buccaneers-2026-reg-13
+LAST-MODIFIED:20261123T105607Z
 LOCATION:Raymond James Stadium\nTampa
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4685,18 +4711,23 @@ BEGIN:VEVENT
 SUMMARY:San Francisco 49ers @ New York Giants
 DTSTART:20261206T180000Z
 DTEND:20261206T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261123T105607Z
 UID:dc5f12f5230d8bd287869712e861669a@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 13
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 13\n\nSan Francisco 49ers @ New York Giants\n
  \nKickoff: Sunday\, December 6\, 2026 at 1:00 PM EST (America/New_York)\nE
- stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional br
- oadcast\; local market coverage varies.\n\nVenue\nMetLife Stadium\nEast Ru
- therford\n\nSchedule source: https://www.nfl.com/games/49ers-at-giants-202
- 6-reg-13
-LAST-MODIFIED:20260927T005047Z
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: 
+ FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions apply.
+ \nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; loc
+ al and national blackouts apply.\nNFL+: local and primetime live game stre
+ ams require a phone or tablet\; market and device restrictions apply.\nReg
+ ional broadcast\; local market coverage varies.\nStreaming listings are fo
+ r the US\; eligible subscriptions and geographic restrictions apply.\n\nVe
+ nue\nMetLife Stadium\nEast Rutherford\n\nSchedule source: https://www.nfl.
+ com/games/49ers-at-giants-2026-reg-13
+LAST-MODIFIED:20261123T105607Z
 LOCATION:MetLife Stadium\nEast Rutherford
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

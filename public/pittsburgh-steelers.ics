@@ -241,9 +241,9 @@ BEGIN:VEVENT
 SUMMARY:Pittsburgh Steelers @ Philadelphia Eagles
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
-DTSTAMP:20261122T204631Z
+DTSTAMP:20261123T105607Z
 UID:71dee8ff4872ed764311c3751e96fa87@nfl-calendar.local
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nPittsburgh Steelers @ Philadelphia Eagl
@@ -257,7 +257,7 @@ DESCRIPTION:NFL 2026 · Week 11\n\nPittsburgh Steelers @ Philadelphia Eagl
  istings are for the US\; eligible subscriptions and geographic restriction
  s apply.\n\nVenue\nLincoln Financial Field\nPhiladelphia\n\nSchedule sourc
  e: https://www.nfl.com/games/steelers-at-eagles-2026-reg-11
-LAST-MODIFIED:20261122T204631Z
+LAST-MODIFIED:20261123T105607Z
 LOCATION:Lincoln Financial Field\nPhiladelphia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

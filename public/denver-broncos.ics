@@ -240,9 +240,9 @@ BEGIN:VEVENT
 SUMMARY:Las Vegas Raiders @ Denver Broncos
 DTSTART:20261122T212500Z
 DTEND:20261123T004000Z
-DTSTAMP:20261109T232852Z
+DTSTAMP:20261123T105607Z
 UID:eed5320d9f09ba54ff6bca36b9d50809@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nLas Vegas Raiders @ Denver Broncos\n\nK
@@ -256,7 +256,7 @@ DESCRIPTION:NFL 2026 · Week 11\n\nLas Vegas Raiders @ Denver Broncos\n\nK
   are for the US\; eligible subscriptions and geographic restrictions apply
  .\n\nVenue\nEmpower Field at Mile High\nDenver\n\nSchedule source: https:/
  /www.nfl.com/games/raiders-at-broncos-2026-reg-11
-LAST-MODIFIED:20261109T232852Z
+LAST-MODIFIED:20261123T105607Z
 LOCATION:Empower Field at Mile High\nDenver
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

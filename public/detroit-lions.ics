@@ -242,9 +242,9 @@ BEGIN:VEVENT
 SUMMARY:Tampa Bay Buccaneers @ Detroit Lions
 DTSTART:20261122T180000Z
 DTEND:20261122T211500Z
-DTSTAMP:20261122T204631Z
+DTSTAMP:20261123T105607Z
 UID:bcdb530718c8173bacefb568b7436039@nfl-calendar.local
-SEQUENCE:3
+SEQUENCE:4
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nTampa Bay Buccaneers @ Detroit Lions\n
@@ -258,7 +258,7 @@ DESCRIPTION:NFL 2026 · Week 11\n\nTampa Bay Buccaneers @ Detroit Lions\n
  or the US\; eligible subscriptions and geographic restrictions apply.\n\nV
  enue\nFord Field\nDetroit\n\nSchedule source: https://www.nfl.com/games/bu
  ccaneers-at-lions-2026-reg-11
-LAST-MODIFIED:20261122T204631Z
+LAST-MODIFIED:20261123T105607Z
 LOCATION:Ford Field\nDetroit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -293,18 +293,23 @@ BEGIN:VEVENT
 SUMMARY:Detroit Lions @ Atlanta Falcons
 DTSTART:20261206T180000Z
 DTEND:20261206T211500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261123T105607Z
 UID:25b167a64fb3015df0b27d39da35fbc7@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 13
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 13\n\nDetroit Lions @ Atlanta Falcons\n\nKick
  off: Sunday\, December 6\, 2026 at 1:00 PM EST (America/New_York)\nEstimat
- ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nRegional broadcas
- t\; local market coverage varies.\n\nVenue\nMercedes-Benz Stadium\nAtlanta
- \n\nSchedule source: https://www.nfl.com/games/lions-at-falcons-2026-reg-1
- 3
-LAST-MODIFIED:20260927T005047Z
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: CBS\nStreaming: NFL+\,
+  Paramount+\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon vi
+ ewing\; local and national blackouts apply.\nNFL+: local and primetime liv
+ e game streams require a phone or tablet\; market and device restrictions 
+ apply.\nParamount+: this game must be carried by your local CBS station.\n
+ Regional broadcast\; local market coverage varies.\nStreaming listings are
+  for the US\; eligible subscriptions and geographic restrictions apply.\n
+ \nVenue\nMercedes-Benz Stadium\nAtlanta\n\nSchedule source: https://www.nf
+ l.com/games/lions-at-falcons-2026-reg-13
+LAST-MODIFIED:20261123T105607Z
 LOCATION:Mercedes-Benz Stadium\nAtlanta
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
