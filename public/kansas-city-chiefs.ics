@@ -334,21 +334,21 @@ BEGIN:VEVENT
 SUMMARY:New England Patriots @ Kansas City Chiefs
 DTSTART:20261222T011500Z
 DTEND:20261222T043000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261124T014500Z
 UID:8fd4c7824096c9b9cfe6d3f5ef8a483f@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 15
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 15\n\nNew England Patriots @ Kansas City Chie
  fs\n\nKickoff: Monday\, December 21\, 2026 at 8:15 PM EST (America/New_Yor
  k)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN
- \, ESPN Deportes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local an
- d primetime live game streams require a phone or tablet\; market and devic
- e restrictions apply.\nStreaming listings are for the US\; eligible subscr
- iptions and geographic restrictions apply.\nUS national broadcast.\n\nVenu
- e\nArrowhead Stadium\nKansas City\n\nSchedule source: https://www.nfl.com/
- games/patriots-at-chiefs-2026-reg-15
-LAST-MODIFIED:20260927T005047Z
+ \, ESPN Deportes\, ESPN2\, NFL Network\nStreaming: ESPN Unlimited\, NFL+\n
+ NFL+: local and primetime live game streams require a phone or tablet\; ma
+ rket and device restrictions apply.\nStreaming listings are for the US\; e
+ ligible subscriptions and geographic restrictions apply.\nUS national broa
+ dcast.\n\nVenue\nArrowhead Stadium\nKansas City\n\nSchedule source: https:
+ //www.nfl.com/games/patriots-at-chiefs-2026-reg-15
+LAST-MODIFIED:20261124T014500Z
 LOCATION:Arrowhead Stadium\nKansas City
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

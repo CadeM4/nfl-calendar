@@ -789,9 +789,9 @@ BEGIN:VEVENT
 SUMMARY:Cincinnati Bengals @ Washington Commanders
 DTSTART:20261124T011500Z
 DTEND:20261124T043000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261124T014500Z
 UID:6c4acb101b8efea94e5b39beb011a64f@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 11
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 11\n\nCincinnati Bengals @ Washington Command
@@ -803,7 +803,7 @@ DESCRIPTION:NFL 2026 · Week 11\n\nCincinnati Bengals @ Washington Command
  iptions and geographic restrictions apply.\nUS national broadcast.\n\nVenu
  e\nNorthwest Stadium\nLandover\n\nSchedule source: https://www.nfl.com/gam
  es/bengals-at-commanders-2026-reg-11
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261124T014500Z
 LOCATION:Northwest Stadium\nLandover
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -954,21 +954,21 @@ BEGIN:VEVENT
 SUMMARY:Dallas Cowboys @ Seattle Seahawks
 DTSTART:20261208T011500Z
 DTEND:20261208T043000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261124T014500Z
 UID:5f9fe6a97e9f0984b6834f3b4f24e955@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 13
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 13\n\nDallas Cowboys @ Seattle Seahawks\n\nKi
  ckoff: Monday\, December 7\, 2026 at 8:15 PM EST (America/New_York)\nEstim
  ated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN\, ESPN De
- portes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local and primetim
- e live game streams require a phone or tablet\; market and device restrict
- ions apply.\nStreaming listings are for the US\; eligible subscriptions an
- d geographic restrictions apply.\nUS national broadcast.\n\nVenue\nLumen F
- ield\nSeattle\n\nSchedule source: https://www.nfl.com/games/cowboys-at-sea
- hawks-2026-reg-13
-LAST-MODIFIED:20260927T005047Z
+ portes\, ESPN2\, NFL Network\nStreaming: ESPN Unlimited\, NFL+\nNFL+: loca
+ l and primetime live game streams require a phone or tablet\; market and d
+ evice restrictions apply.\nStreaming listings are for the US\; eligible su
+ bscriptions and geographic restrictions apply.\nUS national broadcast.\n\n
+ Venue\nLumen Field\nSeattle\n\nSchedule source: https://www.nfl.com/games/
+ cowboys-at-seahawks-2026-reg-13
+LAST-MODIFIED:20261124T014500Z
 LOCATION:Lumen Field\nSeattle
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1120,21 +1120,21 @@ BEGIN:VEVENT
 SUMMARY:New England Patriots @ Kansas City Chiefs
 DTSTART:20261222T011500Z
 DTEND:20261222T043000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261124T014500Z
 UID:8fd4c7824096c9b9cfe6d3f5ef8a483f@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 15
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 15\n\nNew England Patriots @ Kansas City Chie
  fs\n\nKickoff: Monday\, December 21\, 2026 at 8:15 PM EST (America/New_Yor
  k)\nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: ABC\, ESPN
- \, ESPN Deportes\, ESPN2\nStreaming: ESPN Unlimited\, NFL+\nNFL+: local an
- d primetime live game streams require a phone or tablet\; market and devic
- e restrictions apply.\nStreaming listings are for the US\; eligible subscr
- iptions and geographic restrictions apply.\nUS national broadcast.\n\nVenu
- e\nArrowhead Stadium\nKansas City\n\nSchedule source: https://www.nfl.com/
- games/patriots-at-chiefs-2026-reg-15
-LAST-MODIFIED:20260927T005047Z
+ \, ESPN Deportes\, ESPN2\, NFL Network\nStreaming: ESPN Unlimited\, NFL+\n
+ NFL+: local and primetime live game streams require a phone or tablet\; ma
+ rket and device restrictions apply.\nStreaming listings are for the US\; e
+ ligible subscriptions and geographic restrictions apply.\nUS national broa
+ dcast.\n\nVenue\nArrowhead Stadium\nKansas City\n\nSchedule source: https:
+ //www.nfl.com/games/patriots-at-chiefs-2026-reg-15
+LAST-MODIFIED:20261124T014500Z
 LOCATION:Arrowhead Stadium\nKansas City
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

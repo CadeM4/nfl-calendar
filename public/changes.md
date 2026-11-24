@@ -1,72 +1,28 @@
 # Schedule changes
 
-Verified: 2026-11-23T10:56:07Z
+Verified: 2026-11-24T01:45:00Z
 
-## UPDATED: ARI @ KC — Week 11
+## UPDATED: CIN @ WAS — Week 11
 
-- Status: live → final
+- Status: scheduled → live
 
-## UPDATED: BAL @ CAR — Week 11
-
-- Status: live → final
-
-## UPDATED: MIA @ BUF — Week 11
-
-- Status: live → final
-
-## UPDATED: NO @ CHI — Week 11
-
-- Status: live → final
-
-## UPDATED: PIT @ PHI — Week 11
-
-- Status: live → final
-
-## UPDATED: TB @ DET — Week 11
-
-- Status: live → final
-
-## UPDATED: TEN @ DAL — Week 11
-
-- Status: live → final
-
-## UPDATED: NYJ @ LAC — Week 11
-
-- Status: scheduled → final
-
-## UPDATED: JAX @ NYG — Week 11
-
-- Status: scheduled → final
-
-## UPDATED: LV @ DEN — Week 11
-
-- Status: scheduled → final
-
-## UPDATED: MIN @ SF — Week 11
-
-- Status: scheduled → final
-
-## UPDATED: CIN @ CLE — Week 13
-
-- Broadcast: tv: CBS; notes: Regional broadcast; local market coverage varies. → tv: CBS; streaming: NFL+, Paramount+; notes: Regional broadcast; local market coverage varies., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., Paramount+: this game must be carried by your local CBS station., NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
-
-## UPDATED: DET @ ATL — Week 13
-
-- Broadcast: tv: CBS; notes: Regional broadcast; local market coverage varies. → tv: CBS; streaming: NFL+, Paramount+; notes: Regional broadcast; local market coverage varies., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., Paramount+: this game must be carried by your local CBS station., NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
-
-## UPDATED: GB @ NO — Week 13
+## UPDATED: PHI @ ARI — Week 13
 
 - Broadcast: tv: FOX; notes: Regional broadcast; local market coverage varies. → tv: FOX; streaming: FOX One, NFL+; notes: Regional broadcast; local market coverage varies., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., FOX One: local FOX coverage and market restrictions apply., NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
 
-## UPDATED: JAX @ CHI — Week 13
-
-- Broadcast: tv: FOX; notes: Regional broadcast; local market coverage varies. → tv: FOX; streaming: FOX One, NFL+; notes: Regional broadcast; local market coverage varies., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., FOX One: local FOX coverage and market restrictions apply., NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
-
-## UPDATED: LAC @ TB — Week 13
+## UPDATED: BUF @ NE — Week 13
 
 - Broadcast: tv: CBS; notes: Regional broadcast; local market coverage varies. → tv: CBS; streaming: NFL+, Paramount+; notes: Regional broadcast; local market coverage varies., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., Paramount+: this game must be carried by your local CBS station., NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
 
-## UPDATED: SF @ NYG — Week 13
+## UPDATED: CAR @ MIN — Week 13
 
-- Broadcast: tv: FOX; notes: Regional broadcast; local market coverage varies. → tv: FOX; streaming: FOX One, NFL+; notes: Regional broadcast; local market coverage varies., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., FOX One: local FOX coverage and market restrictions apply., NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
+- Broadcast: tv: CBS; notes: Regional broadcast; local market coverage varies. → tv: CBS; streaming: NFL+, Paramount+; notes: Regional broadcast; local market coverage varies., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., Paramount+: this game must be carried by your local CBS station., NFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing; local and national blackouts apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
+
+## UPDATED: DAL @ SEA — Week 13
+
+- Broadcast: tv: ABC, ESPN, ESPN Deportes, ESPN2; streaming: ESPN Unlimited, NFL+; notes: US national broadcast., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply. → tv: ABC, ESPN, ESPN Deportes, ESPN2, NFL Network; streaming: ESPN Unlimited, NFL+; notes: US national broadcast., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
+
+## UPDATED: NE @ KC — Week 15
+
+- Broadcast: tv: ABC, ESPN, ESPN Deportes, ESPN2; streaming: ESPN Unlimited, NFL+; notes: US national broadcast., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply. → tv: ABC, ESPN, ESPN Deportes, ESPN2, NFL Network; streaming: ESPN Unlimited, NFL+; notes: US national broadcast., NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply., Streaming listings are for the US; eligible subscriptions and geographic restrictions apply.
 

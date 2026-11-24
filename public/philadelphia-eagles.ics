@@ -292,18 +292,23 @@ BEGIN:VEVENT
 SUMMARY:Philadelphia Eagles @ Arizona Cardinals
 DTSTART:20261206T210500Z
 DTEND:20261207T002000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261124T014500Z
 UID:34e9f062d2582da4f42ceeb4bbd759c9@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 13
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 13\n\nPhiladelphia Eagles @ Arizona Cardinals
  \n\nKickoff: Sunday\, December 6\, 2026 at 4:05 PM EST (America/New_York)
- \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional
-  broadcast\; local market coverage varies.\n\nVenue\nState Farm Stadium\nG
- lendale\n\nSchedule source: https://www.nfl.com/games/eagles-at-cardinals-
- 2026-reg-13
-LAST-MODIFIED:20260927T005047Z
+ \nEstimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreamin
+ g: FOX One\, NFL+\nFOX One: local FOX coverage and market restrictions app
+ ly.\nNFL Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; 
+ local and national blackouts apply.\nNFL+: local and primetime live game s
+ treams require a phone or tablet\; market and device restrictions apply.\n
+ Regional broadcast\; local market coverage varies.\nStreaming listings are
+  for the US\; eligible subscriptions and geographic restrictions apply.\n
+ \nVenue\nState Farm Stadium\nGlendale\n\nSchedule source: https://www.nfl.
+ com/games/eagles-at-cardinals-2026-reg-13
+LAST-MODIFIED:20261124T014500Z
 LOCATION:State Farm Stadium\nGlendale
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
