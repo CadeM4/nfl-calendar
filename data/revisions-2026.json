@@ -972,10 +972,10 @@
     "fingerprint": "a3afe129dec2f1fcbd4547d10b727ad6420b6a40568bde769069cfa38d03570d"
   },
   "2026-REG-CIN-WAS": {
-    "sequence": 1,
+    "sequence": 2,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-11-24T01:45:00Z",
-    "fingerprint": "2dc613591efa95f89a80f0e58726099e5bb2f5c2a1e885bb466184969f044f44"
+    "modified": "2026-11-24T12:40:36Z",
+    "fingerprint": "2d5aab9d70335798ee63e9035b9eff79d639b9ff90b17ff7c8cc892478c57804"
   },
   "2026-REG-GB-LAR": {
     "sequence": 0,
