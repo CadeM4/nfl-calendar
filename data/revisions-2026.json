@@ -1122,10 +1122,10 @@
     "fingerprint": "2041c5df81a834c8ba215115a7e400919d8981b804a57af922871049ea053d2f"
   },
   "2026-REG-MIA-DEN": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "9167aca39f31f8f63656154876f3cd4b9fd8ea6eccdb776b39fb652644d4ed4c"
+    "modified": "2026-11-25T11:29:03Z",
+    "fingerprint": "424673bdea34cf7549cbb6073e6cb1a549a51260ed8b6454bb3af8beaec28a0b"
   },
   "2026-REG-PHI-ARI": {
     "sequence": 1,

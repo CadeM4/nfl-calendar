@@ -4763,18 +4763,23 @@ BEGIN:VEVENT
 SUMMARY:Miami Dolphins @ Denver Broncos
 DTSTART:20261206T210500Z
 DTEND:20261207T002000Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261125T112903Z
 UID:0f95da104ef7de2e80cb4bede663037f@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 13
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 13\n\nMiami Dolphins @ Denver Broncos\n\nKick
  off: Sunday\, December 6\, 2026 at 4:05 PM EST (America/New_York)\nEstimat
- ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nRegional broadcas
- t\; local market coverage varies.\n\nVenue\nEmpower Field at Mile High\nDe
- nver\n\nSchedule source: https://www.nfl.com/games/dolphins-at-broncos-202
- 6-reg-13
-LAST-MODIFIED:20260927T005047Z
+ ed game duration: 3 hours 15 minutes.\n\nWatch\nTV: FOX\nStreaming: FOX On
+ e\, NFL+\nFOX One: local FOX coverage and market restrictions apply.\nNFL 
+ Sunday Ticket: eligible out-of-market Sunday afternoon viewing\; local and
+  national blackouts apply.\nNFL+: local and primetime live game streams re
+ quire a phone or tablet\; market and device restrictions apply.\nRegional 
+ broadcast\; local market coverage varies.\nStreaming listings are for the 
+ US\; eligible subscriptions and geographic restrictions apply.\n\nVenue\nE
+ mpower Field at Mile High\nDenver\n\nSchedule source: https://www.nfl.com/
+ games/dolphins-at-broncos-2026-reg-13
+LAST-MODIFIED:20261125T112903Z
 LOCATION:Empower Field at Mile High\nDenver
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
