@@ -267,20 +267,21 @@ BEGIN:VEVENT
 SUMMARY:Kansas City Chiefs @ Buffalo Bills
 DTSTART:20261127T012000Z
 DTEND:20261127T043500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261125T231009Z
 UID:61fecb5bdf8cc25b84e4013914b4b46b@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 12
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 12\n\nKansas City Chiefs @ Buffalo Bills\n\nK
  ickoff: Thursday\, November 26\, 2026 at 8:20 PM EST (America/New_York)\nE
- stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Universo\n
- Streaming: NFL+\, Peacock\nNFL+: local and primetime live game streams req
- uire a phone or tablet\; market and device restrictions apply.\nStreaming 
- listings are for the US\; eligible subscriptions and geographic restrictio
- ns apply.\nUS national broadcast.\n\nVenue\nHighmark Stadium\nOrchard Park
- \n\nSchedule source: https://www.nfl.com/games/chiefs-at-bills-2026-reg-12
-LAST-MODIFIED:20260927T005047Z
+ stimated game duration: 3 hours 15 minutes.\n\nWatch\nTV: NBC\, Telemundo
+ \, Universo\nStreaming: NFL+\, Peacock\nNFL+: local and primetime live gam
+ e streams require a phone or tablet\; market and device restrictions apply
+ .\nStreaming listings are for the US\; eligible subscriptions and geograph
+ ic restrictions apply.\nUS national broadcast.\n\nVenue\nHighmark Stadium
+ \nOrchard Park\n\nSchedule source: https://www.nfl.com/games/chiefs-at-bil
+ ls-2026-reg-12
+LAST-MODIFIED:20261125T231009Z
 LOCATION:Highmark Stadium\nOrchard Park
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

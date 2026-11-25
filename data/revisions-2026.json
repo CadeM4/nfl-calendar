@@ -996,10 +996,10 @@
     "fingerprint": "53caaffe4a0836f7ddd4e6cc3f749a5c58d621a30dc1f9d72b9af2624125801d"
   },
   "2026-REG-KC-BUF": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "97c98013a0401028eb65ce4d2e6ad35206c5f9d2008c09d7ec029942945f81d6"
+    "modified": "2026-11-25T23:10:09Z",
+    "fingerprint": "20d9ae2a09e3f39faa1e7d8bee23c567df34b51e56520428d3ae0bc78a538df9"
   },
   "2026-REG-DEN-PIT": {
     "sequence": 0,
