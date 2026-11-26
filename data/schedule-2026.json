@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "season": 2026,
-  "fetched_at": "2026-11-26T11:07:59Z",
+  "fetched_at": "2026-11-26T23:06:19Z",
   "source": {
     "name": "NFL.com official schedule and game-specific viewing data",
     "url": "https://www.nfl.com/schedules/2026/by-week/week-1"
@@ -7365,7 +7365,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/bears-at-lions-2026-reg-12",
       "source_ids": {
         "nfl": "abbf2c16-4feb-11f1-abca-2c54536568a9",
@@ -7412,7 +7412,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/eagles-at-cowboys-2026-reg-12",
       "source_ids": {
         "nfl": "abbf2f12-4feb-11f1-abca-2c54536568a9",

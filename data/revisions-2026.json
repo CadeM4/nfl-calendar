@@ -984,16 +984,16 @@
     "fingerprint": "f490b78eb7f19b0ba030e30be5f1d4793a9e01fb7340ffbfdef2dbe5d335a809"
   },
   "2026-REG-CHI-DET": {
-    "sequence": 0,
-    "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "c2e9d251aff1e0e1a2f92d40f170d81be0d3b429bde7e3b85927776ba39b0c0c"
-  },
-  "2026-REG-PHI-DAL": {
     "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-11-18T22:09:32Z",
-    "fingerprint": "53caaffe4a0836f7ddd4e6cc3f749a5c58d621a30dc1f9d72b9af2624125801d"
+    "modified": "2026-11-26T23:06:19Z",
+    "fingerprint": "4f972d6b4f4bea8e662e335494f097c996f1675ffe4540919e5db87907599442"
+  },
+  "2026-REG-PHI-DAL": {
+    "sequence": 2,
+    "created": "2026-09-27T00:50:47Z",
+    "modified": "2026-11-26T23:06:19Z",
+    "fingerprint": "1cdd2ff7c654f3ba569302eaa5591363dc7ae23796cccbb7d738b946995525df"
   },
   "2026-REG-KC-BUF": {
     "sequence": 1,

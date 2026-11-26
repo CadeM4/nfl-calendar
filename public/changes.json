@@ -1,14 +1,27 @@
 [
   {
     "kind": "UPDATED",
-    "id": "2026-REG-GB-LAR",
-    "away": "GB",
-    "home": "LAR",
+    "id": "2026-REG-CHI-DET",
+    "away": "CHI",
+    "home": "DET",
     "week": 12,
     "fields": {
       "status": {
         "before": "scheduled",
         "after": "final"
+      }
+    }
+  },
+  {
+    "kind": "UPDATED",
+    "id": "2026-REG-PHI-DAL",
+    "away": "PHI",
+    "home": "DAL",
+    "week": 12,
+    "fields": {
+      "status": {
+        "before": "scheduled",
+        "after": "live"
       }
     }
   }
