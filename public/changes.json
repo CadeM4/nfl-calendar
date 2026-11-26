@@ -1,43 +1,14 @@
 [
   {
     "kind": "UPDATED",
-    "id": "2026-REG-KC-BUF",
-    "away": "KC",
-    "home": "BUF",
+    "id": "2026-REG-GB-LAR",
+    "away": "GB",
+    "home": "LAR",
     "week": 12,
     "fields": {
-      "broadcast": {
-        "before": {
-          "tv": [
-            "NBC",
-            "Universo"
-          ],
-          "streaming": [
-            "NFL+",
-            "Peacock"
-          ],
-          "notes": [
-            "US national broadcast.",
-            "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
-            "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
-          ]
-        },
-        "after": {
-          "tv": [
-            "NBC",
-            "Telemundo",
-            "Universo"
-          ],
-          "streaming": [
-            "NFL+",
-            "Peacock"
-          ],
-          "notes": [
-            "US national broadcast.",
-            "NFL+: local and primetime live game streams require a phone or tablet; market and device restrictions apply.",
-            "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
-          ]
-        }
+      "status": {
+        "before": "scheduled",
+        "after": "final"
       }
     }
   }

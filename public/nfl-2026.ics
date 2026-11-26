@@ -4156,9 +4156,9 @@ BEGIN:VEVENT
 SUMMARY:Green Bay Packers @ Los Angeles Rams
 DTSTART:20261126T010000Z
 DTEND:20261126T041500Z
-DTSTAMP:20260927T005047Z
+DTSTAMP:20261126T110759Z
 UID:48f115c28ad4462117f0e839d24e15d5@nfl-calendar.local
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NFL,Football,Week 12
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 12\n\nGreen Bay Packers @ Los Angeles Rams\n
@@ -4169,7 +4169,7 @@ DESCRIPTION:NFL 2026 · Week 12\n\nGreen Bay Packers @ Los Angeles Rams\n
   the US\; eligible subscriptions and geographic restrictions apply.\nUS na
  tional broadcast.\n\nVenue\nSoFi Stadium\nInglewood\n\nSchedule source: ht
  tps://www.nfl.com/games/packers-at-rams-2026-reg-12
-LAST-MODIFIED:20260927T005047Z
+LAST-MODIFIED:20261126T110759Z
 LOCATION:SoFi Stadium\nInglewood
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

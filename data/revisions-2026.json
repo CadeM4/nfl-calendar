@@ -978,10 +978,10 @@
     "fingerprint": "2d5aab9d70335798ee63e9035b9eff79d639b9ff90b17ff7c8cc892478c57804"
   },
   "2026-REG-GB-LAR": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "93576cb02e3a04a1c787175d0b72ce0174e25e5f2a9d6e4e670b2fbf9c80ea6f"
+    "modified": "2026-11-26T11:07:59Z",
+    "fingerprint": "f490b78eb7f19b0ba030e30be5f1d4793a9e01fb7340ffbfdef2dbe5d335a809"
   },
   "2026-REG-CHI-DET": {
     "sequence": 0,

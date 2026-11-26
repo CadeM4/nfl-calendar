@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "season": 2026,
-  "fetched_at": "2026-11-25T23:10:09Z",
+  "fetched_at": "2026-11-26T11:07:59Z",
   "source": {
     "name": "NFL.com official schedule and game-specific viewing data",
     "url": "https://www.nfl.com/schedules/2026/by-week/week-1"
@@ -7320,7 +7320,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "final",
       "source_url": "https://www.nfl.com/games/packers-at-rams-2026-reg-12",
       "source_ids": {
         "nfl": "abbf28ed-4feb-11f1-abca-2c54536568a9",
