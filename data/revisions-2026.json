@@ -1002,10 +1002,10 @@
     "fingerprint": "43ebf7cb58a2f0056caaa6b7e6f5de9dceb5a95d9fe338b0fa07a2f4825941f3"
   },
   "2026-REG-DEN-PIT": {
-    "sequence": 0,
+    "sequence": 1,
     "created": "2026-09-27T00:50:47Z",
-    "modified": "2026-09-27T00:50:47Z",
-    "fingerprint": "2d50be7388e7ce6be4635381a51eb1dd413ef1ca45088000cfc295dd7048e8c9"
+    "modified": "2026-11-27T22:47:40Z",
+    "fingerprint": "ebf842f6a44b945fa75995edaab586c5a4f06ba60513408b3de922587decc8ec"
   },
   "2026-REG-ATL-MIN": {
     "sequence": 1,

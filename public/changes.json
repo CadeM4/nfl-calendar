@@ -1,27 +1,14 @@
 [
   {
     "kind": "UPDATED",
-    "id": "2026-REG-PHI-DAL",
-    "away": "PHI",
-    "home": "DAL",
-    "week": 12,
-    "fields": {
-      "status": {
-        "before": "live",
-        "after": "final"
-      }
-    }
-  },
-  {
-    "kind": "UPDATED",
-    "id": "2026-REG-KC-BUF",
-    "away": "KC",
-    "home": "BUF",
+    "id": "2026-REG-DEN-PIT",
+    "away": "DEN",
+    "home": "PIT",
     "week": 12,
     "fields": {
       "status": {
         "before": "scheduled",
-        "after": "final"
+        "after": "live"
       }
     }
   }

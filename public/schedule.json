@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "season": 2026,
-  "fetched_at": "2026-11-27T11:01:11Z",
+  "fetched_at": "2026-11-27T22:47:40Z",
   "source": {
     "name": "NFL.com official schedule and game-specific viewing data",
     "url": "https://www.nfl.com/schedules/2026/by-week/week-1"
@@ -7498,7 +7498,7 @@
           "Streaming listings are for the US; eligible subscriptions and geographic restrictions apply."
         ]
       },
-      "status": "scheduled",
+      "status": "live",
       "source_url": "https://www.nfl.com/games/broncos-at-steelers-2026-reg-12",
       "source_ids": {
         "nfl": "abbf352d-4feb-11f1-abca-2c54536568a9",
