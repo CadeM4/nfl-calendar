@@ -1,12 +1,12 @@
 # Schedule changes
 
-Verified: 2026-11-26T23:06:19Z
-
-## UPDATED: CHI @ DET — Week 12
-
-- Status: scheduled → final
+Verified: 2026-11-27T11:01:11Z
 
 ## UPDATED: PHI @ DAL — Week 12
 
-- Status: scheduled → live
+- Status: live → final
+
+## UPDATED: KC @ BUF — Week 12
+
+- Status: scheduled → final
 
