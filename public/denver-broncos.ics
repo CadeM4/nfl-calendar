@@ -266,9 +266,9 @@ BEGIN:VEVENT
 SUMMARY:Denver Broncos @ Pittsburgh Steelers
 DTSTART:20261127T200000Z
 DTEND:20261127T231500Z
-DTSTAMP:20261127T224740Z
+DTSTAMP:20261128T103834Z
 UID:a2d5cfd32a543624c02c3f39e1e3bcdf@nfl-calendar.local
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:NFL,Football,Week 12
 CREATED:20260927T005047Z
 DESCRIPTION:NFL 2026 · Week 12\n\nDenver Broncos @ Pittsburgh Steelers\n
@@ -279,7 +279,7 @@ DESCRIPTION:NFL 2026 · Week 12\n\nDenver Broncos @ Pittsburgh Steelers\n
  r the US\; eligible subscriptions and geographic restrictions apply.\nUS n
  ational broadcast.\n\nVenue\nAcrisure Stadium\nPittsburgh\n\nSchedule sour
  ce: https://www.nfl.com/games/broncos-at-steelers-2026-reg-12
-LAST-MODIFIED:20261127T224740Z
+LAST-MODIFIED:20261128T103834Z
 LOCATION:Acrisure Stadium\nPittsburgh
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
